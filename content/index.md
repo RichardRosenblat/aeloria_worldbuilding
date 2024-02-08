@@ -16,7 +16,7 @@ This isn't just a blog; it's a creative project, a world spun from my imaginatio
 ## [[Aeloria]]'s Future
 This journey is just beginning, with grand plans for [[Aeloria]]'s future. It's not just a blog; it's a stepping stone to further adventures. The goal is to expand this world over the years, turning it into a rich and immersive Dungeons & Dragons setting. Perhaps there will be books, stories, and realms yet undiscovered.
 
-## Embracing the Art of Words with A Robotic Assistant
+## Embracing the Art of Words with a Robotic Assistant
 In the expansive realm of [[Aeloria]], crafting narratives is both an art and a challenge. As the maker of this world, I use AI as a silent collaborator, refining and structuring my thoughts into coherent texts.
 
 ## The Nexus of Adventure: [[Aeloria]]'s Centers

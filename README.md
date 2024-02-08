@@ -1,4 +1,8 @@
-# Quartz v4
+# Aeloria Worldbuilding
+
+This is a worldbuilding project where I created a blog post to share my worldbuilding process and the world I created. The blog post is written in markdown and is transformed into a website using Quartz.
+
+## More about Quartz
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
