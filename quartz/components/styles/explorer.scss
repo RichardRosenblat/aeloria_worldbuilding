@@ -28,6 +28,10 @@ button#explorer {
   }
 }
 
+.explorer {
+  min-height: 252px;
+}
+
 .folder-outer {
   display: grid;
   grid-template-rows: 0fr;
