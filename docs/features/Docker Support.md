@@ -3,5 +3,5 @@ Quartz comes shipped with a Docker image that will allow you to preview your Qua
 You can run the below one-liner to run Quartz in Docker.
 
 ```sh
-docker run --rm -itp 8080:8080 $(docker build -q .)
+docker run --rm -itp 8000:8000 $(docker build -q .)
 ```
