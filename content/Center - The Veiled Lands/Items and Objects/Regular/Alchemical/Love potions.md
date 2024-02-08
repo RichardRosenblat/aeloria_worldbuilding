@@ -1,0 +1,21 @@
+---
+tags:
+  - alchemical
+  - regular_item
+---
+- **Potion of Affection**: Common (50-100 gp)
+    - This potion could be designed to foster feelings of affection and warmth between two people. It encourages friendship, empathy, and a sense of closeness, rather than manipulating someone's emotions.
+    - Since this potion fosters feelings of affection and warmth, but doesn't directly manipulate emotions, it could be more readily available and affordable.
+- **Potion of Attraction**: Uncommon (101-500 gp)
+    - This potion enhances the natural chemistry and mutual attraction between individuals. It doesn't force love but rather amplifies existing feelings or encourages a deeper connection.
+    - The potion's ability to enhance existing chemistry and attraction would make it valuable but not exceedingly rare.
+- **Potion of Fascination**: Uncommon (101-500 gp)
+    - This potion creates a temporary fascination or intrigue in the target individual. It piques their curiosity and interest in the person who administered the potion, making them more receptive to getting to know them better.
+    - The temporary fascination and intrigue it generates could make it a moderately sought-after potion.
+- **Potion of Harmony**: Very Rare (5,001-50,000 gp)
+    - This potion fosters a deep sense of harmony and compatibility between two individuals. It aligns their values, goals, and desires, creating a strong resonance that allows them to work together seamlessly. The potion enhances teamwork, coordination, and collaboration, making it highly sought after for group endeavors and cooperative quests.
+    - As this potion focuses on enhancing companionship and friendship, it could be considered more common and reasonably priced.
+- **Potion of Empathy**: Rare (501-5,000 gp)
+    - This potion enhances empathy and emotional connection between two people. It allows them to better understand each other's emotions and perspectives, creating a deeper level of mutual understanding.
+    - The ability to deepen emotional connections and understanding between individuals would make this potion rarer and thus more valuable.
+ 

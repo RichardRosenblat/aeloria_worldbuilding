@@ -1,0 +1,306 @@
+---
+tags:
+  - regular_item
+---
+- Generic
+    - Adventurer Pack: 15 gold pieces
+        - Sturdy backpack with multiple compartments and adjustable straps
+        - Bedroll and sleeping bag for camping
+        - Flint and steel for starting fires
+        - Rope (50 feet)
+        - Grappling hook
+        - Climbing gear (pitons, hammer, and harness)
+        - Waterskin
+        - Rations (5 days' worth)
+        - Torch (3)
+        - Whetstone for sharpening weapons
+        - Compass
+        - Map of the local area
+        - Pocket knife
+        - First aid kit
+    - Knight's Armor Maintenance Kit: 12 gold pieces
+        - Armor polishing kit (cleaning solution, polishing cloth, and wax)
+        - Leather repair patches and needle/thread
+        - Helmet padding replacement kit
+        - Armor buckle and strap repair set
+        - Rivet and pliers set for armor adjustments
+        - Armor oil (to prevent rust and maintain flexibility)
+        - Gauntlet repair kit
+        - Helmet visor cleaning solution and cloth
+        - Armor stand (for displaying and storing armor)
+        - Plume feathers for helmet decoration
+        - Leather gloves for handling armor
+        - Armor care instruction booklet
+    - Herbalist's Garden Kit: 16 gold pieces
+        - Collection of seeds for rare and exotic plants
+        - Set of gardening tools (trowel, shears, watering can, etc.)
+        - Herbal remedy recipe book
+        - Mortar and pestle for grinding herbs
+        - Herbal identification guidebook
+        - Drying rack for herbs and flowers
+        - Miniature greenhouse for growing delicate plants
+        - Plant fertilizers and nutrients
+        - Aromatic herb sachets for relaxation or healing
+        - Herbal tea blend assortment
+        - Plant sprayer for misting delicate plants
+        - Portable potting soil with magical fertility properties
+        - Plant-themed oracle cards for divination
+    - Healer Backpack: 18 gold pieces
+        - Large, sturdy backpack with specialized compartments for medical supplies
+        - Healing potions (random selection of various strengths)
+        - Bandages and dressings
+        - Antiseptic salves and ointments
+        - Herbal remedies for common ailments
+        - Scalpel and surgical tools
+        - Bone saw
+        - Tourniquet
+        - Splints and braces
+        - Needles and thread
+        - Herbal poultices and remedies
+        - Medical reference book
+        - Herbalist kit
+        - Reviving salve (one-time use)
+        - Healing crystals
+    - Ranger's Survival Kit: 22 gold pieces
+        - Camouflaged backpack with waterproof lining
+        - Hunting knife
+        - Bowstring wax and extra bowstring
+        - Animal traps (snare and pitfall)
+        - Animal calls for attracting or imitating wildlife
+        - Animal tracking guidebook
+        - Ranger's map of the wilderness
+        - Flint and tinder for starting fires
+        - Fishing tackle (line, hooks, and bait)
+        - Herbal remedies for common ailments
+        - Binoculars for scouting
+        - Compass and celestial navigation tools
+        - Climbing gear (carabiners, rope, and harness)
+        - Portable animal skinning and butchering tools
+    - Spellcaster Kit: 25 gold pieces
+        - Spellbook with blank pages for recording spells
+        - Ink and quill for transcribing spells
+        - Arcane focus (e.g., crystal, orb, or wand)
+        - Component pouch for material components
+        - Ritual scroll case
+        - Spell scrolls (random selection of low-level spells)
+        - Potion of mage armor
+        - Scroll of identify
+        - Spellcasting primer (basic guide to spellcasting)
+        - Book of arcane lore
+        - Small vial of exotic ink
+        - Velvet pouch for storing valuable spell components
+        - Scribing tools for creating magical scrolls
+    - Thief's Tools Pack: 30 gold pieces
+        - Lockpicks and lockpicking guide
+        - Small crowbar
+        - Grappling hook and thin rope
+        - Disguise kit (makeup, wigs, and props)
+        - Smoke pellets for quick escapes
+        - Poisoner's kit (poison vials and applicators)
+        - Stealth boots (muffled footfalls)
+        - Throwing knives
+        - Slimline wire cutter
+        - Glass cutter
+        - Stealthy gloves (for enhanced grip and silence)
+        - Shadow cloak (blends into the shadows for better concealment)
+        - Marked deck of playing cards (for distractions or cheats)
+    - Treasure Hunter's Relic Kit: 30 gold pieces
+        - Metal detector enchanted to detect hidden treasures
+        - Folding shovel for excavation
+        - Treasure map collection with cryptic clues
+        - Metal and gemstone identification guidebook
+        - Dowsing rods for locating underground artifacts
+        - Chest lock-picking tools
+        - Magnifying glass for inspecting small details
+        - Gemstone cleaning kit
+        - Ancient artifact brush for delicate cleaning
+        - Satchel of archaeological tools (trowel, brush, chisel)
+        - Portable artifact display case
+        - Historical journal for recording discoveries
+        - Enchanted compass that points to nearby hidden treasures
+    - Alchemy Tool Pack: 20 gold pieces
+        - Portable alchemist's laboratory
+        - Glass vials and bottles for storing potions and reagents
+        - Mortar and pestle for grinding ingredients
+        - Alembic and distillation equipment
+        - Portable burner and alchemical fire
+        - Assortment of common alchemical reagents (herbs, minerals, etc.)
+        - Recipe book of basic alchemical concoctions
+        - Potion of healing
+        - Extracts of various common potions (random selection)
+        - Alchemical gloves and goggles for safety
+        - Vial of rare and exotic reagent
+        - Alchemical mixing spoon
+    - Beastmaster's Companion Kit: 26 gold pieces
+        - Animal training whistle and clicker
+        - Collar and leash for commanding and guiding companions
+        - Animal treats and snacks for training and rewards
+        - Animal grooming brush and supplies
+        - Animal first aid kit (bandages, antiseptic, etc.)
+        - Animal language translator amulet
+        - Animal training manual with techniques and commands
+        - Herbal remedies for common animal ailments
+        - Tracking harness and leash
+        - Specialized saddle for riding animal companions
+        - Portable animal shelter (collapsible tent or cage)
+        - Beastmaster's whistle that can call and command nearby beasts
+        - Animal-centric board game for bonding and entertainment
+    - Bard's Performance Pack: 28 gold pieces
+        - Musical instrument (choice of lute, flute, or violin)
+        - Sheet music book (selection of popular songs)
+        - Portable music stand
+        - Costume and makeup kit for stage performances
+        - Collection of witty jokes and one-liners
+        - Bottle of special voice-enhancing elixir
+        - Enchanted ring that amplifies musical sound
+        - Set of magical dancing shoes
+        - Variety of exotic musical instruments (hand drum, tambourine, etc.)
+        - Songbook with magical ballads and enchanting melodies
+        - Portable stage props (silk scarves, juggling balls, etc.)
+        - Enchanted musical instrument tuner (self-tuning)
+    - Diviner's Prophetic Set: 40 gold pieces
+        - Crystal ball for scrying and divination
+        - Set of tarot cards for fortune-telling
+        - Precognition potion for enhancing visions
+        - Dreamcatcher to capture and interpret dreams
+        - Astral map of celestial alignments
+        - Oracle bones and runes for casting future insights
+        - Divination guidebook for interpreting signs and symbols
+        - Mystical pendulum for dowsing and pendulum readings
+        - Tea leaves and tea cup for tasseography (reading tea leaves)
+        - Enchanted amulet that grants glimpses into future events
+        - Prophetic tapestry depicting visions and omens
+        - Enchanted hourglass for temporal divination
+    - Arcane Scribe's Kit: 40 gold pieces
+        - Quills of various magical feathers
+        - Assortment of colored inks infused with magical properties
+        - Scroll case with protective enchantments
+        - Wax seals and sealing wax for securing scrolls
+        - Fine parchment and vellum sheets
+        - Calligraphy pen set for elegant spell transcription
+        - Glyph and rune carving tools
+        - Arcane inkwell with self-refilling feature
+        - Enchanted ink eraser for removing magical inscriptions
+        - Scroll storage tubes with dimensional pockets
+        - Magic-infused quill sharpener
+        - Scribing gloves that enhance precision and control
+        - Portable enchantment circle template for spellcasting rituals
+    - Paladin's Divine Blessing Kit: 35 gold pieces
+        - Holy symbol necklace or amulet
+        - Blessed water flask
+        - Anointing oils for religious rituals
+        - Divine prayer book
+        - Holy incense and censer
+        - Sacred candles
+        - Small shrine statue or icon
+        - Pouch of sacred herbs for purification rituals
+        - Holy texts and scriptures
+        - Holy water sprinkler
+        - Blessed medallion for protection
+        - Healing balm with divine properties
+        - Divine inspiration journal for recording visions and revelations
+    - Dragon Slayer's Arsenal: 55 gold pieces
+        - Dragon scale armor (crafted from slain dragons)
+        - Dragonbone sword with enchanted blade
+        - Dragonhide shield for added protection
+        - Dragon toxin resistance potion
+        - Dragon-slaying arrows or bolts (crafted with dragonbane materials)
+        - Fireproof cloak for protection against dragon breath
+        - Dragon scale gaunt
+    - Necromancer's Dark Arts Kit: 45 gold pieces
+        - Grimoire of forbidden spells and rituals
+        - Cursed ink for transcribing necromantic incantations
+        - Bone dust and graveyard soil for ritual components
+        - Enchanted skull as a scrying tool
+        - Mortician's tools for preparing reanimated bodies
+        - Ghostly lantern that illuminates the [[ethereal plane]]
+        - Spirit-binding runes and containment vessels
+        - Vials of ectoplasm for spectral summoning
+        - Phylactery pendant for storing a piece of the necromancer's soul
+        - Essence extraction syringe for capturing life force
+        - Darkened robes and hood for an ominous appearance
+        - Necromantic sigil guidebook for protection and summoning
+        - Hand of the Dead deck of tarot cards for divination
+    - Warlock's Pact Invocation Kit: 45 gold pieces
+        - Pact tome for recording pacts and agreements
+        - Quill pen infused with eldritch energy
+        - Infernal contract scroll for signing pacts
+        - Pact-specific invocation scrolls
+        - Vial of essence from a patron entity
+        - Pact-sealing wax and seal
+        - Enchanted talisman granted by patron
+        - Pact-bound soul gem for storing captured souls
+        - Eldritch incense for ritual invocations
+        - Dark ritual dagger for blood pacts
+        - Shadowy cloak that enhances eldritch powers
+        - Pact amulet that provides protection from patron's enemies
+    - Enchanter's Essence Kit: 50 gold pieces
+        - Enchanting wand for channeling magical energy
+        - Assortment of gemstones with magical affinities
+        - Enchantment spell formula book
+        - Enchanted dust for spellcasting enhancements
+        - Essence extraction flask for capturing magical essence
+        - Crystal vial for storing enchanted liquids
+        - Glyph carving tools for inscribing enchantments
+        - Enchantment primer book for beginners
+        - Enchanted fabric swatches for imbuing clothing
+        - Elixir of enchantment amplification
+        - Enchantment-focused meditation incense
+        - Enchanting gloves that enhance magical manipulation
+        - Portable enchantment workbench with magical stabilizers
+    - Shadow Assassin's Stealth Kit: 50 gold pieces
+        - Shadowy cloak that grants invisibility in dim light
+        - Throwing daggers with silent enchantments
+        - Shadow camouflage paint for blending into darkness
+        - Smoke bombs for creating cover and confusion
+        - Shadowstep boots that allow teleportation through shadows
+        - Silent footsteps gloves for moving silently
+        - Poisoned throwing needles
+        - Shadow infusion potion for temporary shadow manipulation
+        - Darkness-dweller mask for enhanced night vision
+        - Grappling hook with retractable rope
+        - Shadow essence perfume to mask presence
+        - Stealthy lockpicks with built-in enchantments
+    - Golem Crafter's Workshop: 60 gold pieces
+        - Elemental essence vials for golem creation
+        - Anvil and blacksmithing tools for crafting golem frames
+        - Enchanted chisels and sculpting tools
+        - Golem design schematics and blueprints
+        - Arcane circuitry components for golem animation
+        - Power crystal for golem energy source
+        - Golem heartstone for imbuing sentience
+        - Golem maintenance manual and repair tools
+        - Remote control golem activation device
+        - Golem command amulet for control and orders
+        - Golem control gauntlets for precise movements
+        - Golem crafting apron with built-in tools and pockets
+- Class oriented
+    - Barbarian's Berserker Kit: 12 gold pieces
+        Rage-inducing totem necklace Reinforced bone armor plates Warpaint for intimidation Primitive weapon assortment (greataxe, handaxe, javelin) Shamanic incense for spiritual focus Trophy collection bag Blood-stained bandages for wounds
+    - Fighter's Weaponmaster Arsenal: 15 gold pieces
+        Versatile longsword Dual-wielded shortswords Ranged weapon (longbow or crossbow) Customizable weapon grips Combat training manual Weapon cleaning and maintenance kit Tactical battle map and markers
+    - Paladin's Holy Crusader Set: 25 gold pieces
+        Radiant holy symbol amulet Divine shield with embossed holy insignia Blessed longsword Healing potions Sacred oils for anointing weapons Holy water vials Holy scriptures and prayers book
+    - Ranger's Beastmaster Kit: 18 gold pieces
+        Animal companion whistle Tracking and survival guidebook Shortbow and arrows Animal feed and treats Nature-themed camouflage cloak Animal tracking kit Herbal remedies for companion
+    - Sorcerer's Arcane Catalyst Pack: 22 gold pieces
+        Arcane focus gemstone Spellcasting components pouch Spellbook or scrolls Enchanted quill and ink for spell transcription Mana potions for energy replenishment Crystal vials for storing magical essence Enchanted gloves for improved spell control
+    - Wizard's Arcane Scholar Kit: 20 gold pieces
+        Spellbook with various spells Quill and ink for spell transcription Arcane focus (e.g., orb, staff, or wand) Potion of arcane energy restoration Magic scrolls for emergencies Crystal vials for spell components Enchanted satchel with extra-dimensional storage
+    - Bard's Melodious Performer Pack: 18 gold pieces
+        Musical instrument of choice (e.g., lute, flute, or violin) Collection of sheet music and songs Costume and makeup kit for stage performances Enchanted voice amplifier device Set of magical dancing shoes Songbook with enchanting melodies Portable stage props and accessories
+    - Druid's Nature's Guardian Kit: 16 gold pieces
+        Druidic focus (e.g., staff, totem, or amulet) Herbalism kit for potion brewing Animal language translator amulet Animal form reference guide Nature-themed robes and cloak Shapeshifting potion for wild shape ability Plant seeds for magical growth
+    - Rogue's Shadow Operative Kit: 24 gold pieces
+        Lockpicks and mini-locksmith tools Thieves' guild symbol pendant Smoke bombs for stealthy getaways Grappling hook and rope Disguise kit (makeup, wigs, and props) Silent footwear for stealthy movement Poisoned throwing daggers
+    - Warlock's Pactbound Arsenal: 25 gold pieces
+        Pact tome for recording pacts and agreements Quill pen infused with eldritch energy Infernal contract scroll for signing pacts Pact-specific invocation scrolls Vial of essence from a patron entity Pact-sealing wax and seal Enchanted talisman granted by patron Pact-bound soul gem for storing captured souls Eldritch incense for ritual invocations Dark ritual dagger for blood pacts Shadowy cloak that enhances eldritch powers Pact amulet that provides protection from patron's enemies
+    - Cleric's Devotion Kit: 20 gold pieces
+        Holy symbol necklace Sacred prayer book Healing potions Ritual components pouch Holy water vials Divine favor oil for anointing weapons Blessed incense for sacred ceremonies Divine spell focus (e.g., staff or holy symbol) Ritual cleansing tools
+    - Monk's Martial Arts Set: 15 gold pieces
+        Martial arts robe and sash Monk's sparring gloves Meditation cushion Blinding powder for evasion Throwing darts or shurikens Ki-infused amulet for energy focus Iron body liniment for enhancing durability Scroll of ancient martial techniques Monk's mantra beads
+    - Artificer's Tinkerer Toolbox: 18 gold pieces
+        Smithing hammer and anvil Set of tinkering tools Alchemical crafting supplies Mechanical repair kit Goggles of artificer's sight Enchanted toolbelt for quick access Infusion formula book Clockwork contraption blueprints Elemental capturing crystals
+    - Blood Hunter's Crimson Hunt Kit: 22 gold pieces
+        Blood-stained journal for tracking targets Alchemical mixture vials for mutagens Silvered and enchanted weapons Bloodhound scent kit for tracking Cloak of the crimson hunter Hemocraft infusion supplies Sanguine runes for empowering attacks Potion of enhanced senses Darkvision goggles for low-light hunts
+        
