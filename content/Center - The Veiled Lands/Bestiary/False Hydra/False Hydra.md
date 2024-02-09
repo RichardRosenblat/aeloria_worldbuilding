@@ -34,6 +34,13 @@ A false hydra will always inexorably eat itself to death. The only question is w
 
 ## Statblocks
 
+### Png statblocks
+
+![[False Hydra stat.png]]
+![[Mature False Hydra stat.png]]
+
+### Plugin statblocks
+
 ```statblock
 name: False Hydra
 size: Small
@@ -164,13 +171,6 @@ legendary_actions:
     desc: The false hydra uses its head to drag itself 30 feet in any direction.
 
 ```
-
-
-
-## Png statblocks
-
-![[False Hydra stat.png]]
-![[Mature False Hydra stat.png]]
 
 ## Mythic Actions
 

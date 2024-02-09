@@ -11,7 +11,7 @@ Greetings, adventurers of [[Aeloria]]! In this page, I (your writer) would like 
 
 ## Understanding the Statblocks
 
-To enhance your gaming experience, I present the creature statblocks in a readable and organized format. However, to maintain the immersive nature of [[Aeloria]] and for ease of integration into various platforms, the statblocks can be found in a code block format.
+To enhance future gaming experiences, I present the creature statblocks in a readable and organized format. However, to maintain the immersive nature of [[Aeloria]] and for ease of integration into various platforms, the statblocks can be found in a code block format.
 
 ```
 image: [[Wikilink To Image]]
@@ -68,7 +68,8 @@ I've chosen this method to make it simple for Dungeon Masters to utilize these s
 
 Explore the Bestiary, and may your adventures in [[Aeloria]] be filled with excitement and discovery!
 
-Happy questing!
+Happy hunting!
+Be Curious!
 
 ## Monsters
 

@@ -8,7 +8,7 @@ tags:
 Hey there, explorer! 🌍✨
 
 ## About [[Aeloria]]
-This isn't just a blog; it's a creative project, a world spun from my imagination and fueled by creativity. [[Aeloria]] is a high-fantasy realm filled with tales of magic, mystery, and exploration. As the Dungeon Master, I craft its narrative, introducing new storylines, characters, and places.
+This a worldbuilding project, a world from my imagination and fueled by creativity. [[Aeloria]] is a high-fantasy realm filled with tales of magic, mystery, and exploration. As the Dungeon Master, I craft its narrative, introducing new storylines, characters, and places.
 
 ## Endless Exploration
 [[Aeloria]] is a canvas shaped by the principles of Balance of Existence, Elements, and Continuity and Change. Dive into a world where opposing forces harmonize, magic blends with elemental energies, and the past subtly transforms. Every bit of history is a clue, every change a testament to the enduring, ever-changing nature of existence.
@@ -29,19 +29,20 @@ Venture into pages marked as `#dm_note`, they are a glimpse into my creative pro
 For a deep dive into [[Aeloria]]'s lore, I suggest using a computer to explore the wiki. Larger screens provide a canvas where details come alive, offering a better experience for explorers.
 On bigger screens, new components will appear to guide you through the notes that shape [[Aeloria]]'s narrative. This allows for a smooth journey through the worldbuilding.
 
+## Inspirations and Intentions
+It's important to note that [[Aeloria]] is not a 100% original project. It draws inspiration from many of my favorite pieces of media, influencing elements such as the names of the [[True Gods]], [[The Planes|planes]], and more. This realm is a labor of love, a homage to the creativity of other media that has shaped who I am. It's not intended as a commercial endeavor; [[Aeloria]] is a passion project meant for exploration, storytelling, and the joy of worldbuilding. Should the unlikely event arise where [[Aeloria]] becomes a source of revenue, I am committed to making any necessary adjustments to avoid causing trouble for those who have inspired this fantastical journey. The aim is to celebrate and share the joy of storytelling, ensuring respect for the origins that have contributed to [[Aeloria]]'s tapestry.
+
 ## Join the Adventure
-Be curious!!! 
 Explore the [[Aeloria]] Wiki, a repository of knowledge about this high-fantasy realm. Whether you're a seasoned explorer or a newcomer, there's always something to discover.
 
 Begin your journey by delving into the principles that guide [[Aeloria]]: [[Setting Info|Principles]]
-
 Explore notes about a future campaign: [[Campaign Notes]]
-
 Discover the Cosmos, Planets, Gods, and more: [[Solar System]], [[The Planes]], [[Timelines]], [[True Gods]]
 
 Uncover secrets, immerse yourself in lore, and let your imagination soar. [[Aeloria]] awaits, adventurer!
 
 Happy exploring! 📜🗺️
+Be curious!
 
 ## About me
 

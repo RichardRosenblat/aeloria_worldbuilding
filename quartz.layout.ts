@@ -7,9 +7,9 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/RichardRosenblat/aeloria_worldbuilding",
-      Tumblr: "https://www.tumblr.com/rychlostthespacewizard",
-      Linkedin:"https://www.linkedin.com/in/richard-rosenblat/",
+      "My GitHub": "https://github.com/RichardRosenblat/aeloria_worldbuilding",
+      "My Tumblr": "https://www.tumblr.com/rychlostthespacewizard",
+      "My Linkedin":"https://www.linkedin.com/in/richard-rosenblat/",
       "Quartz Discord Community": "https://discord.gg/cRFFHYye7t",
       "Quartz Github": "https://github.com/jackyzha0/quartz",
     },
