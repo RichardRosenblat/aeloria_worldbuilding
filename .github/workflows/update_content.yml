@@ -27,16 +27,16 @@ jobs:
       
       - name: Remove Irrelevant files
         run: |
-          rm -rf temp-repo/.obsidian
-          rm -rf temp-repo/.git
-          rm -rf temp-repo/.github
+          rm -r temp-repo/.obsidian/*
+          rm -r temp-repo/.git/*
+          rm -r temp-repo/.github/*
 
-      - name: Copy contents to content folder
-        run: cp -r temp-repo/ content/
+      - name: Move contents to content folder
+        run: mv temp-repo/* content/
       
       - name: Clean up
         run: |
-          rm -rf temp-repo
+          rm -r temp-repo/*
       
       - name: Commit and push changes
         run: |
