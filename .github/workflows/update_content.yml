@@ -1,0 +1,39 @@
+name: Update Content folder
+
+on:
+ repository_dispatch:
+    types: [update-content]
+
+jobs:
+  update-content:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Git with PAT
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          echo "https://RichardRosenblat:${{ secrets.YOUR_REPO_TOKEN }}@github.com" > ~/.git-credentials
+          git config --global credential.helper 'store --file ~/.git-credentials'
+
+      - name: Clear content folder
+        run: rm -r content/*
+      
+      - name: Clone aeloria_obsidian repository
+        run: git clone --depth 1 --branch main https://RichardRosenblat/aeloria_obsidian temp-repo
+      
+      - name: Copy relevant folders
+        run: cp -r temp-repo/!(.obsidian|.git) content/
+      
+      - name: Clean up temp-repo
+        run: |
+          rm -rf temp-repo
+      
+      - name: Commit and push changes
+        run: |
+          git add .
+          git commit -m "Daily update - $(date)"
+          git push
