@@ -24,7 +24,7 @@ jobs:
         run: rm -r content/*
       
       - name: Clone aeloria_obsidian repository
-        run: git clone --depth 1 --branch main https://RichardRosenblat/aeloria_obsidian temp-repo
+        run: git clone --depth 1 --branch main https://github.com/RichardRosenblat/aeloria_obsidian.git temp-repo
       
       - name: Copy relevant folders
         run: cp -r temp-repo/!(.obsidian|.git) content/
