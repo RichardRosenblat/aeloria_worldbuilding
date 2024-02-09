@@ -1,7 +1,6 @@
 name: Update Content folder
 
 on:
- workflow_dispatch:
  repository_dispatch:
     types: [update-content]
 
@@ -30,6 +29,7 @@ jobs:
         run: |
           rm -rf temp-repo/.obsidian
           rm -rf temp-repo/.git
+          rm -rf temp-repo/.github
 
       - name: Copy contents to content folder
         run: cp -r temp-repo/ content/
