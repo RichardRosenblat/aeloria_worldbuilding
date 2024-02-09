@@ -3,7 +3,7 @@ tags:
   - table
   - template
 ---
-> [!tldr] This is an orphanage
+> [!tldr] This is an foster note
 > This note is has been created just to connect orphan notes, it can be often out-of-date
 
 These are the templates i use in these notes
@@ -18,7 +18,7 @@ These are the templates i use in these notes
 | [[Template - Note from Wiki]] |
 | [[Template - Note to do]] |
 | [[Template - NPC]] |
-| [[Template - Orphanage Note]] |
+| [[Template - Foster Note]] |
 | [[Template - Race]] |
 | [[Template - Eon]] |
 | [[Template - Era]] |

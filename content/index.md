@@ -16,7 +16,7 @@ This isn't just a blog; it's a creative project, a world spun from my imaginatio
 ## [[Aeloria]]'s Future
 This journey is just beginning, with grand plans for [[Aeloria]]'s future. It's not just a blog; it's a stepping stone to further adventures. The goal is to expand this world over the years, turning it into a rich and immersive Dungeons & Dragons setting. Perhaps there will be books, stories, and realms yet undiscovered.
 
-## Embracing the Art of Words with a Robotic Assistant
+## Embracing the Art of Worldbuilding with a Robotic Assistant
 In the expansive realm of [[Aeloria]], crafting narratives is both an art and a challenge. As the maker of this world, I use AI as a silent collaborator, refining and structuring my thoughts into coherent texts.
 
 ## The Nexus of Adventure: [[Aeloria]]'s Centers
@@ -25,15 +25,19 @@ In [[Aeloria]]'s vast expanse, you'll find mysterious locales known as "Centers.
 ## Exploring the dm_notes
 Venture into pages marked as `#dm_note`, they are a glimpse into my creative process. These notes are a compilation of raw ideas, a repository of untamed inspiration waiting to be shaped into [[Aeloria]]'s narrative. Beware, for the texts here may not be immediately coherent. Consider these pages a repository of inspiration, waiting to be shaped into [[Aeloria]]'s narrative.
 
+## [[Aeloria]] Wiki Navigation: A Quick Tip
+For a deep dive into [[Aeloria]]'s lore, I suggest using a computer to explore the wiki. Larger screens provide a canvas where details come alive, offering a better experience for explorers.
+On bigger screens, new components will appear to guide you through the notes that shape [[Aeloria]]'s narrative. This allows for a smooth journey through the worldbuilding.
+
 ## Join the Adventure
 Be curious!!! 
-Explore the [[Aeloria]] Wiki, a repository of knowledge about this fantastical realm. Whether you're a seasoned explorer or a newcomer, there's always something to discover.
+Explore the [[Aeloria]] Wiki, a repository of knowledge about this high-fantasy realm. Whether you're a seasoned explorer or a newcomer, there's always something to discover.
 
-Begin your journey by delving into the principles that guide [[Aeloria]]: [[Setting Info]]
+Begin your journey by delving into the principles that guide [[Aeloria]]: [[Setting Info|Principles]]
 
 Explore notes about a future campaign: [[Campaign Notes]]
 
-Discover the Cosmos, Planets, Gods, and more: [[Solar System]], [[The Planes]], [[Mythical Timeline]], [[True Gods]]
+Discover the Cosmos, Planets, Gods, and more: [[Solar System]], [[The Planes]], [[Timelines]], [[True Gods]]
 
 Uncover secrets, immerse yourself in lore, and let your imagination soar. [[Aeloria]] awaits, adventurer!
 
