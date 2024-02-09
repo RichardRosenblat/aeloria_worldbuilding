@@ -26,12 +26,18 @@ jobs:
       - name: Clone aeloria_obsidian repository
         run: git clone --depth 1 --branch main https://github.com/RichardRosenblat/aeloria_obsidian.git temp-repo
       
-      - name: Copy relevant folders
-        run: cp -r temp-repo/!(.obsidian|.git) content/
+      - name: Remove Irrelevant files
+        run: |
+          rm -rf temp-repo/.obsidian
+          rm -rf temp-repo/.git
+
+      - name: Copy contents to content folder
+        run: cp -r temp-repo/ content/
       
-      - name: Clean up temp-repo
+      - name: Clean up
         run: |
           rm -rf temp-repo
+          rm -f ~/.git-credentials
       
       - name: Commit and push changes
         run: |
