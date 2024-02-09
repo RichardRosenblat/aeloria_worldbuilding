@@ -41,7 +41,7 @@ jobs:
       - name: Commit and push changes
         run: |
           git add .
-          git commit -m "Daily update - $(date)"
+          git commit -m "Content update - $(date)" || echo "No changes to commit"
           git push
           
       - name: Clean up credentials
