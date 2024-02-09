@@ -1,0 +1,32 @@
+name: Download and Organize Repo
+
+on:
+  push:
+    branches:
+      - v4  # Change this to your default branch
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          repository: your/private-repo
+          token: ${{ secrets.YOUR_REPO_TOKEN }}
+
+      - name: Clear existing contents of content
+        run: rm -rf content/*
+
+      - name: Move files
+        run: |
+          find . -type f ! -path './.obsidian/*' ! -path './.git/*' -exec mv -t content {} +
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Organize repository files"
+          git push
