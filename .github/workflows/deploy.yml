@@ -5,9 +5,8 @@ on:
     workflows: ["Update Content folder"]
     types:
       - completed
-  push:
-    branches:
-      - v4
+  workflow_dispatch:
+
  
 permissions:
   contents: read
