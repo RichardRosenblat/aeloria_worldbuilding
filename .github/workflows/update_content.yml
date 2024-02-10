@@ -33,29 +33,15 @@ jobs:
           rm -r temp-repo/.github/*
 
       - name: Move contents to content folder
-        run: mv temp-repo/* content/
+        run: |
+          mv temp-repo/* content/
+          rmdir temp-repo
            
       - name: Commit and push changes
         run: |
           git add .
           git commit -m "Content update - $(date)" || echo "No changes to commit"
           git push
-          
-      - name: Test dir 
-        run: |
-          ls
-          
-      - name: Test temp-repo 
-        run: |
-          cd temp-repo/
-          ls
-          cd ../
-          
-      - name: Test content 
-        run: |
-          cd content/
-          ls
-          cd ../
           
       - name: Clean up credentials
         run: |

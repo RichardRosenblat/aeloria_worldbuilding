@@ -23,7 +23,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
-          fetch-depth: 0 # Fetch all history for git info
+          fetch-depth: 0 
       - uses: actions/setup-node@v3
         with:
           node-version: 18.14
@@ -31,16 +31,6 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
-      - name: test content
-        run: |
-         cd content/ 
-          ls
-          cd ../
-      - name: test public
-        run: |
-         cd public/ 
-          ls
-          cd ../
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
