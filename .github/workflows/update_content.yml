@@ -35,7 +35,6 @@ jobs:
       - name: Move contents to content folder
         run: |
           mv temp-repo/* content/
-          rmdir temp-repo
            
       - name: Commit and push changes
         run: |
