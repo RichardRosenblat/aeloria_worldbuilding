@@ -45,6 +45,19 @@ jobs:
         run: |
           ls
           
+      - name: Test temp-repo 
+        run: |
+          cd temp-repo/
+          ls
+          cd ../
+          ls
+          
+      - name: Test content 
+        run: |
+          cd content/
+          ls
+          cd ../
+          
       - name: Clean up credentials
         run: |
           rm -f ~/.gitcredentials
