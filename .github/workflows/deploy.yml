@@ -1,6 +1,10 @@
 name: Deploy Quartz site to GitHub Pages
  
 on:
+  workflow_run:
+    workflows: ["Update Content folder"]
+    types:
+      - completed
   push:
     branches:
       - v4
@@ -28,22 +32,28 @@ jobs:
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
-      - name: test
+      - name: test content
         run: |
          cd content/ 
           ls
+          cd ../
+      - name: test public
+        run: |
+         cd public/ 
+          ls
+          cd ../
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
           path: public
  
-  # deploy:
-  #   needs: build
-  #   environment:
-  #     name: github-pages
-  #     url: ${{ steps.deployment.outputs.page_url }}
-  #   runs-on: ubuntu-latest
-  #   steps:
-  #     - name: Deploy to GitHub Pages
-  #       id: deployment
-  #       uses: actions/deploy-pages@v2
+  deploy:
+    needs: build
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
