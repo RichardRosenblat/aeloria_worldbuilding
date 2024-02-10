@@ -34,16 +34,16 @@ jobs:
 
       - name: Move contents to content folder
         run: mv temp-repo/* content/
-      
-      # - name: Clean up
-      #   run: |
-      #     [ -n "$(ls -A temp-repo)" ] && rm -r temp-repo/*
-      
+           
       - name: Commit and push changes
         run: |
           git add .
           git commit -m "Content update - $(date)" || echo "No changes to commit"
           git push
+          
+      - name: Test dir 
+        run: |
+          ls
           
       - name: Clean up credentials
         run: |
