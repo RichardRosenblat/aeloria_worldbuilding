@@ -3,7 +3,7 @@ name: Update content and deploy
 on:
  workflow_dispatch:
  repository_dispatch:
-    types: [update-content1]
+    types: [update-content]
  
 permissions:
   contents: write
