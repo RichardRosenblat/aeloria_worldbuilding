@@ -5,7 +5,7 @@ tags:
 ---
 # Welcome to [[Aeloria]]!
 
-Hello there, explorer!! 🌍✨
+Hello there, explorer!!! 🌍✨
 
 ## About [[Aeloria]]
 This a worldbuilding project, a world from my imagination and fueled by creativity. [[Aeloria]] is a high-fantasy realm filled with tales of magic, mystery, and exploration. As the Dungeon Master, I craft its narrative, introducing new storylines, characters, and places.
