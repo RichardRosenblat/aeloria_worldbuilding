@@ -1,0 +1,78 @@
+name: Update content and deploy to GitHub Pages
+ 
+on:
+ workflow_dispatch:
+ repository_dispatch:
+    types: [update-content1]
+ 
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+ 
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+ 
+jobs:
+  update-content:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Git with PAT
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          echo "https://RichardRosenblat:${{ secrets.YOUR_REPO_TOKEN }}@github.com" > ~/.git-credentials
+          git config --global credential.helper 'store --file ~/.git-credentials'
+      - name: Clear content folder
+        run: rm -r content/*
+      - name: Clone aeloria_obsidian repository
+        run: git clone --depth 1 --branch main https://github.com/RichardRosenblat/aeloria_obsidian.git temp-repo
+      - name: Remove Irrelevant files
+        run: |
+          rm -r temp-repo/.obsidian/*
+          rm -r temp-repo/.git/*
+          rm -r temp-repo/.github/*
+      - name: Move contents to content folder
+        run: |
+          mv temp-repo/* content/
+      - name: Commit and push changes
+        run: |
+          git add .
+          git commit -m "Content update - $(date)" || echo "No changes to commit"
+          git push
+      - name: Clean up credentials
+        run: |
+          rm -f ~/.gitcredentials
+
+  build:
+    needs: update-content
+    runs-on: ubuntu-22.04
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18.14
+      - name: Install Dependencies
+        run: npm ci
+      - name: Build Quartz
+        run: npx quartz build
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: public
+ 
+  deploy:
+    needs: [build, update-content]
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
