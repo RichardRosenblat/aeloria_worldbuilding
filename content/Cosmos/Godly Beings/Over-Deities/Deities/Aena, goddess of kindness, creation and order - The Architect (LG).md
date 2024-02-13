@@ -69,6 +69,7 @@ aliases:
 > 
 
 ![[Aena Appearance 1.png]]
+*The art above is made using ai*
 
 ![[Aena Appearance Old.png]]
 

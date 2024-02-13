@@ -66,7 +66,9 @@ _When connected with [[Aena, goddess of kindness, creation and order - The Archi
 ### Aerian (Human) Generic
 > Kryela is often depicted as a woman with white hair and dark gowns that often merge with the darkness
 
-![[Kryela appearance 1.png]]![[Kryela appearance 2.png]]
+![[Kryela appearance 1.png]]
+*The art above is made using ai*
+![[Kryela appearance 2.png]]
         
 
 ## Religious Practices
