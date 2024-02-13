@@ -26,6 +26,8 @@ tags:
 “the only evil that can be excused as necessary is the one that nation controls”
 "Si operarii omnes producunt, omnia operariis pertinent."
 "what do you think it means to be saved"
+"What happened?" - "Nothing that wasn't my fault"
+"Something is different"
 
 ## Names For Outsiders
 Ya'qub Qamar Ad-din Dibiazah The greatest Sultan in his time

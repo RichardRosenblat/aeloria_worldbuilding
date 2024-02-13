@@ -1,3 +1,7 @@
+---
+tags:
+  - dm_note
+---
 - [x]  review the gods links
 - [x]  Finish new world mythical story
     - [x]  reform
