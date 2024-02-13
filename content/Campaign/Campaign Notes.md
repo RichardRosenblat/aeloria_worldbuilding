@@ -17,7 +17,7 @@ tags:
 | Dictionary for languages | [[Languages Dictionary]] |
 | Homebrew monsters | [[Bestiary]] |
 | Calendar | [[Aelorian Calendar]] |
-| To do list | [[Important names to create later]] |
+| list of plans | [[Important names to create later]] |
 | City unique details | [[200 Things to Make a City Unique]] |
 
 # Random Quotes

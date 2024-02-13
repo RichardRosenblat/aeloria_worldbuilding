@@ -40,9 +40,9 @@ It's important to note that [[Aeloria]] is not a 100% original project. It draws
 Explore the [[Aeloria]] Wiki, a repository of knowledge about this high-fantasy realm. Whether you're a seasoned explorer or a newcomer, there's always something to discover.
 
 Begin your journey by delving into the principles that guide [[Aeloria]]: [[Setting Info|Principles]]
-Explore notes about a future campaign: [[Campaign Notes]]
 Discover the Cosmos, Planets, Gods, and more: [[Solar System]], [[The Planes]], [[Timelines]], [[True Gods]]
-If you want to know what are the things I am planning on adding next check: [[To Do]], [[Important names to create later]]
+If you want to know what are the things I am planning on adding next check: [[To Do List]], [[Important names to create later]]
+Explore notes about a future campaign: [[Campaign Notes]]
 
 Uncover secrets, immerse yourself in lore, and let your imagination soar. [[Aeloria]] awaits, adventurer!
 

@@ -27,5 +27,4 @@ tags:
 	In the end, [[Marcus Valerian|Marcus]] and his shattered crew flee from the Whistling Fields, haunted by the memories of the eldritch radiance, haunting whistles, and the malevolent embrace that left scars that would never heal. The Whistling Fields, with its balance of existence and elements, stands as a chilling reminder of the enduring, ever-changing nature of existence in this world.
 
 - Text written by adventurer [[Marcus Valerian]] in [[Beyond the maw]]
-	  [[Beyond the maw#^677416]]
-	  ![[Beyond the maw#^677416]]
+	  ![[Beyond the maw#Chapter 4 Whistling Fields]]
