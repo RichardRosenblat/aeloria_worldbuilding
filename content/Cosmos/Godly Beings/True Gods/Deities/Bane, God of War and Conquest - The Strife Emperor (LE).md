@@ -66,6 +66,24 @@ The Annihilator: Bane, God of Total Victory
 
 ## Religious Practices
 
+Followers of Bane, the Strife Emperor, engage in elaborate religious practices and rituals to honor their deity. Here are some of the key religious practices performed by Bane's devoted followers:
+
+1. **Warrior's Oath**: Initiates into the creed of Bane undertake a solemn Warrior's Oath, pledging allegiance to the God of War and Conquest. This oath often involves a symbolic act, such as drawing blood from their own palms and smearing it on an effigy of Bane.
+    
+2. **Bloody Rites of Victory**: After a successful battle, followers partake in the Bloody Rites of Victory. This ritual involves offering the spoils of war to Bane, including weapons, armor, and sometimes even prisoners of war. The belief is that the god blesses them with strength and dominance in future conflicts.
+    
+3. **Shackled Devotion**: A significant ritual involves followers wearing symbolic shackles during intense prayer sessions. This act represents their submission to Bane's authority and their readiness to conquer any obstacle in the god's name.
+    
+4. **Sacrificial Ceremonies**: To appease the Strife Emperor, followers engage in sacrificial ceremonies, offering animals or, in extreme cases, prisoners captured during conquests. The act is believed to strengthen the connection between the worshiper and Bane.
+    
+5. **Triumphant Processions**: During major victories or conquests, followers organize triumphant processions through the conquered territories. These processions include displays of captured banners, trophies, and symbols of their conquest, all dedicated to the glory of Bane.
+    
+6. **Battle Hymns and Chants**: The followers of Bane express their devotion through battle hymns and chants, praising the god's martial prowess and conquests. These musical expressions often accompany their war campaigns, boosting morale and intimidating their enemies.
+    
+7. **Nightly Vigils**: Dedicated worshipers undertake nightly vigils, standing guard in the name of Bane. This practice symbolizes eternal readiness for conflict and serves as a constant reminder of the god's ever-watchful presence.
+    
+8. **Clawed Communion**: A more esoteric ritual involves followers communing with Bane through symbolic clawed implements. These rituals are performed in private, with the belief that the god imparts strategic insights and strength to those who engage in this form of communion.
+
 ## Cultural Norms
 
 ## Political Structures
@@ -103,7 +121,6 @@ During the times of creation, when the gods were creating their races, Bane crea
 
 for the god above can you create:
 
-now can you generate religious practices and rituals done by their followers 
 now can you generate cultural norms of cultures that worship them
 now can you generate political structures associated with them
 now can you generate a table of some champions of the god across the ages, with their names, race, and a description of them

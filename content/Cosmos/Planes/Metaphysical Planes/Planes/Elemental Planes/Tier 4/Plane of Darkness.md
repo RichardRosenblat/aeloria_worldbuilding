@@ -9,7 +9,7 @@ tags:
   - metaphysical_plane
 ---
 > [!Todo] There is still much to do
-> This file is unfinished, i need to revise this plane
+> This file is unfinished, I need to make this plane match it's broad description
 
 ### Darkness | A Plane Covered in Black Smoke, with Only Sunlight Illuminating the Plane with a Dim Light Passing Through the Curtain of Atmosphere
 

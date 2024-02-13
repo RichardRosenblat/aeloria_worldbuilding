@@ -7,7 +7,7 @@ tags:
   - metaphysical_plane
 ---
 > [!Todo] There is still much to do
-> This file is unfinished, i need to revise this plane
+> This file is unfinished, I need to make this plane match it's broad description
 
 # Mind | Mutable and Floating Landscapes That Change with the Emotions of Those Around Them Covered by Mists
 

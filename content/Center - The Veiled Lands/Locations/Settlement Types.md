@@ -1,6 +1,7 @@
 ---
 tags:
   - "#table"
+  - generation
 ---
 
 | Population    | Settlement Size |

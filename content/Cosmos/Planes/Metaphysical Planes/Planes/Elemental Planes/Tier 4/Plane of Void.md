@@ -13,7 +13,7 @@ tags:
   - metaphysical_plane
 ---
 > [!Todo] There is still much to do
-> This file is unfinished, i need to revise this plane
+> This file is unfinished, I need to make this plane match it's broad description
 
 ### Void | A Vast Emptiness Interrupted by Objects Drawn by Void Magic and Infinite Void Shrines Camouflaged in Darkness
 

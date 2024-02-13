@@ -25,6 +25,10 @@ In [[Aeloria]]'s vast expanse, you'll find mysterious locales known as "Centers.
 ## Exploring the dm_notes
 Venture into pages marked as `#dm_note`, they are a glimpse into my creative process. These notes are a compilation of raw ideas, a repository of untamed inspiration waiting to be shaped into [[Aeloria]]'s narrative. Beware, for the texts here may not be immediately coherent. Consider these pages a repository of inspiration, waiting to be shaped into [[Aeloria]]'s narrative.
 
+## More on the generation notes
+
+Among the notes, you might come across pages adorned with the tag `#generation`—consider these the raw building blocks of the realm. These notes aren't immediately coherent, but rather, they serve as the foundation for a unique collaboration between myself and AI. Tagged with this label, they encompass everything from commands sent to the AI to generate new information to meticulously crafted tables of contents. These elements play a crucial role in the continuous evolution of Aeloria, acting as the seeds from which new details sprout and breathe life into the ever-expanding narrative. Delve into these pages, and you'll witness the behind-the-scenes magic, where the sparks of inspiration ignite, fueling the generative process that adds depth and richness to our fantastical journey.
+
 ## [[Aeloria]] Wiki Navigation: A Quick Tip
 For a deep dive into [[Aeloria]]'s lore, I suggest using a computer to explore the wiki. Larger screens provide a canvas where details come alive, offering a better experience for explorers.
 On bigger screens, new components will appear to guide you through the notes that shape [[Aeloria]]'s narrative. This allows for a smooth journey through the worldbuilding.
@@ -38,6 +42,7 @@ Explore the [[Aeloria]] Wiki, a repository of knowledge about this high-fantasy 
 Begin your journey by delving into the principles that guide [[Aeloria]]: [[Setting Info|Principles]]
 Explore notes about a future campaign: [[Campaign Notes]]
 Discover the Cosmos, Planets, Gods, and more: [[Solar System]], [[The Planes]], [[Timelines]], [[True Gods]]
+If you want to know what are the things I am planning on adding next check: [[To Do]], [[Important names to create later]]
 
 Uncover secrets, immerse yourself in lore, and let your imagination soar. [[Aeloria]] awaits, adventurer!
 

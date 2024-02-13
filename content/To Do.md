@@ -1,0 +1,61 @@
+- [x]  review the gods links
+- [x]  Finish new world mythical story
+    - [x]  reform
+    - [x]  new arcane
+- [x]  put timeline in the world
+- [x]  divide timeline files
+- [x]  Create text about the celestial bodies names and myths
+- [x]  create texts of the classifications of the gods
+    - [x]  semi-deities
+    - [x]  avatars
+    - [x]  Ascended beings
+    - [x]  titans
+- [x]  Create texts about divine spark
+- [x]  create influences of planets in cultures
+    - [x]  cultures might have related positive and negative personality traits to each planet
+    - [x]  cultures might attribute elemental energies to each planet
+    - [x]  cultures might assign positive and negative personal future profecies to each planet
+- [x]  finish celestial bodies and cosmic phenomena
+- [x]  add listst to gods
+- [x]  create general text about divine beings and explain that their full classification is Non-Elemental Divine Beings
+- [ ]  create the true gods
+- [ ]  Create the other godly beings
+- [ ]  Finish re checking the elemental planes
+    - [ ]  Feywild
+    - [ ]  Shadowfell
+    - [ ]  Plane of Energy
+    - [ ]  Plane of Mind
+    - [ ]  Plane of Darkness
+    - [ ]  Plane of Gravity
+    - [ ]  Plane of Void
+- [ ]  write about remaining names that i wrote in the should create text
+- [ ]  Create Harmonious vestiges
+- [ ]  Create defiant vestiges
+- [ ]  Create lightborn
+- [ ]  Create Shadowborn
+- [ ]  Create Markus valerian
+- [ ]  Create great old ones
+	- [ ]  make new symbols for the great old ones
+- [ ]  Create custom Downtime activities
+- [ ]  Create coins
+- [ ]  Create factions
+- [ ]  Create Monsters
+- [ ]  Create Materials
+- [ ]  Create automatas
+- [ ]  Create Phenomena
+- [ ]  Create Elements/Magic
+- [ ]  Create Map
+- [ ]  Create Biomes
+- [ ]  Create Seas/Oceans
+- [ ]  Create Cultures
+- [ ]  Create Kingdoms
+- [ ]  Create Timelines
+- [ ]  create holidays
+- [ ] Add important Past Figures
+- [ ] Add more races
+- [ ] Create more monsters
+- [ ]  make ways to recognize members of factions, and diferentials of each rank
+- [ ]  create elder elementals
+- [ ]  create elemental titans
+- [ ]  create elemental personification on the elements
+- [ ]  make Alliance bank account types
