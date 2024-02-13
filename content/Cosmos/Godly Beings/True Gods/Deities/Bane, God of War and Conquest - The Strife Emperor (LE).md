@@ -86,6 +86,28 @@ Followers of Bane, the Strife Emperor, engage in elaborate religious practices a
 
 ## Cultural Norms
 
+Here are some cultural norms observed in various Bane-worshiping societies within the realm of Aeloria:
+
+1. **Hierarchy of Conquest**: Most Bane-worshiping cultures maintain a strict hierarchy based on martial prowess and conquest. Those who prove themselves on the battlefield ascend in social status, earning respect and authority within the community.
+    
+2. **Fear as a Virtue**: Fear is not only seen as a tool of power but also as a virtue. Cultures that worship Bane encourage the instillation of fear in their enemies and view it as a means to maintain order and control within their own societies.
+    
+3. **Martial Excellence**: The pursuit of martial excellence is a central tenet of these cultures. Training in combat skills, strategic thinking, and mastering the art of war is considered essential for individuals in Bane-worshiping societies.
+    
+4. **Ritualized Combat**: Dueling and ritualized combat play a significant role in settling disputes and proving one's worth. These competitions are often accompanied by religious ceremonies, with victories seen as a sign of favor from Bane.
+    
+5. **Warrior's Code**: Bane's followers adhere to a code of conduct that emphasizes discipline, loyalty, and honor on the battlefield. Acts of betrayal or cowardice are severely punished, reinforcing the importance of unwavering commitment to the Strife Emperor.
+    
+6. **Trophies of Conquest**: Displaying trophies from successful battles is a common practice among these cultures. Warriors adorn themselves with the spoils of war, such as enemy insignias, weapons, and other symbols of conquest, as a way to showcase their dedication to Bane.
+    
+7. **Shackled Symbolism**: The symbolism of shackles is prevalent in daily life. Clothing, jewelry, and even architecture may incorporate shackled motifs to signify the people's subservience to Bane and their commitment to the God of Conquest.
+    
+8. **Selective Isolationism**: While engaging in conquest and expansion, Bane-worshiping cultures often practice selective isolationism. They maintain strong borders and carefully control interactions with other societies, fostering a sense of uniqueness and self-sufficiency.
+    
+9. **Communal Discipline**: The communities place a strong emphasis on communal discipline. Individuals are expected to contribute to the greater good of the society, and any dissent or disobedience is swiftly addressed through collective punishment or exile.
+    
+10. **Dark Aesthetics**: Art and architecture in these cultures often reflect the dark and brutal aesthetics associated with Bane. Black and crimson are prominent colors, and depictions of war, conquest, and the Strife Emperor himself dominate artistic expressions.
+
 ## Political Structures
 
 ## Elemental Affinities
@@ -121,8 +143,6 @@ During the times of creation, when the gods were creating their races, Bane crea
 
 for the god above can you create:
 
-now can you generate cultural norms of cultures that worship them
-now can you generate political structures associated with them
 now can you generate a table of some champions of the god across the ages, with their names, race, and a description of them
 now can you generate a list of holidays and festivals associated with them
 now can you generate a list of elements that could be associated with them
