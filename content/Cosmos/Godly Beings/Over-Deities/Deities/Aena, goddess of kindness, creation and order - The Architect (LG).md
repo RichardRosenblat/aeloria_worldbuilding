@@ -68,9 +68,6 @@ aliases:
 > Aena is often represented as a female figure with golden white hair and gowns adorned with gold and blue
 > 
 
-![[Aena Appearance 1.png]]
-*The art above is made using ai*
-
 ![[Aena Appearance Old.png]]
 
 
