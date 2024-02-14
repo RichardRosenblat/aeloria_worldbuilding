@@ -5,23 +5,23 @@ tags:
 ---
 
 
-| Name | Description | Type |
-| ---- | ---- | ---- |
-| Aracna | Aracna family—a Drow lineage of skilled astronomers and scholars dwelling in secluded, haunting locales | N/A |
-| Bellos | A benevolent earth Dao | Elemental |
-| Galadria | A beautiful elven woman. This ethereal being was once tragically kidnapped and imprisoned, her radiance dimmed by the shackles of captivity. In her darkest hour, she struck a desperate bargain with The Moonweaver, the goddess presiding over the moon. In exchange for her devotion and service, The Moonweaver granted her freedom. Through years of unwavering dedication, the elven woman earned a celestial sanctuary—a home in the skies above, where she could wander freely in a world that would never succumb to darkness. | Celestial Being |
-| Gravilion | A potent gravity elemental | Elemental |
-| Halcyon/Frostfeather Song | A melodic tale that reveres a magical bird species known as Halcyon. The song speaks of these mystical birds crafting their nests amidst the tumultuous frozen sea at the northeast of Valdoria, where the Icebound Sea clashes with the relentless storms of the Evergale Sea. In the song, the Halcyon birds, with their enchanting melodies, would calm the raging sea to create a serene haven for laying their eggs. | Song |
-| Icethral | A mighty ice elemental that, centuries ago, unleashed its formidable power to freeze the vast Icebound Sea | Elemental |
-| Mystra | A revered high-priestess of the Spellfather, the god of magic, who possessed extraordinary arcane powers from birth | High-Priestess |
-| Jovaris | A divine Whirlpool crafted by the Wildmother, the revered goddess of nature and the sea. Legends speak of the swirling power within this enchanted vortex serving as the goddess's sanctum for her hunting arsenal. Within the depths of Jovaris, the Wildmother conceals her array of formidable weapons, infusing them with elemental energy and the essence of life itself. When the call for their use arises, the Whirlpool of Jovaris becomes a conduit, expelling these sacred artifacts, enveloped in a dazzling display of energy and vitality, thus manifesting the divine might of the Wildmother. | Divine Whirlpool |
-| Mazatl | Meloras best friend axolotl, her assistant | divine Axolotl |
-| [[Sirena]] | Sirens | N/A |
-| Menrogia/Jomungandr | A serpent-like elemental, used by melora to create [[Aeloria]] | Elemental |
-| Nyctralith | Menrogia's Spear | Weapon |
-| Meta-elemental energies | All things that are, add or subtract things in space or time, be matter, energy, entropy or anything else, these patterns are the meta-elemental energies, they are fields that allow things that add or subtract to exitst, things that are and that neither add or subtract actually do both in an overlap | Meta Element |
-| Non-existential energy | this type of energy is the one eldritch beings have, it is the negation of reality and things are are not being | Metadynamic energy |
-| existential energy | this type of energy is what the twin goddesses represent, reality of itself and things that are | Metadynamic energy |
+| Name | Description | Type |  |  |
+| ---- | ---- | ---- | ---- | ---- |
+| Aracna | Aracna family—a Drow lineage of skilled astronomers and scholars dwelling in secluded, haunting locales | N/A |  |  |
+| Bellos | A benevolent earth Dao | Elemental |  |  |
+| Galadria | A beautiful elven woman. This ethereal being was once tragically kidnapped and imprisoned, her radiance dimmed by the shackles of captivity. In her darkest hour, she struck a desperate bargain with The Moonweaver, the goddess presiding over the moon. In exchange for her devotion and service, The Moonweaver granted her freedom. Through years of unwavering dedication, the elven woman earned a celestial sanctuary—a home in the skies above, where she could wander freely in a world that would never succumb to darkness. | Celestial Being |  |  |
+| Gravilion | A potent gravity elemental | Elemental |  |  |
+| Halcyon/Frostfeather Song | A melodic tale that reveres a magical bird species known as Halcyon. The song speaks of these mystical birds crafting their nests amidst the tumultuous frozen sea at the northeast of Valdoria, where the Icebound Sea clashes with the relentless storms of the Evergale Sea. In the song, the Halcyon birds, with their enchanting melodies, would calm the raging sea to create a serene haven for laying their eggs. | Song |  |  |
+| Icethral | A mighty ice elemental that, centuries ago, unleashed its formidable power to freeze the vast Icebound Sea | Elemental |  |  |
+| Mystra | A revered high-priestess of the [[Corellon, God of Magic and the Arts - The Spellfather (CG)\|Spellfather]], the god of magic, who possessed extraordinary arcane powers from birth  |  | High-Priestess<br> |  |
+| Jovaris | A divine Whirlpool crafted by the Wildmother, the revered goddess of nature and the sea. Legends speak of the swirling power within this enchanted vortex serving as the goddess's sanctum for her hunting arsenal. Within the depths of Jovaris, the Wildmother conceals her array of formidable weapons, infusing them with elemental energy and the essence of life itself. When the call for their use arises, the Whirlpool of Jovaris becomes a conduit, expelling these sacred artifacts, enveloped in a dazzling display of energy and vitality, thus manifesting the divine might of the Wildmother. | Divine Whirlpool |  |  |
+| Mazatl | Meloras best friend axolotl, her assistant | divine Axolotl |  |  |
+| [[Sirena]] | Sirens | N/A |  |  |
+| Menrogia/Jomungandr | A serpent-like elemental, used by melora to create [[Aeloria]] | Elemental |  |  |
+| Nyctralith | Menrogia's Spear | Weapon |  |  |
+| Meta-elemental energies | All things that are, add or subtract things in space or time, be matter, energy, entropy or anything else, these patterns are the meta-elemental energies, they are fields that allow things that add or subtract to exitst, things that are and that neither add or subtract actually do both in an overlap | Meta Element |  |  |
+| Non-existential energy | this type of energy is the one eldritch beings have, it is the negation of reality and things are are not being | Metadynamic energy |  |  |
+| existential energy | this type of energy is what the twin goddesses represent, reality of itself and things that are | Metadynamic energy |  |  |
 
 
 ## Energies

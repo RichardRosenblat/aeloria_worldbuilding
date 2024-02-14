@@ -46,7 +46,7 @@ To aid them in their divine task, they birthed a pantheon of [[True Gods]]:
 - **[[He Who Was]]**
 - **[[Avandra, Goddess of Change and Luck - The Changebringer (CG)|Avandra]]**
 - **[[Bane, God of War and Conquest - The Strife Emperor (LE)|Bane]]**
-- **Corellon**
+- **[[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]**
 - **Erathis**
 - **[[Ethedok]]**
 - **Ioun**

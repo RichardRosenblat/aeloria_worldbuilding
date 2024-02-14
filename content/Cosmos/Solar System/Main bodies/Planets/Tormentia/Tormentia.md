@@ -17,7 +17,7 @@ The name Tormentia finds its origin in the ancient roots of a language long lost
 
 ### Tormentia's Creation
 
-In the wake of the serpent's treachery, Kord, fueled by anger and determination, returned to his divine craftsmanship. Recalling the insult inflicted by Zehir, the god of serpents, the Stormlord gazed upon the gift he had initially begun crafting for Tiamat. It was a realm of colorful skies, woven from the very palette Corellon, The Spellfather, and God of beauty, art, and magic, had used to paint the most enchanting landscapes in [[Aeloria]].
+In the wake of the serpent's treachery, Kord, fueled by anger and determination, returned to his divine craftsmanship. Recalling the insult inflicted by Zehir, the god of serpents, the Stormlord gazed upon the gift he had initially begun crafting for Tiamat. It was a realm of colorful skies, woven from the very palette [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]], [[Corellon, God of Magic and the Arts - The Spellfather (CG)|The Spellfather]], and God of beauty, art, and magic, had used to paint the most enchanting landscapes in [[Aeloria]]. ^8b998b
 
 With a seething resolve, Kord named Tiamat's sky "Tormentia" and adorned it as a radiant gem above the [[Aeloria|Aelorian]] heavens. However, Zehir, consumed by jealousy, sought to corrupt this masterpiece as well. Using Belladonna, he crafted a poison that would turn the sky pitch black and shroud the clouds in a thick fog, attempting once again to unleash chaos.
 

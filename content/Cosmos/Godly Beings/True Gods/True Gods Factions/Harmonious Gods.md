@@ -34,7 +34,7 @@ Amidst celestial discord, an unlikely alliance formed between the Harmonious God
 In the collaboration between the Harmonious Gods and the [[Defiant Gods]], [[Bahamut, God  of justice and nobility - The Platinum Dragon (LG)|Bahamut]] and Tiamat, two formidable [[True Gods]], collaborated to give birth to dragons. Chromatic Dragons, created by Tiamat, were tasked with resisting elemental forces, while Metallic Dragons, crafted by [[Bahamut, God  of justice and nobility - The Platinum Dragon (LG)|Bahamut]], became wise and intelligent custodians of mortal realms.
 
 ## Pivotal Role of Dragons
-These dragons played a crucial role in sealing potent primordial elements, creating [[elemental planes]] and casting them into the [[Elemental Chaos]]. The leakage of elemental energies, redirected by the [[True Gods]], fueled the magic of Corellon, becoming a catalyst for the control of elemental energies.
+These dragons played a crucial role in sealing potent primordial elements, creating [[elemental planes]] and casting them into the [[Elemental Chaos]]. The leakage of elemental energies, redirected by the [[True Gods]], fueled the magic of [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]], becoming a catalyst for the control of elemental energies.
 
 ## Golden Age of Knowledge
 In the era of divine enlightenment, the Harmonious Gods generously shared their timeless wisdom with mortals, leading to a golden age of knowledge. Magic became a disciplined pursuit, and the secrets of the world unfolded under the nurturing guidance of benevolent deities.

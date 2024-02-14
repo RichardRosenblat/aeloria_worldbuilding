@@ -110,6 +110,28 @@ Here are some cultural norms observed in various Bane-worshiping societies withi
 
 ## Political Structures
 
+Where the worship of Bane, the Strife Emperor, holds sway, distinctive political structures have emerged in various societies that align with the principles and themes of the deity. Here are some political structures associated with cultures that worship Bane:
+
+1. **Militaristic Hierarchies**: Bane-worshiping societies often adopt a militaristic hierarchy, where the highest positions of power are held by proven and skilled warriors. Military achievements and conquests determine one's political standing, and the ruling elite are expected to lead by example on the battlefield.
+    
+2. **War Councils**: Governance is carried out through war councils, consisting of the most accomplished military leaders and strategists. Decisions are made collectively, with the input of experienced warriors highly valued. The leader of the war council is often considered the highest political authority.
+    
+3. **Conquest-based Feudalism**: Some Bane-worshiping societies practice a form of conquest-based feudalism. Land and resources are distributed among loyal warriors, creating a system where allegiance to the ruling elite is rewarded with territories to govern.
+    
+4. **Triumphant Leader Cults**: Political power is concentrated in the hands of a triumphant leader who claims divine favor from Bane. This leader is seen as a living embodiment of the Strife Emperor's will, and their rule is justified by their military successes.
+    
+5. **Shackled Governance**: The symbol of shackles extends to the political realm, with rulers and officials adorning themselves with shackled motifs. This represents both their submission to Bane's authority and their commitment to maintaining order through force.
+    
+6. **Trial by Combat for Leadership**: In some societies, leadership disputes are resolved through trial by combat. Challengers must prove their worth in single combat against the current leader or their chosen champion, with the victor assuming or retaining political power.
+    
+7. **Anniversary Campaigns**: Political leaders are expected to embark on annual conquest campaigns to expand the borders of their territories. The success of these campaigns directly influences the leader's standing and political influence, reinforcing a constant state of expansion.
+    
+8. **Warrior Aristocracy**: Political power is concentrated in a warrior aristocracy, where only those who have achieved significant military success can hold influential positions. Non-military roles exist, but they are often subservient to the warrior class.
+    
+9. **Dark Inquisition**: A political entity known as the Dark Inquisition may exist, tasked with rooting out dissent, heresy, and potential threats to the ruling regime. This secretive organization ensures the loyalty of the populace through fear and intimidation.
+    
+10. **Conquest-based Economy**: The economy is centered around conquest and plunder. Tribute from conquered territories, along with resources seized during campaigns, fuels the economic prosperity of these societies. Merchants and traders are often associated with the military and conquest.
+
 ## Elemental Affinities
 
 | Elements |
@@ -143,6 +165,3 @@ During the times of creation, when the gods were creating their races, Bane crea
 
 for the god above can you create:
 
-now can you generate a table of some champions of the god across the ages, with their names, race, and a description of them
-now can you generate a list of holidays and festivals associated with them
-now can you generate a list of elements that could be associated with them

@@ -76,7 +76,7 @@ These magnificent creatures played a crucial role in the struggle for control ov
 
 Once a churning mass of turbulent energy, the [[Elemental Chaos]] transformed into an empty space, a void in which the [[elemental planes]] floated. However, the strength of the elements exceeded the expectations of even the divine. As the elements were sealed away, their energies began to leak from their confines, gradually refilling the [[Elemental Chaos]].
 
-Witnessing this unforeseen consequence, the [[True Gods]], ever resourceful, harnessed the escaping elemental energies. They redirected these potent forces to fuel the magic of Corellon, utilizing the very essence of the primordial elements to empower the divine and arcane arts. In this intricate dance between order and chaos, the dragons' pivotal role extended beyond mere containment, becoming a catalyst for the control of elemental energies.
+Witnessing this unforeseen consequence, the [[True Gods]], ever resourceful, harnessed the escaping elemental energies. They redirected these potent forces to fuel the magic of [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]], utilizing the very essence of the primordial elements to empower the divine and arcane arts. In this intricate dance between order and chaos, the dragons' pivotal role extended beyond mere containment, becoming a catalyst for the control of elemental energies.
 
 ## The Golden Age of Knowledge
 
