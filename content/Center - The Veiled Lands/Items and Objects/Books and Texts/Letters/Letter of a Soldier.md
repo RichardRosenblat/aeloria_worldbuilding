@@ -3,15 +3,24 @@ tags:
   - "#letter"
   - "#handout"
 ---
-_My Dearest,_
+*My love,*
 
-_I hope these words find you in better times than the ones I now endure. My eyes have witnessed the heavens ablaze, and the depths of hell freezing over. I've seen fish drown, and my ears have borne witness to the deafening roar of a Cataclysm, akin to a Tsar, yet with the chilling distinction that a Tsar shatters eardrums and a Cataclysm shatters hope._
+*I know this dusty letter will not find you, but I hope I do soon, at a better place than this. With these eyes of mine, I have witnessed the end of time; Heavens were set ablaze; the bowels of the earth were frozen; fish drowned and clocks ran out of ticks.*
 
-_My love, as you read this dusty letter, know that I may not return home as soon as I'd hoped. My soul has been eternally bound to this muddied earth, and the stars that once illuminated our nights now pave roads with destruction. Love, I stand on the precipice of becoming a ghost, wandering amidst the ashes of these desolate homes—scarred by flames, hatred, misguided patriotism, anger, and the perverse joy of witnessing organs strewn upon the streets._
+*It's been just a few days since the Cataclysm was unleashed. The screams of those souls still haunt me. The pillars were so bright all I could feel was dread. The fog burned everything and the water is undrinkable. The bunkers safe but the doors do not open. They sheltered me, but they cant treat me here.*
 
-_Forgive me, for all I ever wished for was a better life for us, a life of peace and prosperity. The songs here bear no resemblance to the melodies of our past. Gods and angels have turned their backs on us, kamikazes soar menacingly overhead, and clouds rain down fires that flood our world._
+*I am sorry, dear, I think i won't return home. I am about to become a ghost and haunt these ruins. I'll be bound here, to this remnant of a past marked by flames, by hatred, anger and the misguided patriotism. Their joy is to see our bodies upon the streets.*
 
-_The songs here are different, my love. Gods and angels have forsaken us, that impact changed something essencial yet i cannot discern what, clouds devour men now and monsters of our own hubris haunt us. These are the haunting refrains of a world forever changed._
+*All i wanted was a better life for us. But songs do not feel the same after what I've heard here. And all of the powers that could help us turned their back to us.*
 
-_With all my love, Gasparov_
+*Now the melodies are different, nothing feels as it did before, we lost something really important with this war, and as i write this it seems like the memories try escape my memory.* 
+*Clouds rain acid and fire, creatures beyond my nightmares soar over my head and things move on their own.*
+
+*I know this is not normal, but i don't remember what is anymore.* 
+
+*I keep dreaming of the shore, the sea is green and the green fog devoured our ships, only a few survivors remain in makeshift boats. But the storms keep bringing giants from the depths, they emerge in thunders, but they never move, just watch before rotting away with a lightning strike.*
+
+*I yet don't know what it means. But i must go now, i struggle to keep my eyes open*
+
+*Igo-*
 
