@@ -62,6 +62,23 @@ _Eight-pointed star_
 ![[Corellon Appearance.png|400]]
 ## Religious Practices
 
+Here are some practices and rituals performed by the faithful:
+
+1. **The Artful Meditation:**
+    - Followers engage in a meditative practice where they seek inspiration and connection with the divine by reflecting on the beauty of the world and the arts. This involves contemplation of natural landscapes, artistic creations, or even participating in creative endeavors themselves.
+2. **The Weave's Embrace:**
+    - Devotees gather in sacred places, often adorned with symbols of the eight-pointed star, to perform intricate dances and movements symbolizing the interweaving of magic and the arts. This ritual is believed to invoke Corellon's favor and blessings upon the participants.
+3. **Ainulindalë Recitation:**
+    - Clerics and devout followers gather to recite a symbolic version of Ainulindalë, the Song of the Gods, in a harmonious manner. This recitation is considered a sacred act, aiming to resonate with the celestial forces that shaped the fey races and to honor Corellon's role as the creator.
+4. **Celestial Offerings:**
+    - Followers make offerings of artistic creations, such as paintings, sculptures, or finely crafted items, in sacred spaces dedicated to Corellon. These offerings are believed to please the Spellfather and strengthen the connection between the mortal realm and the divine.
+5. **Dance of the Fey Sisters:**
+    - This ritual happens during the appearance of the Fey Sisters during [[Days of The Week|Twinseve]], it involves a choreographed dance representing the celestial ballet of the Fey Sisters, Verdantia and Gelana. It is often performed during special celebrations and is considered a way to honor the delicate balance between light and shadow in the Feywild.
+6. **Spellbinding Festivals:**
+    - Periodic festivals are held where followers showcase their magical and artistic talents. These events celebrate the diverse expressions of magic and creativity, fostering a sense of community and shared devotion to Corellon.
+7. **Spider Queen's Bane Hunt:**
+    - As per Corellon's commandment to combat the followers of the Spider Queen, dedicated followers organize hunts to eliminate threats posed by Lolth and her minions. These hunts are both a practical way to fulfill Corellon's will and a symbolic act of resisting darkness.
+
 ## Cultural Norms
 
 ## Political Structures
