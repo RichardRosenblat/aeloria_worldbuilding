@@ -68,69 +68,69 @@ The Annihilator: Bane, God of Total Victory
 
 Followers of Bane, the Strife Emperor, engage in elaborate religious practices and rituals to honor their deity. Here are some of the key religious practices performed by Bane's devoted followers:
 
-1. **Warrior's Oath**: Initiates into the creed of Bane undertake a solemn Warrior's Oath, pledging allegiance to the God of War and Conquest. This oath often involves a symbolic act, such as drawing blood from their own palms and smearing it on an effigy of Bane.
-    
-2. **Bloody Rites of Victory**: After a successful battle, followers partake in the Bloody Rites of Victory. This ritual involves offering the spoils of war to Bane, including weapons, armor, and sometimes even prisoners of war. The belief is that the god blesses them with strength and dominance in future conflicts.
-    
-3. **Shackled Devotion**: A significant ritual involves followers wearing symbolic shackles during intense prayer sessions. This act represents their submission to Bane's authority and their readiness to conquer any obstacle in the god's name.
-    
-4. **Sacrificial Ceremonies**: To appease the Strife Emperor, followers engage in sacrificial ceremonies, offering animals or, in extreme cases, prisoners captured during conquests. The act is believed to strengthen the connection between the worshiper and Bane.
-    
-5. **Triumphant Processions**: During major victories or conquests, followers organize triumphant processions through the conquered territories. These processions include displays of captured banners, trophies, and symbols of their conquest, all dedicated to the glory of Bane.
-    
-6. **Battle Hymns and Chants**: The followers of Bane express their devotion through battle hymns and chants, praising the god's martial prowess and conquests. These musical expressions often accompany their war campaigns, boosting morale and intimidating their enemies.
-    
-7. **Nightly Vigils**: Dedicated worshipers undertake nightly vigils, standing guard in the name of Bane. This practice symbolizes eternal readiness for conflict and serves as a constant reminder of the god's ever-watchful presence.
-    
-8. **Clawed Communion**: A more esoteric ritual involves followers communing with Bane through symbolic clawed implements. These rituals are performed in private, with the belief that the god imparts strategic insights and strength to those who engage in this form of communion.
+  
+Real: Sure, let's delve into the religious practices and rituals of the followers of Bane, the Strife Emperor in your campaign:
+
+**Religious Practices and Rituals of the Cult of Bane:**
+
+1. **Blood Offering Ceremonies:**
+    - Followers regularly engage in rituals where they offer the blood of defeated enemies to Bane. The act symbolizes the triumph of chaos and conquest over order.
+2. **Warrior's Oath of Submission:**
+    - Before heading into battle, devotees of Bane recite a solemn oath pledging absolute loyalty and submission to the Strife Emperor. This oath reinforces the belief in the glory of conquest and the pursuit of power. This is the oath: _"In the shadows of conquest, I bind my soul, Blood-soaked pledges, the Strife Emperor's toll. Fear, my ally, in chaos I delight, Under Bane's gaze, I conquer the night. Disorder's wrath, rebellion's demise, In the Iron Fist's grip, dominance lies. To kill is pleasure, life's dark pursuit, In Bane's name, power absolute."_
+3. **Shackles of Dominance Rite:**
+    - A significant ritual involves leaving captives bound with shackles through extended periods of time. This ritual signifies the subjugation of the weak by the strong, echoing Bane's teachings of dominance and control.
+4. **Clawed Meditation:**
+    - Followers engage in meditative practices, adopting a clawed hand gesture reminiscent of Bane's symbol. This meditation is believed to channel the god's power, instilling ruthlessness and ferocity in the participants.
+5. **Triumphant Processions:**
+    - Victorious warriors organize processions to celebrate their conquests. These events involve parading through conquered territories, displaying symbols of the Iron Fist and showcasing the spoils of war.
+6. **Curse of Strife Remembrance:**
+    - Periodic ceremonies are conducted to remember the Curse of Strife, emphasizing the perpetual conflict embedded in the goblinoid races. This serves as a reminder of the necessity of chaos and conflict in the world.
+7. **Nightly Battle Hymns:**
+    - At nightfall, worshippers gather to sing martial hymns and chants praising Bane. These hymns recount the tales of the Strife Emperor's conquests and inspire the faithful to continue their relentless pursuit of power.
+8. **Conquest Festivals:**
+    - Festivals are held in honor of Bane, featuring real battles between captives, competitions, and displays of martial prowess. These events serve as opportunities for followers to prove their strength and dedication to the Strife Emperor.
 
 ## Cultural Norms
 
 Here are some cultural norms observed in various Bane-worshiping societies within the realm of Aeloria:
 
-1. **Hierarchy of Conquest**: Most Bane-worshiping cultures maintain a strict hierarchy based on martial prowess and conquest. Those who prove themselves on the battlefield ascend in social status, earning respect and authority within the community.
-    
-2. **Fear as a Virtue**: Fear is not only seen as a tool of power but also as a virtue. Cultures that worship Bane encourage the instillation of fear in their enemies and view it as a means to maintain order and control within their own societies.
-    
-3. **Martial Excellence**: The pursuit of martial excellence is a central tenet of these cultures. Training in combat skills, strategic thinking, and mastering the art of war is considered essential for individuals in Bane-worshiping societies.
-    
-4. **Ritualized Combat**: Dueling and ritualized combat play a significant role in settling disputes and proving one's worth. These competitions are often accompanied by religious ceremonies, with victories seen as a sign of favor from Bane.
-    
-5. **Warrior's Code**: Bane's followers adhere to a code of conduct that emphasizes discipline, loyalty, and honor on the battlefield. Acts of betrayal or cowardice are severely punished, reinforcing the importance of unwavering commitment to the Strife Emperor.
-    
-6. **Trophies of Conquest**: Displaying trophies from successful battles is a common practice among these cultures. Warriors adorn themselves with the spoils of war, such as enemy insignias, weapons, and other symbols of conquest, as a way to showcase their dedication to Bane.
-    
-7. **Shackled Symbolism**: The symbolism of shackles is prevalent in daily life. Clothing, jewelry, and even architecture may incorporate shackled motifs to signify the people's subservience to Bane and their commitment to the God of Conquest.
-    
-8. **Selective Isolationism**: While engaging in conquest and expansion, Bane-worshiping cultures often practice selective isolationism. They maintain strong borders and carefully control interactions with other societies, fostering a sense of uniqueness and self-sufficiency.
-    
-9. **Communal Discipline**: The communities place a strong emphasis on communal discipline. Individuals are expected to contribute to the greater good of the society, and any dissent or disobedience is swiftly addressed through collective punishment or exile.
-    
-10. **Dark Aesthetics**: Art and architecture in these cultures often reflect the dark and brutal aesthetics associated with Bane. Black and crimson are prominent colors, and depictions of war, conquest, and the Strife Emperor himself dominate artistic expressions.
+1. **Hierarchy of Strength:**
+    - In societies influenced by Bane, physical strength and martial prowess often determine one's social status. Those who excel in combat are revered, and positions of leadership are typically held by the most formidable warriors.
+2. **Blood Tithes to the Strife Emperor:**
+    - It's a common cultural norm for Bane-worshipping societies to offer regular blood tithes to their god. This can involve sacrifices of defeated foes or symbolic offerings to appease Bane's appetite for conquest.
+3. **Ritual Combat for Leadership:**
+    - Leadership positions are often contested through ritual combat. Individuals seeking to rise in rank or challenge existing leaders engage in combat trials, proving their worthiness in the eyes of the Strife Emperor.
+4. **Shackles as Symbols of Authority:**
+    - The use of shackles and flails as symbols of authority is widespread in Bane-influenced cultures. Leaders and warriors display these shackles as badges of honor, signifying their prowess in subjugation and dominance.
+5. **Individualistic Pursuit of Power**
+    - Influenced by Bane's teachings, societies emphasize the individual's pursuit of power and dominance. Members are driven to excel on a personal level, with the belief that individual strength is the pinnacle of might.
+6. **Goblinoid Inferiority Beliefs:**
+    - In regions where Bane is revered as the creator of goblinoids, cultural norms often emphasize the inferiority of goblinoid races. This can result in hierarchical structures where goblinoids are positioned at the lower end of the social order, reinforcing a sense of subservience and acknowledging their role as pawns in the battles of Bane.
+7. **Warrior's Code of Conduct:**
+    - Bane-worshipping cultures often adhere to a strict warrior's code that dictates honorable conduct in battle. This code may include rules for the treatment of defeated enemies, the use of certain weapons, and adherence to specific battle strategies.
+8. **Anniversary Celebrations of Conquests:**
+    - Communities celebrate the anniversaries of significant conquests and victories, organizing grand festivals and events. These celebrations serve as reminders of the triumph of chaos and the glory bestowed upon those who follow the Strife Emperor.
 
 ## Political Structures
 
 Where the worship of Bane, the Strife Emperor, holds sway, distinctive political structures have emerged in various societies that align with the principles and themes of the deity. Here are some political structures associated with cultures that worship Bane:
 
-1. **Militaristic Hierarchies**: Bane-worshiping societies often adopt a militaristic hierarchy, where the highest positions of power are held by proven and skilled warriors. Military achievements and conquests determine one's political standing, and the ruling elite are expected to lead by example on the battlefield.
-    
-2. **War Councils**: Governance is carried out through war councils, consisting of the most accomplished military leaders and strategists. Decisions are made collectively, with the input of experienced warriors highly valued. The leader of the war council is often considered the highest political authority.
-    
-3. **Conquest-based Feudalism**: Some Bane-worshiping societies practice a form of conquest-based feudalism. Land and resources are distributed among loyal warriors, creating a system where allegiance to the ruling elite is rewarded with territories to govern.
-    
-4. **Triumphant Leader Cults**: Political power is concentrated in the hands of a triumphant leader who claims divine favor from Bane. This leader is seen as a living embodiment of the Strife Emperor's will, and their rule is justified by their military successes.
-    
-5. **Shackled Governance**: The symbol of shackles extends to the political realm, with rulers and officials adorning themselves with shackled motifs. This represents both their submission to Bane's authority and their commitment to maintaining order through force.
-    
-6. **Trial by Combat for Leadership**: In some societies, leadership disputes are resolved through trial by combat. Challengers must prove their worth in single combat against the current leader or their chosen champion, with the victor assuming or retaining political power.
-    
-7. **Anniversary Campaigns**: Political leaders are expected to embark on annual conquest campaigns to expand the borders of their territories. The success of these campaigns directly influences the leader's standing and political influence, reinforcing a constant state of expansion.
-    
-8. **Warrior Aristocracy**: Political power is concentrated in a warrior aristocracy, where only those who have achieved significant military success can hold influential positions. Non-military roles exist, but they are often subservient to the warrior class.
-    
-9. **Dark Inquisition**: A political entity known as the Dark Inquisition may exist, tasked with rooting out dissent, heresy, and potential threats to the ruling regime. This secretive organization ensures the loyalty of the populace through fear and intimidation.
-    
-10. **Conquest-based Economy**: The economy is centered around conquest and plunder. Tribute from conquered territories, along with resources seized during campaigns, fuels the economic prosperity of these societies. Merchants and traders are often associated with the military and conquest.
+1. **Warlord Dominions:**
+    - Many Bane-influenced regions are characterized by a feudal system led by powerful warlords. These warlords, often skilled warriors and devout followers of Bane, govern territories through strength and martial prowess. The hierarchy is determined by the success in conquest and loyalty to the Strife Emperor.
+2. **Conquest Councils:**
+    - Some societies have a ruling council composed of the most formidable warriors and strategists. Known as Conquest Councils, these assemblies make decisions based on military prowess and adherence to Bane's teachings. The council members often engage in ritual combat to prove their worth.
+3. **Hierarchy of Subjugation:**
+    - Political structures in Bane-worshipping societies may revolve around a strict hierarchy based on the concept of subjugation. Leaders ascend based on their ability to subjugate and control, with the highest authority being the one who best embodies the principles of the Iron Fist.
+4. **Triumvirate Leadership:**
+    - In certain regions, a triumvirate leadership model may be established, with three leaders representing different aspects of Bane's teachings: war, conquest, and dominance. This political structure aims to balance the diverse facets of the Strife Emperor's influence.
+5. **Clan-based Confederacies:**
+    - Goblinoid-centric regions may have political structures built around clan-based confederacies. Each goblinoid clan has a strict species-based hierarchy led by a chieftain or warlord who pledges allegiance to a higher ruling authority, creating a network of interconnected power structures.
+6. **Feudal Oligarchies:**
+    - Feudal systems dominated by oligarchies may emerge in Bane-worshipping societies. Wealth and military prowess play crucial roles in determining who holds positions of power within these oligarchies, reinforcing the values of conquest and dominance.
+7. **Shackled Territories:**
+    - Political boundaries and administrative divisions may be organized around territories marked by the Strife Emperor's symbol – the shackles. Each territory is ruled by a lord or governor who enforces Bane's commandments and contributes to the god's insatiable appetite for chaos.
+8. **Military Theocracies:**
+    - Some regions develop military theocracies where the priesthood of Bane holds significant political influence. The highest-ranking priests may have direct control over military forces, intertwining religious devotion with the governance of the realm.
 
 ## Elemental Affinities
 
@@ -162,6 +162,4 @@ Where the worship of Bane, the Strife Emperor, holds sway, distinctive political
 
 During the times of creation, when the gods were creating their races, Bane created the goblinoids, beings that can adapt and fight. And to ensure their battle would be eternal, he decided to create the Curse of Strife, a blood curse that fates all goblinoids to become evil. Although some goblinoids are capable of surpassing it thought great effort
 
-
-for the god above can you create:
 

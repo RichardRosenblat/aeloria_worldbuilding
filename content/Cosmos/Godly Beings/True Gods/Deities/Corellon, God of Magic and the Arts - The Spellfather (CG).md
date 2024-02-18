@@ -20,7 +20,7 @@ aliases:
   - The Matron of the Arts
   - The Runic Wonder
 ---
-# Name
+# Corellon, God of Magic and the Arts - The Spellfather (CG)
 
 ## Culture Names
 
@@ -47,7 +47,7 @@ The Elven Protector: Corellon, God of the Feyfolk
 ## Commandments
 
 - _Create, inspire, and find beauty in all that you do._
-- _Follow the echoes of lost magic, forgotten sites, and ancient art, for within these lie the_ Spellfather*'s first works.*
+- _Follow the echoes of lost magic, forgotten sites, and ancient art, for within these lie the_ Spellfather's first works.
 - _Combat the followers of the Spider Queen wherever they may be._
 
 ## Symbols
@@ -71,6 +71,8 @@ _Eight-pointed star_
 All of them
 
 ## Home Plane
+
+[[Arborea]]
 
 ## Champions
 
