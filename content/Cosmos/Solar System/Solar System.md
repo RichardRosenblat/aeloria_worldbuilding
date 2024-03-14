@@ -22,15 +22,15 @@ In this realm, the solar system becomes more than a mere astronomical configurat
 These are the  bodies of the system
 
 | Name                          | Type          | Color                                | Rings | Rings Color                         | Moons | Moons With Rings |
-| ----------------------------- |:------------- |:------------------------------------ | ----- |:----------------------------------- |:----- |:---------------- |
+| ----------------------------- | :------------ | :----------------------------------- | ----- | :---------------------------------- | :---- | :--------------- |
 | [[Solis]]                     | Star          | Bright White                         | No    | None                                | 0     | 0                |
-| [[Pyrosphere]]                | Rocky planet  | Glowing Red and Orange                       | No    | None                                | 0     | 0                |
-| [[Solaurum]]                    | Rocky planet  | Shimmering Gold                              | No    | None                                | 0     | 0                |
+| [[Pyrosphere]]                | Rocky planet  | Glowing Red and Orange               | No    | None                                | 0     | 0                |
+| [[Solaurum]]                  | Rocky planet  | Shimmering Gold                      | No    | None                                | 0     | 0                |
 | [[Fey Sisters]]-[[Verdantia]] | Binary planet | Vibrant green                        | Yes   | Faint blue with ice rocks           | 2     | 1                |
 | [[Fey Sisters]]-[[Gelana]]    | Binary planet | White with clouds  and green patches | Yes   | Translucent turquoise with mandalas | 2     | 0                |
 | [[Aeloria]]                   | Rocky planet  | Green and blue                       | No    | None                                | 1     | 0                |
 | [[Celestra]]                  | Gas giant     | white with red blinking red center   | No    | None                                | 2     | 1                |
-| [[Mossloch]]                | Gas giant     | Green swirling atmosphere            | Yes   | Translucent golden                  | 16    | 2                |
+| [[Mossloch]]                  | Gas giant     | Green swirling atmosphere            | Yes   | Translucent golden                  | 16    | 2                |
 | [[Tormentia]]                 | Gas giant     | Multicolored and swirling            | Yes   | Blue Halos with blue lines          | 20    | 3                |
 | [[Grimmora]]                  | Dwarf planet  | Gray                                 | No    | None                                | 0     | 0                |
 

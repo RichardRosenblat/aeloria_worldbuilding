@@ -24,6 +24,7 @@ tags:
 - [x]  create general text about divine beings and explain that their full classification is Non-Elemental Divine Beings
 - [ ]  create the [[true gods]]
 - [ ] Rewrite handouts
+- [ ] Create symbols/sigils for planets and moons
 - [ ] Commision artist for Aena and Kryela apperance
 - [ ]  Create the other godly beings
 - [ ]  Finish re checking the [[elemental planes]]
