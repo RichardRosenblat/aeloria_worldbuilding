@@ -70,6 +70,8 @@ aliases:
 
 ![[Aena Appearance Old.png]]
 
+![[Aena Appearance 1.png]]
+*The art above is made using ai*
 
 ## Religious Practices
 

@@ -20,7 +20,7 @@ tags:
     - [x]  cultures might attribute elemental energies to each planet
     - [x]  cultures might assign positive and negative personal future profecies to each planet
 - [x]  finish celestial bodies and cosmic phenomena
-- [x]  add listst to gods
+- [x]  add list to gods
 - [x]  create general text about divine beings and explain that their full classification is Non-Elemental Divine Beings
 - [ ]  create the [[true gods]]
 - [ ] Rewrite handouts

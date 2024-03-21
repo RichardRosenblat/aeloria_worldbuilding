@@ -20,9 +20,14 @@ tags:
 - the island had a great forest and Marcus decided to go exploring, he kept walking and noticed the forest starting to wilt and perish as they ventured deeper into the forest and found the [[Whistling Fields]]
 - He mourns the loss of 6 of his crew-mates while he was in the [[Whistling Fields]] as they fell victim of the [[Whistling Fields#^7280d2|Osseous Embrace]] 
 - He spend 5 days in the fields ^7e90ab
-  1. in the first day nothing happened they just explored the location, but they lost track of one of the crew members(A female dwarf named Borindil)
-  2. on the second day while Marcus was talking to a crew member (An elven male called Gulintras)  that was foraging with him for any material to make a fire, he lost eyesight of his Gulintras, and then Gulintras stopped answering, when Marcus came to check he found that Gulintras was taken by the Osseous Embrace
-  3. On the third day the crew found the skeleton and clothes of Borindil, and some hours after another crewmember was found be taken by the Ossesous Embrace (a human male called Mintras) by Marcus, the crew decided to leave the place by finishing exploring it and going through the fields until it's end, and then circuling the fields on the way back to the ship
-  4. On the morning of the fourth day they found the skeleton of another crewmember (Aryl, a female tiefling), that made the crew change their plans and decide to leave the fields and go back to the ship by going back the way they came
-  5. the last day the crew lost 2 men at the same time, (Patyr and Ahlor both human males) Patyr was helping Ahlor to calm down because he was scared of the place, Ahlor was crying loudly under a big spike while Patyr tried to help him calm down, Marcus was watching and went to drink from his canteen, when the crying suddenly stopped, when Marcus looked back he saw the skeleton and clothes of both men, that struck fear into the hearts of the crew and they decided to leave the place immediately, Marcus was the last one to leave the fields, and he was running scared and terrified by the place with what remained of his crew
+	- The protagonist, Marcus Valerian, leads an expedition to an unnamed island in the Serpent's Maw Ocean.
+	- The island is covered in dense jungle, but the explorers stumble upon a mysterious area called "The Whistling Fields."
+	- The Whistling Fields are characterized by gray, stone-like ground with spikes of Dead Stone rising from it.
+	- The crew discovers strange blue radiance pulsing within the stone, emitting an ominous vibe.
+	- As they explore further, members of the crew start disappearing without a trace, taken by an entity dubbed the Osseous Embrace.
+	- Despite attempts to leave the Whistling Fields, the crew finds themselves unable to escape once they've set foot in the area.
+	- Fear and despair grip the remaining members as they struggle to survive and find a way out.
+	- Ultimately, they manage to flee back into the jungle, leaving behind the bones of their fallen comrades.
+	- The protagonist reflects on the tragedy, haunted by the memory of those lost to the enigmatic forces of the forsaken land.
+		  
 
