@@ -138,7 +138,7 @@ The [[Divine Spark|Axiomatic Nullity]]'s intense nothingness, existing at the in
 ![[The Impact (TI)#Aena, goddess of kindness, creation and order - The Architect (LG) Aena and Kryela, goddess of malice, destruction and chaos - The Undoing (LE) Kryela 's Overwhelming Presence]]
 ### [[The New World (Mythical)|The New World]]
 ![[The Reform (RF)#Divine Reflection]]
-![[The Reform (RF)#Reshaping Corellon's Essence]]
+![[The Reform (RF)#Reshaping Corellon, God of Magic and the Arts - The Spellfather (CG) Corellon 's Essence]]
 ![[The Reform (RF)#**Radiant Transformation**]]
 ![[The Reform (RF)#**Erasing the Traces**]]
 

@@ -18,7 +18,7 @@ tags:
 - He wrote the book [[Beyond the maw]] talking about his adventures in the Serpent's Maw Ocean
 - He ended up sailing to an unnamed big island somewhere far in the Serpent’s Maw Ocean 
 - the island had a great forest and Marcus decided to go exploring, he kept walking and noticed the forest starting to wilt and perish as they ventured deeper into the forest and found the [[Whistling Fields]]
-- He mourns the loss of 6 of his crew-mates while he was in the [[Whistling Fields]] as they fell victim of the [[Whistling Fields#^7280d2|Osseous Embrace]] 
+- He mourns the loss of 5 of his crew-mates while he was in the [[Whistling Fields]] as they fell victim of the [[Whistling Fields#^7280d2|Osseous Embrace]] 
 - He spend 5 days in the fields ^7e90ab
 	- The protagonist, Marcus Valerian, leads an expedition to an unnamed island in the Serpent's Maw Ocean.
 	- The island is covered in dense jungle, but the explorers stumble upon a mysterious area called "The Whistling Fields."
