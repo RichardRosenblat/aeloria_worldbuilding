@@ -1,6 +1,8 @@
 ---
 tags:
   - god_classification
+aliases:
+  - semi-deity
 ---
 # Semi-Deities in [[Aeloria]]
 

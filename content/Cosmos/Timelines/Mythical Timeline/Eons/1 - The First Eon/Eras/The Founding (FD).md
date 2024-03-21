@@ -47,7 +47,7 @@ To aid them in their divine task, they birthed a pantheon of [[True Gods]]:
 - **[[Avandra, Goddess of Change and Luck - The Changebringer (CG)|Avandra]]**
 - **[[Bane, God of War and Conquest - The Strife Emperor (LE)|Bane]]**
 - **[[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]**
-- **Erathis**
+- **[[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)|Erathis]]**
 - **[[Ethedok]]**
 - **Ioun**
 - **Kord**
@@ -59,7 +59,7 @@ To aid them in their divine task, they birthed a pantheon of [[True Gods]]:
 - **Gruumsh**
 - **Tharizdun**
 - **Torog**
-- **[[Bahamut, God  of justice and nobility - The Platinum Dragon (LG)|Bahamut]]**
+- **[[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]]**
 - **Lolth**
 - **Tiamat**
 - **[[Vordo]]**

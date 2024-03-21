@@ -1,6 +1,8 @@
 ---
 tags:
   - god_classification
+aliases:
+  - Ascended Being
 ---
 # Ascended Beings: Mortals Touched by Divinity
 

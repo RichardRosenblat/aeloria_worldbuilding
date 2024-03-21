@@ -39,7 +39,7 @@ The [[True Gods]], chastened by the presence of [[Aena, goddess of kindness, cre
 
 1. [[Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE)]]
 2. [[Avandra, Goddess of Change and Luck - The Changebringer (CG)]]
-3. [[Bahamut, God of Justice and Nobility - The Platinum Dragon (LG)]]
+3. [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)]]
 4. [[Bane, God of War and Conquest - The Strife Emperor (LE)]]
 5. [[Corellon, God of Magic and the Arts - The Spellfather (CG)]]
 6. [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)]]

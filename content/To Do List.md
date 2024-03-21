@@ -54,10 +54,10 @@ tags:
 - [ ]  Create Map
 - [ ]  Create Biomes
 - [ ]  Create Seas/Oceans
-- [ ]  Create Cultures
+- [ ]  Create Cultures and expand on it
 - [ ]  Create Kingdoms
 - [ ]  Create [[Timelines]]
-- [ ]  create holidays
+- [ ]  create more holidays
 - [ ] Add important Past Figures
 - [ ] Add more races
 - [ ] Create more monsters

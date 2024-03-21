@@ -27,7 +27,7 @@ Venturing through these gateways allows beings to swap places with their reflect
 
 ## Consequences of Unchecked Transitions
 
-However, there are dire consequences for those who linger too long without reversing the switch. Beyond a [[month]], the interplay of planar energies starts to warp the physical forms of the switched bodies.
+However, there are dire consequences for those who linger too long without reversing the switch. Beyond a [[Months|month]], the interplay of planar energies starts to warp the physical forms of the switched bodies.
 
 ### [[Shadowfell]] Afflictions
 

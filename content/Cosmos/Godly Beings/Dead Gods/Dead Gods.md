@@ -1,6 +1,8 @@
 ---
 tags:
   - god_classification
+aliases:
+  - Dead God
 ---
 # The Fate of Gods: Death and Beyond
 

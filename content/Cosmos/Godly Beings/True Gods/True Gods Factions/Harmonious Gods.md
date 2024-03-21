@@ -31,7 +31,7 @@ Guided by a deep understanding of the cosmic cycle, the Harmonious Gods sought t
 Amidst celestial discord, an unlikely alliance formed between the Harmonious Gods and the [[Defiant Gods]]. Despite their profound differences, the impending threat of chaotic primordial forces compelled these factions to set aside grievances, marking a delicate pact in the face of impending chaos.
 
 ## Dragons as Agents of Harmony
-In the collaboration between the Harmonious Gods and the [[Defiant Gods]], [[Bahamut, God  of justice and nobility - The Platinum Dragon (LG)|Bahamut]] and Tiamat, two formidable [[True Gods]], collaborated to give birth to dragons. Chromatic Dragons, created by Tiamat, were tasked with resisting elemental forces, while Metallic Dragons, crafted by [[Bahamut, God  of justice and nobility - The Platinum Dragon (LG)|Bahamut]], became wise and intelligent custodians of mortal realms.
+In the collaboration between the Harmonious Gods and the [[Defiant Gods]], [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]] and Tiamat, two formidable [[True Gods]], collaborated to give birth to dragons. Chromatic Dragons, created by Tiamat, were tasked with resisting elemental forces, while Metallic Dragons, crafted by [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]], became wise and intelligent custodians of mortal realms.
 
 ## Pivotal Role of Dragons
 These dragons played a crucial role in sealing potent primordial elements, creating [[elemental planes]] and casting them into the [[Elemental Chaos]]. The leakage of elemental energies, redirected by the [[True Gods]], fueled the magic of [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]], becoming a catalyst for the control of elemental energies.
@@ -52,7 +52,7 @@ These are the Harmonious Gods
 |  [[True Gods]]                                                        |
 | ---------------------------------------------------------------------- |
 | [[Avandra, Goddess of Change and Luck - The Changebringer (CG)]]       |
-| [[Bahamut, God  of justice and nobility - The Platinum Dragon (LG)]]    |
+| [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)]]    |
 | [[Corellon, God of Magic and the Arts - The Spellfather (CG)]]         |
 | [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)]]|
 | [[Ioun, Goddess of Knowledge - The Enlightened (N)]]                   |

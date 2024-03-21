@@ -54,7 +54,7 @@ This unlikely alliance marked a pivotal moment in the divine chronicles, as [[Tr
 
 ## The Birth of Dragons
 
-In the midst of the uneasy truce that bridged the chasm between the "[[Defiant Gods]]" and the "[[Harmonious Gods|Harmonious Deities]]", a remarkable collaboration unfolded. [[Bahamut, God  of justice and nobility - The Platinum Dragon (LG)|Bahamut]] and Tiamat, two formidable [[True Gods]] with disparate motives, united their divine powers to give birth to a new order: the dragons. These majestic beings were bestowed with immense power and a profound purpose, becoming the guardians of cosmic harmony.
+In the midst of the uneasy truce that bridged the chasm between the "[[Defiant Gods]]" and the "[[Harmonious Gods|Harmonious Deities]]", a remarkable collaboration unfolded. [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]] and Tiamat, two formidable [[True Gods]] with disparate motives, united their divine powers to give birth to a new order: the dragons. These majestic beings were bestowed with immense power and a profound purpose, becoming the guardians of cosmic harmony.
 
 ### Tiamat's Chromatic Dragons: Elemental Fury Unleashed
 
@@ -62,13 +62,13 @@ Tiamat, in her divine creativity, crafted the "**Chromatic Dragons**." These dra
 
 The chromatic dragons, each representing a different elemental aspect and color, stood as guardians against the forces that sought to disrupt the fabric of existence. Their chromatic scales saturated with the potent energy they wielded, a testament to their role in maintaining equilibrium in the face of cosmic turmoil.
 
-### [[Bahamut, God  of justice and nobility - The Platinum Dragon (LG)|Bahamut]]'s Metallic Dragons: Sentinels of Mortal Protection
+### [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]]'s Metallic Dragons: Sentinels of Mortal Protection
 
-On the other side of the divine collaboration, [[Bahamut, God  of justice and nobility - The Platinum Dragon (LG)|Bahamut]] gave life to the "**Metallic Dragons**." These majestic creatures were imbued with relentless power, standing as an unyielding barrier in their eternal duty to protect mortals. Unlike their chromatic counterparts, the metallic dragons were created with a focus on wisdom, intelligence, and profound magical abilities.
+On the other side of the divine collaboration, [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]] gave life to the "**Metallic Dragons**." These majestic creatures were imbued with relentless power, standing as an unyielding barrier in their eternal duty to protect mortals. Unlike their chromatic counterparts, the metallic dragons were created with a focus on wisdom, intelligence, and profound magical abilities.
 
 As time flowed, the metallic dragons grew not only in physical prowess but also in sagacity. They became wise and intelligent custodians of the mortal realms, utilizing their magical abilities to safeguard the beings they were sworn to protect. The metallic dragons stood as sentinels, unwavering in their commitment to ensuring the flourishing of mortal life amidst the ever-shifting tides of cosmic forces.
 
-Each of the metallic dragons, masterfully created by [[Bahamut, God  of justice and nobility - The Platinum Dragon (LG)|Bahamut]], stood as a living testament to the essence of their respective metallic nature. Their scales, shimmering with the brilliance of their unique composition, represented not only physical strength but also the metaphysical qualities associated with each metal.
+Each of the metallic dragons, masterfully created by [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]], stood as a living testament to the essence of their respective metallic nature. Their scales, shimmering with the brilliance of their unique composition, represented not only physical strength but also the metaphysical qualities associated with each metal.
 
 ## The Pivotal Role of Dragons
 
