@@ -3,7 +3,7 @@ tags:
   - "#setting"
 aliases: []
 ---
-This setting takes place in a homebrew world with some homebrew [[Custom Homebrew Rules]] and [[Character Options]], you can also check extra information in the note [[Trivia]]
+This setting takes place in a homebrew world with some homebrew [[Custom Homebrew Rules]] and [[Character Options]], you can also check extra information in the note [[Setting Trivia]]
 
 # Principles and themes
 

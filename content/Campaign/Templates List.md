@@ -8,20 +8,23 @@ tags:
 
 These are the templates i use in these notes
 
-| Template |
-| ---- |
-| [[Templace - Ruined City]] |
-| [[Template - City]] |
-| [[Template - Duplicate]] |
+| Template                                    |
+| ------------------------------------------- |
+| [[Templace - Ruined City]]                  |
+| [[Template - City]]                         |
+| [[Template - Duplicate]]                    |
 | [[Template - Note from  5e.tools and Wiki]] |
-| [[Template - Note from 5e.tools]] |
-| [[Template - Note from Wiki]] |
-| [[Template - Note to do]] |
-| [[Template - NPC]] |
-| [[Template - Foster Note]] |
-| [[Template - Race]] |
-| [[Template - Eon]] |
-| [[Template - Era]] |
-| [[Template - Timeline Event]] |
-| [[Template - Holiday]] |
-| [[Template - God]] |
+| [[Template - Note from 5e.tools]]           |
+| [[Template - Note from Wiki]]               |
+| [[Template - Note to do]]                   |
+| [[Template - NPC]]                          |
+| [[Template - Foster Note]]                  |
+| [[Template - Race]]                         |
+| [[Template - Eon]]                          |
+| [[Template - Era]]                          |
+| [[Template - Timeline Event]]               |
+| [[Template - Holiday]]                      |
+| [[Template - God]]                          |
+| [[Template - Material]]                     |
+| [[Template - Culture]]                      |
+| [[Template - State]]                        |
