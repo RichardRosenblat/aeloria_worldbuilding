@@ -1,4 +1,4 @@
-### Culture Name:
+# Culture Name:
 
 #### Overview:
 
@@ -63,3 +63,46 @@ Impact of this culture on the broader world of [[Aeloria]], including its relati
 #### Notable Figures:
 
 Examples of influential individuals, leaders, heroes, or cultural icons associated with the culture.
+
+#### Holidays:
+
+Significant celebrations, festivals, or observances unique to this culture.
+
+#### Prevalent Creation Myth:
+
+Details of the culture's own creation myth or origin story.
+
+#### Foods:
+
+Examples of typical cuisine and culinary traditions, including:
+
+- Mind-altering substances
+- Carbohydrate-rich dishes
+- Fried dough specialties
+- Soups and stews
+- Pickled foods
+- Fermented foods
+
+#### Stories/Folklore:
+
+Examples of traditional stories, myths, or folklore, including tales about:
+
+- Dragons
+- Vampires
+- Bogeymen or small stories told to children
+
+#### Fashion:
+
+Distinctive styles of clothing, accessories, and adornments favored by members of the culture.
+
+#### Architecture:
+
+Characteristics of the culture's architectural style, building materials, and urban planning.
+
+#### Weapons/Fighting Style:
+
+Typical weapons and combat techniques employed by warriors or defenders of the culture.
+
+#### Miscellaneous Details:
+
+Any additional noteworthy aspects of the culture not covered in the above sections.
