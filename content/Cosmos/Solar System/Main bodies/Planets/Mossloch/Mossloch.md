@@ -67,11 +67,11 @@ The ocean surrounding Mossloch is composed of saltwater, adding to the planet's 
 
 ### Description
 
-Hidden within the oceanic depths of Mossloch, ancient ruins attributed to Merlin take the form of underwater temples. These structures channel the planet's magical energy, creating a unique underwater sanctuary.
+Hidden within the oceanic depths of Mossloch, ancient ruins attributed to [[Merlin]] take the form of underwater temples. These structures channel the planet's magical energy, creating a unique underwater sanctuary.
 
 ### Purpose
 
-Merlin's ruins on Mossloch served as sanctuaries for the study of water-based magic and conducted experiments harnessing the magical properties of the coral core.
+[[Merlin]]'s ruins on Mossloch served as sanctuaries for the study of water-based magic and conducted experiments harnessing the magical properties of the coral core.
 
 ## Atmosphere
 
@@ -91,7 +91,7 @@ The breathable atmosphere surrounding Mossloch plays a crucial role in sustainin
 
 ### Exists
 
-Mossloch is accompanied by an artificial satellite known as the Oceanic Dreamer, a creation of Merlin's ingenuity.
+Mossloch is accompanied by an artificial satellite known as the Oceanic Dreamer, a creation of [[Merlin]]'s ingenuity.
 
 ### Description
 

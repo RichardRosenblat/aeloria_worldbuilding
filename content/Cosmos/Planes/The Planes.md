@@ -6,7 +6,7 @@ tags:
 
 ## Overview
 
-In the vast and intricate cosmology of [[Aeloria]], the multiverse is comprised of various planes, each with its unique characteristics, energies, and interconnections. These planes serve as the foundational elements shaping the reality within the campaign world. Here, we delve into the [[Metaphysical Planes]], [[Echo Planes]], [[Liminal Planes]], Metapsychic Planes, and the mysterious [[Non-realities]] that collectively form the fabric of [[Aeloria]]'s existence.
+In the vast and intricate cosmology of [[Aeloria]], the multiverse is comprised of various planes, each with its unique characteristics, energies, and interconnections. These planes serve as the foundational elements shaping the reality within the campaign world. Here, we delve into the [[Metaphysical Planes]], [[Echo Planes]], [[Liminal Planes]], [[Metapsychic Planes]], and the mysterious [[Non-realities]] that collectively form the fabric of [[Aeloria]]'s existence.
 
 ## [[Metaphysical Planes]]
 
@@ -30,14 +30,14 @@ Individuals are absent from reflections in [[Echo Planes]], creating an otherwor
 ### Definition
 [[Liminal Planes]], also known as [[Liminal Planes|Transition Planes]], act as bridges between various planes, facilitating the flow of energies and entities. They embody the Principles of continuity and change.
 
-## Metapsychic Planes
+## [[Metapsychic Planes]]
 
 ### Definition
-Metapsychic Planes, or "[[Metapsychic Planes|Realms of Thought and Soul]]," are where minds and souls find existence. These planes are deeply intertwined with consciousness, thoughts, and emotions.
+[[Metapsychic Planes]], or "[[Metapsychic Planes|Realms of Thought and Soul]]," are where minds and souls find existence. These planes are deeply intertwined with consciousness, thoughts, and emotions.
 ### Layers
-Metapsychic planes are often divided into layers, each representing different aspects of alignment.
+[[Metapsychic planes]] are often divided into layers, each representing different aspects of alignment.
 
-### Traveling the Outer Planes
+### Traveling the [[Metapsychic Planes|Outer Planes]]
 Travel between the [[Metapsychic Planes|Outer Planes]] involves astral projection, plane shift, and portals. The River Styx and the Infinite Staircase connect multiple [[Metapsychic Planes|Outer Planes]], providing avenues for exploration.
 
 ## [[Non-realities]]

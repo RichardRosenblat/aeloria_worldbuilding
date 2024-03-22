@@ -36,11 +36,11 @@ The oceans surrounding Verdantia are slightly acidic, adding a unique characteri
 
 ### Description
 
-Hidden deep within Verdantia's lush forests lie the ancient ruins attributed to Merlin. These ruins take the form of temples dedicated to nature-based magic, resonating with the energy of the planet itself.
+Hidden deep within Verdantia's lush forests lie the ancient ruins attributed to [[Merlin]]. These ruins take the form of temples dedicated to nature-based magic, resonating with the energy of the planet itself.
 
 ### Purpose
 
-Merlin's ruins on Verdantia hold sacred knowledge of nature magic, serving as a sanctuary for his druidic allies and a focal point for the study and preservation of the planet's magical essence.
+[[Merlin]]'s ruins on Verdantia hold sacred knowledge of nature magic, serving as a sanctuary for his druidic allies and a focal point for the study and preservation of the planet's magical essence.
 
 ## Atmosphere
 

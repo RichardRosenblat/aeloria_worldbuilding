@@ -25,7 +25,7 @@ tags:
 - [ ]  create the [[true gods]]
 - [ ] Rewrite handouts
 - [ ] Create symbols/sigils for planets and moons
-- [ ] Commision artist for Aena and Kryela apperance
+- [ ] Commision artist for [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]] apperance
 - [ ]  Create the other godly beings
 - [ ]  Finish re checking the [[elemental planes]]
     - [ ]  [[Feywild]]

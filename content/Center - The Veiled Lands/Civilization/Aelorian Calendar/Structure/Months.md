@@ -59,7 +59,7 @@ In the [[Aelorian Calendar]], time unfolds in a cyclical dance of seasons, each 
 
 1. **Leafturn:** At the beginning of fall, leaves start to change color and fall from the trees. "Leafturn" represents the transition as leaves begin to change, and the season takes a different turn.
 2. **Mistfall:** Mid-fall is often marked by cool, misty mornings and an enchanting atmosphere. "Mistfall" captures the mystical and foggy ambiance of the season's middle part.
-3. **Moonharvest:** The end of fall coincides with the full moon closest to the harvest, signifying the completion of the season's bountiful harvest. "Moonharvest" combines the moon's significance with the plentiful crops gathered during this time.
+3. **Moonharvest:** The end of fall coincides with the full moon closest to the harvest, signifying the completion of the season's bountiful harvest. "Moonharvest" combines [[The Moon (Aeloria's)|the moon]]'s significance with the plentiful crops gathered during this time.
 
 ## Conversion
 

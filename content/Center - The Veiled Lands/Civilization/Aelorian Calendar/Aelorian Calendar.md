@@ -22,7 +22,7 @@ The [[Aeloria|Aelorian]] calendar, meticulously crafted by The Archivists, serve
 - **Days per [[Months|Month]]**: Consistency reigns as every [[Months|month]] consists of 30 days, creating a harmonious rhythm in the [[Aeloria|Aelorian]] way of life.
 - **[[Days of The Week|Days per week]]**: A [[Days of The Week|week]] in the [[Aeloria|Aelorian]] calendar unfolds over 7 days. This number is not arbitrary; it corresponds to the appearance of the planetary bodies in the [[Aeloria|Aelorian]] sky. Each of the seven days is associated with one of the main celestial bodies of the [[solar system]], presenting themselves one at a time in a weekly cycle.
 - **Total Days in a Year**: The [[Aeloria|Aelorian]] year encompasses a total of 360 days, a carefully calculated duration that aligns with the intricate cosmic dance of [[Aeloria]] around [[Solis]].
-- **Lunar Cycle**: Mirroring the natural magic of [[Aeloria]], the moon takes precisely a [[Months|month]] to transition from full moon to full moon, adding a celestial touch to the passage of time.
+- **Lunar Cycle**: Mirroring the natural magic of [[Aeloria]], [[The Moon (Aeloria's)|the moon]] takes precisely a [[Months|month]] to transition from full moon to full moon, adding a celestial touch to the passage of time.
 - **Hours, Minutes, and Seconds**: A day in [[Aeloria]] is divided into 24 hours, each hour comprising 60 minutes, and each minute further subdivided into 60 seconds. This meticulous division ensures precise time measurement in the realms.
 
 ## Holidays

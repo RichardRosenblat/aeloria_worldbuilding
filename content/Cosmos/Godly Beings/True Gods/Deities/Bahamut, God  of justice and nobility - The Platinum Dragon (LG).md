@@ -91,7 +91,7 @@ _Silver dragon's head in profile_
 1. **Honor in Truth:**
     - Followers place a high value on honesty and integrity. Lying is considered a grave offense, and individuals are expected to uphold the principles of truthfulness in their interactions.
 2. **Celestial Alignment:**
-    - Many cultures that follow Bahamut orient their daily lives and activities according to celestial events. The appearance of Celestra, especially during Flaregloom, is considered an auspicious time for significant events, celebrations, or important decisions.
+    - Many cultures that follow Bahamut orient their daily lives and activities according to celestial events. The appearance of [[Celestra]], especially during [[Days of The Week|Flaregloom]], is considered an auspicious time for significant events, celebrations, or important decisions.
 3. **Platinum Aesthetics:**
     - The use of, Bahamut's symbols, platinum or silver in clothing, accessories, and architecture is a common practice among Bahamut worshippers. This reflects their devotion to the Platinum Dragon and serves as a symbolic representation of their commitment to justice and nobility.
 4. **Community Unity:**

@@ -1,6 +1,7 @@
 ---
 aliases:
   - Aeloria's Moon
+  - The Moon
 tags:
   - solar_system
   - moon
@@ -16,7 +17,7 @@ The celestial body is simply known as "Moon," a humble yet profound designation 
 ## Myth
 ### Equatorial canyon
 
-Tales speak of the might of King Arthur, that during one of his experiments with the powerful sword, Excalibur, he was able to slice the moon itself, cutting it in two with the magical sword. The Equatorial canyon of the Moon would be the proof of this
+Tales speak of the might of King [[Arthur Pendragon]], that during one of his experiments with the powerful sword, Excalibur, he was able to slice the moon itself, cutting it in two with the magical sword. The Equatorial canyon of the Moon would be the proof of this
 
 ### Creation
 
@@ -58,7 +59,7 @@ In gratitude for the profound experience of love, Sehanine, once a seeker of com
 
 The lunar surface showcases an intricate tapestry of craters, each marking a point of impact in the moon's ancient history. These scars bear witness to the celestial history that unfolded over eons, contributing to the moon's unique character.
 
-[[Aeloria]]'s Moon boasts a prominent equatorial canyon, a majestic feature that adds both mystery and beauty to its appearance. This celestial canyon, with its vast expanse and intricate geological formations, creates a visual spectacle when observed through telescopes. The presence of such a distinctive feature enhances the moon's allure, captivating astronomers and casual stargazers alike. Tales tell that this was made when King Arthur was experimenting with his famous sword Excalibur
+[[Aeloria]]'s Moon boasts a prominent equatorial canyon, a majestic feature that adds both mystery and beauty to its appearance. This celestial canyon, with its vast expanse and intricate geological formations, creates a visual spectacle when observed through telescopes. The presence of such a distinctive feature enhances the moon's allure, captivating astronomers and casual stargazers alike. Tales tell that this was made when King [[Arthur Pendragon]] was experimenting with his famous sword Excalibur
 
 Within the equatorial canyon, geological formations tell a story of the moon's past. Ancient upheavals and cosmic events have sculpted the canyon's features, leaving behind a testament to the enduring and ever-changing nature of [[Aeloria]]'s Moon.
 

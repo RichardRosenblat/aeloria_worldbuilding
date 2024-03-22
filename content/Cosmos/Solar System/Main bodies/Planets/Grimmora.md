@@ -55,11 +55,11 @@ Grimmora remains untouched by the companionship of moons, its solitary existence
 
 ### Description
 
-Hidden within the extensive underground cave system of Grimmora lies Merlin's Ruins. These ancient structures safeguard the secrets of earth and shadow magic, buried deep within the planet's heart.
+Hidden within the extensive underground cave system of Grimmora lies [[Merlin]]'s Ruins. These ancient structures safeguard the secrets of earth and shadow magic, buried deep within the planet's heart.
 
 ### Purpose
 
-Merlin's Ruins in Grimmora served as a sanctuary for the study of earth magic and as a center for conducting experiments with the shadowy properties inherent in the black sea.
+[[Merlin]]'s Ruins in Grimmora served as a sanctuary for the study of earth magic and as a center for conducting experiments with the shadowy properties inherent in the black sea.
 
 ## Atmosphere
 
@@ -79,8 +79,8 @@ Grimmora's inhospitable atmosphere, or rather the lack thereof, stands as a barr
 
 ### Exists
 
-In the desolation of Grimmora, an artificial satellite named the Dark Observer hovers, a creation of Merlin's design.
+In the desolation of Grimmora, an artificial satellite named the Dark Observer hovers, a creation of [[Merlin]]'s design.
 
 ### Description
 
-The Dark Observer, a product of Merlin's craftsmanship, diligently monitors the planet's crater formations and explores the shadowy properties enveloping the black lake. Serving as a sentinel in the cosmic emptiness, it stands as a testament to Merlin's pursuit of knowledge in the most desolate of realms.
+The Dark Observer, a product of [[Merlin]]'s craftsmanship, diligently monitors the planet's crater formations and explores the shadowy properties enveloping the black lake. Serving as a sentinel in the cosmic emptiness, it stands as a testament to [[Merlin]]'s pursuit of knowledge in the most desolate of realms.

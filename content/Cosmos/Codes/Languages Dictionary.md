@@ -61,20 +61,20 @@ tags:
 
 ## Eldorwyn/Eldar Dialect 
 
-| Word | Meaning |
-| :--- | :--- |
-| [[Ainulindalë]] | Music of creation / Music of the gods |
-| Eladrin | Wise-ones / Eladrin (Arcaic word) |
-| Eldar | Ones of the [[Solis\|Sun]] (Eldorwyn elfs) |
-| Eldaril | Wise-one (Elf) |
-| Eldarin | Ones of the Moon  (Harukaze elfs) |
-| Eldor | Elvish |
-| Eldraen | Wise-ones (Elfs) |
-| Eldren | Ancient ones (Fey) |
-| [[Over-Deities\|Iluvatar]] | Parents of all |
-| Lúmirthil | Rest of the whole (Elven trance) |
-| [[Harmonious Gods\|Maiar]] | Brotherhood |
-| [[Defiant Gods\|Vaiar]] | Tyrants |
+| Word                       | Meaning                                                     |
+| :------------------------- | :---------------------------------------------------------- |
+| [[Ainulindalë]]            | Music of creation / Music of the gods                       |
+| Eladrin                    | Wise-ones / Eladrin (Arcaic word)                           |
+| Eldar                      | Ones of the [[Solis\|Sun]] (Eldorwyn elfs)                  |
+| Eldaril                    | Wise-one (Elf)                                              |
+| Eldarin                    | Ones of [[The Moon (Aeloria's)\|The Moon]]  (Harukaze elfs) |
+| Eldor                      | Elvish                                                      |
+| Eldraen                    | Wise-ones (Elfs)                                            |
+| Eldren                     | Ancient ones (Fey)                                          |
+| [[Over-Deities\|Iluvatar]] | Parents of all                                              |
+| Lúmirthil                  | Rest of the whole (Elven trance)                            |
+| [[Harmonious Gods\|Maiar]] | Brotherhood                                                 |
+| [[Defiant Gods\|Vaiar]]    | Tyrants                                                     |
 ## Harukaze/Eldarin Dialect
 
 | Word | Meaning |

@@ -18,7 +18,7 @@ aliases:
 	  data-title='The First Eon'
 	  data-type='range' 
 	  > 
-	This Eon is the start of the universe and it ends with the creation of [[Aeloria]].
+	This Eon is the start of the universe and it ends with the creation of Aeloria.
 </span>
 ```
 

@@ -21,11 +21,11 @@ tags:
 - He mourns the loss of 5 of his crew-mates while he was in the [[Whistling Fields]] as they fell victim of the [[Whistling Fields#^7280d2|Osseous Embrace]] 
 - He spend 5 days in the fields ^7e90ab
 	- The protagonist, Marcus Valerian, leads an expedition to an unnamed island in the Serpent's Maw Ocean.
-	- The island is covered in dense jungle, but the explorers stumble upon a mysterious area called "The Whistling Fields."
-	- The Whistling Fields are characterized by gray, stone-like ground with spikes of Dead Stone rising from it.
+	- The island is covered in dense jungle, but the explorers stumble upon a mysterious area called "The [[Whistling Fields]]."
+	- The [[Whistling Fields]] are characterized by gray, stone-like ground with spikes of Dead Stone rising from it.
 	- The crew discovers strange blue radiance pulsing within the stone, emitting an ominous vibe.
 	- As they explore further, members of the crew start disappearing without a trace, taken by an entity dubbed the Osseous Embrace.
-	- Despite attempts to leave the Whistling Fields, the crew finds themselves unable to escape once they've set foot in the area.
+	- Despite attempts to leave the [[Whistling Fields]], the crew finds themselves unable to escape once they've set foot in the area.
 	- Fear and despair grip the remaining members as they struggle to survive and find a way out.
 	- Ultimately, they manage to flee back into the jungle, leaving behind the bones of their fallen comrades.
 	- The protagonist reflects on the tragedy, haunted by the memory of those lost to the enigmatic forces of the forsaken land.

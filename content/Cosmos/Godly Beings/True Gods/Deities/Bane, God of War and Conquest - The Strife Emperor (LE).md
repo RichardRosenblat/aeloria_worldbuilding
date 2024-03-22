@@ -92,7 +92,7 @@ Real: Sure, let's delve into the religious practices and rituals of the follower
 
 ## Cultural Norms
 
-Here are some cultural norms observed in various Bane-worshiping societies within the realm of Aeloria:
+Here are some cultural norms observed in various Bane-worshiping societies within the realm of [[Aeloria]]:
 
 1. **Hierarchy of Strength:**
     - In societies influenced by Bane, physical strength and martial prowess often determine one's social status. Those who excel in combat are revered, and positions of leadership are typically held by the most formidable warriors.
@@ -160,6 +160,6 @@ Where the worship of Bane, the Strife Emperor, holds sway, distinctive political
 
 ### The Curse of Strife
 
-During the times of creation, when the gods were creating their races, Bane created the goblinoids, beings that can adapt and fight. And to ensure their battle would be eternal, he decided to create the Curse of Strife, a blood curse that fates all goblinoids to become evil. Although some goblinoids are capable of surpassing it thought great effort
+During the [[The Creation (CR)|times of creation]], when the gods were creating their races, Bane created the goblinoids, beings that can adapt and fight. And to ensure their battle would be eternal, he decided to create the Curse of Strife, a blood curse that fates all goblinoids to become evil. Although some goblinoids are capable of surpassing it thought great effort
 
 

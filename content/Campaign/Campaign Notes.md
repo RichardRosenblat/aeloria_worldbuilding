@@ -39,9 +39,9 @@ Muhammad Sumbul The bravest soldier of all time
     
 ## Ideas of stuff to do
 - Witch encounter offering human food
-- merlin creates at least these 2 spells,
-	- Merlin’s Divine Audience (talk to [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]]), causes stars to change colors
-	- Merlin's Transcendent Transformation (fuses with the [[Setting Info|Principles]]), becomes the Witch song image
+- [[Merlin]] creates at least these 2 spells,
+	- [[Merlin]]’s Divine Audience (talk to [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]]), causes stars to change colors
+	- [[Merlin]]'s Transcendent Transformation (fuses with the [[Setting Info|Principles]]), becomes the Witch song image
 ## Funny encounters to do in the campaign
 Sheep thinking about heavymetal
 delivery guy

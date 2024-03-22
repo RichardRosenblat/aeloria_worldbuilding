@@ -52,7 +52,7 @@ Solaurum lacks oceans, with its landscape dominated by vast stretches of sandy d
 
 ### Description
 
-Merlin's ruins on Solaurum are concealed beneath the ever-shifting sands of the desert. These ruins serve as repositories of ancient knowledge, specifically focused on the study of earth-based magic and energy.
+[[Merlin]]'s ruins on Solaurum are concealed beneath the ever-shifting sands of the desert. These ruins serve as repositories of ancient knowledge, specifically focused on the study of earth-based magic and energy.
 
 ### Purpose
 
@@ -76,10 +76,10 @@ The planet's atmosphere, though breathable, contributes to its overall harsh env
 
 ### Exists
 
-Solaurum boasts an artificial satellite known as the Sunseeker, a creation of Merlin.
+Solaurum boasts an artificial satellite known as the Sunseeker, a creation of [[Merlin]].
 
 ### Description
 
-The Sunseeker serves the crucial function of monitoring the planet's solar energy levels. Constructed by Merlin, it also conducts studies on the effects of solar energy on Solaurum's surface, providing valuable insights into the celestial dynamics of the desert planet.
+The Sunseeker serves the crucial function of monitoring the planet's solar energy levels. Constructed by [[Merlin]], it also conducts studies on the effects of solar energy on Solaurum's surface, providing valuable insights into the celestial dynamics of the desert planet.
 
 

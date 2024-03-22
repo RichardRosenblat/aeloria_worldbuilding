@@ -61,11 +61,11 @@ Tormentia, lacks oceans, with its stormy atmosphere dominating the planet and le
 
 ### Description
 
-Hidden within the storm clouds of Tormentia are ancient ruins attributed to Merlin. These towering structures serve as conduits for channeling and controlling the planet's formidable lightning storms.
+Hidden within the storm clouds of Tormentia are ancient ruins attributed to [[Merlin]]. These towering structures serve as conduits for channeling and controlling the planet's formidable lightning storms.
 
 ### Purpose
 
-Merlin's ruins on Tormentia once functioned as platforms for conducting powerful lightning-based spells and experiments, exploring the crystallization properties of the storms that define the planet's atmosphere.
+[[Merlin]]'s ruins on Tormentia once functioned as platforms for conducting powerful lightning-based spells and experiments, exploring the crystallization properties of the storms that define the planet's atmosphere.
 
 ## Rings
 
@@ -99,7 +99,7 @@ The turbulent atmosphere of Tormentia, marked by unpredictable weather patterns,
 
 ### Existence
 
-Tormentia is accompanied by an artificial satellite known as the Storm Watcher, a creation of Merlin. This satellite plays a crucial role in monitoring the planet's ever-changing weather patterns and their impact on Tormentia's distinctive ecosystem.
+Tormentia is accompanied by an artificial satellite known as the Storm Watcher, a creation of [[Merlin]]. This satellite plays a crucial role in monitoring the planet's ever-changing weather patterns and their impact on Tormentia's distinctive ecosystem.
 
 ## Moons
 

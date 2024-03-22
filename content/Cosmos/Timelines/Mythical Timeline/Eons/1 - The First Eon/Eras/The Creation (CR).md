@@ -33,7 +33,7 @@ Within the workshop's core, a vast void was born, and into it, the [[True Gods]]
 
 ## World-Shaping with Elemental Energies
 
-The [[True Gods]] used the primordial elemental energies to create worlds above it all, supported by the ether and the elements. They forged the [[ethereal plane]] and the [[metaphysical planes]], constructing [[Aeloria]], the [[Solis|sun]] and stars, the moon and the oceans, and the [[Solar System|planets]] around the [[Solis|sun]]. The [[True Gods]] delved tunnels beneath the earth, filling them with riches, and created magic, writing it as their own to shape the elements through the arcane.
+The [[True Gods]] used the primordial elemental energies to create worlds above it all, supported by the ether and the elements. They forged the [[ethereal plane]] and the [[metaphysical planes]], constructing [[Aeloria]], the [[Solis|sun]] and stars, [[The Moon (Aeloria's)|the moon]] and the oceans, and the [[Solar System|planets]] around the [[Solis|sun]]. The [[True Gods]] delved tunnels beneath the earth, filling them with riches, and created magic, writing it as their own to shape the elements through the arcane.
 
 ## Realms of Bright and Dark
 
