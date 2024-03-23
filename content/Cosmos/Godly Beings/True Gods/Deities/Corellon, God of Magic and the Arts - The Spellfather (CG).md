@@ -20,7 +20,7 @@ aliases:
   - The Matron of the Arts
   - The Runic Wonder
 ---
-# Corellon, God of Magic and the Arts - The Spellfather (CG)
+# Corellon, God of Magic and the Arts: The Spellfather (CG)
 
 ## Culture Names
 
@@ -135,7 +135,11 @@ All of them
 |                  |
 
 ## Myths
+
+
 ### The [[Ainulindalë]]: Creation of the fey and elvenkind
+![[The Creation (CR)#Emergence of Powerful Beings]]
+
 ![[Ainulindalë#The Ainulindalë Song of the True Gods Gods]]
 
 ### [[Corellon's Grace]]

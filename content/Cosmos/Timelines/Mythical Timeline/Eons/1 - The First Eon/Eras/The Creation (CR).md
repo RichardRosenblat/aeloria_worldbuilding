@@ -45,7 +45,7 @@ With the land still barren, the [[True Gods]] decided to fill it with life. Firs
 
 ## Emergence of Powerful Beings
 
-The [[True Gods]] crafted powerful beings, starting with the giants who emerged from the mountains, embodying minerals, skies, hills, fire, and ice. The fey, sung into existence by the [[True Gods]], emerged from the very first tree. Selecting some fey, the elves were born, all shaped by the [[Ainulindalë]], the song of the [[True Gods]]. The elves migrated to the [[Material Plane|Prime Material]], eager to explore.
+The [[True Gods]] crafted powerful beings, starting with the giants - forged by [[Moradin, God of Creation - The Allhammer (LG)|Moradin, The Allhammer]] and the [[True Gods]]- emerged from the mountains, embodying minerals, skies, hills, fire, and ice. The fey, sung into existence by the [[Ainulindalë]], emerged from the very first tree. Selecting some fey, the elves were born, all shaped by the next part of [[Ainulindalë|the song of the gods]], the song crafted by [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]] and sang by all the [[True Gods]]. The elves migrated to the [[Material Plane|Prime Material]], eager to explore.
 
 After the elves, the dwarves were created by the [[True Gods]], utilizing parts of the giants. Sturdy creatures, the dwarves were forged into existence. Like the elves, they desired exploration, digging out of the mountains to explore the surface.
 

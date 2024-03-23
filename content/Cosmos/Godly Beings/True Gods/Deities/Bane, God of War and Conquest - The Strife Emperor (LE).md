@@ -25,17 +25,17 @@ aliases:
 
 ## Culture Names
 
-| Culture | Name | Title | Pronouns | Group |
-| ---- | ---- | ---- | ---- | ---- |
-| Aerian (Human) Generic | Bane | The Strife Emperor | He/Him | The [[Defiant Gods]] |
-| Asteni (Human) Italian | Bellium | The Warlord of Chaos | He/They | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods) |
-| Dal (Human) Castillian | Guerra | The Emperor of Conflict | He/Him | [[Defiant Gods\|Los Desafiantes]] (The challengers) |
-| Duir (Dwarven) German | Kriegs-furst | The Iron Fist | He/Him | [[Defiant Gods\|Die Gegner]] (The opposers) |
-| Dwelmer (Dwarven) Nordic | Ragnor | The Winter Legion | He/They | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods) |
-| Eldar (Elven) Elven | Sauron | The Dark Sovereign | He/Him | [[Defiant Gods\|Vaiar]] (Tyrants) |
-| Eldarin (Elven) Japanese | Hachiman | The Blood Red Shogun | He/Him | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
-| Mularir (Human) Greek | Ares | The Bloodshed God | He/They | [[Defiant Gods\|Thymo theoí]] (Anger gods) |
-| Yotunn (Giant) Giant | Branhar | The Volcanic Overlord | He/Him | [[Defiant Gods\|Gegn Guir]] (The Gods against) |
+| Culture                  | Name         | Title                   | Pronouns | Group                                                      |
+| ------------------------ | ------------ | ----------------------- | -------- | ---------------------------------------------------------- |
+| Aerian (Human) Generic   | Bane         | The Strife Emperor      | He/Him   | The [[Defiant Gods]]                                       |
+| Asteni (Human) Italian   | Bellium      | The Warlord of Chaos    | He/They  | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
+| Dal (Human) Castillian   | Guerra       | The Emperor of Conflict | He/Him   | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
+| Duir (Dwarven) German    | Kriegs-furst | The Iron Fist           | He/Him   | [[Defiant Gods\|Die Gegner]] (The opposers)                |
+| Dwelmer (Dwarven) Nordic | Ragnor       | The Winter Legion       | He/They  | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
+| Eldar (Elven) Elven      | Sauron       | The Dark Sovereign      | He/Him   | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
+| Eldarin (Elven) Japanese | Hachiman     | The Blood Red Shogun    | He/Him   | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
+| Mularir (Human) Greek    | Ares         | The Bloodshed God       | He/They  | [[Defiant Gods\|Thymo theoí]] (Anger gods)                 |
+| Yotunn (Giant) Giant     | Branhar      | The Volcanic Overlord   | He/Him   | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 ## Extra Titles
 

@@ -56,7 +56,7 @@ To aid them in their divine task, they birthed a pantheon of [[True Gods]]:
 - **Pelor**
 - **[[Nerull, God of Death, Fate, and Winter - The winterlord (LN)]]**
 - **Sehanine**
-- **Gruumsh**
+- **[[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]**
 - **Tharizdun**
 - **Torog**
 - **[[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]]**
@@ -83,7 +83,7 @@ In a heart-wrenching moment, the cosmic scales tipped toward oblivion, and [[Vor
 
 ## The Madness Deepens
 
-It was amidst such turmoil that the very essence of creation and destruction, order and chaos, was tested, shaping the destiny of both [[True Godsls in the crucible of [[the Far Realm]]'s relentless madness.
+It was amidst such turmoil that the very essence of creation and destruction, order and chaos, was tested, shaping the destiny of both [[True Gods]] and [[Over-Deities]] in the crucible of [[the Far Realm]]'s relentless madness.
 
 ## Tharizdun's Fall
 

@@ -78,6 +78,11 @@ Once a churning mass of turbulent energy, the [[Elemental Chaos]] transformed in
 
 Witnessing this unforeseen consequence, the [[True Gods]], ever resourceful, harnessed the escaping elemental energies. They redirected these potent forces to fuel the magic of [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]], utilizing the very essence of the primordial elements to empower the divine and arcane arts. In this intricate dance between order and chaos, the dragons' pivotal role extended beyond mere containment, becoming a catalyst for the control of elemental energies.
 
+## The First Cities
+
+After the dragons had successfully sealed the primordial elements, indulgin in a era of peace, mortals began to thrive. Guided by [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)|Erathis]] and the [[Harmonious Gods|Harmonious Deities]], mortals began to build the first cities. These cities were a testament to the ingenuity and creativity of mortals, a reflection of their potential to shape the world around them.
+
+
 ## The Golden Age of Knowledge
 
 In the grand tapestry of time, as millennia unfolded, the [[Harmonious Gods]] continued their divine stewardship over mortals. With benevolence as their guiding light, these celestial beings generously shared their timeless wisdom with the inhabitants of the mortal realms. The [[Harmonious Gods]], masters of the cosmic order, became the revered mentors of mortals, unveiling the intricacies of magic and unraveling the enigmatic secrets that shrouded the world.
