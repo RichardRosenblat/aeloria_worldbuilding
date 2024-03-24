@@ -67,6 +67,11 @@ In the midst of this cosmic upheaval, a pivotal betrayal unfolded. [[Asmodeus, G
 
 The entity known as [[Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE)|Asmodeus]] went to great lengths to obliterate any trace of his former identity, shrouding his past in mystery. As to the extent of his power before ascending to godhood, it remains speculative, with only whispers and fragmented tales hinting at the possibility that [[Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE)|Asmodeus]] might have been exceedingly powerful, perhaps even a [[Semi-Deities|semi-deity]]. However, all concrete information about his origins and prowess was systematically erased as part of his transformation into a god.
 
+## The Wound of [[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]
+
+During the conflict, [[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh, The Ruiner]], the god of destruction, suffered a grievous wound from an arrow of [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon, Spellfather]]. This wound would forever mark by the loss of his eye, a symbol of his eternal hatred for the elven god. The wound would serve as a reminder of the divine conflict that had torn the world asunder, a testament to the cost of the celestial struggle. [[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]] as a god of vengeance and hatred, fueling his desire for retribution against the other gods, specially agains the elves and their god [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]].
+
+
 ## [[True Gods]] Bearing the Scars
 
 The deities themselves bore the scars of this devastating conflict, their celestial battles threatening to sunder the very fabric of existence. The aftermath of The Great War left an indelible mark on the world, a testament to the cost of cosmic struggles and the fragility of divine equilibrium.

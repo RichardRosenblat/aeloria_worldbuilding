@@ -24,7 +24,7 @@ tags:
 - [x]  create general text about divine beings and explain that their full classification is Non-Elemental Divine Beings
 - [ ]  create the [[true gods]]
 - [ ] Rewrite handouts
-- [ ] Create symbols/sigils for planets and moons
+- [ ] Create symbols/sigils for planets and moon
 - [ ] Commision artist for [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]] apperance
 - [ ]  Create the other godly beings
 - [ ]  Finish re checking the [[elemental planes]]
@@ -36,6 +36,7 @@ tags:
     - [ ]  [[Plane of Gravity]]
     - [ ]  [[Plane of Void]]
 - [ ]  write about remaining names that i wrote in the should create text
+- [ ] Create story about each of [[the planes]]
 - [ ]  Create [[Harmonious vestiges]]
 - [ ]  Create [[defiant vestiges]]
 - [ ]  Create [[lightborn]]

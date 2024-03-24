@@ -44,6 +44,7 @@ The Unstoppable Force: Gruumsh, God of Chaos
 The Fury of One Eye: Gruumsh, God of Wrath
 The Wild Destroyer: Gruumsh, God of Annihilation
 The Frenzied Beast: Gruumsh, God of Savagery
+
 ## Commandments
 
 - _Ruin. Ravage. Kill._
@@ -57,9 +58,10 @@ Triangular eye with bony protrusions
 
 ![[Gruumsh symbol 2.png|200]]
 Single, unblinking eye that bleeds
+
 ## Avatars
 ### Aerian (Human) Generic
-> They depict him as a hulking behemoth of an orc with his missing eye, lacking a pair since the Great War, has shifted and now central to the face, bearing close resemblance to a cyclops
+> They depict him as a hulking behemoth of an orc with his missing eye, lacking a pair since [[The Great War (GW)|the Great War]], has shifted and now central to the face, bearing close resemblance to a cyclops
 ![[Gruumsh appearance.png|500]]
 
 ## Religious Practices
@@ -70,9 +72,23 @@ Single, unblinking eye that bleeds
 
 ## Elemental Affinities
 
-## Home Plane
-[[The Abyss]]
+| Element    |
+| ---------- |
+| Fire       |
+| Earth      |
+| Darkness   |
+| Acid       |
+| Poison     |
+| Corruption |
+| Cold       |
+| Necromancy |
+| Divination |
+| Gravity    |
+| Void       |
+|Chaos|
 
+## Home Plane
+[[The Abyss|The Infinite Layers of the Abyss]]
 ## Champions
 
 ## Holidays
@@ -83,6 +99,11 @@ Single, unblinking eye that bleeds
 
 ## Myths
 
+### Creation of Orcs
+![[The Creation (CR)#The Creation of Orcs]]
+
+### The wound of Guumsh
+![[The Great War (GW)#The Wound of Gruumsh, God of Destruction - The Ruiner (CE) Gruumsh]]
 
 
 for the god above can you create:

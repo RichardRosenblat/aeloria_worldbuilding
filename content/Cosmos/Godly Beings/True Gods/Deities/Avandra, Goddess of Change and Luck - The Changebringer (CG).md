@@ -155,3 +155,5 @@ The Capricious Hand of Fate: Avandra, Goddess of Chance
 |  |
 
 ## Myths
+
+![[The Creation (CR)#The Creation of Halflings]]

@@ -41,18 +41,41 @@ Some [[True Gods]] favored bright creations more than dark ones, and vice versa,
 
 ## Creation of Life
 
-With the land still barren, the [[True Gods]] decided to fill it with life. First, they brought forth plants, animals, and trees. Desiring beings with consciousness, they created realms for conscious existence—the [[metapsychic planes]] to hold all thoughts and dreams.
+With the land still barren, the [[True Gods]] decided to fill it with life. First, Melora, the goddess of nature, created the very first tree, and from it, all animals and plants emerged, designed by the capricious Wildmother. 
+Desiring beings with consciousness, the [[True Gods]] created realms for conscious existence—the [[metapsychic planes]] to hold all thoughts and dreams.
 
 ## Emergence of Powerful Beings
 
-The [[True Gods]] crafted powerful beings, starting with the giants - forged by [[Moradin, God of Creation - The Allhammer (LG)|Moradin, The Allhammer]] and the [[True Gods]]- emerged from the mountains, embodying minerals, skies, hills, fire, and ice. The fey, sung into existence by the [[Ainulindalë]], emerged from the very first tree. Selecting some fey, the elves were born, all shaped by the next part of [[Ainulindalë|the song of the gods]], the song crafted by [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]] and sang by all the [[True Gods]]. The elves migrated to the [[Material Plane|Prime Material]], eager to explore.
+The [[True Gods]] first crafted powerful beings. These beings were the first mortals with consciousness and free will, capable of shaping the world around them, They emerged from the primordial energies, embodying the essence of the elements and the realms they inhabited. Among these creations were the giants, the fey, the elves and the dwarves, each being shaped by the divine hands of the [[True Gods]].
+
+### The Giants
+
+The giants were forged by Moradin, the god of creation. The [[True Gods|True god]] gathered the oldest rocks and the primordial energies, shaping them into the living beings. The giants emerged within the mountains, embodying minerals, skies, hills, fire, and ice. They were the first to explore the world, delving into the mountains and the skies, seeking to understand the realms they inhabited.
+
+### The Fey and the Elves
+
+The fey, sung into existence by the [[Ainulindalë]], emerged from the very first tree. Selecting some fey, the elves were born, all shaped by [[Ainulindalë|the song of the gods]], composed by [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]. The elves migrated to the [[Material Plane|Prime Material]], eager to explore.
+
+### The Dwarves
 
 After the elves, the dwarves were created by the [[True Gods]], utilizing parts of the giants. Sturdy creatures, the dwarves were forged into existence. Like the elves, they desired exploration, digging out of the mountains to explore the surface.
 
 ## Creation of Various Races
 
-Following these events, the [[True Gods]] continued their creative endeavors, bringing forth a multitude of diverse races and creatures to inhabit the vast expanse of [[Aeloria]]. Among these creations were the nimble halflings, the inventive gnomes, the formidable orcs, the enigmatic sphinxes, and the devastating demons, among many others. Each species bore unique characteristics and qualities, contributing to the rich tapestry of life woven by the divine hands.
-As the [[True Gods]] reveled in the diversity of their creations, they created the very last race to be made by the [[True Gods]]. Humans, crafted with a blend of divine inspiration and intricate design, humans were endowed with the capacity for great adaptability and resilience.
+Following these events, the [[True Gods]] continued their creative endeavors, bringing forth a multitude of diverse races and creatures to inhabit the vast expanse of [[Aeloria]]. 
+Among these creations were the nimble halflings, the inventive gnomes, the formidable orcs, the enigmatic sphinxes, and the devastating demons, among many others. Each species bore unique characteristics and qualities, contributing to the rich tapestry of life woven by the divine hands.
+
+### The Creation of Halflings
+
+While exploring the world, [[Avandra, Goddess of Change and Luck - The Changebringer (CG)| Avandra, The Changebringer]] rolled on the hills of the world, and from her laughter, the halflings were born. These nimble creatures were blessed with luck and adaptability, thriving in the ever-changing world around them while searching for peace and comfort.
+
+### The Creation of Orcs
+
+During the era of creation, [[Gruumsh, God of Destruction - The Ruiner (CE)| Gruumsh, the Ruiner]] tried to claim the mountains for himself, but they had already been claimed and the dwarves and giants were already there. [[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]] tried then to claim the forests, but the elves were already there. Each time he tried to claim a place, he was met with resistance. As the other gods laughed at Grummsh's failures, and he responded with anger, the god clasped his mighty spear and burned the forests, the mountains, and the rivers. And from the blood of the earth and the hatred of [[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]], the orcs were born to pillage and destroy.
+
+### The Creation of Humans
+
+As the [[True Gods]] reveled in the diversity of their creations, they created the very last race to be made by the [[True Gods]]. Humans, crafted with a blend of divine inspiration and intricate design, humans were endowed with the capacity for great adaptability and resilience. Although the god that created them is unknown, lost to time, humans quickly spread across the realms, embracing the challenges and opportunities that awaited them.
 
 ## The Fragility of Mortal Life
 
