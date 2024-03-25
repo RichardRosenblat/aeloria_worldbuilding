@@ -26,11 +26,12 @@ tags:
 
 ## Ilios/Mularir Dialect - greek
 
-| Word | Meaning |
-| ---- | ---- |
-| [[Harmonious Gods\|Armonía theoí]] | Harmony gods |
-| [[Over-Deities\|Exousíes]] | The powers |
-| [[Defiant Gods\|Thymo theoí]] | Anger gods |
+| Word                               | Meaning                                                  |
+| ---------------------------------- | -------------------------------------------------------- |
+| [[Harmonious Gods\|Armonía theoí]] | Harmony gods                                             |
+| [[Over-Deities\|Exousíes]]         | The powers                                               |
+| [[Defiant Gods\|Thymo theoí]]      | Anger gods                                               |
+| Ouroboros                          | Tail eater (Localized name for Menrogia and Jormungandr) |
 
 # Dwarven 
 ## Yontunn Dialect 
@@ -51,11 +52,12 @@ tags:
 
 ## Stenklif/Dwelmer Dialect - norse
 
-| Word | Meaning |
-| ---- | ---- |
-| [[Harmonious Gods\|Ástin Gudar]] | Loving gods |
-| [[Over-Deities\|Tvískapt]] | Twin creators |
-| [[Defiant Gods\|Vanróg Gudar]] | Deifying gods |
+| Word                             | Meaning                                                   |
+| -------------------------------- | --------------------------------------------------------- |
+| [[Harmonious Gods\|Ástin Gudar]] | Loving gods                                               |
+| [[Over-Deities\|Tvískapt]]       | Twin creators                                             |
+| [[Defiant Gods\|Vanróg Gudar]]   | Deifying gods                                             |
+| Jomungandr                       | World Serpent (Localized name for Menrogia and Ouroboros) |
 
 # Elven
 
@@ -136,12 +138,43 @@ tags:
 | ------ | ------------------- |
 | Vesper | evening or twilight |
 
-
-
 # Primordial
 
 ## Inter-elemental Dialect
 
-| Word | Meaning |
-| ---- | ------- |
-| Menrogia     |  Eternal Serpent (Localized name for Ouroboros / Jomungandr)       |
+| Word     | Meaning                                                     |
+| -------- | ----------------------------------------------------------- |
+| Menrogia | Eternal Serpent (Localized name for Ouroboros / Jomungandr) |
+
+# Orcish / Orc
+
+## Words
+
+| Word | Meaning                                                    |
+| ---- | ---------------------------------------------------------- |
+| Gor  | War                                                        |
+| Nash | Sing/Voice                                                 |
+| Kru  | Group/Clan                                                 |
+| Hak  | Weapon                                                     |
+| Kor  | Conflict/Disagreement                                      |
+| In   | End/Finish                                                 |
+| Jon  | Join                                                       |
+| Ir   | Also/And/In                                                |
+| Kas  | Far                                                        |
+| Tar  | Throw                                                      |
+| Mkr  | [[Gruumsh, God of Destruction - The Ruiner (CE)\|Gruumsh]] |
+
+## Compound words
+
+| Word     | Meaning    | Literal                                                            |
+| -------- | ---------- | ------------------------------------------------------------------ |
+| Gor'nash | War Cry    | War + Voice                                                        |
+| Hak'Kor  | Fight      | Weapon + Conflict                                                  |
+| Mkr'kru  | Mkr army   | [[Gruumsh, God of Destruction - The Ruiner (CE)\|Gruumsh]] + Group |
+| Kas'Tar  | Throw away | Far+Throw                                                          |
+
+## Phrases
+
+| Phrase                                    | Meaning                                                                                                          |
+| ----------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| Ur Hak'kor In, Mkr'Kru Jon Ir Hak Kas'tar | Your battle ended, Join [[Gruumsh, God of Destruction - The Ruiner (CE)\|Gruumsh]] army and cast away your sword |
