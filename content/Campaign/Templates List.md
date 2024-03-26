@@ -27,7 +27,9 @@ These are the templates i use in these notes
 | [[Template - God]]                          |
 | [[Template - Material]]                     |
 | [[Template - Culture]]                      |
-| [[Template - Kingdom]]                        |
+| [[Template - Kingdom]]                      |
 | [[Template - Currency]]                     |
 | [[Template - Sea]]                          |
 | [[Template - Biome]]                        |
+| [[Template - Standard Language]]            |
+| [[Template - Dialect]]                      |
