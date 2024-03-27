@@ -4,18 +4,18 @@
 
 ### Type:
 
-- **Relationship to Language:** (Indicate the relationship of the dialect to the main language. Is it a regional variation, sociolect, ethnolect, or something else?)
+- **Relationship to Language:** (Indicate the relationship of the dialect to the standard language. Is it a regional variation, sociolect, ethnolect, or something else?)
 - **Prevalence:** (Describe how widespread the dialect is within the population. Is it commonly spoken, or is it restricted to specific communities or social groups?)
 
 ### Phonetics and Phonology:
 
-- **Phonetic Features:** (Discuss any unique phonetic features or pronunciation differences compared to the main language. This may include vowel shifts, consonant changes, or intonation patterns.)
+- **Phonetic Features:** (Discuss any unique phonetic features or pronunciation differences compared to the standard language. This may include vowel shifts, consonant changes, or intonation patterns.)
 - **Phonological Variation:** (Detail any differences in phonological rules or patterns, such as variations in syllable structure or phoneme inventory.)
 
 ### Grammar and Syntax:
 
 - **Grammatical Features:** (Describe any grammatical differences or innovations found in the dialect, including variations in word order, inflectional morphology, or syntactic structures.)
-- **Syntactic Variation:** (Discuss differences in sentence structure, agreement, or other syntactic phenomena compared to the main language.)
+- **Syntactic Variation:** (Discuss differences in sentence structure, agreement, or other syntactic phenomena compared to the standard language.)
 
 ### Lexicon:
 

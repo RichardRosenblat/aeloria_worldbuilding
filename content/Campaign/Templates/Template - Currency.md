@@ -20,9 +20,15 @@
 4. **Exchange Rates:**
     
     - Establish exchange rates between different denominations. For example:
-        - 10 Copper Pieces (CP) = 1 Silver Piece (SP)
-        - 10 Silver Pieces (SP) = 1 Gold Piece (GP)
-        - 10 Gold Pieces (GP) = 1 Platinum Piece (PP)
+
+| Coin          | cp    | sp   | ep   | gp    | pp      |
+| ------------- | ----- | ---- | ---- | ----- | ------- |
+| Copper (cp)   | 1     | 1/10 | 1/50 | 1/100 | 1/1,000 |
+| Silver (sp)   | 10    | 1    | 1/5  | 1/10  | 1/100   |
+| Electrum (ep) | 50    | 5    | 1    | 1/2   | 1/20    |
+| Gold (gp)     | 100   | 10   | 2    | 1     | 1/10    |
+| Platinum (pp) | 1,000 | 100  | 20   | 10    | 1       |
+
 5. **Availability:**
     
     - Describe how readily available each denomination is within your world. For example:

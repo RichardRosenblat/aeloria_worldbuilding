@@ -23,6 +23,7 @@ tags:
 - [x]  add list to gods
 - [x]  create general text about divine beings and explain that their full classification is Non-Elemental Divine Beings
 - [ ]  create the [[true gods]]
+- [ ] create spell reversal and elemental reversion
 - [ ] Rewrite handouts
 - [ ] Create symbols/sigils for planets and moon
 - [ ] Commision artist for [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]] apperance
