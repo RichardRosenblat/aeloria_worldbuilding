@@ -28,44 +28,65 @@ tags:
 
 
 
-## Energies
+# Energies
 ![[Energies hierarchy.png]]
-## Metadynamic energies text
+## Metadynamic Energies: Foundations of Existence in [[Aeloria]]
 
-**Metadynamic Energies: Foundations of Existence in [[Aeloria]]**
-
-*Overview:*
+### Overview:
 In the intricate tapestry of [[Aeloria]]'s reality, the very essence of existence is shaped by metadynamic energies. These foundational energies serve as the building blocks for a hierarchy of forces, including meta-elemental energies, elemental energies, and beyond.
 
-*Two Fundamental Types: existential and Non-existential Energies*
+### Two Fundamental Types: existential and Non-existential Energies
 Metadynamic energies can be classified into two primary types: Existential and Non-existential energies. These energies define the duality of reality and non-reality, shaping the very fabric of existence and non-existence.
 
-**Existential metadynamic energy:**
+#### Existential metadynamic energy:
 Existential metadynamic energy, or Existence metadynamic energy serves as the blueprint for reality, portraying it as a blank slate waiting to be filled. It intricately describes the meta-elemental energies that manifest within this reality. Both reality and meta-elemental energies are embodiments of existence energy. The [[over-deities]] [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]] are, together, the originators of this metadynamic energy, utilizing it to irradiate [[Aeloria]]'s reality. Entities directly created by these [[over-deities]], including [[true gods]] and [[Divine Spark|Divine sparks]], embody extreme levels of existence energy. Those being able to exhibit limited control over specific domains within [[Aeloria]]'s reality.
 
-**Non-existential metadynamic energy:**
+#### Non-existential metadynamic energy:
 In contrast, Non-existential metadynamic energy (also called Non-existence metadynamic energy or anti-existence metadynamic energy ) carries an eldritch nature, emanating from the [[The Far Realm|far realms]] and it's inhabitants, those being cosmic aberrations and elder evils. This metadynamic energy is incomprehensible and behaves in ways inherently incompatible with [[Aeloria|Aelorian]] materials and minds. Entities native to the [[The Far Realm|far realms]], such as elder evils and cosmic aberrations, exude non-existence energy. The interaction of this energy with [[Aeloria|Aelorian]] reality varies—some embodiments prove toxic and harmful, while others coexist or remain indifferent. Different levels of non-existence energy permeate both reality and non-reality, presenting varying degrees of influence across the expansive cosmos of [[Aeloria]].
 
-*Control and Interaction:*
+### Control and Interaction:
 Those capable of generating or creating metadynamic energies, whether existence or non-existence, hold limited levels of control over specific domains within the irradiated areas. The delicate dance between these fundamental forces shapes the very foundations of the mystical realm, giving rise to the diverse energies, entities, and phenomena that populate its reality and non-reality alike.
 
-## Meta-elemental energies text 
-**Meta-Elemental Energies in [[Aeloria]]**
+## Meta-Elemental Energies in [[Aeloria]]
 
-*Overview:*
-In the mystical realm of [[Aeloria]], the fabric of reality is intricately woven with meta-elemental energies. These forces govern the very essence of existence, influencing everything from matter and energy to entropy, morality, and consciousness.
+### Overview:
+In [[Aeloria]], the fabric of reality is intricately woven with meta-elemental energies. These forces govern the very essence of existence, influencing everything from matter and energy to entropy, morality, and consciousness.
 
-*Fundamental Nature:*
+### Fundamental Nature:
 Meta-elemental energies are the foundational fields that allow the existence of all things, defining their attributes and behaviors. They encompass aspects such as time, space, matter, energy, entropy, consciousness, and morality. Even entities that seem to neither add nor subtract actually engage in both actions through an intricate overlap.
 
-*Hierarchy of Existence:*
+### Hierarchy of Existence:
 The elemental forces, representing various aspects of the world, are constructed from the interplay of two primary meta-elemental forces. These forces serve as the building blocks, and all other entities in [[Aeloria]] are, in turn, constructed from these elemental forces. Defining a comprehensive set of rules for these meta-elemental energies proves challenging due to the similarities in behavior among certain embodiments. Nomenclature becomes a matter of perspective.
 
-*Example: Matter and Anti-Matter:*
+#### Example: Matter and Anti-Matter:
 A striking example of this complex interplay is the relationship between matter (representing addition meta-elemental energy) and anti-matter (representing subtraction meta-elemental energy). These two can be interchangeably referred to, as they exhibit identical behaviors with each other and within themselves. The distinction between the two depends solely on the observer's point of reference.
 
-*Positive Energy - Addition Meta-elemental energy:*
-Representative of the [[Over-Deities|over-deity]] [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]], the goddess of kindness, creation, and order ([[Aena, goddess of kindness, creation and order - The Architect (LG)|The Architect]]), positive energy is a meta-elemental force. It serves as the base for entities and phenomena that involve addition, such as the creation of matter, energy, time, and their movements. While not confined to the [[plane of energy]] or life, positive energy is most abundant there, especially at its peak in the [[plane of energy]].
+#### Positive Energy - Addition Meta-elemental energy:
+Representative of the [[Over-Deities|over-deity]] [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena, goddess of kindness, creation and order - The Architect ]], positive energy is a meta-elemental force. It serves as the base for entities and phenomena that involve addition, such as the creation of matter, energy, time, and their movements. While not confined to the [[plane of energy]] or life, positive energy is most abundant there, especially at its peak in the [[plane of energy]].
 
-*Negative Energy - Subtraction Meta-elemental energy:*
-Representative of the [[Over-Deities|over-deity]] [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)]], negative energy is another meta-elemental force. It forms the foundation for entities and phenomena associated with subtraction, including the removal of matter, energy, timelessness, and their stagnation. Despite being present in planes like void, darkness, or necromancy, negative energy is most prominent in the [[plane of void]], particularly at its highest levels.
+#### Negative Energy - Subtraction Meta-elemental energy:
+Representative of the [[Over-Deities|over-deity]] [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela, goddess of malice, destruction and chaos - The Undoing ]], negative energy is another meta-elemental force. It forms the foundation for entities and phenomena associated with subtraction, including the removal of matter, energy, timelessness, and their stagnation. Despite being present in planes like void, darkness, or necromancy, negative energy is most prominent in the [[plane of void]], particularly at its highest levels.
+
+## Elemental Forces, Divine Mathematical Functions
+In the cosmology of [[Aeloria]], elemental forces are structured by meta-elemental energies and behave akin to mathematical functions, conceptualized by the [[over-deities]] during the founding of reality. These functions operate by transforming input meta-elemental energy into distinct output effects, their formats and effects in the surrounding reality shaped by the intentions and power of those interacting with them.
+
+### Types of Elemental Forces
+[[Aeloria]]'s elemental forces categorize into three main types: mostly positive, neutral, and mostly negative. Each type exhibits unique characteristics and response patterns based on the nature of their input meta-elemental energy.
+
+#### Mostly Positive Elemental Forces
+Represented by forces like the Life Elemental Force, mostly positive forces generate predominantly positive output effects when infused with positive meta-elemental energy. Conversely, they produce negative meta-elemental energy when exposed to negative meta-elemental energy.
+
+#### Neutral Elemental Forces
+Neutral forces, such as the Invocation Elemental Force, possess a balanced disposition, capable of generating either positive or negative output effects depending on the intent behind their interaction rather than the type of meta-elemental energy fed into their inputs.
+
+#### Mostly Negative Elemental Forces
+Embodied by entities like the Necromancy Elemental Force, mostly negative forces yield primarily negative output effects when supplied with positive meta-elemental energy. Conversely, they manifest positive meta-elemental energy when infused with negative meta-elemental energy.
+
+### [[Over-Deities]]' Influence
+[[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]], the [[over-deities]] of [[Aeloria]], continually generate meta-dynamic energy that sustains reality. Additionally, they individually produce meta-elemental energies, essential for fueling and maintaining elemental forces throughout existence, the elemental forces each describe reality and the interaction between parts of it, and serves to feed the Weave.
+
+### The Weave: Conduit of Elemental Energy
+The Weave serves as a vast web that channels the elemental force of energy across all realms. As the elemental force of energy is mostly positive, it creates the flow of positive meta-elemental energy throughout [[Aeloria]]. As a result, practitioners of magic typically access standard elemental outputs of the elements, necessitating the blending of multiple elemental energies to achieve effects associated with reversed outputs.
+
+### Blessed Individuals and Elemental Mastery
+Certain individuals possess the rare gift of harnessing and generating both positive and negative energies. These gifted beings can effortlessly manipulate elemental forces, enabling them to elicit reversed outputs by supplying negative inputs. With dedication and training, they can even wield both positive and negative energies simultaneously, unleashing potent reactions of unparalleled magnitude.
