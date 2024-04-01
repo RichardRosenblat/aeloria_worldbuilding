@@ -60,28 +60,28 @@ In the past, godly beings were capable of becoming True gods, by killing gods an
 
 ## List of True Gods
 
-|True God|
-|--|
-|[[Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE)]]|
-|[[Avandra, Goddess of Change and Luck - The Changebringer (CG)]]|
-|[[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)]]|
-|[[Bane, God of War and Conquest - The Strife Emperor (LE)]]|
-|[[Corellon, God of Magic and the Arts - The Spellfather (CG)]]|
-|[[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)]]|
-|[[Gruumsh, God of Destruction - The Ruiner (CE)]]|
-|[[Ioun, Goddess of Knowledge - The Enlightened (N)]]|
-|[[Kord, God of Strength and Storms - The Stormlord (CN)]]|
-|[[Lolth, Goddess of spiders and lies - The Spider Queen (LE)]]|
-|[[Melora, Goddess of the Wild and Sea - The Wildmother (N)]]|
-|[[Moradin, God of Creation - The Allhammer (LG)]]|
-|[[Pelor, God of the Sun and Agriculture - The Dawnfather (NG)]]|
-|[[Raven Queen, Goddess of Death Crow - The Matron of Death (LN)]]|
-|[[Sehanine, Goddess of the Moon - The Moonweaver (CG)]]|
-|[[Tharizdun, God of Madness - The Chained Oblivion (CE)]]|
-|[[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)]]|
-|[[Torog, God of the Underground - The Crawling King (NE)]]|
-|[[Vecna, God of evil secrets - The Whispered One (NE)]]|
-|[[Zehir, God of darkness and poison - The Cloaked Serpent (CE)]]|
+| True God                                                                     |
+| ---------------------------------------------------------------------------- |
+| [[Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE)]]               |
+| [[Avandra, Goddess of Change and Luck - The Changebringer (CG)]]             |
+| [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)]]         |
+| [[Bane, God of War and Conquest - The Strife Emperor (LE)]]                  |
+| [[Corellon, God of Magic and the Arts - The Spellfather (CG)]]               |
+| [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)]]      |
+| [[Gruumsh, God of Destruction - The Ruiner (CE)]]                            |
+| [[Ioun, Goddess of Knowledge - The Enlightened (N)]]                         |
+| [[Kord, God of Strength and Storms - The Stormlord (CN)]]                    |
+| [[Lolth, Goddess of spiders and lies - The Spider Queen (LE)]]               |
+| [[Melora, Goddess of the Wild and Sea - The Wildmother (N)]]                 |
+| [[Moradin, God of Creation - The Allhammer (LG)]]                            |
+| [[Pelor, God of the Sun and Agriculture - The Dawnfather (NG)]]              |
+| [[Raven Queen, Goddess of Death Crow - The Matron of Death (LN)]]            |
+| [[Sehanine, Goddess of the Moon - The Moonweaver (CG)]]                      |
+| [[Tharizdun, God of Madness - The Chained Oblivion (CE)]]                    |
+| [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)]] |
+| [[Torog, God of the Underground - The Crawling King (NE)]]                   |
+| [[Vecna, God of evil secrets - The Whispered One (NE)]]                      |
+| [[Zehir, God of darkness and poison - The Cloaked Serpent (CE)]]             |
 ## The Divine History
 The True Gods have a rich and deep history, deeply rooted in the [[Mythical Timeline]], this it the timeline summarized
 

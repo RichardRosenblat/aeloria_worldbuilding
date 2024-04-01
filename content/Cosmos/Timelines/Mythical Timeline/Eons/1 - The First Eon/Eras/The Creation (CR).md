@@ -50,7 +50,7 @@ The [[True Gods]] first crafted powerful beings. These beings were the first mor
 
 ### The Giants
 
-The giants were forged by Moradin, the god of creation. The [[True Gods|True god]] gathered the oldest rocks and the primordial energies, shaping them into the living beings. The giants emerged within the mountains, embodying minerals, skies, hills, fire, and ice. They were the first to explore the world, delving into the mountains and the skies, seeking to understand the realms they inhabited.
+The giants were forged by [[Kord, God of Strength and Storms - The Stormlord (CN)|Kord]] and [[Moradin, God of Creation - The Allhammer (LG)|Moradin]]. The two [[True Gods]] gathered the oldest rocks and the primordial energies, shaping them into the living beings. The giants emerged within the mountains, embodying minerals, skies, hills, fire, and ice. They were the first to explore the world, delving into the mountains and the skies, seeking to understand the realms they inhabited.
 
 ### The Fey and the Elves
 
@@ -58,7 +58,7 @@ The fey, sung into existence by the [[Ainulindalë]], emerged from the very firs
 
 ### The Dwarves
 
-After the elves, the dwarves were created by the [[True Gods]], utilizing parts of the giants. Sturdy creatures, the dwarves were forged into existence. Like the elves, they desired exploration, digging out of the mountains to explore the surface.
+After the elves, the dwarves were created by the [[Moradin, God of Creation - The Allhammer (LG)|The Allhammer]], utilizing parts of the giants. Sturdy creatures, the dwarves were forged into existence. Like the elves, they desired exploration, digging out of the mountains to explore the surface.
 
 ## Creation of Various Races
 

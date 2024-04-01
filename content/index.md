@@ -36,6 +36,10 @@ On bigger screens, new components will appear to guide you through the notes tha
 ## Inspirations and Intentions
 It's important to note that [[Aeloria]] is not a 100% original project. It draws inspiration from many of my favorite pieces of media, influencing elements such as the names of the [[True Gods]], [[The Planes|planes]], and more. This realm is a labor of love, a homage to the creativity of other media that has shaped who I am. It's not intended as a commercial endeavor; [[Aeloria]] is a passion project meant for exploration, storytelling, and the joy of worldbuilding. Should the unlikely event arise where [[Aeloria]] becomes a source of revenue, I am committed to making any necessary adjustments to avoid causing trouble for those who have inspired this fantastical journey. The aim is to celebrate and share the joy of storytelling, ensuring respect for the origins that have contributed to [[Aeloria]]'s tapestry.
 
+**Image Credits: Appreciating Artistic Inspiration**
+
+While every aspect of [[Aeloria]]'s world, from its intricate lore to the dynamic interactions between its elements, is crafted by me, using multiple tools, it's important to acknowledge that none of the images featured in this blog belong to me, they come from multiple sources. These captivating visuals are chosen not only for their aesthetic appeal but also for their ability to vividly capture the essence of [[Aeloria]]'s landscapes, characters, and mysteries. They serve as inspirational touchstones, enhancing the immersive experience of exploring this fantastical realm. Each image reflects my vision for [[Aeloria]], offering glimpses into the wonders that await adventurers within its boundless horizons.
+
 ## Join the Adventure
 Explore the [[Aeloria]] Wiki, a repository of knowledge about this high-fantasy realm. Whether you're a seasoned explorer or a newcomer, there's always something to discover.
 

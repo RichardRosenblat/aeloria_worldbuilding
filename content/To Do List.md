@@ -40,7 +40,7 @@ tags:
 - [ ] Create story about each of [[the planes]]
 - [ ]  Create [[Harmonious vestiges]]
 - [ ]  Create [[defiant vestiges]]
-- [ ]  Create [[lightborn]]
+- [ ]  Create [[Lightborn]]
 - [ ]  Create [[Shadowborn]]
 - [ ]  Create [[Marcus Valerian]]
 - [ ]  Create great old ones
@@ -61,10 +61,11 @@ tags:
 - [ ]  Create [[Timelines]]
 - [ ]  create more holidays
 - [ ] Add important Past Figures
-- [ ] Add more races
+- [ ] Add races
 - [ ] Create more monsters
 - [ ]  make ways to recognize members of factions, and diferentials of each rank
 - [ ]  create elder elementals
 - [ ]  create elemental [[titans]]
+- [ ] Create Devil King
 - [ ]  create elemental personification on the elements
 - [ ]  make Alliance bank account types
