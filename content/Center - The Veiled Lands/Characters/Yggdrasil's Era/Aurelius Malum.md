@@ -15,6 +15,10 @@ why he does all this?  he got a agreement with [[Asmodeus, God of Tyranny - The 
 
 His appearance is that of an androgenous human with a beautiful face and long golden hairs that cascate to his back, his eyes are a green and his pupils that of a cat. from his forehead, two horns grow, and his skin is a smooth pale white, he wears royal clothing and a crown of gold and rubies, his voice is soft and sweet, but his words are always filled with venom and malice, he always carries with him his sword, a blade of pure black metal that is said to be a gift from [[Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE)|asmodeus]] himself
 
+His blessings:
+
+![[The Greater Limit#^033529]]
+
 His speech to the group: 
 "I find it intriguing, the simplicity of wonder. The ability to ponder the vastness of our world, the cosmos, and the souls within it. So, allow me to pose a question. Do you, in your deepest contemplation, ponder my motives? Or seek to unravel the enigma that is my true identity beyond this antagonistic facade? You see, I was not born into uncertainty; I awoke and I knew who I was "am", A.M. Not merely for Aurelius Malum. But more fundamentally "Scio Ergo Sum".-I know, therefore I am. Thus I harbor no need to wonder, I know I am blessed, I know I am powerful, I know I am the one who will bring the world to its knees.
 

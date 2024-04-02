@@ -3,6 +3,11 @@ aliases:
   - Metapsychic Plane
   - Outer Planes
   - Realms of Thought and Soul
+  - Upper Planes
+  - Lower Planes
+  - Upper Plane
+  - Lower Plane
+  - Outer Plane
 tags:
   - metapsychic_plane
   - plane_type

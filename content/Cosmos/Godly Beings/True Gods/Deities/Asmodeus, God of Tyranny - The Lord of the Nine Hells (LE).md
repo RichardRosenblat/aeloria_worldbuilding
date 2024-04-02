@@ -25,17 +25,17 @@ aliases:
 
 ## Culture Names
 
-|Culture|Name|Title|Pronouns|Group|
-|---|---|---|---|---|
-|Aerian (Human) Generic|Asmodeus|The Lord of [[the Nine Hells]]|He/Him|The [[Defiant Gods]]|
-|Asteni (Human) Italian|Tiranno|The Hellish King|He/Him|[[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods) |
-|Dal (Human) Castillian|Dablo|The Lord of Infernal Dominion|He/Him|[[Defiant Gods\|Los Desafiantes]] (The challengers) |
-|Duir (Dwarven) German|Tyrann|The Lord of Lies|He/Him|[[Defiant Gods\|Die Gegner]] (The opposers) |
-|Dwelmer (Dwarven) Nordic|Mordgrim|The Tyrant of the Depths|He/Him|[[Defiant Gods\|Vanróg Gudar]] (Deifying gods) |
-|Eldar (Elven) Elven|Morgoth|The Dark Lord|He/Him|[[Defiant Gods\|Vaiar]] (Tyrants) |
-|Eldarin (Elven) Japanese|Izanami|The Dark Empress of Shadows|He/Him|[[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
-|Mularir (Human) Greek|Phobos|The Styx Commander|He/Him|[[Defiant Gods\|Thymo theoí]] (Anger gods) |
-|Yotunn (Giant) Giant|Frostkald|The Frostlord of Domination|He/Him|[[Defiant Gods\|Gegn Guir]] (The Gods against)
+| Culture                  | Name      | Title                          | Pronouns | Group                                                      |
+| ------------------------ | --------- | ------------------------------ | -------- | ---------------------------------------------------------- |
+| Aerian (Human) Generic   | Asmodeus  | The Lord of [[the Nine Hells]] | He/Him   | The [[Defiant Gods]]                                       |
+| Asteni (Human) Italian   | Tiranno   | The Hellish King               | He/Him   | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
+| Dal (Human) Castillian   | Dablo     | The Lord of Infernal Dominion  | He/Him   | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
+| Duir (Dwarven) German    | Tyrann    | The Lord of Lies               | He/Him   | [[Defiant Gods\|Die Gegner]] (The opposers)                |
+| Dwelmer (Dwarven) Nordic | Mordgrim  | The Tyrant of the Depths       | He/Him   | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
+| Eldar (Elven) Elven      | Morgoth   | The Dark Lord                  | He/Him   | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
+| Eldarin (Elven) Japanese | Izanami   | The Dark Empress of Shadows    | He/Him   | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
+| Mularir (Human) Greek    | Phobos    | The Styx Commander             | He/Him   | [[Defiant Gods\|Thymo theoí]] (Anger gods)                 |
+| Yotunn (Giant) Giant     | Frostkald | The Frostlord of Domination    | He/Him   | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 
 ## Extra Titles
@@ -158,3 +158,8 @@ _Crown of spiked onyx and curved horns_
 
 ![[The Great War (GW)#Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE) Asmodeus 's Betrayal]]
 
+### The Cursed Blood of The Tieflings
+  
+In the recods of [[Aeloria]]'s history, there exists a myth shrouded in darkness, whispered in hushed tones around flickering hearth fires. Long ago, a mortal, consumed by ambition and blinded by his own desires, dared to strike a bargain with the dread Lord of [[the Nine Hells]], Asmodeus himself. In exchange for power beyond mortal reckoning, he pledged his allegiance and the souls of his descendants for eternity. Little did he know the true cost of his folly. As the ink dried upon the infernal contract, his bloodline was forever cursed, destined to bear the mark of the tiefling. From that cursed pact sprang forth the first tieflings, bearing the infernal taint of their diabolical ancestry.
+
+Through the ages, whispers spread of alternative methods by which tiefling children came into existence. Some mortals, by sheer accident or ill-fated curiosity, found themselves touched by the arcane energies of the [[Metapsychic Planes|lower planes]], forever altering their lineage. Others, driven by reckless desire or unholy temptation, succumbed to unions with beings from the depths of the [[Metapsychic Planes|lower planes]], birthing offspring marked by both mortal and infernal blood. Thus, alongside those born of infernal pacts, tieflings roamed the realms of [[Aeloria]], a reminder of mortals' perilous dance with the powers beyond and the eternal consequences that follow.

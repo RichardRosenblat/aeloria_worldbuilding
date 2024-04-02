@@ -9,7 +9,7 @@ tags:
 >[!info] This file has a text in 5e.tools [here](https://5e.tools/book.html#dmg,-1,hades,0) and in a wiki [here](https://forgottenrealms.fandom.com/wiki/Hades)
 # The Gray Waste of Hades
 
-The layers of Hades are called the Three Glooms-places without joy, hope, or passion. A gray land with an ashen sky, Hades is the destination of many souls that are unclaimed by the gods of the Upper Planes or the fiendish rulers of the Lower Planes. These souls become larvae and spend eternity in this place that lacks a [[Solis|sun]], a moon, stars, or seasons. Leaching away color and emotion, this gloom is more than most visitors can stand. The "[[Shadowfell]] Despair" rule earlier in the chapter can be used to represent a visitor's despair.
+The layers of Hades are called the Three Glooms-places without joy, hope, or passion. A gray land with an ashen sky, Hades is the destination of many souls that are unclaimed by the gods of the [[Metapsychic Planes|Upper Planes]] or the fiendish rulers of the [[Metapsychic Planes|Lower Planes]]. These souls become larvae and spend eternity in this place that lacks a [[Solis|sun]], a moon, stars, or seasons. Leaching away color and emotion, this gloom is more than most visitors can stand. The "[[Shadowfell]] Despair" rule earlier in the chapter can be used to represent a visitor's despair.
 
 ## Optional Rule: Vile Transformation
 
