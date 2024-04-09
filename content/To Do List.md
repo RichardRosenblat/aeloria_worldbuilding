@@ -63,6 +63,7 @@ tags:
 - [ ] Add important Past Figures
 - [ ] Add races
 - [ ] Create more monsters
+- [ ] Add info in this playlist https://www.youtube.com/playlist?list=PLR1G6DpFDXdOtqGkkBXS3e-BWm7OyF_cA
 - [ ]  make ways to recognize members of factions, and diferentials of each rank
 - [ ]  create elder elementals
 - [ ]  create elemental [[titans]]
