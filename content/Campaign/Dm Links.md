@@ -2,24 +2,24 @@
 tags:
   - "#dm_note"
 ---
-- 5e tools: [https://5e.tools/](https://5e.tools/)
-- Azgaar maps: [https://azgaar.github.io/Fantasy-Map-Generator/](https://azgaar.github.io/Fantasy-Map-Generator/)
-- DM screen: [https://ceryliae.github.io/5edmscreen/#WildMagicSurge](https://ceryliae.github.io/5edmscreen/#WildMagicSurge)
-- Donjon: [https://donjon.bin.sh/](https://donjon.bin.sh/)
-- shops / items: [https://www.thievesguild.cc/shops/](https://www.thievesguild.cc/shops/)
-- harvesting: [https://www.thievesguild.cc/harvest/](https://www.thievesguild.cc/harvest/)
-- laws: [https://www.thievesguild.cc/laws/](https://www.thievesguild.cc/laws/)
-- other gens: [https://www.thievesguild.cc/tables/](https://www.thievesguild.cc/tables/)
-- GREAT WEBSITE: [https://www.thievesguild.cc/](https://www.thievesguild.cc/)
-- map maker color: [https://deepnight.net/tools/rpg-map/](https://deepnight.net/tools/rpg-map/)
-- Map maker dungeon: [https://app.dungeonscrawl.com/](https://app.dungeonscrawl.com/)
-- item | npcs | landmarks: [https://www.herebetaverns.com/](https://www.herebetaverns.com/)
-- Magic item store: [https://donjon.bin.sh/5e/magic/shop.html](https://donjon.bin.sh/5e/magic/shop.html)
-- NPC generator: [https://www.npcgenerator.com/](https://www.npcgenerator.com/)
-- Prices: [https://dungeonmastertools.github.io/items.html](https://dungeonmastertools.github.io/items.html)
-- Random gen (encounters): [https://donjon.bin.sh/5e/random/](https://donjon.bin.sh/5e/random/)
-- Sigils: [https://watabou.itch.io/sigil-generator](https://watabou.itch.io/sigil-generator)
-- dawn war gods cheat sheet: [https://docs.google.com/spreadsheets/d/](https://docs.google.com/spreadsheets/d/1i5QHLOlXwyrYRFa9oI3WMpenVp3mEB6e0t_dD8SZrLk/edit?usp=sharing)
-- City Generator: [https://www.fantasytowngenerator.com/](https://www.fantasytowngenerator.com/)
-- Encounter generator: [https://donjon.bin.sh/5e/random/](https://donjon.bin.sh/5e/random/#type=encounter;encounter-n_pc=4;encounter-level=1;encounter-difficulty=easy;encounter-environment=underdark)
-
+| Tool                    | Link                                                                                                                                                                       |
+| ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 5e tools                | [5e.tools](https://5e.tools/)                                                                                                                                              |
+| DM screen               | [5edmscreen](https://ceryliae.github.io/5edmscreen/#WildMagicSurge)                                                                                                        |
+| Azgaar maps             | [Azgaar Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)                                                                                            |
+| map maker color         | [deepnight](https://deepnight.net/tools/rpg-map/)                                                                                                                          |
+| Donjon                  | [donjon](https://donjon.bin.sh/)                                                                                                                                           |
+| Magic item store        | [donjon/5e/magic/shop](https://donjon.bin.sh/5e/magic/shop.html)                                                                                                           |
+| Random gen (encounters) | [donjon/5e/random/](https://donjon.bin.sh/5e/random/)                                                                                                                      |
+| Encounter generator     | [donjon/5e/random/encounter](https://donjon.bin.sh/5e/random/#type=encounter;encounter-n_pc=4;encounter-level=1;encounter-difficulty=easy;encounter-environment=underdark) |
+| Prices                  | [dungeonmastertools](https://dungeonmastertools.github.io/items.html)                                                                                                      |
+| Map maker dungeon       | [dungeonscrawl/](https://app.dungeonscrawl.com/)                                                                                                                           |
+| City Generator          | [fantasytowngenerator](https://www.fantasytowngenerator.com/)                                                                                                              |
+| item-npcs-landmarks     | [herebetaverns](https://www.herebetaverns.com/)                                                                                                                            |
+| NPC generator           | [npcgenerator](https://www.npcgenerator.com/)                                                                                                                              |
+| Thieves Guild           | [thievesguild](https://www.thievesguild.cc/)                                                                                                                               |
+| harvesting              | [thievesguild/harvest](https://www.thievesguild.cc/harvest/)                                                                                                               |
+| laws                    | [thievesguild/laws](https://www.thievesguild.cc/laws/)                                                                                                                     |
+| shops / items           | [thievesguild/shops](https://www.thievesguild.cc/shops/)                                                                                                                   |
+| other gens              | [thievesguild/tables](https://www.thievesguild.cc/tables/)                                                                                                                 |
+| Sigils                  | [watabou/sigil-generator](https://watabou.itch.io/sigil-generator)                                                                                                         |
