@@ -29,7 +29,7 @@ aliases:
 | ------------------------ | ----------- | ----------------------------- | ----------- | --------------------------------------------------------------------------------- |
 | Aerian (Human) Generic   | Gruumsh     | The Ruiner                    | He/Him      | The [[Harmonious Gods]]                                                           |
 | Asteni (Human) Italian   | Vesanus     | The Master of Carnage         | He/Him      | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Human) Castillian   | Destrus     | The Harbinger of Annihilation | He/Him      | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Dal (Human) Hispanic  | Destrus     | The Harbinger of Annihilation | He/Him      | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Zerstorungs | The One Eyed                  | He/Him      | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
 | Dwelmer (Dwarven) Nordic | Fenrir      | The Devourer of Realms        | He/Him      | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
 | Eldar (Elven) Elven      | Xyrsylvar   | The Fey Eater                 | He/They/It  | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |

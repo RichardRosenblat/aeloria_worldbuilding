@@ -29,7 +29,7 @@ aliases:
 | ------------------------ | --------- | ------------------------------ | -------- | ---------------------------------------------------------- |
 | Aerian (Human) Generic   | Asmodeus  | The Lord of [[the Nine Hells]] | He/Him   | The [[Defiant Gods]]                                       |
 | Asteni (Human) Italian   | Tiranno   | The Hellish King               | He/Him   | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
-| Dal (Human) Castillian   | Dablo     | The Lord of Infernal Dominion  | He/Him   | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
+| Dal (Human) Hispanic  | Dablo     | The Lord of Infernal Dominion  | He/Him   | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
 | Duir (Dwarven) German    | Tyrann    | The Lord of Lies               | He/Him   | [[Defiant Gods\|Die Gegner]] (The opposers)                |
 | Dwelmer (Dwarven) Nordic | Mordgrim  | The Tyrant of the Depths       | He/Him   | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
 | Eldar (Elven) Elven      | Morgoth   | The Dark Lord                  | He/Him   | [[Defiant Gods\|Vaiar]] (Tyrants)                          |

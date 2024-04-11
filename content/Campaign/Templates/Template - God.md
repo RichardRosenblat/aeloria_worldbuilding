@@ -6,7 +6,7 @@
 | ---- | ---- | ---- | ---- | ---- |
 | Aerian (Human) Generic |  |  |  |  |
 | Asteni (Human) Italian |  |  |  |  |
-| Dal (Human) Castillian |  |  |  |  |
+| Dal (Human) Hispanic|  |  |  |  |
 | Duir (Dwarven) German |  |  |  |  |
 | Dwelmer (Dwarven) Nordic |  |  |  |  |
 | Eldar (Elven) Elven |  |  |  |  |

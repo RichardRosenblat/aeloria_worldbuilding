@@ -29,7 +29,7 @@ aliases:
 | ------------------------ | ------------------ | :----------------------- | -------- | ---------------------------------------------------------- |
 | Aerian (Human) Generic   | Corellon           | The Spellfather          | He/They  | The [[Defiant Gods]]                                       |
 | Asteni (Human) Italian   | Arcano             | The Weave                | He/It    | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
-| Dal (Human) Castillian   | Artez              | The Lord of Spells       | He/It    | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
+| Dal (Human) Hispanic  | Artez              | The Lord of Spells       | He/It    | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
 | Duir (Dwarven) German    | Kuns-meister       | The Master Artisan       | He/They  | [[Defiant Gods\|Die Gegner]] (The opposers)                |
 | Dwelmer (Dwarven) Nordic | Svartalf           | The Runekeeper           | He/They  | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
 | Eldar (Elven) Elven      | Corellon Larethian | The Enchanter of Stars   | He/They  | [[Defiant Gods\|Vaiar]] (Tyrants)                          |

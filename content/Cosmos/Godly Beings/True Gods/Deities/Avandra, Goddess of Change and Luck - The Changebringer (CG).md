@@ -29,7 +29,7 @@ aliases:
 | ------------------------ | ----------- | ----------------------- | ----------- | --------------------------------------------------------------------------------- |
 | Aerian (Human) Generic   | Avandra     | The Changebringer       | She/Her     | The [[Harmonious Gods]]                                                           |
 | Asteni (Human) Italian   | Fortuna     | The Misstress of chance | She/Her     | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Human) Castillian   | Esperanza   | The Hopebringer         | She/Her     | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Dal (Human) Hispanic  | Esperanza   | The Hopebringer         | She/Her     | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Gluck-stein | The Everchanging        | He/She/They | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
 | Dwelmer (Dwarven) Nordic | Freyja      | The Fortunebringer      | She/Her     | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
 | Eldar (Elven) Elven      | Lúthien     | The Songweaver          | She/They    | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |

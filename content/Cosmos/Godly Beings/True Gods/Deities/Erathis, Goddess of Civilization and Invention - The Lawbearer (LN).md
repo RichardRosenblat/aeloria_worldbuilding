@@ -29,7 +29,7 @@ aliases:
 | ------------------------ | ------------ | ------------------------------ | ----------- | ---------------------------------------------------------- |
 | Aerian (Human) Generic   | Erathis      | The Lawbearer                  | She/Her     | The [[Defiant Gods]]                                       |
 | Asteni (Human) Italian   | Civitas      | The Inventrix                  | She/Her     | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
-| Dal (Human) Castillian   | Civilis      | The Mother of Progress         | She/Her     | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
+| Dal (Human) Hispanic     | Civilis      | The Mother of Progress         | She/Her     | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
 | Duir (Dwarven) German    | Zivilisation | The Builder of Strongholds     | He/Him      | [[Defiant Gods\|Die Gegner]] (The opposers)                |
 | Dwelmer (Dwarven) Nordic | Borir        | The Torchbearer of Innovation  | He/Him      | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
 | Eldar (Elven) Elven      | Amarie       | The Elegance of Civilization   | She/Her     | [[Defiant Gods\|Vaiar]] (Tyrants)                          |

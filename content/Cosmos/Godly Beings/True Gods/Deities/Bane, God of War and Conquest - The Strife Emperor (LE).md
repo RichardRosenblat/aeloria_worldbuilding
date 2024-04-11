@@ -29,7 +29,7 @@ aliases:
 | ------------------------ | ------------ | ----------------------- | -------- | ---------------------------------------------------------- |
 | Aerian (Human) Generic   | Bane         | The Strife Emperor      | He/Him   | The [[Defiant Gods]]                                       |
 | Asteni (Human) Italian   | Bellium      | The Warlord of Chaos    | He/They  | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
-| Dal (Human) Castillian   | Guerra       | The Emperor of Conflict | He/Him   | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
+| Dal (Human) Hispanic     | Guerra       | The Emperor of Conflict | He/Him   | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
 | Duir (Dwarven) German    | Kriegs-furst | The Iron Fist           | He/Him   | [[Defiant Gods\|Die Gegner]] (The opposers)                |
 | Dwelmer (Dwarven) Nordic | Ragnor       | The Winter Legion       | He/They  | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
 | Eldar (Elven) Elven      | Sauron       | The Dark Sovereign      | He/Him   | [[Defiant Gods\|Vaiar]] (Tyrants)                          |

@@ -29,7 +29,7 @@ aliases:
 | ---- | ---- | ---- | ---- | ---- |
 | Aerian (Human) Generic | Bahamut | The Platinum Dragon | He/Him | The [[Harmonious Gods]] |
 | Asteni (Human) Italian | Iustitia | The Fair One | She/Her | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Human) Castillian | Balduino | The Noble Protector | He/Him | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones) |
+| Dal (Human) Hispanic| Balduino | The Noble Protector | He/Him | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones) |
 | Duir (Dwarven) German | Edel-herz | The Lord of Virtue | He/Him | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones) |
 | Dwelmer (Dwarven) Nordic | Tyrgrim | The Unwavering Dragon | He/Him | [[Harmonious Gods\|Ástin Gudar]] (Loving gods) |
 | Eldar (Elven) Elven | Thranduil | The Wise Knight | He/Him | [[Harmonious Gods\|Maiar]] (Brotherhood) |

@@ -1,6 +1,25 @@
 ---
 tags:
   - true_god
+aliases:
+  - Ioun
+  - The Enlightened      
+  - Minerva       
+  - The Oracle of Wisdom 
+  - Savio         
+  - The Wise One         
+  - Wissen-shuter 
+  - The Keeper of Wisdom 
+  - Mimir         
+  - The Rememberer       
+  - Elrond        
+  - The Loremaster       
+  - Chie          
+  - The Wisdom Oracle    
+  - Athena        
+  - The Great Mentor     
+  - Yrgorim       
+  - The All-Knowing      
 ---
 # Ioun, Goddess of Knowledge - The Enlightened (N)
 
@@ -10,7 +29,7 @@ tags:
 | ------------------------ | ------------- | -------------------- | -------- | --------------------------------------------------------------------------------- |
 | Aerian (Human) Generic   | Ioun          | The Enlightened      | She/Her  | The [[Harmonious Gods]]                                                           |
 | Asteni (Human) Italian   | Minerva       | The Oracle of Wisdom | She/Her  | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Human) Castillian   | Savio         | The Wise One         | He/Him   | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Dal (Human) Hispanic     | Savio         | The Wise One         | He/Him   | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Wissen-shuter | The Keeper of Wisdom | He/Him   | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
 | Dwelmer (Dwarven) Nordic | Mimir         | The Rememberer       | He/Him   | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
 | Eldar (Elven) Elven      | Elrond        | The Loremaster       | He/Him   | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
@@ -68,9 +87,18 @@ _art by https://www.youtube.com/@user-lp4sk2fk9j_
 
 ## Myths
 
-she started writing a library
-she created kenku to help her manage it
-she create a the gnomes with Erathis to explore and enjoy every second of the world so she could create stories about them
+### Ioun's Archive
+
+Tales speak that during an unknown period, before the Great War, Ioun decided to create a single place to store all the knowledge she had gathered and written down in her vast collection of books, scrolls and tomes. The goddess then created a vast library to house all the knowledge of the world. It became known as many names, but most commonly as the Archive of Ioun. The library was said to be a place of wonder and enlightenment, where one could find answers for anything they so desired. After such feat, she promptly employed her loyal kenku to help her manage the library and keep it in order as the collection grew more and more with each passing day.
+
+### The Creation of the Kenku
+
+![[The Creation (CR)#The Creation of Kenku]]
+
+### The creation of Gnomes
+
+![[The Creation (CR)#The Creation of Gnomes]]
+## To do
 the library was destroyed in the great war
 
 for the god above can you create:

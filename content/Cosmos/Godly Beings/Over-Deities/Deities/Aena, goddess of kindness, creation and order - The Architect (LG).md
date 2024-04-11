@@ -29,7 +29,7 @@ aliases:
 |------------------------|------------|---------------------|----------|-------------------------|
 | Aerian (Human) Generic | Aena       | The Architect       | She/Her  | [[Over-Deities\|The Dyad                ]]|
 | Asteni (Human) Italian  | Caelia     | The Divine Artisan  | She/Them | [[Over-Deities\|Il Doppio (The double)  ]]|
-| Dal (Human) Castillian  | Luminara   | The Luminary        | She/Her  | [[Over-Deities\|La Dualidad (The duality)]]|
+| Dal (Human) Hispanic | Luminara   | The Luminary        | She/Her  | [[Over-Deities\|La Dualidad (The duality)]]|
 | Duir (Dwarven) German   | Eisenheim  | The Ironforged       | She/Him  | [[Over-Deities\|Die Machtigen (The empowered)]]|
 | Dwelmer (Dwarven) Nordic | Hrothgar | The Forgefather      | He/HIm   | [[Over-Deities\|Tvískapt (Twin Creators)]]|
 | Eldar (Elven) Elven     | Aelara     | The Weavekeeper      | She/Her  | [[Over-Deities\|Iluvatar (Parents of all)]]|
