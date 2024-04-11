@@ -33,3 +33,4 @@ These are the templates i use in these notes
 | [[Template - Biome]]                        |
 | [[Template - Standard Language]]            |
 | [[Template - Dialect]]                      |
+| [[Template - Phenomena]]                    |

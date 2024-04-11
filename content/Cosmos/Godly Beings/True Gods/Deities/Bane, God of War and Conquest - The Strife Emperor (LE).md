@@ -158,8 +158,8 @@ Where the worship of Bane, the Strife Emperor, holds sway, distinctive political
 
 ## Myths
 
-### The Curse of Strife
+### The Creation of Goblinoids
 
-During the [[The Creation (CR)|times of creation]], when the gods were creating their races, Bane created the goblinoids, beings that can adapt and fight. And to ensure their battle would be eternal, he decided to create the Curse of Strife, a blood curse that fates all goblinoids to become evil. Although some goblinoids are capable of surpassing it thought great effort
+![[The Creation (CR)#The Creation of Goblinoids]]
 
 
