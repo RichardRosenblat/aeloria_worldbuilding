@@ -35,13 +35,13 @@ tags:
 | Elf (Eladrin)                  | God: [[Corellon, God of Magic and the Arts - The Spellfather (CG)\|Corellon]]              | MTF            |
 | Elf (High)                     | God: [[Corellon, God of Magic and the Arts - The Spellfather (CG)\|Corellon]]              | PHB            |
 | Elf (Wood)                     | God: [[Corellon, God of Magic and the Arts - The Spellfather (CG)\|Corellon]]              | PHB            |
-| Gnome                          | God: [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)\|Erathis]]/Ioun | PHB            |
-| Gnome (Deep)                   | God: [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)\|Erathis]]/Ioun | MPMM           |
-| Gnome (Forest)                 | God: [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)\|Erathis]]/Ioun | PHB            |
-| Gnome (Rock)                   | God: [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)\|Erathis]]/Ioun | PHB            |
+| Gnome                          | God: [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)\|Erathis]]/ [[Ioun, Goddess of Knowledge - The Enlightened (N)\|Ioun]]       | PHB            |
+| Gnome (Deep)                   | God: [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)\|Erathis]]/ [[Ioun, Goddess of Knowledge - The Enlightened (N)\|Ioun]]       | MPMM           |
+| Gnome (Forest)                 | God: [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)\|Erathis]]/ [[Ioun, Goddess of Knowledge - The Enlightened (N)\|Ioun]]       | PHB            |
+| Gnome (Rock)                   | God: [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)\|Erathis]]/ [[Ioun, Goddess of Knowledge - The Enlightened (N)\|Ioun]]       | PHB            |
 | Human                          | God: Unknown                                                                               | PHB            |
 | Human (Variant)                | God: Unknown                                                                               | PHB            |
-| Kenku                          | God: Ioun                                                                                  | VGM            |
+| Kenku                          | God:  [[Ioun, Goddess of Knowledge - The Enlightened (N)\|Ioun]]                                                                                        | VGM            |
 | Firbolg                        | God: Melora                                                                                | MPMM           |
 | Satyr                          | God: Melora                                                                                | MOT            |
 | Tabaxi                         | God: Melora                                                                                | VGM            |

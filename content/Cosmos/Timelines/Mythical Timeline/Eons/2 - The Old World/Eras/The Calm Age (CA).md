@@ -82,6 +82,7 @@ Witnessing this unforeseen consequence, the [[True Gods]], ever resourceful, har
 
 After the dragons had successfully sealed the primordial elements, indulgin in a era of peace, mortals began to thrive. Guided by [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)|Erathis]] and the [[Harmonious Gods|Harmonious Deities]], mortals began to build the first cities. These cities were a testament to the ingenuity and creativity of mortals, a reflection of their potential to shape the world around them.
 
+The very first city became known with many names but most commonly as [[Aelor|Aelor, the City of Light]]. It was a beacon of hope and progress, a place where mortals could gather, learn, and grow. The city of Aelor stood as a testament to the indomitable spirit of mortals to overcome adversity and build a better future for themselves.
 
 ## The Golden Age of Knowledge
 

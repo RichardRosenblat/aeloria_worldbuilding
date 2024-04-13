@@ -89,7 +89,7 @@ _art by https://www.youtube.com/@user-lp4sk2fk9j_
 
 ### Ioun's Archive
 
-Tales speak that during an unknown period, before the Great War, Ioun decided to create a single place to store all the knowledge she had gathered and written down in her vast collection of books, scrolls and tomes. The goddess then created a vast library to house all the knowledge of the world. It became known as many names, but most commonly as the Archive of Ioun. The library was said to be a place of wonder and enlightenment, where one could find answers for anything they so desired. After such feat, she promptly employed her loyal kenku to help her manage the library and keep it in order as the collection grew more and more with each passing day.
+Tales speak that during an unknown period, after the creation of the Kenku and before [[The Great War (GW)|the Great War]], Ioun decided to create a single place to store all the knowledge she had gathered and written down in her vast collection of books, scrolls and tomes. The goddess then created a vast library to house all the knowledge of the world. It became known as many names, but most commonly by the simple title of "Ioun's Archive". The library was said to be a place of wonder and enlightenment, where one could find answers for anything they so desired. After such feat, she promptly employed her loyal kenku to help her manage the library and keep it in order as the collection grew more and more with each passing day.
 
 ### The Creation of the Kenku
 
@@ -98,8 +98,13 @@ Tales speak that during an unknown period, before the Great War, Ioun decided to
 ### The creation of Gnomes
 
 ![[The Creation (CR)#The Creation of Gnomes]]
+
+### Creation of [[Ioun's Tear]]
+
+![[Ioun's Tear#Myth]]
+
 ## To do
-the library was destroyed in the great war
+the library was destroyed during the great war
 
 for the god above can you create:
 

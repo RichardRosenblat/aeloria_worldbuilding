@@ -82,7 +82,7 @@ tags:
 74. oathbow
 75. scarab of protection
 76. ring of telekinesis
-77. ioun stones
+77. [[Ioun, Goddess of Knowledge - The Enlightened (N)|ioun]] stones
 78. +3 shield
 79. spellguard shield
 80. immovable rod
