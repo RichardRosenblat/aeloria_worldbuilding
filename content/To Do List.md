@@ -70,3 +70,4 @@ tags:
 - [ ] Create Devil King
 - [ ]  create elemental personification on the elements
 - [ ]  make Alliance bank account types
+- [ ] make cultural differences in the timeline and gods appearances
