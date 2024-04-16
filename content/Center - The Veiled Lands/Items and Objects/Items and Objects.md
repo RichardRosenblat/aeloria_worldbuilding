@@ -61,6 +61,7 @@ Strong items to be used with caution by the dm to not break the campaign
 | [[The Timepiece]]                     |
 | [[Ainulindalë]]                       |
 | [[The wings of Liberation's Epistle]] |
+| [[Pagida]]                            |
 
 
 ## Books and Texts
