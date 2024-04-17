@@ -1,3 +1,8 @@
+---
+tags:
+  - spell
+  - setting
+---
 # Spell: Danger-Sense
 
 *2nd-level divination*

@@ -1,0 +1,13 @@
+In the depths of the Miramar Peninsula forest lies a tale woven with threads of mystery and wonder, whispered through generations of soldiers, fighters, and curious children. Within this ancient woodland, where shadows dance with moonlight and the air hums with secrets, there exists a phenomenon that defies understanding—a rendezvous with a spirit from a realm beyond the known seas.
+
+Legend tells of those who wander into the forest, their hearts heavy with loss or brimming with innocent curiosity, finding themselves embraced by the enigmatic presence of a visitor from distant lands. As the night falls and the moon rises high above the canopy and sleep claims them beneath the verdant canopy, they are drawn into a realm of dreams far beyond the Veilshroud seas.
+
+Upon awakening, they find themselves amidst a landscape unfamiliar and hauntingly beautiful, where the trees stand taller, the air hangs heavy with humidity, a citric scent lingers in the surroundings, and the moonlight struggles to pierce the dense foliage. And there, amidst this ethereal realm, stands the spirit—a vision of grace and mystery, her form obscured by shadows and details revealed by rogue moonbeams.
+
+With eyes as dark as the night itself and a streak of crimson paint across her brow, she beckons to the dreamer with a voice that speaks in tongues unknown, yet resonates with soothing melody. Taking their hand, she guides them through this otherworldly realm, revealing its wonders and mysteries with gentle gestures and whispered words.
+
+Together, they traverse lakes that gleam like liquid silver beneath the moon's gaze, follow paths deep in the forest with trees that pierce the heavens, and encounter creatures never before seen by those in the Veiled Lands, and find marks of civilizations unknown. As the night wears on, the spirit often leads the dreamer to the edge of a colossal, shimmering river, its waters reflecting the moon's pale glow with mesmerizing clarity.
+
+But as the reflecting light encompass the dreamer, the spirit's form begins to fade and the dreamer finds themselves once more beneath the familiar boughs of Miramar's woods. Though the memory of their journey lingers like a half-remembered dream, and the scent of citrus hangs heavy in the air, they are left with nothing but the echo of the spirit's presence and the faint imprint of her footsteps in the mud.
+
+Her name remains a mystery, lost to the ages, but those who have encountered her in dreams speak of her fondly as "Flor," a name that lingers like a whisper upon the lips of those who have glimpsed the secrets of the Miramar forest. And so, the legend of Flor, the mysterious spirit of the woods, continues to weave its spell, drawing wanderers and dreamers into its enchanting embrace.

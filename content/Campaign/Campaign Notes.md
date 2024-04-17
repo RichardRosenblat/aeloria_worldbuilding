@@ -4,21 +4,22 @@ tags:
 ---
 # Campaign Table of Contents
 
-| Category | Contents |
-| ---- | ---- |
-| Useful links | [[Dm Links]] |
-| Types of settlements | [[Settlement Types]] |
-| Prices of magic items | [[Magic Item prices]] |
-| Generate markdown wiki text | [[Generate wiki text]] |
-| Generate quests | [[Generate quest boards]] |
-| Generating NPCs | [[Generate NPC]] |
-| Npc template with examples | [[Npc model with examples]] |
-| Items folder | [[Items and Objects]] |
-| Dictionary for languages | [[Languages Dictionary]] |
-| Homebrew monsters | [[Bestiary]] |
-| Calendar | [[Aelorian Calendar]] |
-| list of plans | [[Important names to create later]] |
-| City unique details | [[200 Things to Make a City Unique]] |
+| Category                    | Contents                             |
+| --------------------------- | ------------------------------------ |
+| Useful links                | [[Dm Links]]                         |
+| Types of settlements        | [[Settlement Types]]                 |
+| Prices of magic items       | [[Magic Item prices]]                |
+| Generate markdown wiki text | [[Generate wiki text]]               |
+| Generate quests             | [[Generate quest boards]]            |
+| Generating NPCs             | [[Generate NPC]]                     |
+| Npc template with examples  | [[Npc model with examples]]          |
+| Items folder                | [[Items and Objects]]                |
+| Dictionary for languages    | [[Languages Dictionary]]             |
+| Homebrew monsters           | [[Bestiary]]                         |
+| Calendar                    | [[Aelorian Calendar]]                |
+| list of plans               | [[Important names to create later]]  |
+| City unique details         | [[200 Things to Make a City Unique]] |
+| Myths                       | [[Myth - Flor]]                      |
 
 # Random Quotes
 
