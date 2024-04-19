@@ -1,6 +1,6 @@
 # Myth of Flor
 
-In the depths of the Miramar Peninsula forest lies a tale woven with threads of mystery and wonder, whispered through generations of soldiers, fighters, and curious children. Within this ancient woodland, where shadows dance with moonlight and the air hums with secrets, there exists a phenomenon that defies understanding—a rendezvous with a spirit from a realm beyond the known seas.
+In the depths of the Miramar Peninsula forest lies a tale woven with threads of mystery and wonder, whispered through generations of soldiers, fighters, and curious adventurers. Within this ancient woodland, where shadows dance with moonlight and the air hums with secrets, there exists a phenomenon that defies understanding—a rendezvous with a spirit from a realm beyond the known seas.
 
 Legend tells of those who wander into the forest, their hearts heavy with loss or brimming with innocent curiosity, finding themselves embraced by the enigmatic presence of a visitor from distant lands. As the night falls and the moon rises high above the canopy and sleep claims them beneath the verdant canopy, they are drawn into a realm of dreams far beyond the Veilshroud seas.
 
