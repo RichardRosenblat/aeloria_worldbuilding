@@ -1,6 +1,8 @@
 ---
 tags:
-  - race
+  - species
+  - homebrew
+  - setting
 ---
 # The Arcaneborn: Living Manifestations of Magic
 
