@@ -5,7 +5,10 @@ tags:
   - setting
 ---
 # Feat: Kokusen Mastery
-*Prerequisite: Proficiency in a martial weapon, be a Monk of at least second level*
+
+> "It is said that the power of Kokusen is so great that it can shatter gargantuan boulders and carve holes through even the most durable of metals. The truth is, however, the the true might of Kokusen lies not in its destructive power, but in the sheer skill, discipline and precision required to execute it. It is a feat so rare that no one has ever been able to unleash more than four Kokusen in a row. To master Kokusen is to master oneself... or to be just a insanely lucky bastard."
+
+*Prerequisite: Proficiency in a martial weapon, be a Monk of at least second level or a fighter of at least 5th level.*
 
 Through unparalleled mastery of combat techniques, you have unlocked the legendary power of Kokusen, allowing you to unleash devastating strikes with supernatural speed and precision.
 
