@@ -40,9 +40,10 @@ Just plain items that are interesting and can be useful without breaking campaig
 # Funny
 Goof items for gags and laughs
 
-| Funny items |
-| ----------- |
-| [[Knight-time mace]]            |
+| Funny items          |
+| -------------------- |
+| [[Knight-time mace]] |
+| [[Arrow of Slaying]] |
 
 
 ## Cool and Powerful

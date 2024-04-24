@@ -58,6 +58,7 @@ tags:
 24. [ ] Make ways to recognize members of factions, and diferentials of each rank
 25. [ ] Create Cultures and expand on it
 26. [ ] Create Kingdoms
+## These tasks can be done after the capaign starts
 27. [ ] Finish re checking the [[elemental planes]]
     1. [ ] [[Feywild]]
     2. [ ] [[Shadowfell]]
