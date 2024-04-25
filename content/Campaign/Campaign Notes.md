@@ -29,6 +29,7 @@ tags:
 "what do you think it means to be saved"
 "What happened?" - "Nothing that wasn't my fault"
 "Something is different"
+"My liege, sire, all father of speed. Let these peasants witness the swiftness of thy mighty chariot"
 
 ## Names For Outsiders
 Ya'qub Qamar Ad-din Dibiazah The greatest Sultan in his time
@@ -37,7 +38,8 @@ Khindir Karawita Greatest lancer and strategist in his prime
 Ismail Ahmad Kanabawi The best horseman of all time
 Usman Abdul Jalil Sisha Smartest sage in the desert
 Muhammad Sumbul The bravest soldier of all time
-    
+
+
 ## Ideas of stuff to do
 - Witch encounter offering human food
 - [[Merlin]] creates at least these 2 spells,
@@ -47,6 +49,11 @@ Muhammad Sumbul The bravest soldier of all time
 Sheep thinking about heavymetal
 delivery guy
 very cool bird!
+
+## Cool possessed phrases
+I have the body of a pig
+Lies? in your house of god?
+
 ## Druids Haka
 1. Screams
 2. Skulls
@@ -120,3 +127,5 @@ Investigating further, you realize that the source of the commotion is a tragic 
 The haunting song crescendos, drowning out the terrified screams, and you find yourself in front of a shapeless horror. The air shivers with an otherworldly resonance, and as you attempt to comprehend the scene, your vision blurs, and the world fades away.
 
 Suddenly, you awaken in unfamiliar surroundings—a dimly lit room with the scent of aged wood and stale ale. Three days have passed, and the details of the harrowing encounter in Eldor's market escape your memory like elusive shadows in the daylight. The town holds its secrets, and the eerie song lingers in your subconscious, leaving you with a haunting sense of unease.
+
+

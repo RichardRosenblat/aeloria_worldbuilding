@@ -10,27 +10,29 @@ These are the templates i use in these notes
 
 | Template                                    |
 | ------------------------------------------- |
-| [[Templace - Ruined City]]                  |
+| [[Template - Magic Item]]                   |
+| [[Template - Ruined City]]                  |
+| [[Template - Biome]]                        |
 | [[Template - City]]                         |
+| [[Template - Culture]]                      |
+| [[Template - Currency]]                     |
+| [[Template - Dialect]]                      |
 | [[Template - Duplicate]]                    |
-| [[Template - Note from  5e.tools and Wiki]] |
+| [[Template - Eon]]                          |
+| [[Template - Era]]                          |
+| [[Template - Foster Note]]                  |
+| [[Template - God]]                          |
+| [[Template - Holiday]]                      |
+| [[Template - Kingdom]]                      |
+| [[Template - Material]]                     |
 | [[Template - Note from 5e.tools]]           |
+| [[Template - Note from  5e.tools and Wiki]] |
 | [[Template - Note from Wiki]]               |
 | [[Template - Note to do]]                   |
 | [[Template - NPC]]                          |
-| [[Template - Foster Note]]                  |
-| [[Template - Race]]                         |
-| [[Template - Eon]]                          |
-| [[Template - Era]]                          |
-| [[Template - Timeline Event]]               |
-| [[Template - Holiday]]                      |
-| [[Template - God]]                          |
-| [[Template - Material]]                     |
-| [[Template - Culture]]                      |
-| [[Template - Kingdom]]                      |
-| [[Template - Currency]]                     |
-| [[Template - Sea]]                          |
-| [[Template - Biome]]                        |
-| [[Template - Standard Language]]            |
-| [[Template - Dialect]]                      |
 | [[Template - Phenomena]]                    |
+| [[Template - Race]]                         |
+| [[Template - Sea]]                          |
+| [[Template - Standard Language]]            |
+| [[Template - Timeline Event]]               |
+| [[Template - Alchemical Item]]              |
