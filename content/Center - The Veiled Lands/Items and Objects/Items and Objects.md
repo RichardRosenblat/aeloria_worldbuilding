@@ -32,10 +32,11 @@ Common items that are usually seen around the world with low levels of rarity
 Just plain items that are interesting and can be useful without breaking campaigns
 
 | Interesting and Useful Items |
-| ---- |
-| [[100 Useful Items]] |
-| [[Adder Stone]] |
-| [[The Lantern (item)]] |
+| ---------------------------- |
+| [[100 Useful Items]]         |
+| [[Adder Stone]]              |
+| [[The Lantern (item)]]       |
+| [[Whispering Chariot]]       |
 
 # Funny
 Goof items for gags and laughs
