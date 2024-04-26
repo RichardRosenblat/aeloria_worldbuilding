@@ -2,9 +2,11 @@
 tags:
   - "#dm_note"
 ---
+
 | Tool                    | Link                                                                                                                                                                       |
 | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 5e tools                | [5e.tools](https://5e.tools/)                                                                                                                                              |
+| Improvised Damage       |                                                                                                                                                                            |
 | DM screen               | [5edmscreen](https://ceryliae.github.io/5edmscreen/#WildMagicSurge)                                                                                                        |
 | Azgaar maps             | [Azgaar Fantasy Map Generator](https://azgaar.github.io/Fantasy-Map-Generator/)                                                                                            |
 | map maker color         | [deepnight](https://deepnight.net/tools/rpg-map/)                                                                                                                          |
