@@ -33,6 +33,8 @@ tags:
 4.  [ ] Create factions
 5.  [ ] Create great old ones
 	1. [ ] Make new symbols for the great old ones
+	2. [ ] make boons for their followers
+	3. [ ] make initiation procedures for their cults
 6. [ ] Rewrite items using template
 	1. [ ] Magic items
 	2. [ ] Achemical Items
