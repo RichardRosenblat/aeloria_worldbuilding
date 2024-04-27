@@ -1,3 +1,8 @@
+---
+tags:
+  - "#funny"
+  - "#magic_item"
+---
 # Arrow of Slaying:
 
 _Weapon (arrow), rare_

@@ -18,6 +18,9 @@
 ## Effects:
 (Describe any magical effects or abilities the item grants to its wielder. Include any limitations or restrictions on the use of these abilities.)
 
+## Charges:
+(If the item has limited uses or charges, describe the number of charges and how they are replenished.)
+
 ## Curses:
 (If the item has any curses or negative effects associated with it, describe them here. Include any potential drawbacks or consequences of using the item.)
 
