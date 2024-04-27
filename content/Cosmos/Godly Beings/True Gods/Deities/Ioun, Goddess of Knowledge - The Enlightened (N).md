@@ -87,9 +87,8 @@ _art by https://www.youtube.com/@user-lp4sk2fk9j_
 
 ## Myths
 
-### Ioun's Archive
-
-Tales speak that during an unknown period, after the creation of the Kenku and before [[The Great War (GW)|the Great War]], Ioun decided to create a single place to store all the knowledge she had gathered and written down in her vast collection of books, scrolls and tomes. The goddess then created a vast library to house all the knowledge of the world. It became known as many names, but most commonly by the simple title of "Ioun's Archive". The library was said to be a place of wonder and enlightenment, where one could find answers for anything they so desired. After such feat, she promptly employed her loyal kenku to help her manage the library and keep it in order as the collection grew more and more with each passing day.
+### [[Ioun's Archive]]
+![[Ioun's Archive#Creation of the Library]]
 
 ### The Creation of the Kenku
 
@@ -103,8 +102,11 @@ Tales speak that during an unknown period, after the creation of the Kenku and b
 
 ![[Ioun's Tear#Myth]]
 
+### [[Ioun's Archive]] is Destroyed
+
+![[Ioun's Archive#The Tragic Demise]]
+
 ## To do
-the library was destroyed during the great war
 
 for the god above can you create:
 

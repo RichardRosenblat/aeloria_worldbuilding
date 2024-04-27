@@ -37,26 +37,27 @@ tags:
 | Yotunn (Giant) Giant                                                 | Yotunn, a giant culture inspired in giants from northen european mythology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Culture            |
 | [[Ioun, Goddess of Knowledge - The Enlightened (N)\|Ioun's]] Archive | The archive of the goddess of knowledge, it has many names                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Lost location      |
 | Yggdrasil                                                            | The tree Ivo became                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Lost location      |
+| [[Aelor]]                                                            | The first city                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Lost location      |
 
 # First city's names
 
-| Culture                  | City Name          |
-| ------------------------ | ------------------ |
-| Aerian (Human) Generic   | [[Aelor]] |
-| Asteni (Human) Italian   |  [[Aelor\|Novaroma]]       |
-| Dal (Human) Hispanic     |  [[Aelor\|Prospera]]           |
-| Duir (Dwarven) German    |  [[Aelor\|Eisenburg]]          |
-| Dwelmer (Dwarven) Nordic |  [[Aelor\|Skoldheim]]          |
-| Eldar (Elven) Elven      |  [[Aelor\|Valinor]]            |
-| Eldarin (Elven) Japanese |  [[Aelor\|Sakurashima]]        |
-| Mularir (Human) Greek    |  [[Aelor\|Polis]]              |
-| Yotunn (Giant) Giant     |  [[Aelor\|Jotunheimr]]         |
+| Culture                  | City Name              |
+| ------------------------ | ---------------------- |
+| Aerian (Human) Generic   | [[Aelor]]              |
+| Asteni (Human) Italian   | [[Aelor\|Novaroma]]    |
+| Dal (Human) Hispanic     | [[Aelor\|Prospera]]    |
+| Duir (Dwarven) German    | [[Aelor\|Eisenburg]]   |
+| Dwelmer (Dwarven) Nordic | [[Aelor\|Skoldheim]]   |
+| Eldar (Elven) Elven      | [[Aelor\|Valinor]]     |
+| Eldarin (Elven) Japanese | [[Aelor\|Sakurashima]] |
+| Mularir (Human) Greek    | [[Aelor\|Polis]]       |
+| Yotunn (Giant) Giant     | [[Aelor\|Jotunheimr]]  |
 
 #  [[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]'s Archive names
 
-| Culture                  | Library Name            | Meaning of Name                |
-| ------------------------ | ----------------------- | ------------------------------ |
-| Aerian (Human) Generic   | [[Ioun's Archive]]       | Ioun's Archive              |
+| Culture                  | Library Name                                | Meaning of Name                |
+| ------------------------ | ------------------------------------------- | ------------------------------ |
+| Aerian (Human) Generic   | [[Ioun's Archive]]                          | [[Ioun's Archive]]             |
 | Asteni (Human) Italian   | [[Ioun's Archive\|Sapientia Domus]]         | House of Wisdom                |
 | Dal (Human) Hispanic     | [[Ioun's Archive\|Biblioteca de Sabiduría]] | Library of Wisdom              |
 | Duir (Dwarven) German    | [[Ioun's Archive\|Weisheitsbibliothek]]     | Wisdom Library                 |
