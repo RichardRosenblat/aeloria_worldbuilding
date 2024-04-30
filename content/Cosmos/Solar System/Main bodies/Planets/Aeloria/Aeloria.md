@@ -12,7 +12,7 @@ Aeloria, the central stage for the campaign, is a captivating planet with a rich
 
 ## Name
 
-the origin of its evocative name remains shrouded in mystery, veiled by the echoes of ancient languages long forgotten. Scholars and sages, in their tireless pursuit of knowledge, believe that Aeloria draws its name from the linguistic tapestry of ages past. While the exact linguistic roots elude comprehension, a prevailing belief has taken hold that "Aeloria" signifies the profound concept of "Junction." This interpretation suggests that the very essence of Aeloria embodies a convergence, a harmonious union of all elemental forces. As the Junction of elements, Aeloria stands as a testament to the delicate balance between the primal forces that shape the world, each contributing to the vibrant and ever-changing fabric of existence within this enigmatic realm.
+the origin of its evocative name remains shrouded in mystery, veiled by the echoes of ancient languages long forgotten. Scholars and sages, in their tireless pursuit of knowledge, believe that Aeloria draws its name from the linguistic tapestry of ages past. While the exact linguistic roots elude comprehension, a prevailing belief has taken hold that "Aeloria" signifies the profound concept of "Junction" and "Home." This interpretation suggests that the very essence of Aeloria embodies a convergence, a harmonious union of all elemental forces. As the Junction of elements, Aeloria stands as a testament to the delicate balance between the primal forces that shape the world, each contributing to the vibrant and ever-changing fabric of existence within this enigmatic realm.
 
 ## Myths
 ### Creation
