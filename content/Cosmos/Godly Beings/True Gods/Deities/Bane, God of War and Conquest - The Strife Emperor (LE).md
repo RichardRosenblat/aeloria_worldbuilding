@@ -23,6 +23,8 @@ aliases:
 ---
 # Bane, God of War and Conquest: The Strife Emperor (LE)
 
+"Take what you desire, for it is yours to claim. Be strong, be ruthless, and let none stand in your way. In the crucible of conflict, true power is forged. None shall defy you for the only one above you is The Strife Emperor." - Bane's Teachings
+
 ## Culture Names
 
 | Culture                  | Name         | Title                   | Pronouns | Group                                                      |

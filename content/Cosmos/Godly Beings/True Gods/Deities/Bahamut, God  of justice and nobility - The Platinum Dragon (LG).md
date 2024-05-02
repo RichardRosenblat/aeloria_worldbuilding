@@ -23,6 +23,8 @@ aliases:
 ---
 # Bahamut, god of justice and nobility: The Platinum Dragon (LG)
 
+"Heavens above, honor below, justice within. We must be the light that guides the lost, the shield that protects the weak, and the sword that strikes down evil." - Bahamut's teachings
+
 ## Culture Names
 
 | Culture | Name | Title | Pronouns | Group |

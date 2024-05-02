@@ -23,6 +23,8 @@ aliases:
 ---
 # Gruumsh, God of Destruction: The Ruiner (CE)
 
+"Maul the weak, rip and tear until only warm blood is left. The only thing beneath you is the ground you walk on, and the only thing above you is the sky you will shred. The only thing that matters is the next kill. The space between blade and neck." - Words spoken by a follower of Gruumsh while in a battle frenzy.
+
 ## Culture Names
 
 | Culture                  | Name        | Title                         | Pronouns    | Group                                                                             |

@@ -23,6 +23,8 @@ aliases:
 ---
 # Erathis, Goddess of Civilization and Invention: The Lawbearer (LN)
 
+"Create, build, and innovate. The world is yours to shape and mold. Embrace the power of progress and the beauty of civilization. For life is understood backwards, but must be lived forwards." - Priest of Erathis while blessing a new city
+
 ## Culture Names
 
 | Culture                  | Name         | Title                          | Pronouns    | Group                                                      |

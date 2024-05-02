@@ -23,6 +23,8 @@ aliases:
 ---
 # Corellon, God of Magic and the Arts: The Spellfather (CG)
 
+"Magic is in it's essence, imagination. The ability to create, to inspire, to find beauty in all that you do. Breathe in raw magic, and exhale an expression of your soul. A battle, a dance, a song, a painting, a sculpture, a spell. All of them are the same, all of them are art." - Proverb of Corellon
+
 ## Culture Names
 
 | Culture                  | Name               | Title                    | Pronouns | Group                                                      |

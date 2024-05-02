@@ -23,6 +23,8 @@ aliases:
 ---
 # Avandra, Goddess of Change and Luck: The Changebringer (CG)
 
+"Go forth, my child, embrace adventure and the winds of change, experience the dance of fortune. Luck favors the bold, and in your hands, you hold the power to shape your destiny." - Avandra's blessing to her followers
+
 ## Culture Names
 
 | Culture                  | Name        | Title                   | Pronouns    | Group                                                                             |

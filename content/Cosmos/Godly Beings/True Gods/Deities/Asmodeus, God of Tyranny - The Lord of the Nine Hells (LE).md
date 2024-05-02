@@ -23,6 +23,8 @@ aliases:
 ---
 # Asmodeus, God of Tyranny: The Lord of [[the Nine Hells]] (LE)
 
+"Well now, isn't this a delightful surprise? I must say, I wasn't expecting such a warm welcome. But then again, I suppose I should have known better. After all, who could resist the allure of the Lord of the Nine Hells? Certainly not you, my dear. And why would you want to? I offer power, dominion, control over your own destiny. What more could you possibly desire? Ah, but I see it in your eyes. You seek something more, don't you? Something darker, more forbidden. Well, my dear, you've come to the right place. I shall grant you your heart's desire, and in return, I shall ask for a price. But fear not, for the rewards shall far outweigh the cost. So, what say you? Do we have a deal?" - Asmodeus forging a pact with a follower
+
 ## Culture Names
 
 | Culture                  | Name      | Title                          | Pronouns | Group                                                      |
