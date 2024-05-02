@@ -1,8 +1,4 @@
----
-tags:
-  - magic_item
-  - interesting_item
----
+
 **The Lantern**
 
 *Wondrous Item (Hooded Lantern), Very Rare (Requires Attunement)*

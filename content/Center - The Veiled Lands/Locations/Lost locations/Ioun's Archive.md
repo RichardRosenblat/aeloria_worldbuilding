@@ -12,9 +12,7 @@ aliases:
   - Gnosis Parthenon       
   - Skrymslaskrifheim      
 ---
-# Past Glory: [[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]'s Archive
-
-## Different Names
+# Different Names
 [[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]'s archive is known to have many names, these are some of them:
 
 | Culture                  | Library Name                                | Meaning of Name                |
@@ -29,6 +27,7 @@ aliases:
 | Mularir (Human) Greek    | Gnosis Parthenon       | Temple of Knowledge            |
 | Yotunn (Giant) Giant     | Skrymslaskrifheim      | The Realm of Written Knowledge |
 
+# Past Glory: [[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]'s Archive
 ## [[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]'s Archive: The Sanctuary of Knowledge
 
 ### Creation of the Library

@@ -37,21 +37,30 @@ tags:
 | Yotunn (Giant) Giant                                                 | Yotunn, a giant culture inspired in giants from northen european mythology                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Culture            |
 | [[Ioun, Goddess of Knowledge - The Enlightened (N)\|Ioun's]] Archive | The archive of the goddess of knowledge, it has many names                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Lost location      |
 | Yggdrasil                                                            | The tree Ivo became                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Lost location      |
-| [[Aelor]]                                                            | The first city                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Lost location      |
+| [[Aelor - The First City]]                                                            | The first city                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | Lost location      |
+Aerian -> a culture inpired in english culture with themes of Arthurian legends and the like.
+Asteni -> a culture inspired in italian culture with themes of the roman empire
+Dal -> a culture inspired in hispanic culture with themes of spanish and mexican culture
+Duir -> a culture inspired in german culture with themes of the vikings
+Dwelmer -> a culture inspired in nordic culture with themes of the dwarves
+Eldar -> a culture inspired in elven culture with themes of the celts and elves from tolkien
+Eldarin -> a culture inspired in japanese culture with themes of the samurais
+Mularir -> a culture inspired in greek culture with themes of the greek gods
+Yotunn -> a culture inspired in giant culture with themes of the giants from norse mythology
 
 # First city's names
 
-| Culture                  | City Name              |
-| ------------------------ | ---------------------- |
-| Aerian (Human) Generic   | [[Aelor]]              |
-| Asteni (Human) Italian   | [[Aelor\|Novaroma]]    |
-| Dal (Human) Hispanic     | [[Aelor\|Prospera]]    |
-| Duir (Dwarven) German    | [[Aelor\|Eisenburg]]   |
-| Dwelmer (Dwarven) Nordic | [[Aelor\|Skoldheim]]   |
-| Eldar (Elven) Elven      | [[Aelor\|Valinor]]     |
-| Eldarin (Elven) Japanese | [[Aelor\|Sakurashima]] |
-| Mularir (Human) Greek    | [[Aelor\|Polis]]       |
-| Yotunn (Giant) Giant     | [[Aelor\|Jotunheimr]]  |
+| Culture                  | City Name                               |
+| ------------------------ | --------------------------------------- |
+| Aerian (Human) Generic   | [[Aelor - The First City]]              |
+| Asteni (Human) Italian   | [[Aelor - The First City\|Novaroma]]    |
+| Dal (Human) Hispanic     | [[Aelor - The First City\|Prospera]]    |
+| Duir (Dwarven) German    | [[Aelor - The First City\|Eisenburg]]   |
+| Dwelmer (Dwarven) Nordic | [[Aelor - The First City\|Skoldheim]]   |
+| Eldar (Elven) Elven      | [[Aelor - The First City\|Valinor]]     |
+| Eldarin (Elven) Japanese | [[Aelor - The First City\|Sakurashima]] |
+| Mularir (Human) Greek    | [[Aelor - The First City\|Polis]]       |
+| Yotunn (Giant) Giant     | [[Aelor - The First City\|Jotunheimr]]  |
 
 #  [[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]'s Archive names
 

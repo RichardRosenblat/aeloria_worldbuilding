@@ -37,6 +37,7 @@ Just plain items that are interesting and can be useful without breaking campaig
 | [[Adder Stone]]              |
 | [[The Lantern (item)]]       |
 | [[Whispering Chariot]]       |
+| [[Potion of Flos]]           |
 
 # Funny
 Goof items for gags and laughs
