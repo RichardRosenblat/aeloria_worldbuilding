@@ -8,8 +8,11 @@ tags:
 ## Description:
 The Bottle-o'-Party appears as a finely crafted opaque glass bottle, adorned with colorful patterns and designs reminiscent of festive celebrations. It glimmers with enchantment, and its cork stopper is sealed with a magical insignia.
 
-## Rarity:
-*Uncommon*
+## Rarity and Type:
+*Uncommon - Wondrous Item*
+
+## Requirements:
+*None*
 
 ## Attunement:
 *No*

@@ -9,8 +9,11 @@ it's just common sense!* - Inscriptions on the Thingmabop
 ## Description:
 The Thingmabop is a basketball-sized mechanical object adorned with cogs, springs, lenses, and fans. Its appearance is intricate, with various bits and bops moving around accompanied by mechanical hisses and vapor valves. Despite its complexity, its true purpose and origin remain unknown. Across it's surface it has ancient runes with a enigmatic message.
 
-## Rarity:
-Rare
+## Rarity and Type:
+*Rare - Wondrous Item*
+
+## Requirements:
+None
 
 ## Attunement:
 No

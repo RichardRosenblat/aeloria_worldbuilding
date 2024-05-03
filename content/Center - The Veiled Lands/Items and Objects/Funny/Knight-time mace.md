@@ -3,8 +3,11 @@
 ## Description:
 The Knight Time Mace is a formidable weapon with a traditional mace design. Adorning its hilt are intricate symbols depicting knights and noble warriors, and an inscription that reads "it's knight time." When activated, the mace emits a gentle glow, illuminating the surrounding area like a torch.
 
-## Rarity:
-*Rare*
+## Rarity and Type:
+*Rare - Weapon*
+
+## Requirements:
+*None*
 
 ## Attunement:
 *Yes*

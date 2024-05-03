@@ -3,8 +3,11 @@
 ## Description:
 (Provide a brief description of the magic item, including its appearance, any notable features, and its general purpose or function.)
 
-## Rarity:
-*(Common, Uncommon, Rare, Very Rare, Legendary)*
+## Rarity and Type:
+*(Rarity of the item such as Common, Uncommon, Rare, Very Rare, Legendary, or Artifact. Also, specify the type of item, such as weapon, armor, wondrous item, etc.)*
+
+## Requirements:
+*(Any specific requirements or restrictions for using the item, such as class, level, or alignment.)*
 
 ## Attunement:
 *(Yes/No - Whether the item requires attunement by a character to gain its benefits.)*

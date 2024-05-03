@@ -52,20 +52,21 @@ Goof items for gags and laughs
 ## Cool and Powerful
 Strong items to be used with caution by the dm to not break the campaign
 
-| Cool and Powerful Items               |
-| ------------------------------------- |
-| [[Abaddon]]                           |
-| [[Amulet of Dark Summoning - Akuma]]  |
-| [[Arachnid Bracelets]]                |
-| [[Celestial Harp]]                    |
-| [[Hymn of Sanity]]                    |
-| [[Necrotic Thunder Gauntlets]]        |
-| [[Planar Nexus]]                      |
-| [[Star Gear]]                         |
-| [[The Timepiece]]                     |
-| [[Ainulindalë]]                       |
-| [[The Wings' Epistle]] |
-| [[Pagida]]                            |
+| Cool and Powerful Items              |
+| ------------------------------------ |
+| [[Abaddon]]                          |
+| [[Amulet of Dark Summoning - Akuma]] |
+| [[Arachnid Bracelets]]               |
+| [[Celestial Harp]]                   |
+| [[Hymn of Sanity]]                   |
+| [[Necrotic Thunder Gauntlets]]       |
+| [[Planar Nexus]]                     |
+| [[Star Gear]]                        |
+| [[The Timepiece]]                    |
+| [[Ainulindalë]]                      |
+| [[The Wings' Epistle]]               |
+| [[Pagida]]                           |
+| [[Three Dimensional Maneuver Gear]]  |
 
 
 ## Books and Texts

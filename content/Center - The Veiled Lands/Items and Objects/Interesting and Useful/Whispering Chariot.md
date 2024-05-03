@@ -5,8 +5,11 @@
 ## Description:
 A large chariot with space for 4 people, it is adorned with a golden shield featuring intricate details of wings, birds, skulls, and skeletons. The floor is crafted from ivory, and the wheels and yoke are made of dark varnished wood. Ghostly steeds appear at the yoke when activated, moving twice the speed of regular horses.
 
-## Rarity:
-*Legendary*
+## Rarity and Type:
+*Legendary - Wondrous Item*
+
+## Requirements:
+*None*
 
 ## Attunement:
 *Yes*
