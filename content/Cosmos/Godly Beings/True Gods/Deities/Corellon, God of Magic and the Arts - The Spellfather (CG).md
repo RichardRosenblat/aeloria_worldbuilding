@@ -23,7 +23,7 @@ aliases:
 ---
 # Corellon, God of Magic and the Arts: The Spellfather (CG)
 
-"Magic is in it's essence, imagination. The ability to create, to inspire, to find beauty in all that you do. Breathe in raw magic, and exhale an expression of your soul. A battle, a dance, a song, a painting, a sculpture, a spell. All of them are the same, all of them are art." - Proverb of Corellon
+"Magic is in it's essence, imagination. Breathe in inspiration and exhale spells. A battle, a dance, a song, a painting, a sculpture, a spell. All of them are the same, all of them are art." - Proverb of Corellon
 
 ## Culture Names
 
@@ -36,7 +36,7 @@ aliases:
 | Dwelmer (Dwarven) Nordic | Svartalf           | The Runekeeper           | He/They  | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
 | Eldar (Elven) Elven      | Corellon Larethian | The Enchanter of Stars   | He/They  | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
 | Eldarin (Elven) Japanese | Inari              | The Patron of Creativity | He/They  | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
-| Mularir (Human) Greek    | Muse               | The Matron of the Arts   | She/Her  | [[Defiant Gods\|Thymo theoí]] (Anger gods)                 |
+| Mularir (Human) Greek    | Muse               | The Matron of the Arts   | She/Her  | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
 | Yotunn (Giant) Giant     | Bergur             | The Runic Wonder         | He/They  | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 
@@ -66,9 +66,9 @@ _Eight-pointed star_
 ## Religious Practices
 
 1. **The Artful Meditation:**
-    - Followers engage in a meditative practice where they seek inspiration and connection with the divine by reflecting on the beauty of the world and the arts. This involves contemplation of natural landscapes, artistic creations, or even participating in creative endeavors themselves.
-2. **The Weave's Embrace:**
-    - Devotees gather in sacred places, often adorned with symbols of the eight-pointed star, to perform intricate dances and movements symbolizing the interweaving of magic and the arts. This ritual is believed to invoke Corellon's favor and blessings upon the participants.
+    - Followers engage in a meditative practice where they seek inspiration and connection with the divine by reflecting on the beauty of the world and the arts. This involves contemplation of natural landscapes, artistic creations, or even their own spells and magical abilities. Through this practice, they aim to attune themselves to Corellon's essence and draw upon the creative energies of the Weave
+2. **The Weave's Dance:**
+    - Devotees gather in sacred places, often adorned with symbols of the eight-pointed star, to cast spells, perform intricate dances and movements symbolizing the interweaving of magic and the arts. This ritual is believed to invoke Corellon's favor and blessings upon the participants.
 3. **[[Ainulindalë]] Recitation:**
     - Clerics and devout followers gather to recite a symbolic version of [[Ainulindalë]], the [[Ainulindalë|Song of the Gods]], in a harmonious manner. This recitation is considered a sacred act, aiming to resonate with the celestial forces that shaped the fey races and to honor Corellon's role as the creator.
 4. **Celestial Offerings:**

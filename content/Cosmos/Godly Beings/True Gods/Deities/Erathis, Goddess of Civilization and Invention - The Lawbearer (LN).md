@@ -27,17 +27,17 @@ aliases:
 
 ## Culture Names
 
-| Culture                  | Name         | Title                          | Pronouns    | Group                                                      |
-| ------------------------ | ------------ | ------------------------------ | ----------- | ---------------------------------------------------------- |
-| Aerian (Human) Generic   | Erathis      | The Lawbearer                  | She/Her     | The [[Defiant Gods]]                                       |
-| Asteni (Human) Italian   | Civitas      | The Inventrix                  | She/Her     | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
-| Dal (Human) Hispanic     | Civilis      | The Mother of Progress         | She/Her     | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
-| Duir (Dwarven) German    | Zivilisation | The Builder of Strongholds     | He/Him      | [[Defiant Gods\|Die Gegner]] (The opposers)                |
-| Dwelmer (Dwarven) Nordic | Borir        | The Torchbearer of Innovation  | He/Him      | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
-| Eldar (Elven) Elven      | Amarie       | The Elegance of Civilization   | She/Her     | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
-| Eldarin (Elven) Japanese | Benzaiten    | The Painter of Cities          | She/Her     | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
-| Mularir (Human) Greek    | Polis        | The First City                 | They/It/Her | [[Defiant Gods\|Thymo theoí]] (Anger gods)                 |
-| Yotunn (Giant) Giant     | Thrudheim    | The Builder of The Great Halls | He/Him      | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
+| Culture                  | Name         | Title                          | Pronouns | Group                                                      |
+| ------------------------ | ------------ | ------------------------------ | -------- | ---------------------------------------------------------- |
+| Aerian (Human) Generic   | Erathis      | The Lawbearer                  | She/Her  | The [[Defiant Gods]]                                       |
+| Asteni (Human) Italian   | Civitas      | The Inventrix                  | She/Her  | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
+| Dal (Human) Hispanic     | Civilis      | The Mother of Progress         | She/Her  | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
+| Duir (Dwarven) German    | Zivilisation | The Builder of Strongholds     | He/Him   | [[Defiant Gods\|Die Gegner]] (The opposers)                |
+| Dwelmer (Dwarven) Nordic | Borir        | The Torchbearer of Innovation  | He/Him   | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
+| Eldar (Elven) Elven      | Amarie       | The Elegance of Civilization   | She/Her  | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
+| Eldarin (Elven) Japanese | Benzaiten    | The Painter of Cities          | She/Her  | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
+| Mularir (Human) Greek    | Polis        | The First City                 | They/It  | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
+| Yotunn (Giant) Giant     | Thrudheim    | The Builder of The Great Halls | He/Him   | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 
 ## Extra Titles
@@ -71,7 +71,7 @@ Upper half of a clockwork gear
 1. **Founding Rituals:** When establishing a new settlement or city, followers of Erathis perform elaborate founding rituals. These ceremonies often involve blessings from clerics or devout worshippers, the laying of foundation stones with sacred inscriptions, and communal pledges to uphold the principles of civilization and progress.
 2. **City Planning Ceremonies:** Regular ceremonies are conducted to plan and organize the expansion of existing cities or the construction of new infrastructure within urban areas. These rituals involve community leaders, architects, and engineers seeking divine guidance from Erathis to ensure efficient and harmonious development.
 3. **Invention Festivals:** Dedicated to celebrating innovation and creativity, invention festivals are held periodically in honor of Erathis. During these events, artisans, inventors, and scholars showcase their latest creations and discoveries. Offerings of prototypes, blueprints, or newly crafted items are presented at temples or public squares, seeking the goddess's favor and inspiration for future endeavors.
-4. **Harvesting and Agricultural Rituals:** Communities in rural areas perform rituals at the beginning and end of planting and harvesting seasons, seeking Erathis's blessings for bountiful crops and successful agricultural endeavors. These ceremonies involve prayers, offerings of the first fruits or grains, and communal feasts to honor the goddess's role in sustaining civilization through agriculture.
+4. **Advancement Meditation:** Followers of Erathis engage in meditative practices while reading books or scrolls, studying maps, or contemplating architectural designs. These meditations focus on seeking clarity, while cleaning the mind and fostering inspiration for new ideas and projects. Devotees pray to Erathis for guidance, epiphanies, and insights to advance their work and contribute to the betterment of society. 
 5. **Ruins Preservation Rites:** Followers of Erathis conduct ceremonies to safeguard ancient ruins and remnants of past civilizations. Through prayers and symbolic acts, such as protective wards and sacred inscriptions, devotees seek the goddess's blessing to ensure these structures remain intact. By preserving the lessons learned from studying these ruins, believers contribute to the ongoing evolution of civilization under Erathis's guidance.
 6. **Educational Rites:** In temples and academies dedicated to Erathis, educational rites are performed to inspire learning, wisdom, and intellectual pursuits. These rituals include lectures, debates, and seminars on subjects ranging from history and philosophy to architecture and engineering. Participants seek Erathis's guidance in their quest for knowledge and enlightenment.
 7. **Unity Ceremonies:** During times of social or political discord, followers of Erathis organize unity ceremonies to promote cooperation, consensus-building, and civic engagement. These rituals emphasize the importance of unity and solidarity in overcoming challenges and advancing the common good. Prayers for reconciliation, understanding, and compromise are offered to Erathis, the Lawbearer.

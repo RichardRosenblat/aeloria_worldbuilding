@@ -30,7 +30,7 @@ tags:
 | ---------------------------------- | -------------------------------------------------------- |
 | [[Harmonious Gods\|Armonía theoí]] | Harmony gods                                             |
 | [[Over-Deities\|Exousíes]]         | The powers                                               |
-| [[Defiant Gods\|Thymo theoí]]      | Anger gods                                               |
+| [[Defiant Gods\|Thymo theoí]]      | Wrath gods                                               |
 | Ouroboros                          | Tail eater (Localized name for Menrogia and Jormungandr) |
 
 # Dwarven 

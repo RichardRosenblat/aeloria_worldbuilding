@@ -23,7 +23,7 @@ aliases:
 ---
 # Asmodeus, God of Tyranny: The Lord of [[the Nine Hells]] (LE)
 
-"Well now, isn't this a delightful surprise? I must say, I wasn't expecting such a warm welcome. But then again, I suppose I should have known better. After all, who could resist the allure of the Lord of the Nine Hells? Certainly not you, my dear. And why would you want to? I offer power, dominion, control over your own destiny. What more could you possibly desire? Ah, but I see it in your eyes. You seek something more, don't you? Something darker, more forbidden. Well, my dear, you've come to the right place. I shall grant you your heart's desire, and in return, I shall ask for a price. But fear not, for the rewards shall far outweigh the cost. So, what say you? Do we have a deal?" - Asmodeus forging a pact with a follower
+"Well now, isn’t this a delightful surprise? I must say, I wasn’t expecting such a warm welcome. But then again, I suppose I should have known better. After all, who could resist the allure of the Lord of the Nine Hells? Certainly not you, my dear. And why would you want to? I offer power, dominion, control over your own destiny. What more could you possibly desire? Ah, but I see it in your eyes. You seek something more, don’t you? Something darker, more forbidden. Well, my dear, you’ve come to the right place. I pledge to grant you your heart’s desire, and in return, I only ask for a payment. But fear not, for the rewards will far outweigh the cost. So, what say you? Do we have a deal?" - Asmodeus forging a pact with a follower
 
 ## Culture Names
 
@@ -31,12 +31,12 @@ aliases:
 | ------------------------ | --------- | ------------------------------ | -------- | ---------------------------------------------------------- |
 | Aerian (Human) Generic   | Asmodeus  | The Lord of [[the Nine Hells]] | He/Him   | The [[Defiant Gods]]                                       |
 | Asteni (Human) Italian   | Tiranno   | The Hellish King               | He/Him   | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
-| Dal (Human) Hispanic  | Dablo     | The Lord of Infernal Dominion  | He/Him   | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
+| Dal (Human) Hispanic     | Dablo     | The Lord of Infernal Dominion  | He/Him   | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
 | Duir (Dwarven) German    | Tyrann    | The Lord of Lies               | He/Him   | [[Defiant Gods\|Die Gegner]] (The opposers)                |
 | Dwelmer (Dwarven) Nordic | Mordgrim  | The Tyrant of the Depths       | He/Him   | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
 | Eldar (Elven) Elven      | Morgoth   | The Dark Lord                  | He/Him   | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
-| Eldarin (Elven) Japanese | Izanami   | The Dark Empress of Shadows    | He/Him   | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
-| Mularir (Human) Greek    | Phobos    | The Styx Commander             | He/Him   | [[Defiant Gods\|Thymo theoí]] (Anger gods)                 |
+| Eldarin (Elven) Japanese | Izanami   | The Dark Empress of Shadows    | She/They | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
+| Mularir (Human) Greek    | Phobos    | The Styx Commander             | He/Him   | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
 | Yotunn (Giant) Giant     | Frostkald | The Frostlord of Domination    | He/Him   | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 
@@ -78,7 +78,7 @@ _Crown of spiked onyx and curved horns_
 4. **Ascension Aspirations:**
     - Devotees aspire to ascend in power and status within the hierarchy of Asmodeus's followers. Rituals are performed to seek favor from the deity, often involving challenges and trials that test the follower's commitment and ruthlessness.
 5. **Memory Erasure Rituals:**
-    - As a way to emulate Asmodeus's own actions, followers engage in rituals that symbolize the erasure of past weaknesses or vulnerabilities. This could involve burning written confessions or using magic to wipe memories of personal failures.
+    - As a way to emulate Asmodeus's own actions, followers engage in rituals that symbolize the erasure of past weaknesses or vulnerabilities. This could involve burning written confessions or using magic or potions to wipe memories of personal failures.
 6. **Enigmatic Devotion:**
     - Worshipers strive to maintain an air of mystery around their devotion. They may wear masks or use illusion magic to conceal their identities during religious ceremonies, reinforcing the enigmatic nature of Asmodeus and his ascension.
 7. **Triangular Symbolic Gestures:**

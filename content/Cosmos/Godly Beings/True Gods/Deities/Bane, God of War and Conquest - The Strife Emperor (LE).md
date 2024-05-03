@@ -36,7 +36,7 @@ aliases:
 | Dwelmer (Dwarven) Nordic | Ragnor       | The Winter Legion       | He/They  | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
 | Eldar (Elven) Elven      | Sauron       | The Dark Sovereign      | He/Him   | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
 | Eldarin (Elven) Japanese | Hachiman     | The Blood Red Shogun    | He/Him   | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
-| Mularir (Human) Greek    | Ares         | The Bloodshed God       | He/They  | [[Defiant Gods\|Thymo theoí]] (Anger gods)                 |
+| Mularir (Human) Greek    | Ares         | The Bloodshed God       | He/They  | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
 | Yotunn (Giant) Giant     | Branhar      | The Volcanic Overlord   | He/Him   | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 ## Extra Titles
@@ -94,7 +94,7 @@ Real: Sure, let's delve into the religious practices and rituals of the follower
 
 ## Cultural Norms
 
-Here are some cultural norms observed in various Bane-worshiping societies within the realm of [[Aeloria]]:
+Here are some cultural norms observed in various Bane-worshiping societies within the realm of [[Aeloria]]
 
 1. **Hierarchy of Strength:**
     - In societies influenced by Bane, physical strength and martial prowess often determine one's social status. Those who excel in combat are revered, and positions of leadership are typically held by the most formidable warriors.

@@ -23,21 +23,21 @@ aliases:
 ---
 # Bahamut, god of justice and nobility: The Platinum Dragon (LG)
 
-"Heavens above, honor below, justice within. We must be the light that guides the lost, the shield that protects the weak, and the sword that strikes down evil." - Bahamut's teachings
+"Heavens above, justice below, honor within. We must be the light that guides the lost, the shield that protects the weak, and the sword that strikes down evil." - Bahamut's teachings
 
 ## Culture Names
 
-| Culture | Name | Title | Pronouns | Group |
-| ---- | ---- | ---- | ---- | ---- |
-| Aerian (Human) Generic | Bahamut | The Platinum Dragon | He/Him | The [[Harmonious Gods]] |
-| Asteni (Human) Italian | Iustitia | The Fair One | She/Her | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Human) Hispanic| Balduino | The Noble Protector | He/Him | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones) |
-| Duir (Dwarven) German | Edel-herz | The Lord of Virtue | He/Him | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones) |
-| Dwelmer (Dwarven) Nordic | Tyrgrim | The Unwavering Dragon | He/Him | [[Harmonious Gods\|Ástin Gudar]] (Loving gods) |
-| Eldar (Elven) Elven | Thranduil | The Wise Knight | He/Him | [[Harmonious Gods\|Maiar]] (Brotherhood) |
-| Eldarin (Elven) Japanese | Bishamonten | The Queen Of Justice | She/Her | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]]) |
-| Mularir (Human) Greek | Ananke | The First Amazon | She/Her | [[Harmonious Gods\|Armonía theoí]] (Harmony gods) |
-| Yotunn (Giant) Giant | Harok | The Noble Guardian | He/Him | [[Harmonious Gods\|Samraddar Guir]] (United gods) |
+| Culture                  | Name        | Title                 | Pronouns | Group                                                                             |
+| ------------------------ | ----------- | --------------------- | -------- | --------------------------------------------------------------------------------- |
+| Aerian (Human) Generic   | Bahamut     | The Platinum Dragon   | He/Him   | The [[Harmonious Gods]]                                                           |
+| Asteni (Human) Italian   | Iustitia    | The Fair One          | She/Her  | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
+| Dal (Human) Hispanic     | Balduino    | The Noble Protector   | He/Him   | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Duir (Dwarven) German    | Edel-herz   | The Lord of Virtue    | He/Him   | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
+| Dwelmer (Dwarven) Nordic | Tyrgrim     | The Unwavering Dragon | He/Him   | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
+| Eldar (Elven) Elven      | Thranduil   | The Wise Knight       | He/Him   | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
+| Eldarin (Elven) Japanese | Bishamonten | The Queen Of Justice  | She/Her  | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
+| Mularir (Human) Greek    | Ananke      | The First Amazon      | She/Her  | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
+| Yotunn (Giant) Giant     | Harok       | The Noble Guardian    | He/Him   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 
 ## Extra Titles
