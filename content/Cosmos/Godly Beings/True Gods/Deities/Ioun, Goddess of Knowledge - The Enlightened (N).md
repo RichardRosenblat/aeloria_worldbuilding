@@ -131,7 +131,6 @@ _art by https://www.youtube.com/@user-lp4sk2fk9j_
 
 for the god above can you create:
 
-now can you generate cultural norms of cultures that worship them
 now can you generate political structures associated with them
 now can you generate a table of some champions of the god across the ages, with their names, race, and a description of them
 now can you generate a list of holidays and festivals associated with them
