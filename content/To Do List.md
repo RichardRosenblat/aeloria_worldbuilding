@@ -45,25 +45,27 @@ tags:
 11. [ ] Create Map
 12. [ ] Create Biomes
 13. [ ] Create Seas/Oceans
-14. [ ] Create [[Marcus Valerian]]
-15. [ ] Create Monsters
-16. [ ] Finish unfinished NPCs
-17. [ ] Create more holidays (must be revisited once the world is more developed)
+14. [ ] Make forgotten gods of old worships
+15. [ ] Create [[Marcus Valerian]]
+16. [ ] Create Monsters
+17. [ ] Finish unfinished NPCs
+18. [ ] Create more holidays (must be revisited once the world is more developed)
     1.  [x] Create global holidays
     2.  [ ] Create religious holidays (one for each god)
     3.  [ ] Create historic holidays (only recorded history)
     4.  [ ] Create cultural holidays (3/4 for each culture)
-18. [ ] Add info on planes taking inspiration in this playlist https://www.youtube.com/playlist?list=PLR1G6DpFDXdOtqGkkBXS3e-BWm7OyF_cA
-19. [ ] Create more monsters
-20. [ ] Create custom Downtime activities
-21. [ ] Create symbols/sigils for planets and moon
-22. [ ] Create the texts in the "Names mentioned that still need creating"
-23. [ ] Create [[Lightborn]]
-24. [ ] Create [[Shadowborn]]
-25. [ ] Create Elements/Magic
-26. [ ] Make ways to recognize members of factions, and diferentials of each rank
-27. [ ] Create Cultures and expand on it
-28. [ ] Create Kingdoms
+19. [ ] Add info on planes taking inspiration in this playlist https://www.youtube.com/playlist?list=PLR1G6DpFDXdOtqGkkBXS3e-BWm7OyF_cA
+20. [ ] Create more monsters
+21. [ ] Create custom Downtime activities
+22. [ ] Create symbols/sigils for planets and moon
+23. [ ] Create the texts in the "Names mentioned that still need creating"
+24. [ ] Create [[Lightborn]]
+25. [ ] Create [[Shadowborn]]
+26. [ ] Create Elements/Magic
+27. [ ] Make ways to recognize members of factions, and diferentials of each rank
+28. [ ] Create Cultures and expand on it
+29. [ ] Create Kingdoms
+30. [ ] Create story of cultural erasure and signs of forgotten cultural detritus
 ## These tasks can be done after the capaign starts
 1. [ ] Finish re checking the [[elemental planes]]
     1. [ ] [[Feywild]]

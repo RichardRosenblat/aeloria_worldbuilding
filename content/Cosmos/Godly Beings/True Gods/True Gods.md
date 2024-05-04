@@ -64,7 +64,7 @@ In the past, godly beings were capable of becoming True gods, by killing gods an
 | ---------------------------------------------------------------------------- |
 | [[Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE)]]               |
 | [[Avandra, Goddess of Change and Luck - The Changebringer (CG)]]             |
-| [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)]]         |
+|                                                                              |
 | [[Bane, God of War and Conquest - The Strife Emperor (LE)]]                  |
 | [[Corellon, God of Magic and the Arts - The Spellfather (CG)]]               |
 | [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)]]      |
