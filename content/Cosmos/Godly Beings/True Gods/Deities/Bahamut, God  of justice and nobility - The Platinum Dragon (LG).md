@@ -154,6 +154,10 @@ _Silver dragon's head in profile_
 | ---- |
 |  |
 
+## Blessings
+
+## Curses
+
 ## Myths
 ### Gift from Kord
 ### Creation of the Metalic Dragons

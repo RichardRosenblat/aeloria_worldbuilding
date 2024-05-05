@@ -126,6 +126,10 @@ Single, unblinking eye that bleeds
 | ---- |
 |  |
 
+## Blessings
+
+## Curses
+
 ## Myths
 
 ### Creation of Orcs

@@ -158,6 +158,10 @@ Where the worship of Bane, the Strife Emperor, holds sway, distinctive political
 | ---- |
 |  |
 
+## Blessings
+
+## Curses
+
 ## Myths
 
 ### The Creation of Goblinoids

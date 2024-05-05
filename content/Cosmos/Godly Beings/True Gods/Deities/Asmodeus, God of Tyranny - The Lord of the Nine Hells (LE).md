@@ -154,6 +154,11 @@ _Crown of spiked onyx and curved horns_
 | Holidays |
 | ---- |
 |  |
+
+## Blessings
+
+## Curses
+
 ## Myths
 
 ### Ascension from betrayal

@@ -137,6 +137,11 @@ All of them
 | [[Corellonfest]] |
 |                  |
 
+## Blessings
+
+## Curses
+
+
 ## Myths
 
 ### The attack during [[The Great War (GW)|The Great War]]

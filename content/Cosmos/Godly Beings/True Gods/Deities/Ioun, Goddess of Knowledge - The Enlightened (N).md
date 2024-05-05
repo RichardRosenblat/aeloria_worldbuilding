@@ -106,6 +106,10 @@ _art by https://www.youtube.com/@user-lp4sk2fk9j_
 | ---- |
 |  |
 
+## Blessings
+
+## Curses
+
 ## Myths
 
 ### [[Ioun's Archive]]
@@ -131,7 +135,3 @@ _art by https://www.youtube.com/@user-lp4sk2fk9j_
 
 for the god above can you create:
 
-now can you generate political structures associated with them
-now can you generate a table of some champions of the god across the ages, with their names, race, and a description of them
-now can you generate a list of holidays and festivals associated with them
-now can you generate a list of elements that could be associated with them

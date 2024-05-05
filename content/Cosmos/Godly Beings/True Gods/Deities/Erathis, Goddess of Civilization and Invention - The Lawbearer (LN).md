@@ -123,6 +123,12 @@ Upper half of a clockwork gear
 | Holidays |
 | ---- |
 |  |
+
+## Blessings
+
+## Curses
+
+
 ## Myths
 
 ### The Creation of the First cities
