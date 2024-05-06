@@ -25,3 +25,4 @@ tags:
 | shops / items           | [thievesguild/shops](https://www.thievesguild.cc/shops/)                                                                                                                   |
 | other gens              | [thievesguild/tables](https://www.thievesguild.cc/tables/)                                                                                                                 |
 | Sigils                  | [watabou/sigil-generator](https://watabou.itch.io/sigil-generator)                                                                                                         |
+| Draconic words          | [Thu'um word wall](https://www.thuum.org/learn/practice/word-walls.php)                                                                                                    |
