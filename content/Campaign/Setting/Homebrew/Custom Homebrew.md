@@ -17,9 +17,10 @@ Happy adventuring and stay curious!
 
 ## Homebrew Rules
 
-| Rules                 |
-| --------------------- |
-| [[Emergency Casting]] |
+| Rules                          |
+| ------------------------------ |
+| [[Emergency Casting]]          |
+| [[Teleportation Circle Rules]] |
 
 ## Homebrew Character Options
 

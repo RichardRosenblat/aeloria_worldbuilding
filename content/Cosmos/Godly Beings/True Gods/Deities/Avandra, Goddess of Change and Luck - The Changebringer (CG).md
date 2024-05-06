@@ -158,7 +158,55 @@ The Capricious Hand of Fate: Avandra, Goddess of Chance
 
 ## Blessings
 
+A follower of Avandra can gain favor with their deity by embracing change, taking bold risks, and fighting for freedom. As they embody the principles of luck and adaptability, Avandra may bestow the following blessings upon them:
+
+1. **Fortune's Favor:** 
+   - Avandra grants her followers increased luck in their endeavors. Once per day, a follower may reroll any one ability check, saving throw, or attack roll, choosing which result to use.
+2. **Ebb and Flow:** 
+   - Followers blessed by Avandra gain resilience in times of adversity. Once per long rest, when reduced to 0 hit points but not killed outright, the follower automatically stabilizes and regains hit points equal to their level.
+3. **Road of Opportunity:** 
+   - Avandra opens new paths for her followers. Once per day, a follower may cast the *Divination* spell without spending a spell slot or requiring material components, receiving guidance on a course of action or an upcoming event.
+4. **Lucky Charm:** 
+   - Followers carry Avandra's luck with them wherever they go. They are able to roll a 1d20 once per day and choose to use that roll in place of any other d20 roll they make that day before they roll the die.
+5. **Wind's Whisper:** 
+   - Avandra's guidance guides her followers' actions. The follower becomes aware of the presence of any invisible creatures within 30 feet of them for a duration of 1 minute.
+6. **Change's Embrace:** 
+   - Avandra empowers her followers to adapt to any situation. Once per short rest, a follower can change their proficiency bonus for any skill check to be equal to their proficiency bonus in a different skill for that one roll.
+7. **Dance of Fate:**
+   -  Avandra's followers can sway the outcome of events with their presence. Once per day, the follower may impose disadvantage on one attack roll made against them or an ally within 30 feet.
+8. **Lucky Protection:**
+   - Avandra's blessing shields her followers from harm. Once per long rest, when a follower takes damage, they can use their reaction to deny the damage with a random event, such as a gust of wind deflecting a projectile or a sudden stroke of luck.
+
 ## Curses
+
+Avandra's followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with Avandra, they may gain access to the following curses to unleash upon their foes.
+
+
+The follower must cast *Bestow Curse* to invoke their available curses:
+
+1. **Misfortune's Grip:** 
+  - Avandra's followers call upon her to bring misfortune upon their enemies. Once per day, the follower may choose an enemy within 60 feet to impose disadvantage on all attack rolls and ability checks.
+
+3. **Shifting Shadows:** 
+   -  Avandra's followers invoke her power to disrupt their enemies' sense of direction and stability. Once per day, the follower may cast the *Confusion* spell centered on a targeted enemy without requiring concentration, the level of the spell is equal to the level of the level of the spell slot used to cast *Bestow Curse*.
+
+4. **Luck's Reversal:** 
+   - Avandra turns the tide of fortune against her enemies. Once per long rest, the follower can curse a targeted enemy so that when the enemy makes an attack it will be considered as if they rolled a 2.
+
+5. **Fickle Fortune:** 
+   -  Avandra's followers manipulate fate to thwart their enemies' plans. Once per day, the follower may choose an enemy to impose them to roll a saving throw with disadvantage against any spell or effect that targets them and whenever they cast a spell they must roll a d20; on a roll of 1-10, the spell fails.
+
+6. **Chains of Chaos:** 
+   - Avandra's followers invoke chaos to bind their enemies. Once per long rest, the follower may cast the *Hold Person* or *Hold Monster* spell on a targeted enemy without requiring concentration, the level of the spell is equal to the level of the level of the spell slot used to cast *Bestow Curse*.
+
+7. **Everchanging Form:** 
+   - Avandra's followers invoke her power to disrupt their enemies' physical form. Once per day, the follower may cast the *Polymorph* spell on a targeted enemy, turning them into a different harmless creature every round, the level of the spell is equal to the level of the level of the spell slot used to cast *Bestow Curse* with the lowest level being 4th. The spell does not require concentration and the duration is the same as the *bestow curse* spell.
+
+8. **Winds of Misfortune:** 
+   - Avandra's followers call upon the howling winds of misfortune to assail their enemies. Once per day, the follower may cast the effects of the *Gust of Wind* spell constantly only affecting the targeted enemy, with the additional effect if the enemy is pushed away they are knocked prone, the target is also deafened for the duration of the spell.
+
+9.  **Twist of Fate:** 
+    - Avandra's followers twist fate to cause their enemies' spells to backfire. Once per day, when a targeted enemy within 60 feet casts a spell, the follower may impose disadvantage on their spell attack roll or force them to roll a d20; on a roll of 1-15, the spell fails and the enemy takes psychic damage equal to the spell's level and causes a wild magic surge.
 
 ## Myths
 

@@ -23,7 +23,7 @@ aliases:
 ---
 # Asmodeus, God of Tyranny: The Lord of [[the Nine Hells]] (LE)
 
-"Well now, isn’t this a delightful surprise? I must say, I wasn’t expecting such a warm welcome. But then again, I suppose I should have known better. After all, who could resist the allure of the Lord of the Nine Hells? Certainly not you, my dear. And why would you want to? I offer power, dominion, control over your own destiny. What more could you possibly desire? Ah, but I see it in your eyes. You seek something more, don’t you? Something darker, more forbidden. Well, my dear, you’ve come to the right place. I pledge to grant you your heart’s desire, and in return, I only ask for a payment. But fear not, for the rewards will far outweigh the cost. So, what say you? Do we have a deal?" - Asmodeus forging a pact with a follower
+"Well now, isn’t this a delightful surprise? I must say, I wasn’t expecting such a warm welcome. But then again, I suppose I should have known better. After all, who could resist the allure of the Lord of [[the Nine Hells]]? Certainly not you, my dear. And why would you want to? I offer power, dominion, control over your own destiny. What more could you possibly desire? Ah, but I see it in your eyes. You seek something more, don’t you? Something darker, more forbidden. Well, my dear, you’ve come to the right place. I pledge to grant you your heart’s desire, and in return, I only ask for a payment. But fear not, for the rewards will far outweigh the cost. So, what say you? Do we have a deal?" - Asmodeus forging a pact with a follower
 
 ## Culture Names
 
@@ -156,8 +156,47 @@ _Crown of spiked onyx and curved horns_
 |  |
 
 ## Blessings
+A follower of Asmodeus can gain favor with their deity by performing acts of cruelty, domination, and subjugation in his name. As they embody the principles of tyranny and oppression, Asmodeus may bestow the following blessings upon them:
+
+
+1. **Infernal Resilience:**
+    - Asmodeus grants his followers enhanced resilience against fire and infernal energies. They gain resistance to fire damage and advantage on saving throws against spells and effects originating from infernal sources.
+2. **Tyrant's Authority:**    
+    - Followers blessed by Asmodeus exude an aura of authority and intimidation. They gain proficiency in Charisma (Intimidation) checks, and creatures within 30 feet of them have disadvantage on saving throws against fear effects caused by the follower.
+3. **Dark Pact Boon:**    
+    - Through a dark pact with their deity, followers gain the ability to cast a specific infernal-themed spell once per long rest, such as _Hellish Rebuke_, _Darkness_, or _Fireball_, at a level determined by their character level (Per DM discretion).
+4. **Infernal Guidance:**    
+    - Asmodeus offers his followers strategic insights and cunning guidance. Once per day, a follower can request Asmodeus's guidance to gain advantage on an Intelligence-based skill check or saving throw or to gain insight into a complex problem or puzzle.
+5. **Hellish Endurance:**    
+    - Followers blessed by Asmodeus gain increased physical endurance and stamina. They add their proficiency bonus to Constitution saving throws and can endure harsh environmental conditions with ease.
+6. **Soul Pact Empowerment:**
+    - Asmodeus strengthens the bonds between his followers and their infernal patrons. Once per long rest, a follower can call upon their infernal patron to grant them temporary hit points equal to their character level plus their Charisma modifier.
+7. **Infernal Blessing of Dominion:**    
+    - Asmodeus bestows upon his followers a fragment of his dominion over [[the Nine Hells]]. Once per day, a follower can cast _Dominate Person_ or _Suggestion_ without expending a spell slot, using Charisma as their spellcasting ability.
+8. **Corrupting Touch:**    
+    - Followers blessed by Asmodeus gain the ability to imbue their attacks with infernal energy. Once per turn, when they hit a creature with a melee weapon attack, they can deal additional necrotic or fire damage equal to 1d6 + their proficiency bonus.
 
 ## Curses
+Asmodeus's followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with Asmodeus, they may gain access to the following curses to unleash upon their foes:
+
+The follower must cast *Bestow Curse* to invoke their available curses:
+
+1. **Infernal Hex:**
+   - Asmodeus curses his enemies with an infernal hex, causing them to suffer disadvantage on ability checks and saving throws related to Charisma-based skills and spells.
+2. **Tyrant's Mark:**
+   - Enemies marked by Asmodeus find their actions hindered by an oppressive aura of domination. They suffer a penalty to attack rolls and saving throws equal to the follower's Charisma modifier.
+3. **Fires of Damnation:**
+   - Asmodeus condemns his enemies to suffer the burning flames of damnation. Once per long rest, a follower can invoke this curse, causing the target to take ongoing 1d12 fire damage every turn until they succeed on a Constitution saving throw of a DC equal to the follower's level plus their spellcasting ability modifier or until the curse duration ends or is removed.
+4. **Soulbinding Chains:**
+   - Asmodeus binds his enemies with infernal chains, restricting their movement and actions. Once per day, a follower can cast *Hold Person* or *Imprisonment* on a target at a level determined by spell slot used to cast *Bestow Curse*.
+5. **Dark Pact Corruption:**
+   - Asmodeus corrupts the very essence of his enemies, causing them to suffer from physical and mental degradation. Once per long rest, a follower can curse a target with a permanent penalty to one of their ability scores, with the severity determined by the follower's proficiency bonus.
+6. **Infernal Retribution:**
+   - Asmodeus retaliates against those who oppose his will by cursing them with infernal retribution. Once per day, a follower can invoke this curse, causing the target to suffer equal necrotic or fire damage whenever they deal damage to any allies of the follower, with the damage being equal to the damage dealt. This effect duration cannot be longer than the follower's level in rounds.
+7. **Domineering Influence:**
+   - Asmodeus implants thoughts of domination and subservience in the minds of his enemies. Once per long rest, a follower can cast *Geas* or *Dominate Monster* on a target at a level determined by the spell slot used to cast *Bestow Curse*.
+8. **Corrupting Aura:**
+   - Asmodeus surrounds his enemies with a corrupting aura, causing them to become unable to regain hit points. This curse can only be removed by a *Greater Restoration* spell or a similar effect.
 
 ## Myths
 
