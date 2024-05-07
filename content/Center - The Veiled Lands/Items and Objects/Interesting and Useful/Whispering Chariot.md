@@ -37,5 +37,14 @@ The chariot is activated by holding the reins and telling the steeds to move.
 ## History:
 The origins of the Whispering Chariot remain shrouded in mystery, lost to time. However, whispers among scholars and sages suggest that it was crafted in ancient times by a magic user obsessed with the concept of speed. This enigmatic figure delved deep into the arcane arts, harnessing mystical forces to forge a vehicle unlike any other. Legends speak of daring experiments and rituals conducted in pursuit of ultimate velocity. Despite the passage of millennia, the identity of the chariot's creator and the true extent of its powers remain veiled in shadow, waiting to be unveiled by intrepid adventurers bold enough to seek its secrets.
 
-## Additional :**
+## Additional :
 Use caution when accepting the skulls' offer, as the consequences can be catastrophic. The chariot's destructive force can alter landscapes and pose a danger to both its passengers and surroundings.
+
+### Extra rule information:
+Reference: [5e.tools](https://5e.tools/items.html#chariot_phb)
+Chariots and the creatures pulling them work like controlled mounts, as described in the mounted combat rules in the [Player's Handbook](https://5e.tools/book.html#PHB,9,mounted%20combat,0), but with the following differences:
+
+- Mounting or dismounting a chariot costs you 5 feet of movement, rather than a number of feet equal to half your speed.
+- Being mounted on a chariot grants you half cover.
+- A chariot's speed is equal to the speed of the slowest creature pulling it.
+- If multiple creatures are pulling the chariot, they all act on the same initiative, and they must take the same action on their turn.
