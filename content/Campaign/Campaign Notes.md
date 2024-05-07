@@ -29,7 +29,8 @@ tags:
 "what do you think it means to be saved"
 "What happened?" - "Nothing that wasn't my fault"
 "Something is different"
-"My liege, sire, all father of speed. Let these peasants witness the swiftness of thy mighty chariot"
+"It's you"
+"Despite everything it is still you"
 
 ## Names For Outsiders
 Ya'qub Qamar Ad-din Dibiazah The greatest Sultan in his time
@@ -47,6 +48,30 @@ Muhammad Sumbul The bravest soldier of all time
 - [[Merlin]] creates at least these 2 spells,
 	- [[Merlin]]’s Divine Audience (talk to [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]]), causes stars to change colors
 	- [[Merlin]]'s Transcendent Transformation (fuses with the [[Setting Info|Principles]]), becomes the Witch song image
+- Quest with making and helpig a undergraduate in their research of mermaids
+	- crafted from a modified wagon
+	- reinforced with adamantine
+	- arched cover with two hatches on either side
+	- magic shell mounted in a harness repels water, keeping the interior dry
+		- Shell can overheat
+		- Doesnt cover all the ship to not sink
+	- a crystal inside the submarine generates breathable air
+		- If vents are closed it can explode the ship
+	- three humanoid harnesses offer limited protection against pressure.
+		- need water breathing potion
+	- 4 everbright lanterns to create light
+	- Controls
+		- Break: immovable rod fixed to harness
+		- Boyancy: floating item (to find out which one)
+		- Sink: bag of holding carrying many weights
+		- propellers: hand cranked, need 2 people to move foward
+	- Navigation systems
+		1. **Astrolabe of the Deep**: Originally designed for celestial navigation, the astrolabe has been modified to work underwater. By aligning it with specific underwater landmarks or magical ley lines, the adventurers can determine their approximate location and heading.
+		2. **Elemental Compass**: Crafted from a combination of enchanted crystals and elemental essences, the elemental compass points towards the nearest source of elemental energy. By attuning the compass to specific elemental forces prevalent in the underwater environment, the adventurers can navigate towards underwater phenomena or magical hotspots.
+		3. **Tidal Clock**: A repurposed timekeeping device modified to track the ebb and flow of underwater currents and tides. By observing the rhythmic movements of the tide indicator, the adventurers can estimate their speed and direction relative to the surrounding currents.
+		4. **Sea Whisperer's Shell**: A magical shell enchanted to resonate with the whispers of the sea. When held against the hull of the submarine, the shell vibrates in response to underwater currents and disturbances, providing valuable feedback on the surrounding environment.
+		5. **Driftwood Divining Rod**: Fashioned from a piece of enchanted driftwood, the divining rod reacts to changes in underwater magnetic fields. By attuning the rod to specific underwater landmarks or magnetic anomalies, the adventurers can navigate with surprising accuracy through the depths.
+		6. **Celestial Orrery**: A makeshift orrery crafted from salvaged gears and enchanted crystals, the device maps the movements of celestial bodies and underwater constellations. By aligning the orrery with the stars visible through the surface of the water, the adventurers can determine their position relative to the celestial sphere. 
 ## Funny encounters to do in the campaign
 Sheep thinking about heavymetal
 delivery guy
@@ -64,7 +89,7 @@ Lies? in your house of god?
 5. Horn and screams
 6. Eyes everywhere and rumble
 	**Ka tū te ihiihi Ka tū te wanawana Ki runga i te rangi E tū iho nei, tū iho nei, Hī!**
-7. People appear wearing masks and say “**Mkoloni**, you enter the Tzapotlatena (tza - po - tla - tena) commune, each step bring you closer to your doom”
+7. People appear wearing masks and say “**tetã yvyra'ỹgua** ("teh-tã ee-vee-rah-uh-gwa."), you enter the Tzapotlatena (tza - po - tla - tena) commune, each step bring you closer to your doom”
 ## Arcane 101 texts
 Greetings, esteemed students, and welcome to the inaugural lecture of Arcane 101, a cornerstone in your journey to comprehend the intricate facets of magic in the realm of The Veiled lands.
 

@@ -95,34 +95,38 @@ tags:
 
 ## Deciduous forest Circle
 
-| Word | Pronunciation | Translation |
-| ---- | ---- | :--- |
-| Atyra’yju | ah-TEER-ah ee-joo | Spoiled (loved) child |
-| Atyre’yju | ah-TEER-eh ee-joo | Spoiled (loved) person |
-| E | eh | Standing |
-| Hī! | Hee | Hī! (an expression of emphasis or affirmation) |
-| i | ee | in |
-| ihiihi | ee-hee-hee | defiance |
-| iho | ee-ho | here |
-| Ka | Kah | Stand |
-| Ki | Kee | High above |
-| mbo'ehara | mboh-eh-ah-rah | Protectors |
-| Mkoloni | m-koh-loh-nee | Colonizers |
-| nei | nay | now |
-| nelli  (Nelî) | nehl-lee | of you |
-| Ni (Ni) | nee | I am |
-| Porã | poh-RAHN | Flower |
-| Pytã | pee-TAH | Pretty |
-| Pytã Porã | pee-TAH poh-RAHN | pretty flower |
-| rangi | rah-ngi | sky |
-| runga | roo-ngah | the heavens |
-| Tauraru | tau-RAH-roo | dance |
-| te | teh | the |
-| tū | too | Standing up defiantly |
-| Tupã | tu-pahn | Wildmother (Melora) as Protector |
-| Tzapotlatena | tza-po-tla-te-na | Wildmother (Melora) as Huntress |
-| wanawana | wah-nah-wah-nah | endless numbers |
-| Yvoty | ee-voh-chi | Floral |
+| Word            | Pronunciation            | Translation                                    |
+| --------------- | ------------------------ | :--------------------------------------------- |
+| Atyra’yju       | ah-TEER-ah ee-joo        | Spoiled (loved) child                          |
+| Atyre’yju       | ah-TEER-eh ee-joo        | Spoiled (loved) person                         |
+| E               | eh                       | Standing                                       |
+| Hī!             | Hee                      | Hī! (an expression of emphasis or affirmation) |
+| i               | ee                       | in                                             |
+| ihiihi          | ee-hee-hee               | defiance                                       |
+| iho             | ee-ho                    | here                                           |
+| Ka              | Kah                      | Stand                                          |
+| Ki              | Kee                      | High above                                     |
+| mbo'ehara       | mboh-eh-ah-rah           | Protectors                                     |
+| Mkoloni         | m-koh-loh-nee            | Colonizers                                     |
+| nei             | nay                      | now                                            |
+| nelli  (Nelî)   | nehl-lee                 | of you                                         |
+| Ni (Ni)         | nee                      | I am                                           |
+| Porã            | poh-RAHN                 | Flower                                         |
+| Pytã            | pee-TAH                  | Pretty                                         |
+| Pytã Porã       | pee-TAH poh-RAHN         | pretty flower                                  |
+| rangi           | rah-ngi                  | sky                                            |
+| runga           | roo-ngah                 | the heavens                                    |
+| Tauraru         | tau-RAH-roo              | dance                                          |
+| te              | teh                      | the                                            |
+| tū              | too                      | Standing up defiantly                          |
+| Tupã            | tu-pahn                  | Wildmother (Melora) as Protector               |
+| Tzapotlatena    | tza-po-tla-te-na         | Wildmother (Melora) as Huntress                |
+| wanawana        | wah-nah-wah-nah          | endless numbers                                |
+| Yvoty           | ee-voh-chi               | Floral                                         |
+| tetã yvyra'ỹgua | teh-tã ee-vee-rah-uh-gwa | Invasors                                       |
+| Tetã            | teh-tã                   | People                                         |
+| yvyra           | ee-vee-rah               | the land or the earth.                         |
+| 'ỹgua           | uh-gwa                   | "to come" or "to arrive."                      |
 
 ### Phrases
 | Phrase                                                                              | Meaning                                                                                                             |

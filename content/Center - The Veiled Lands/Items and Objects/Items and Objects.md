@@ -38,6 +38,7 @@ Just plain items that are interesting and can be useful without breaking campaig
 | [[The Lantern (item)]]       |
 | [[Whispering Chariot]]       |
 | [[Potion of Flos]]           |
+| [[Remembrance Mirror]]       |
 
 # Funny
 Goof items for gags and laughs

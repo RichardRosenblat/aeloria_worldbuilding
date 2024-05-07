@@ -29,6 +29,6 @@ Unlimited
 ## History:
 The Knight Time Mace has a simple origin, having been crafted by a wizard as a congratulatory gift for his friend upon joining the royal guard. However, much to the wizard's amusement, the inscription "it's knight time" caused some initial confusion and disapproval among the guard members. Despite this, the mace proved to be a formidable weapon in battle, earning the respect of its wielder's comrades. Eventually, the mace was lost to time, its whereabouts and adventures since then shrouded in mystery and legend.
 
-## Additional :**
+## Additional :
 Once activated, the mace's glow persists until the wielder commands it to extinguish, providing a reliable source of light in dark environments. 
 The light of the mace is not put out by water, wind or non-magical cold

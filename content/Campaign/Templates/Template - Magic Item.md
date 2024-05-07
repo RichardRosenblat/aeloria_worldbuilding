@@ -30,6 +30,6 @@
 ## History:
 (Optional: Provide a brief history or lore associated with the item, including how it was created, its previous owners, and any notable events or adventures connected to it.)
 
-## Additional :**
+## Additional :
 (Any additional information or clarifications about the magic item that the Dungeon Master should be aware of.)
 

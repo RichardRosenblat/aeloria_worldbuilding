@@ -36,6 +36,6 @@ While the Bottle-o'-Party brings joy and excitement to those who experience its 
 ## History:
 Legend has it that the Bottle-o'-Party was created by a mischievous archmage known for his extravagant celebrations and love of revelry. Seeking to spread joy and merriment wherever he went, he crafted the bottle as a means to turn any dull gathering into an unforgettable party. Over the years, the Bottle-o'-Party has passed through the hands of various adventurers, bringing light and laughter to even the darkest of dungeons.
 
-## Additional :**
+## Additional :
 - The Bottle-o'-Party can be a valuable tool for distracting enemies or lightening the mood during tense negotiations.
 - It is said that the enchantment within the bottle replenishes itself over time, allowing it to be reused indefinitely.
