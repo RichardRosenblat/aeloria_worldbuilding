@@ -50,33 +50,6 @@ Eldarin -> a culture inspired in japanese culture with themes of the samurais
 Mularir -> a culture inspired in greek culture with themes of the greek gods
 Yotunn -> a culture inspired in giant culture with themes of the giants from norse mythology
 
-# First city's names
-
-| Culture                  | City Name                               |
-| ------------------------ | --------------------------------------- |
-| Aerian (Human) Generic   | [[Aelor - The First City]]              |
-| Asteni (Human) Italian   | [[Aelor - The First City\|Novaroma]]    |
-| Dal (Human) Hispanic     | [[Aelor - The First City\|Prospera]]    |
-| Duir (Dwarven) German    | [[Aelor - The First City\|Eisenburg]]   |
-| Dwelmer (Dwarven) Nordic | [[Aelor - The First City\|Skoldheim]]   |
-| Eldar (Elven) Elven      | [[Aelor - The First City\|Valinor]]     |
-| Eldarin (Elven) Japanese | [[Aelor - The First City\|Sakurashima]] |
-| Mularir (Human) Greek    | [[Aelor - The First City\|Polis]]       |
-| Yotunn (Giant) Giant     | [[Aelor - The First City\|Jotunheimr]]  |
-
-#  [[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]'s Archive names
-
-| Culture                  | Library Name                                | Meaning of Name                |
-| ------------------------ | ------------------------------------------- | ------------------------------ |
-| Aerian (Human) Generic   | [[Ioun's Archive]]                          | [[Ioun's Archive]]             |
-| Asteni (Human) Italian   | [[Ioun's Archive\|Sapientia Domus]]         | House of Wisdom                |
-| Dal (Human) Hispanic     | [[Ioun's Archive\|Biblioteca de Sabiduría]] | Library of Wisdom              |
-| Duir (Dwarven) German    | [[Ioun's Archive\|Weisheitsbibliothek]]     | Wisdom Library                 |
-| Dwelmer (Dwarven) Nordic | [[Ioun's Archive\|Visdomens Hall]]          | Wisdom's Hall                  |
-| Eldar (Elven) Elven      | [[Ioun's Archive\|Vilya'Shalar]]            | Wisdom's Haven                 |
-| Eldarin (Elven) Japanese | [[Ioun's Archive\|Chie no Toshokan]]        | Wisdom Library                 |
-| Mularir (Human) Greek    | [[Ioun's Archive\|Gnosis Parthenon]]        | Temple of Knowledge            |
-| Yotunn (Giant) Giant     | [[Ioun's Archive\|Skrymslaskrifheim]]       | The Realm of Written Knowledge |
 
 # Energies
 ![[Energies hierarchy.png]]
