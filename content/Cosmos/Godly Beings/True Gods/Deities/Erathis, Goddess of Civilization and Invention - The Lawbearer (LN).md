@@ -126,8 +126,63 @@ Upper half of a clockwork gear
 
 ## Blessings
 
+
+A follower of Erathis can gain favor with their deity by upholding the principles of civilization, innovation, and order. As they embody the values of progress, community, and urban development, Erathis may bestow the following blessings upon them:
+
+1. **Blessing of Civil Harmony**: 
+   - The followers of Erathis are granted the ability to temporarily enhance their allies' cooperation and coordination in battle. Once per day, as an action, the blessed individual can cast a modified version of the *Bless* spell, granting up to three creatures of their choice within 30 feet a d6 bonus to attack rolls and saving throws for 1 minute.
+
+2. **Blessing of Urban Insight**:
+   - Erathis bestows upon her followers a heightened awareness of their urban surroundings. Once per long rest, the blessed individual gains advantage on Intelligence (Investigation) and Wisdom (Perception) checks made within city limits for 1 hour. Additionally, they can easily find their way through urban mazes and crowded streets without getting as long as they know the general direction or have a general description of their destination.
+
+3. **Blessing of Architectural Mastery**: 
+   - Erathis blesses her followers with skill and expertise in the art of architecture. Followers of Erathis gain proficiency in the use of artisan's tools related to architecture, such as mason's tools or carpenter's tools. Additionally, they receive aditional insight into the structural integrity of buildings and fortifications, allowing them to identify weak points or hidden passages with ease.
+
+4. **Blessing of Civic Influence**: 
+   - Erathis empowers her followers with the ability to inspire civic engagement and cooperation among the populace. Once per short rest, the blessed gains advantage in any Charisma (Persuasion) or Charisma (Intimidation) checks made to influence the opinions or actions of others for 1 hour. Additionally, they can cast *Mass Suggestion* using this blessing, but doing so causes the blessing to only be usable once per long rest. For this spell, the spellcasting ability is Charisma.
+
+5. **Blessing of Technological Innovation**: 
+   - The followers of Erathis gain insight into technological advancements and inventions. Once per day, as an action, the blessed individual can gain proficiency in a set of tools related to a specific craft/skill (e.g., alchemist's supplies, tinker's tools) for 1 hour.
+
+6. **Blessing of Order's Protection**: 
+   - Erathis shields her followers from chaotic influences and disruptions. Once per long rest, the blessed individual can cast *Protection from Evil and Good* on themselves or a willing creature they touch without expending a spell slot, material components, or concentration.
+
+7. **Blessing of Urban Resilience**: 
+   - Followers of Erathis are imbued with resilience and adaptability of large cities. Once per day, as a reaction, the blessed individual can gain resistance to non-magical bludgeoning, piercing, and slashing damage for 1 minute.
+
+8. **Blessing of **:
+   -  Erathis blesses her followers with the ability to learn about a civilization by analyzing its architecture. Whenever inside a city, settlement or ruins, the blessed individual can cast *Legend Lore* without expending a spell slot or material components. This ability can be used once per short rest.
+
+
 ## Curses
 
+Erathis's followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with Erathis, they may gain access to the following curses to unleash upon their foes:
+
+The follower must cast *Bestow Curse* to invoke their available curses:
+
+1. **Curse of Discord**: 
+  - The enemies of Erathis find their ability to cooperate and communicate disrupted. This effect casts a version of the *Bane* spell, targeting up to three creatures of their choice within 30 feet, causing them to take a d6 penalty to attack rolls and saving throws for 1 minute.
+
+2. **Curse of Stagnation**: 
+  - Erathis curses her foes with a lack of progress and decay in their endeavors. The cursed individual finds their movement speed halved and their ability to take reactions gone for the duration of the effect. Additionally, whenever two or more creatures are within 5 feet of the cursed individual, they must make a Wisdom saving throw or be unable to take any actions on their turn and take 2d6 psychic damage.
+
+3. **Curse of Urban Blight**: 
+  - Erathis inflicts her enemies with a curse that causes urban decay and destruction. The cursed individual finds that any structures or buildings they enter begin to crumble and decay around them, making them difficult terrain for the cursed creature. Additionally, they take 1d10 bludgeoning damage at the start of their turn while inside a building or structure as the walls and ceilings collapse around them.
+
+4. **Curse of Law's Burden**:
+  - Once per day, Erathis burdens her enemy's mind with the responsability of upholding laws and regulations. The cursed individual cannot attack anything that is not in a specific direction of them, roll a 1d4 to determine the direction. Any attack made in a different direction automatically misses.
+
+5. **Curse of Technological Regression**:
+   - The enemies of Erathis find their advancements and inventions hindered and reversed. Any time an enemy tries to do anything than the action they took before becoming cursed the creature must make a Wisdom saving throw or be unable to take any actions on their turn and take 2d6 psychic damage.
+  
+6. **Curse of Chaotic Thoughts**:
+   - Erathis curses her foes with chaotic and disruptive thoughts. The cursed individual finds their mind clouded and confused, making it difficult to focus on tasks or make decisions. The cursed creature becomes unnable to speak coherently or understand any language, and must make a Wisdom saving throw at the start of their turn or start doing random actions determined by the DM.
+  
+7. **Curse of Animosity**:
+   - The enemies of Erathis find their ability to cooperate and communicate disrupted. The cursed creature starts considering all creatures within 30 feet as enemies if no creature is within 30 feet they will become paranoid and attack innanimate objects.
+
+8. **Curse of The Lawbearer's Judgement**:
+   - Once per day, Erathis curses her enemies with the weight of her divine judgement. The cursed individual finds that any time they try to do something that goes against the laws of the land or the principles of civilization, they must make a Wisdom saving throw or be paralyzed for 1 minute. Additionally, they take 2d6 psychic damage as the weight of their transgressions weighs heavily on their mind.
 
 ## Myths
 

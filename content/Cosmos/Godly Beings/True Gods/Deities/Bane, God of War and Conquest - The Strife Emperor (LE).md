@@ -188,6 +188,10 @@ A follower of Bane can gain favor with their deity by showing strength, ruthless
 
 ## Curses
 
+Bane's followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with Bane, they may gain access to the following curses to unleash upon their foes:
+
+The follower must cast *Bestow Curse* to invoke their available curses:
+
 1. **Bane's Mark**: 
    - The follower can mark an enemy with Bane's symbol, causing them to suffer disadvantage on attack rolls against the follower and allies for the duration of the curse and recieve an additional 1d6 fire damage when they are hit by an attack. 
 
