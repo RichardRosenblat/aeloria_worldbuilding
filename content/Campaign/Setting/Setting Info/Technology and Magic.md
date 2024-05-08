@@ -17,7 +17,6 @@ In [[Aeloria]], the technological landscape is shaped by a blend of tradition, m
 In the realm's conflicts, combat harkens back to medieval times, with swords, bows, and spears being the primary weapons of choice. While magic-infused armaments are rare.
 
 **Weapons**: Swords, bows, spears, and crossbows are the primary weapons used in combat, with magic-infused armaments being rare. Siege weapons like trebuchets and ballistae are rare sights on the battlefield.
-**Crossbows**: While rudimentary, crossbows see rare use in [[Aeloria]], with most combatants preferring traditional bows for their versatility and ease of use.
 **Armor**: Armor is typically crafted from leather, chainmail, or plate, with magic-infused armaments being rare. Shields are commonly used to deflect blows and protect against ranged attacks.
 **Gunpowder**: Gunpowder, also known as black powder, has been discovered in ancient ruins, but its creation remains a mystery to most inhabitants of [[Aeloria]]. As a result, firearms are not widely used in combat, and gunpowder weapons are considered rare and exotic.
 
