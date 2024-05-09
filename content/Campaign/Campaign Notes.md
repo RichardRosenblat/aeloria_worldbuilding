@@ -43,6 +43,8 @@ Muhammad Sumbul The bravest soldier of all time
 
 ## Ideas of stuff to do
 - Witch encounter offering human food
+- Dwarf warrior protecting village for his human wife, he cant tell other people more because he couldn't make justice of her beauty 
+	- actually he forgot her face since it's been so many years
 - Asteni woman singing Cara MIa
 	- Man from her hometown, she was a free spirit
 - [[Merlin]] creates at least these 2 spells,
