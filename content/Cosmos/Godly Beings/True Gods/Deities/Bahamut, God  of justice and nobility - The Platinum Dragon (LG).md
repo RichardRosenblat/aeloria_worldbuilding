@@ -160,28 +160,28 @@ A follower of Bahamut can gain favor with their deity by engaging in acts of jus
 
 
 1. **Dragon's Vigilance**: 
-   - Followers gain enhanced perception and vigilance, granting advantage on Wisdom (Perception) checks and the ability to sense the presence of fiends, aberrations and undead within 60 feet. 
+     - Followers gain enhanced perception and vigilance, granting advantage on Wisdom (Perception) checks and the ability to sense the presence of fiends, aberrations and undead within 60 feet. 
    
 2. **Platinum Protection**: 
-   - Followers receive divine protection, granting resistance to damage from attacks made by creatures of evil alignment.
+     - Followers receive divine protection, granting resistance to damage from attacks made by creatures of evil alignment.
 
 3. **Bahamut's Blessing**: 
-    - Once per day, followers can call upon Bahamut's divine favor to receive temporary hit points equal to their level + their Wisdom modifier.
+      - Once per day, followers can call upon Bahamut's divine favor to receive temporary hit points equal to their level + their Wisdom modifier.
 
 4. **Wings of Justice**: 
-    - Followers gain the ability to cast the spell *fly* on themselves once per day without requiring concentration or material components. the spell lasts for 10 minutes and appears as radiant dragon wings.
+      - Followers gain the ability to cast the spell *fly* on themselves once per day without requiring concentration or material components. the spell lasts for 10 minutes and appears as radiant dragon wings.
 
 6. **Noble Resolve**: 
-   - Followers become immune to fear effects and gain advantage on saving throws against spells and abilities that would charm or manipulate their actions.
+     - Followers become immune to fear effects and gain advantage on saving throws against spells and abilities that would charm or manipulate their actions.
 
 7. **Dragon's Fury**:
-   - Once per day, followers can channel Bahamut's righteous anger to imbue their weapon strikes with additional radiant damage equal to their level.
+     - Once per day, followers can channel Bahamut's righteous anger to imbue their weapon strikes with additional radiant damage equal to their level.
 
 8. **Platinum Guidance**: 
-    - Followers can call upon Bahamut's guidance to see the truth, being able to cast the *true seeing* spell once per day without requiring material components or concentration for 10 minutes.
+     - Followers can call upon Bahamut's guidance to see the truth, being able to cast the *true seeing* spell once per day without requiring material components or concentration for 10 minutes.
 
 9.  **Blessed Justice**: 
-    - Once per day, followers can call upon Bahamut's divine judgment to cast the *banishment* spell on a creature of evil alignment, forcing them to another plane of existence, wisdom would be the spellcasting ability for this spell.
+     - Once per day, followers can call upon Bahamut's divine judgment to cast the *banishment* spell on a creature of evil alignment, forcing them to another plane of existence, wisdom would be the spellcasting ability for this spell.
 
 ## Curses
 
@@ -190,28 +190,28 @@ Bahamut's followers can invoke their deity's wrath upon their enemies by cursing
 The follower must cast *Bestow Curse* to invoke their available curses:
 
 1. **Dragon's Wrath**: 
-   - The target is marked by Bahamut's divine anger, causing them to suffer radiant damage equal to the damage they inflict on others until the curse is lifted by a *remove curse* spell or similar magic.
+     - The target is marked by Bahamut's divine anger, causing them to suffer radiant damage equal to the damage they inflict on others until the curse is lifted by a *remove curse* spell or similar magic.
 
 2. **Platinum Condemnation**: 
-   - The target is cursed with vulnerability to radiant damage and any damage caused by the follower, causing them to take double damage from attacks and spells that deal radiant damage.
+     - The target is cursed with vulnerability to radiant damage and any damage caused by the follower, causing them to take double damage from attacks and spells that deal radiant damage.
 
 3. **Bahamut's Immolation**: 
-   - Once per day, the follower can invoke Bahamut's retribution upon a target, causing them to suffer ongoing radiant damage until they make a successful Wisdom saving throw at the end of each of their turns or until the curse is lifted.
+     - Once per day, the follower can invoke Bahamut's retribution upon a target, causing them to suffer ongoing radiant damage until they make a successful Wisdom saving throw at the end of each of their turns or until the curse is lifted.
 
 4. **Wings of Justice Denied**: 
-    - The target is stripped of their ability to fly or levitate for a duration determined by the follower's level, leaving them grounded and vulnerable, when in the ground they must succeed on a dexterity saving throw or fall prone.
+     - The target is stripped of their ability to fly or levitate for a duration determined by the follower's level, leaving them grounded and vulnerable, when in the ground they must succeed on a dexterity saving throw or fall prone.
 
 5. **Noble Disgrace**: 
-   - The target is overcome with feelings of guilt, shame and dishonor, causing them to suffer disadvantage on all Charisma, Wisdom and Inteligence based ability checks and saving throws, they cannot concentrate on spells and their spellcasting ability is reduced by 2 until the curse is lifted.
+     - The target is overcome with feelings of guilt, shame and dishonor, causing them to suffer disadvantage on all Charisma, Wisdom and Inteligence based ability checks and saving throws, they cannot concentrate on spells and their spellcasting ability is reduced by 2 until the curse is lifted.
 
 6. **Dragon's Bane**: 
-   - The target's attacks are imbued with weakness, causing them to deal half damage until the curse is lifted by a *remove curse* spell or similar magic.
+     - The target's attacks are imbued with weakness, causing them to deal half damage until the curse is lifted by a *remove curse* spell or similar magic.
 
 7. **Platinum Reckoning**: 
-   - Once per day, the follower can call upon Bahamut's divine judgment to impose the effects of the *slow* spell on the target, hindering their movements and reactions for the duration of the curse.
+     - Once per day, the follower can call upon Bahamut's divine judgment to impose the effects of the *slow* spell on the target, hindering their movements and reactions for the duration of the curse.
 
 8. **Blessed Retribution**: 
-    - The target is marked by Bahamut's divine retribution, causing them to suffer 1d6 radiant damage each time they fail a ability check, saving throw or miss an attack until the curse is lifted.
+      - The target is marked by Bahamut's divine retribution, causing them to suffer 1d6 radiant damage each time they fail a ability check, saving throw or miss an attack until the curse is lifted.
 
 ## Myths
 ### Gift from Kord

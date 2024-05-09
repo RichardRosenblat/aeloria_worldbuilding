@@ -163,28 +163,28 @@ Where the worship of Bane, the Strife Emperor, holds sway, distinctive political
 A follower of Bane can gain favor with their deity by showing strength, ruthlessness, subjulgating their enemies. As they embody the principles of war and conquest, Bane may bestow the following blessings upon them:
 
 1. **Bane's Might**: 
-   - The follower is granted part of Bane's strength, enhancing their combat prowess. The follower gains an increase of +2 to their Strength score and deals an additional 1d6 damage on successful melee attacks.
+     - The follower is granted part of Bane's strength, enhancing their combat prowess. The follower gains an increase of +2 to their Strength score and deals an additional 1d6 damage on successful melee attacks.
 
 2. **Iron Will of Bane**: 
-   - The follower recieves the mental fortitude of Bane. The follower gains advantage on saving throws against being frightened or charmed.
+     - The follower recieves the mental fortitude of Bane. The follower gains advantage on saving throws against being frightened or charmed.
 
 3. **Conqueror's Resilience**: 
-    - The follower can ask Bane's to grand them his resilience for a limited period of time. Once per long rest, the follower can gain resistance to all damage for 1 minute.
+     - The follower can ask Bane's to grand them his resilience for a limited period of time. Once per long rest, the follower can gain resistance to all damage for 1 minute.
 
 4. **Ruthless Precision**: 
-   - Bane grants the follower the ability to strike with deadly precision. Once per long rest, when the follower makes an attack roll, they can choose to consider the roll as a natural 20.
+     - Bane grants the follower the ability to strike with deadly precision. Once per long rest, when the follower makes an attack roll, they can choose to consider the roll as a natural 20.
 
 5. **Shackles of Dominance**: 
-   - Bane bestows the follower with the power to subjugate their foes. Once per long rest, the follower can cast the spell "Hold Person" without expending a spell slot, strength or charisma is the spellcasting ability for this spell.
+     - Bane bestows the follower with the power to subjugate their foes. Once per long rest, the follower can cast the spell "Hold Person" without expending a spell slot, strength or charisma is the spellcasting ability for this spell.
 
 6. **Warlord's Command**: 
-   - Bane empowers the follower with the ability to command their allies in battle. Once per long rest, the follower can use a bonus action to grant an ally within 30 feet advantage on their next attack roll.
+     - Bane empowers the follower with the ability to command their allies in battle. Once per long rest, the follower can use a bonus action to grant an ally within 30 feet advantage on their next attack roll.
 
 7. **Dark Blessing**: 
-    - The follower's weapon becomes infused with Bane's dark energy. Once per long rest, the follower can deal an additional 1d12 necrotic damage on any successful melee attack for 1 minute.
+     - The follower's weapon becomes infused with Bane's dark energy. Once per long rest, the follower can deal an additional 1d12 necrotic damage on any successful melee attack for 1 minute.
 
 8. **Warlord's Wrath**: 
-    - Bane's wrath flows through the follower. Once per long rest, as an action, the follower can unleash Bane's wrath in a 15-foot radius sphere centered on themselves. All creatures within the area must make a Dexterity saving throw (DC 8 + the follower's proficiency bonus + their Charisma/Strenght modifier) or take 4d10 necrotic damage on a failed save, or half as much on a successful one.
+     - Bane's wrath flows through the follower. Once per long rest, as an action, the follower can unleash Bane's wrath in a 15-foot radius sphere centered on themselves. All creatures within the area must make a Dexterity saving throw (DC 8 + the follower's proficiency bonus + their Charisma/Strenght modifier) or take 4d10 necrotic damage on a failed save, or half as much on a successful one.
 
 ## Curses
 
@@ -193,28 +193,28 @@ Bane's followers can invoke their deity's wrath upon their enemies by cursing th
 The follower must cast *Bestow Curse* to invoke their available curses:
 
 1. **Bane's Mark**: 
-   - The follower can mark an enemy with Bane's symbol, causing them to suffer disadvantage on attack rolls against the follower and allies for the duration of the curse and recieve an additional 1d6 fire damage when they are hit by an attack. 
+     - The follower can mark an enemy with Bane's symbol, causing them to suffer disadvantage on attack rolls against the follower and allies for the duration of the curse and recieve an additional 1d6 fire damage when they are hit by an attack. 
 
 2. **Chain of Torment**: 
-   - Once Per day, the follower can curse an enemy with spectral chains, reducing their movement speed by half and causing them to take 1d6 necrotic damage at the start of each of their turns.
+     - Once Per day, the follower can curse an enemy with spectral chains, reducing their movement speed by half and causing them to take 1d6 necrotic damage at the start of each of their turns.
 
 3. **Shadows of Dread**: 
-   - The follower can envelop an enemy in shadows, causing them to be frightened unless they succeed on a Wisdom saving throw at the start of each of their turns. They must roll the saving throw each turn until the curse ends otherwise the effect will return.
+     - The follower can envelop an enemy in shadows, causing them to be frightened unless they succeed on a Wisdom saving throw at the start of each of their turns. They must roll the saving throw each turn until the curse ends otherwise the effect will return.
 
 4. **Bane's Retribution**: 
-   - Whenever the cursed enemy deals damage to a creature other than the follower, they suffer an equal amount of psychic damage as a backlash.
+     - Whenever the cursed enemy deals damage to a creature other than the follower, they suffer an equal amount of psychic damage as a backlash.
 
 5. **Eyes of Bane**: 
-   - The follower curses the enemy with paranoia, causing them to be unable to benefit from advantage and suffer disadvantage on saving throws for the duration of the curse.
+     - The follower curses the enemy with paranoia, causing them to be unable to benefit from advantage and suffer disadvantage on saving throws for the duration of the curse.
 
 6. **Iron Grip of Conquest**:
-   - The follower curses the enemy with immobility, causing them to be knocked prone and be restrained for the duration of the curse.
+     - The follower curses the enemy with immobility, causing them to be knocked prone and be restrained for the duration of the curse.
 
 7. **Dark Whispers**: 
-   - The follower can curse an enemy with dark whispers, causing them to hear voices that drive them to madness. The cursed enemy must make a Wisdom saving throw at the start of each of their turns or take 1d6 psychic damage and be unable to take reactions or bonus actions until the start of their next turn.
+     - The follower can curse an enemy with dark whispers, causing them to hear voices that drive them to madness. The cursed enemy must make a Wisdom saving throw at the start of each of their turns or take 1d6 psychic damage and be unable to take reactions or bonus actions until the start of their next turn.
 
 8. **Curse of Strife**: 
-   - The follower curses the enemy with constant conflict, causing them to attack the nearest creature to them, other than the follower, at the start of each of their turns.
+     - The follower curses the enemy with constant conflict, causing them to attack the nearest creature to them, other than the follower, at the start of each of their turns.
 
 
 ## Myths

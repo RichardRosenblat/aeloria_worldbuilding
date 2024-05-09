@@ -142,28 +142,28 @@ All of them
 A follower of Corellon can gain favor with their deity by creating new art, searching for lost magic, and opposing the followers of Lolth. As they embody the principles of creativity, magic, and beauty, Corellon may bestow the following blessings upon them:
 
 1. **Inspiration of the Spellfather**
-   - Once per long rest, the blessed character can add a d6 to any ability check, attack roll, or saving throw they make. They can choose to use this inspiration after seeing the roll but before knowing the outcome.
+     - Once per long rest, the blessed character can add a d6 to any ability check, attack roll, or saving throw they make. They can choose to use this inspiration after seeing the roll but before knowing the outcome.
 
 2. **Arcane Resilience**
-   - The blessed character gains advantage on saving throws against spells and magical effects. Additionally, they can use their reaction to gain resistance against one spell's damage once per short rest.
+     - The blessed character gains advantage on saving throws against spells and magical effects. Additionally, they can use their reaction to gain resistance against one spell's damage once per short rest.
 
 3. **Sorcerous Surge**
-   - Once per long rest, the blessed character can apply one metamagic option to a spell they cast without expending sorcery points. The metamagic option must be one of the following: *Careful Spell*, *Distant Spell*, *Empowered Spell*, *Extended Spell*, *Heightened Spell*, *Quickened Spell* or *Subtle Spell*
+     - Once per long rest, the blessed character can apply one metamagic option to a spell they cast without expending sorcery points. The metamagic option must be one of the following: *Careful Spell*, *Distant Spell*, *Empowered Spell*, *Extended Spell*, *Heightened Spell*, *Quickened Spell* or *Subtle Spell*
 
 4. **Weaver's Expertise**
-   - The blessed character recieves proficiency in Arcana and Performance skills. Additionally, they can cast *Identify* and *Detect Magic* without expending a spell slot once per long rest.
+     - The blessed character recieves proficiency in Arcana and Performance skills. Additionally, they can cast *Identify* and *Detect Magic* without expending a spell slot once per long rest.
 
 5. **Artisan's Blessing**
-   - Once per long rest, the blessed character can imbue a non-magical weapon or piece of armor with magical properties for 1 hour. The weapon gains a +1 bonus to attack and damage rolls, and the armor gains a +1 bonus to AC. 
+     - Once per long rest, the blessed character can imbue a non-magical weapon or piece of armor with magical properties for 1 hour. The weapon gains a +1 bonus to attack and damage rolls, and the armor gains a +1 bonus to AC. 
 
 6. **Trickster's Veil**
-   - The blessed character can cast *invisibility* on themselves once per short rest without expending a spell slot. Additionally, they gain advantage on Dexterity (Stealth) checks when attempting to hide.
+     - The blessed character can cast *invisibility* on themselves once per short rest without expending a spell slot. Additionally, they gain advantage on Dexterity (Stealth) checks when attempting to hide.
 
 7. **Feywild Fervor**
-   - Once per long rest, the blessed character can summon a burst of fey energy, doubling their movement speed and granting them advantage on Dexterity saving throws for 1 minute. Additionally, they can move through non-magical difficult terrain without impediment during this time. Movement in this state does not provoke opportunity attacks. The character can create wings of fey energy that grant them a flying speed of 60 feet for the duration but sprouting these wings causes a wild magic surge.
+     - Once per long rest, the blessed character can summon a burst of fey energy, doubling their movement speed and granting them advantage on Dexterity saving throws for 1 minute. Additionally, they can move through non-magical difficult terrain without impediment during this time. Movement in this state does not provoke opportunity attacks. The character can create wings of fey energy that grant them a flying speed of 60 feet for the duration but sprouting these wings causes a wild magic surge.
 
 8. **Raw Magic Surge**
-   - Once per long rest, the blessed character can unleash a surge of raw magical energy, casting two spells of 3rd level or lower without in the same turn. The character can, instead, choose to cast three random spells from the sorcerer spell list of 8th level or lower without expending spell scrolls, but the DM determines the spells and their levels. The character must succeed on a DC 15 Charisma saving throw or suffer the effects of a wild magic surge. If the character chooses to cast only two spells, they must be spells they know and can cast.
+     - Once per long rest, the blessed character can unleash a surge of raw magical energy, casting two spells of 3rd level or lower without in the same turn. The character can, instead, choose to cast three random spells from the sorcerer spell list of 8th level or lower without expending spell scrolls, but the DM determines the spells and their levels. The character must succeed on a DC 15 Charisma saving throw or suffer the effects of a wild magic surge. If the character chooses to cast only two spells, they must be spells they know and can cast.
 
 ## Curses
 
@@ -172,28 +172,28 @@ Corellon's followers can invoke their deity's wrath upon their enemies by cursin
 The follower must cast *Bestow Curse* to invoke their available curses:
 
 1. **Weaver's Bane**
-   - The cursed enemy's spells and magical effects have a chance to backfire. Whenever the cursed enemy casts a spell, they must make a Wisdom saving throw. On a failed save, the spell fizzles and has no effect, and the enemy takes psychic damage equal to the spell's level.
+     - The cursed enemy's spells and magical effects have a chance to backfire. Whenever the cursed enemy casts a spell, they must make a Wisdom saving throw. On a failed save, the spell fizzles and has no effect, and the enemy takes psychic damage equal to the spell's level.
 
 2. **Arcane Convergence**
-   - Once per day the follower can curse an enemy to have spells bend and twist to target them. Any spells that have their trajectories or area of effect overlaping with a 10ft radius of the cursed enemy have their effects bent to hit the cursed enemy. The cursed enemy has disadvantage on saving throws against spells that target them directly, and instantaneously fail any dexterity saving throw to try avoiding a spell's effect.
+     - Once per day the follower can curse an enemy to have spells bend and twist to target them. Any spells that have their trajectories or area of effect overlaping with a 10ft radius of the cursed enemy have their effects bent to hit the cursed enemy. The cursed enemy has disadvantage on saving throws against spells that target them directly, and instantaneously fail any dexterity saving throw to try avoiding a spell's effect.
 
 3. **Arcane Drain**
-   - The cursed enemy's connection to magic is weakened, making their spells less potent. Whenever they cast a spell, they must roll a inteligence saving throw, the spell's damage is reduced by half, and if they cast a spell using a higher spell slot, their spell is cast at the next lower spell slot level.
+     - The cursed enemy's connection to magic is weakened, making their spells less potent. Whenever they cast a spell, they must roll a inteligence saving throw, the spell's damage is reduced by half, and if they cast a spell using a higher spell slot, their spell is cast at the next lower spell slot level.
 
 4. **Trickster's Plague**
-   - The cursed enemy becomes prone to misfortune and deception, becoming unnable to differenciate truth from illusion. They have disadvantage on all ability checks and saving throws made to resist or detect illusions, whenever they start their turn within 20ft of an illusion they recieve 3d6 + the spell level psychic damage.
+     - The cursed enemy becomes prone to misfortune and deception, becoming unnable to differenciate truth from illusion. They have disadvantage on all ability checks and saving throws made to resist or detect illusions, whenever they start their turn within 20ft of an illusion they recieve 3d6 + the spell level psychic damage.
 
 5. **Enchanter's Torment**
-   - The cursed enemy's mind is clouded by dark whispers and unsettling visions. They have disadvantage on Wisdom saving throws and suffer psychic damage equal to the caster's Wisdom modifier whenever they fail a saving throw against a spell or magical effect.
+     - The cursed enemy's mind is clouded by dark whispers and unsettling visions. They have disadvantage on Wisdom saving throws and suffer psychic damage equal to the caster's Wisdom modifier whenever they fail a saving throw against a spell or magical effect.
 
 6. **Feywild's Distortion**
-   - The cursed enemy becomes surrounded by the chaotic energies of the Feywild, causing their movements to become unpredictable. At the start of their turn they must make a Dexterity saving throw, on a failed save their body slows down, making their speed halved, they lose their reaction and cannot take bonus actions until the start of their next turn, any attacks made by them have disadvantage and any attacks made against them have advantage. On a successful save, they can act normally.
+     - The cursed enemy becomes surrounded by the chaotic energies of the Feywild, causing their movements to become unpredictable. At the start of their turn they must make a Dexterity saving throw, on a failed save their body slows down, making their speed halved, they lose their reaction and cannot take bonus actions until the start of their next turn, any attacks made by them have disadvantage and any attacks made against them have advantage. On a successful save, they can act normally.
 
 7. **Feywild Curse**
-   - The cursed enemy becomes haunted by the spirits of the Feywild that overwhelm their senses. They have disadvantage on saving throws against spells and magical effects that cause fear or charm and become unnable to concentrate on spells, any spell they were concentrating on is lost.
+     - The cursed enemy becomes haunted by the spirits of the Feywild that overwhelm their senses. They have disadvantage on saving throws against spells and magical effects that cause fear or charm and become unnable to concentrate on spells, any spell they were concentrating on is lost.
 
 8. **Arcane dissonance**
-   - Once per long rest the user can curse an enemy to cause their mind and body loose sync with the weave. At the start of their turn, if the cursed enemy is close to any magical effect, item or creature, they must make a Wisdom saving throw, on a failed save they take 2d6 psychic damage and are stunned until the start of their next turn. On a successful save, they take half damage and are not stunned.
+     - Once per long rest the user can curse an enemy to cause their mind and body loose sync with the weave. At the start of their turn, if the cursed enemy is close to any magical effect, item or creature, they must make a Wisdom saving throw, on a failed save they take 2d6 psychic damage and are stunned until the start of their next turn. On a successful save, they take half damage and are not stunned.
 
 ## Myths
 

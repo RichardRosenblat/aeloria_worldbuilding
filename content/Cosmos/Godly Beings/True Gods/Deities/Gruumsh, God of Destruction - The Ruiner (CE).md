@@ -31,7 +31,7 @@ aliases:
 | ------------------------ | ----------- | ----------------------------- | ----------- | --------------------------------------------------------------------------------- |
 | Aerian (Human) Generic   | Gruumsh     | The Ruiner                    | He/Him      | The [[Harmonious Gods]]                                                           |
 | Asteni (Human) Italian   | Vesanus     | The Master of Carnage         | He/Him      | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Human) Hispanic  | Destrus     | The Harbinger of Annihilation | He/Him      | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Dal (Human) Hispanic     | Destrus     | The Harbinger of Annihilation | He/Him      | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Zerstorungs | The One Eyed                  | He/Him      | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
 | Dwelmer (Dwarven) Nordic | Fenrir      | The Devourer of Realms        | He/Him      | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
 | Eldar (Elven) Elven      | Xyrsylvar   | The Fey Eater                 | He/They/It  | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
@@ -128,7 +128,61 @@ Single, unblinking eye that bleeds
 
 ## Blessings
 
+A follower of Gruumsh can gain favor with their deity by proving their strength and prowess in battle, demonstrating their unwavering commitment to destruction and chaos. As they embody the principles of might and savagery, Gruumsh may bestow the following blessings upon them:
+
+1. **Unyielding Might:** 
+   - Gruumsh blesses his followers with enhanced physical strength and endurance, granting them a +3 bonus to their Strength and Constitution scores, reflecting their unwavering resolve in battle.
+  
+2. **Ferocious Resilience:**
+   - Those favored by Gruumsh gain a heightened resistance to physical harm, the follower gains resistance to fire damage and damage from non-magical weapons, symbolizing their ability to shrug off blows that would fell lesser warriors.
+  
+3. **Savage Instincts:** 
+   - Gruumsh infuses his followers with primal instincts honed for battle, granting them advantage on initiative rolls and Dexterity saving throws, allowing them to react swiftly to threats and strike first in combat.
+  
+4. **Aura of Intimidation:** 
+   - Followers of Gruumsh exude an aura of fear and dominance on the battlefield, causing enemies that start their turn within 10 feet of them to make a Wisdom saving throw of dc 10 + the followers strength modifier or be frightened until the end of their next turn, reflecting the terror inspired by the Ruiner's wrath.
+
+5. **Rage of the Ruiner:** 
+   - Channeling the fury of Gruumsh, once per long rest, his followers can enter a state of demonic rage as a bonus action for 5 turns, doubling their speed, gaining resistance to all damage types except psychic, and dealing an additional 1d6 damage (3d6 if the enemy is an elf) with melee attacks and healing themselves for half the damage dealt, symbolizing the destructive power of the Ruiner unleashed through their strikes.
+  
+6. **Gaze of Annihilation:** 
+   - Gruumsh bestows upon his followers the ability to focus their gaze with devastating effect. Once per short rest, they can unleash a powerful gaze attack as an action, forcing a creature within line of sight to make a Wisdom saving throw equal to 8 + the follower's proficiency bonus + their Strength modifier or be paralyzed for 1 minute and take 2d6 psychic damage, as the overwhelming presence of the Ruiner breaks their will and shatters their mind.
+  
+7. **Warrior's Boon:** 
+   - Gruumsh empowers his followers with enhanced combat prowess, Once per day, the follower can use the benefits of a long rest instantly, regaining all hit points, spell slots, and abilities, symbolizing the god's favor in granting them the strength to continue their battles without rest.
+  
+8. **Inescapable Wrath:** 
+   - Gruumsh's followers can invoke their deity's power to pursue their enemies relentlessly. Once per long rest, they can teleport to melee range of a creature they can see or have damaged within the last minute, bypassing any obstacles or magical effects that would prevent their approach, symbolizing the Ruiner's unyielding pursuit of those who dare to defy him.
+
 ## Curses
+
+Gruumsh's followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with Gruumsh, they may gain access to the following curses to unleash upon their foes:
+
+The follower must cast *Bestow Curse* to invoke their available curses:
+
+1. **Curse of Shattered Resolve:** 
+   - The target crumbles under the weight of Gruumsh's fury, imposing disadvantage on all saving throws for a duration, and giving them vulnerability any damage caused by the follower of Gruumsh, symbolizing the overwhelming power of the Ruiner's wrath.
+   
+3. **Curse of Debilitating Agony:**
+   -  Gruumsh inflicts excruciating pain upon the target, causing them to suffer ongoing 2d8 psychic damage at the start of each of their turns for a duration, reflecting the relentless torment wrought by the Ruiner's wrath.
+   
+4. **Curse of Fragmented Defense:** 
+   - The target's defenses falter as Gruumsh disrupts their ability to protect themselves, any armor or shield they are wearing loses its magical properties and their AC is reduced by 2 for a duration, symbolizing the Ruiner's ability to shatter even the strongest defenses.
+   
+5. **Curse of Lingering Horror:** 
+   - Gruumsh instills unrelenting terror in the target's heart, causing them to loose their action and bonus action whenever 5 feet of the follower of Gruumsh, reflecting the paralyzing fear inspired by the Ruiner's wrath.
+   
+6. **Curse of Sundered Vitality:**
+   - Gruumsh drains the life force from the target, causing them to become unnably to regain hit points for the duration and suffer disadvantage on death saving throws, symbolizing the Ruiner's ability to consume the life energy of his enemies
+   
+7. **Curse of Chaotic Vulnerability:** 
+   - Gruumsh disrupts the target's connection to magic, causing them to need to roll a d20 to cast spells, on a 1-10 the spell fails and the target takes 1d6 psychic damage, symbolizing the Ruiner's ability to sow chaos and discord in the weave of magic.
+   
+8. **Curse of Shared Rage:** 
+   - Gruumsh fills the target with uncontrollable rage, causing them to attack the nearest creature, friend or foe, symbolizing the Ruiner's ability to incite violence and chaos in the hearts of his enemies.
+   
+9.  **Curse of Exhaustion:**
+    -  Grummsh saps the target's strength, roll a 1d4, the target recieves 1 point of exhaustion if the number is odd and 2 points if even, symbolizing the Ruiner's ability to drain the vitality of his foes. Once this curse is used it cannot be used at the same enemy until they have completed a long rest.
 
 ## Myths
 
