@@ -23,6 +23,8 @@ aliases:
 ---
 # Kryela, goddess of malice, destruction and chaos: The Undoing (LE)
 
+"Why must you limit yourself by their desires? To be bound by others is to deny yourself the pleasure of being who you truly are, no one else can feel it for you, no one can even ever understand, so embrace it. Seize your destiny and never let go, it is yours and yours only. Be wild, rude, assertive and selfish, if they can't handle it, let them crumble. Take what you want, rip it from their hands if needed be. Be the storm in their lives, be the chaos in their hearts. Devour, Kill, consume and destroy, you are the only thing that matters. You don't need reason, justification or permission, rip the stars to shreds and let the world fall apart behind you." - Kryela's message to her followers
+
 ## Culture names
 
 |Culture|Name|Title|Pronouns|Group|

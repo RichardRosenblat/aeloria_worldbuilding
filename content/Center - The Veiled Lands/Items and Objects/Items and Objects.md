@@ -68,6 +68,7 @@ Strong items to be used with caution by the dm to not break the campaign
 | [[The Wings' Epistle]]               |
 | [[Pagida]]                           |
 | [[Three Dimensional Maneuver Gear]]  |
+| [[Lightning Strike Greataxe]]        |
 
 
 ## Books and Texts

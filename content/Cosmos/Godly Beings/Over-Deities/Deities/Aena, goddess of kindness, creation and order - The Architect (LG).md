@@ -23,6 +23,8 @@ aliases:
 ---
 # Aena, Goddess of Kindness, Creation, and Order: The Architect (LG)
 
+"Isn't it wonderful? This world is full of endless possibilities, each living being, each stone and spec of dust is a unique story of endless depth. Carrying all the things they've seen, and all the things they're yet to see. It's all so complex that i wish you all could see it as i do, you'd undestand how crucial you are to every other thing in this world. I can't wait to see what you'll do next. Know that I will always be here, watching over you and adoring every single breath you take. Know that when you love, that's me, loving you, and trying to make you understand how I feel about you. So please, dont forget to be there for eachother" - Aena's message to her followers
+
 ## Culture Names
 
 | Culture                | Name       | Title               | Pronouns | Group                   |
