@@ -88,6 +88,15 @@ _art by https://www.youtube.com/@user-lp4sk2fk9j_
 
 ## Political Structures
 
+1. **Conclave of Minds**: The Conclave of Minds is a unique form of governance where decisions are made through collaborative voting sessions facilitated by magic. Through the use of arcane rituals, the thoughts and desires of the populace are temporarily united into a single hivemind as way to honor the immense knowledge of Ioun, allowing for collective decision-making on matters of governance. During these sessions, citizens are connected telepathically, enabling them to think as one being that carries all their memories and thoughts. The hivemind deliberates on proposals, weighing the input of every individual before reaching a consensus decision. This decentralized approach to governance ensures that the wisdom and knowledge of the entire community are taken into account, fostering unity and cooperation among its members.
+2. **Council of Scholars**: A Council of Scholars serves as the governing body in societies influenced by Ioun's teachings. Comprised of esteemed scholars, sages, and experts in various fields of knowledge, this council deliberates on matters of governance, policy-making, and societal advancement. Decisions are made based on careful analysis, reasoned debate, and consideration of the long-term implications for the welfare of the populace.
+3. **Academic Oligarchy**: An Academic Oligarchy is characterized by the dominance of intellectual bodies in the political sphere. Universities, academies, and centers of learning wield significant influence over government policies and decision-making processes. Political power is concentrated among a select group of scholars, who use their expertise to shape the direction of society and promote the pursuit of knowledge as a guiding principle of governance.
+4. **Technocracy**: Technocratic governments prioritize the application of scientific and technological knowledge in the administration of society. Sages, alchemists, inventors, and scholars colaborate to create policies and solutions that are based on empirical evidence, rational analysis, and the principles of logic. Governance is guided by the belief that progress and prosperity can be achieved through the continuous advancement of knowledge and innovation.
+5. **Republic of Wisdom**: In a Republic of Wisdom, political authority is vested in a body of elected representatives who are chosen based on their intellectual capabilities and commitment to the pursuit of knowledge and wisdom. Citizens participate in governance through democratic processes, with an emphasis on informed decision-making and civic engagement. Education and critical thinking are prioritized to ensure an informed electorate capable of shaping the future of the republic.
+6. **Philosopher-Kingdom**: A Philosopher-Kingdom is ruled by enlightened monarchs who embody the ideals of wisdom, reason, and intellectual enlightenment. These liders are often guided by councils of scholars composed of representatives from various fields of knowledge. Governance is based on the principles of rationality, justice, and the pursuit of truth, with the monarchs serving as benevolent stewards of knowledge and wisdom for the benefit of their subjects.
+7. **Ecclesiocracy**: An Ecclesiocracy is a political system in which religious authorities hold significant sway over government affairs. In societies that worship Ioun, the clergy, comprised of scholars, seers, sages, and devotees of the goddess, play a central role in shaping political institutions and policies. Governance is guided by religious principles, with a focus on promoting knowledge, wisdom, and the pursuit of truth as the highest ideals of society.
+8. **Oracle Council**: The Oracle Council is a governing body comprised of revered religious scholars and powerful magic users who specialize in divination magic. These individuals are chosen not only for their deep understanding of religious teachings and magical practices but also for their ability to commune with Ioun, the Goddess of Knowledge, through visions of the future. During regular council meetings, members conduct elaborate divination rituals to seek guidance and insight from the goddess. Through their visions, they interpret omens, signs, and prophecies to inform their decisions on matters of governance. The decisions of the Oracle Council are seen as divinely inspired, guided by the wisdom and foresight bestowed upon them by Ioun herself. This system ensures that decisions are made with a deep understanding of the cosmic forces at play and a commitment to upholding the principles of knowledge, wisdom, and enlightenment.
+
 ## Elemental Affinities
 
 | Elements   |
@@ -108,7 +117,51 @@ _art by https://www.youtube.com/@user-lp4sk2fk9j_
 
 ## Blessings
 
+A follower of Ioun can gain favor with their deity by seeking knowledge, advancing their understanding, and sharing wisdom with others. As they embody the principles of reason, perception, and truth, Ioun may bestow the following blessings upon them:
+
+
+1. **Divine Insight**: 
+   - Once per day, the follower can invoke Ioun's guidance to gain advantage on an ability check, saving throw, or attack roll, reflecting the goddess's gift of foresight and wisdom.
+2. **Augury**: 
+   - Once per long rest, the follower can perform a ritual to receive guidance from Ioun regarding a specific course of action, gaining insight into the potential outcomes of their choices.
+3. **Arcane Revelation**: 
+   - Once per long rest, the follower can tap into Ioun's vast reservoir of knowledge to gain access to a spell from any class's spell list for 1 hour, casting it as if it were a known spell of their own. The spell's level cannot exceed the follower's available spell slots. If the user is not a spellcaster, they can cast the spell once at the lowest level without expending a spell slot and can only cast spells of a level equal to or lower than their proficiency bonus.
+4. **Eyes of the Oracle**: 
+   - Once per short rest, the follower can use their action to see through Ioun's eyes, gaining the effects of the *True Seeing* spell for 1 minute, additionally they gain advantage on all Wisdom (Perception) and Intelligence (Investigation) checks during this time.
+5. **Mind's Shield**: 
+   - The follower gains resistance to psychic damage, reflecting Ioun's protection against mental intrusion and manipulation. Additionally, the follower is immune to the *charmed* condition and has resistance on checks to resist being *frightened*.
+6. **Fount of Knowledge**: 
+   - The follower gains proficiency in two additional skill or tool of their choice, reflecting Ioun's blessing of expanded knowledge and expertise.
+7. **Wisdom's Grace**: 
+   - The follower's recieves 3 additional points to distribute among their Wisdom or Intelligence scores, reflecting Ioun's gift of enhanced mental acuity and insight.
+8. **Eternal Scholar**: 
+   - When the follower researches a topic or studies a subject they immediately know where to find the information they seek, and if they spend at least 8 hours studying they gain hit points equal to their level and can add their proficiency bonus to any check related to the topic they studied for the next 24 hours. 
+
+
 ## Curses
+
+Ioun's followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with Ioun, they may gain access to the following curses to unleash upon their foes:
+
+The follower must cast *Bestow Curse* to invoke their available curses:
+
+
+1. **Cursed Ignorance**: 
+   - The target's mind becomes clouded, causing disadvantage on Wisdom and Intelligence-based ability checks and saving throws.
+2. **Fog of Confusion**: 
+   - The target's thoughts become muddled, causing them to loose all proficiency in skills and tools for the duration of the spell, and making them vulnerable to confusion and disorientation.
+3. **Veil of Deception**: 
+   - The target is plagued the death of their perception, their eyes become jet black and they are blinded and deafened for the duration of the spell, if the target has another type of vision, like blindsight or tremorsense, they loose that as well.
+4. **Mind Blank**: 
+   - The target's memories begin to fade, causing them to forget important information and lose their sense of self. The target recieves a -2 to their AC and saving throws, whenever they are hit by an attack or fail a saving throw, they must make a Wisdom saving throw or fall unconscious for 1d4 rounds.
+5. **Shadow of Doubt**: 
+   - The target becomes consumed by doubt and uncertainty, causing disadvantage on Charisma-based ability checks and saving throws. At the start of their turn the target must make a Wisdom saving throw or be unable to take any actions for that turn.
+6. **Tunnel Vision**: 
+   - The target loses their skill to see the bigger picture, they can only see what is directly in front of them, ignoring all other things that are not within the 30ft in front of them.
+7. **Overwhelming Thoughts**: 
+    - The target is overwhelmed by a flood of information, causing them to be stunned and unable to take any actions for the duration of the spell, they recieve 1d6 psychic damage at the start of each of their turns while stunned and mus spend their action speaking random facts and information. At the end of each of their turns they can make a Wisdom saving throw to either end the effect if they succeed or add an additional round if they fail.
+8. **Terrible Revelation**: 
+   - The target is cursed with a terrible revelation, causing them to be frightened and unable to take any actions for the duration of the spell, they must make a Wisdom saving throw at the start of each of their turns or be frightened for an additional round. If the target is immune to the frightened condition they instead take 1d6 psychic damage.
+
 
 ## Myths
 
@@ -130,8 +183,3 @@ _art by https://www.youtube.com/@user-lp4sk2fk9j_
 ### [[Ioun's Archive]] is Destroyed
 
 ![[Ioun's Archive#The Tragic Demise]]
-
-## To do
-
-for the god above can you create:
-
