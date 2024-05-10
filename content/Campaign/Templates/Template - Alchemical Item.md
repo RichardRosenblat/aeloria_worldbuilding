@@ -31,7 +31,7 @@
 
 2. **Acquire a Potion Principal Ingredients:**
     The primary components that gives the potion its intended effect.
-    - To create a Potion of Invisibility, you need a rare Moonlit Orchid found deep within the Feywild.
+    - To create a Potion of Invisibility, you need a rare Moonlit Orchid found deep within the [[Feywild]].
 
 3. **Find a Potion Secondary Ingredients:**
     Additional ingredients that enhances or modifies the potion's properties.

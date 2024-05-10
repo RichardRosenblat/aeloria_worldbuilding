@@ -54,7 +54,7 @@ tags:
 46. wand of magic missiles
 47. carpet of flying
 48. mace of terror
-49. arrow of slaying
+49. [[arrow of slaying]]
 50. helm of teleportation
 51. adamantine armor
 52. rod of security

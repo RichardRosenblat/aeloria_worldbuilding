@@ -20,6 +20,7 @@ tags:
 | list of plans               | [[Important names to create later]]  |
 | City unique details         | [[200 Things to Make a City Unique]] |
 | Myths                       | [[Myth - Flor]]                      |
+| NPC random backstories                       | [[NPC Backstories]]                      |
 
 # Random Quotes
 

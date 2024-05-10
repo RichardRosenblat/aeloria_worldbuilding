@@ -3,23 +3,23 @@ tags:
   - true_god
 aliases:
   - Bane
-  - The Strife Emperor 
-  - Bellium 
-  - The Warlord of Chaos 
-  - Guerra 
-  - The Emperor of Conflict 
-  - Kriegs-furst 
-  - The Iron Fist 
-  - Ragnor 
-  - The Winter Legion 
-  - Sauron 
-  - The Dark Sovereign 
-  - Hachiman 
-  - The Blood Red Shogun 
-  - Ares 
+  - The Strife Emperor
+  - Bellium
+  - The Warlord of Chaos
+  - Guerra
+  - The Emperor of Conflict
+  - Kriegs-furst
+  - The Iron Fist
+  - Ragnor
+  - The Winter Legion
+  - Sauron
+  - The Dark Sovereign
+  - Hachiman
+  - The Blood Red Shogun
+  - Ares
   - The Bloodshed God
-  - Branhar 
-  - The Volcanic Overlord 
+  - Branhar
+  - The Volcanic Overlord
 ---
 # Bane, God of War and Conquest: The Strife Emperor (LE)
 

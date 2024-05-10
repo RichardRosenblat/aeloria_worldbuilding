@@ -159,7 +159,7 @@ A follower of Corellon can gain favor with their deity by creating new art, sear
 6. **Trickster's Veil**
      - The blessed character can cast *invisibility* on themselves once per short rest without expending a spell slot. Additionally, they gain advantage on Dexterity (Stealth) checks when attempting to hide.
 
-7. **Feywild Fervor**
+7. **[[Feywild]] Fervor**
      - Once per long rest, the blessed character can summon a burst of fey energy, doubling their movement speed and granting them advantage on Dexterity saving throws for 1 minute. Additionally, they can move through non-magical difficult terrain without impediment during this time. Movement in this state does not provoke opportunity attacks. The character can create wings of fey energy that grant them a flying speed of 60 feet for the duration but sprouting these wings causes a wild magic surge.
 
 8. **Raw Magic Surge**
@@ -186,11 +186,11 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 5. **Enchanter's Torment**
      - The cursed enemy's mind is clouded by dark whispers and unsettling visions. They have disadvantage on Wisdom saving throws and suffer psychic damage equal to the caster's Wisdom modifier whenever they fail a saving throw against a spell or magical effect.
 
-6. **Feywild's Distortion**
-     - The cursed enemy becomes surrounded by the chaotic energies of the Feywild, causing their movements to become unpredictable. At the start of their turn they must make a Dexterity saving throw, on a failed save their body slows down, making their speed halved, they lose their reaction and cannot take bonus actions until the start of their next turn, any attacks made by them have disadvantage and any attacks made against them have advantage. On a successful save, they can act normally.
+6. **[[Feywild]]'s Distortion**
+     - The cursed enemy becomes surrounded by the chaotic energies of the [[Feywild]], causing their movements to become unpredictable. At the start of their turn they must make a Dexterity saving throw, on a failed save their body slows down, making their speed halved, they lose their reaction and cannot take bonus actions until the start of their next turn, any attacks made by them have disadvantage and any attacks made against them have advantage. On a successful save, they can act normally.
 
-7. **Feywild Curse**
-     - The cursed enemy becomes haunted by the spirits of the Feywild that overwhelm their senses. They have disadvantage on saving throws against spells and magical effects that cause fear or charm and become unnable to concentrate on spells, any spell they were concentrating on is lost.
+7. **[[Feywild]] Curse**
+     - The cursed enemy becomes haunted by the spirits of the [[Feywild]] that overwhelm their senses. They have disadvantage on saving throws against spells and magical effects that cause fear or charm and become unnable to concentrate on spells, any spell they were concentrating on is lost.
 
 8. **Arcane dissonance**
      - Once per long rest the user can curse an enemy to cause their mind and body loose sync with the weave. At the start of their turn, if the cursed enemy is close to any magical effect, item or creature, they must make a Wisdom saving throw, on a failed save they take 2d6 psychic damage and are stunned until the start of their next turn. On a successful save, they take half damage and are not stunned.

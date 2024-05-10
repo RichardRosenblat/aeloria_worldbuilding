@@ -2,6 +2,14 @@
 
 ## Description:
 The Remembrance Mirror appears as an elegantly crafted oval mirror, framed in polished silver adorned with intricate carvings depicting scenes of children playing. When inactive, it reflects images with remarkable clarity, but its true enchantment lies in its ability to evoke nostalgia.
+Behind it a small inscription reads: "It's you" after seeing the reflection of your childhood the inscription changes to one of these:
+
+| Number | Inscription |
+|------|------------|
+|1|"Despite everything, it's still you". |
+|2|"It's me".|
+|3|"It's not your fault".|
+|4|"They will be watching over you".|
 
 ## Rarity and Type:
 Rare - Wondrous Item
