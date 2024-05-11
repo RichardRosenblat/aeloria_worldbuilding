@@ -48,6 +48,98 @@ Eldarin -> a culture inspired in japanese culture with themes of the samurais
 Mularir -> a culture inspired in greek culture with themes of the greek gods
 Yotunn -> a culture inspired in giant culture with themes of the giants from norse mythology
 
+# Understanding Magic for Each Class
+
+In the realm of magical prowess, various classes possess distinct approaches to harnessing arcane forces. While some beings, such as dragons and beholders, inherently wield the weave, most humanoids lack this natural aptitude. Instead, they must acquire it through diverse means: inherent birthright, self-modification, divine bestowment, or latent potential, which can be unlocked through intense study, meditation, potent emotions, or enchanted artifacts.
+
+It's imperative to acknowledge the uniqueness of each character. Their magical capabilities may diverge from the standard conventions outlined here. This serves as a foundational framework, allowing flexibility for players whose characters operate differently. Collaboratively, you and your players can tailor their magical essence to suit their individuality, crafting bespoke systems that enrich their gameplay experiences while ensuring mutual enjoyment.
+
+## Artificer: Mastery Through Ingenuity
+
+Artificers diverge from conventional magical practitioners, employing a unique approach to channeling arcane energies. Rather than directly drawing from the weave or manipulating it themselves, they rely on meticulous study to manipulate their tools. Through precise movements and incantations, they siphon energy from the weave into their tools, subsequently infusing it into their creations.
+
+During spell preparation and casting, artificers leverage their expertise in mechanics and alchemy. They craft specialized items capable of interfacing with the weave, either replicating spell effects or serving as conduits for it's magic to cast them. This ingenuity allows artificers to manifest spells through their inventions, showcasing their mastery of both science and magic.
+
+## Bard: Harmonizing with the Weave
+
+Bards traverse the realms of magic and artistry, weaving spells through their profound understanding of creativity. Through their expertise in music theory, acting, color theory, poetry, or any other artistic disciplines, they acquire the ability to siphon energy from the weave. This knowledge, coupled with relentless practice, induces profound changes in their brains, enabling them to subconsciously tap into the weave while engaged in artistic contemplation.
+
+During moments of rest and reflection, bards effortlessly draw upon this stored energy. Whether silently recalling melodies, pondering past performances, or delving into the intricacies of their craft's theory, they unconsciously replenish their magical reserves. Subsequently, they manifest spells by expressing them through their art, akin to how they convey emotions through their performances. This symbiotic relationship between magic and artistry enables bards to seamlessly integrate spells into their creative endeavors, crafting enchanting experiences that captivate both hearts and minds.
+
+## Cleric: Divine Channeling of Weave Energy
+
+Clerics, entrusted with divine power by the gods, operate on a distinct paradigm from conventional spellcasters. Unlike those who directly tap into the weave, clerics receive their magic through divine intervention. During their meditative rituals, the gods imbue their bodies with energy drawn from the weave, manifesting as spell slots within them.
+
+In a sacred exchange, the gods not only infuse clerics with energy but also bestow upon them the knowledge required to wield it. Through divine communion, clerics are granted insights into spellcasting, enabling them to effectively utilize the energy bestowed upon them. This divine guidance empowers clerics to channel the weave's energy with purpose and efficacy, fulfilling their sacred duties as intermediaries between the mortal realm and the divine.
+
+## Druid: Harmonizing with Nature's Weave
+
+Druids embark on a spiritual journey, forging a profound connection with the weave through relentless meditation and attunement to the natural world. Guided by ancient rituals and meditative practices, they cultivate a heightened sensitivity to the weave's energies and the elemental forces inherent in matter. These endeavors amplify their innate abilities, enabling them to commune with the weave and channel its energy.
+
+Through disciplined meditation and sharpening of their senses, druids learn to perceive the subtle vibrations of the weave and the elemental energies coursing through the natural realm. This heightened awareness allows them to absorb energy from the weave during periods of rest and meditation, storing it within their bodies as spell slots. With this reservoir of energy at their disposal, druids attune themselves to the flow of the weave and the elemental currents, intuitively understanding how to cast spells. 
+
+Drawing upon their intimate connection with nature, druids navigate the weave's currents with finesse. They sense its ebb and flow, discerning the intricate patterns and rhythms that govern its essence. Utilizing this profound insight, druids manipulate the weave with movements, spoken incantations, and materials, seamlessly weaving spells into the fabric of reality.
+
+## Monk: Channeling Elemental Ki
+
+Monks embark on a path of disciplined study and rigorous training, honing their minds and bodies to harness the elemental energy inherent within them—the essence known as Ki. Through their dedicated practice, monks cultivate a profound understanding of this inner energy, learning to manipulate it with precision.
+
+Their studies not only sharpen their physical prowess but also attune their minds to the weave's subtle currents. With intense concentration, monks can quickly move their ki across their body to pierce the threads of the weave that flow through their bodies, piercing them to amplify their own Ki. By gathering and channeling this augmented energy, monks replicate spell effects or cast spells themselves.
+
+Utilizing their mastery over Ki, monks seamlessly integrate magical effects into their martial techniques. Through fluid movements and precise control, they infuse their strikes with elemental energy, unleashing devastating attacks or invoking mystical phenomena. This harmonious union of mind, body, and Ki allows monks to transcend the physical limitations of the body and tap into the weave's boundless potential.
+
+## Paladin: Divine Conduit of Weave Energy
+
+Paladins, champions of divine justice, draw upon the power of the gods to fuel their cause. Like clerics, they receive their magical abilities through divine grace rather than direct manipulation of the weave. During their devout meditations, the gods imbue their bodies with the raw energy of the weave, shaping it into spell slots within them.
+
+In this sacred communion, the gods not only infuse paladins with energy but also impart the knowledge required to wield it effectively. Through divine revelation, paladins are granted insights into spellcasting, empowering them to utilize the energy bestowed upon them with purpose and clarity. This divine guidance enables paladins to channel the weave's energy in service of their god's ideals, manifesting spells to smite enemies.
+
+## Ranger: Communion with Nature's Weave
+
+Rangers, attuned to the rhythms of the natural world, forge a bond with the weave through their intimate connection with the creatures and landscapes they protect and live with. Unlike druids, who commune with nature through traditional rituals and meditations, rangers perceive the weave's essence by immersing themselves in the diverse ecosystems they inhabit.
+
+Through their close companionship with the creatures of the wild and their keen observation of nature's intricacies, rangers develop a profound understanding of the weave and the elemental energies that permeate the natural realm. Their senses become finely attuned to the subtle nuances of the weave's currents, allowing them to subconsciously siphon energy while at rest, focusing on the symphony of reality around them. 
+
+To cast spells, rangers draw upon this stored energy, honing their focus on the elemental forces coursing through the natural world. By intuitively sensing the ebb and flow of the weave and the elemental energy within their surroundings, they weave spells into existence. Through this instinctual connection with nature's weave, rangers wield spells with precision, utilizing their knowledge of the natural world to guide their movements, speech, and material components.
+
+## Sorcerer: Innate Weave Manipulation
+
+Sorcerers possess an innate connection to the weave, bestowed upon them from birth. Unlike other spellcasters who must learn to tap into the weave, sorcerers intuitively sense its presence and manipulate it effortlessly. For them, wielding magic is as natural as any other bodily movement.
+
+Even during moments of rest, sorcerers unconsciously draw energy from the weave, storing it within their bodies as a wellspring of power. When the need arises to cast a spell, they instinctively use this stored energy, intuitively grasping the necessary movements, words, or materials required. With a mere thought, they mold the energies of the weave into spells, seamlessly manifesting their magical abilities.
+
+This innate affinity for the weave grants sorcerers a unique and fluid approach to spellcasting, allowing them to adapt and innovate with ease. Freed from the constraints of traditional spellcasting techniques, sorcerers wield their magic with unparalleled spontaneity and creativity, harnessing the raw essence of the weave to shape reality according to their will.
+
+## Warlock: Varied Pact Magic
+
+The magic wielded by warlocks is as diverse as the patrons they serve and the pacts they forge. Depending on the nature of their patron and the terms of their pact, warlocks access the weave in myriad ways, each imbuing their magic with unique characteristics.
+
+Some patrons bestow upon their warlocks physical alterations, enabling them to tap into the weave subconsciously or consciously. Through these alterations, warlocks become conduits for the weave's energy, allowing them to wield magic with heightened proficiency.
+
+Others patrons infuse their warlocks' bodies with the raw energy they take of the weave, whispering them the knowledge to cast spells. This direct infusion of energy empowers warlocks with knowledge and power to manipulate the energy within with ease, manifesting their magical abilities through sheer force of will.
+
+Alternatively, some patrons may use the ones contracted to them as a proxy for their own spells, casting spells through the warlock as a conduit. In these cases, warlocks need only request the desired spell, and if the patron deems it appropriate and their body can withstand the influx of energy, the spell is cast.
+
+In many instances, a blend of these methods may be employed, resulting in a hybrid approach to pact magic. Warlocks, therefore, wield a versatile and adaptable form of magic, shaped by the intricacies of their individual pacts and the whims of their otherworldly patrons.
+
+## Wizard: Scholarly Mastery of the Weave
+
+Wizards, scholars of the arcane, unlock the secrets of the weave through rigorous study and contemplation. Delving into its patterns, logic, and mathematical underpinnings, they unravel the mysteries of magic and reshape the inner workings of their minds in the process. Through their profound understanding of the weave, wizards learn to consciously and subconsciously siphon energy from its vast tapestry while at rest.
+
+The intensive study undertaken by wizards fundamentally alters the structure of their brains, imprinting upon them the intricate thought patterns necessary to harness the weave's energy. This transformation grants them access to spell slots, repositories of magical energy that they can tap into to cast spells.
+
+When it comes time to cast a spell, wizards draw upon this stored energy, channeling it through precise movements, incantations, and material components. Through their meticulous study of spells, they have uncovered the specific gestures, words, and materials required to manifest each magical effect.
+
+With each spell cast, wizards further refine their understanding of the weave, deepening their connection to its vast reservoirs of power. Their mastery of magic is a testament to their scholarly dedication and unwavering pursuit of arcane knowledge.
+
+## Non-Magical Classes and Weave Interaction
+
+In the diverse tapestry of adventurers, non-magical classes possess the ability to tap into the weave through various means, each influenced by their individual backgrounds and class abilities. Whether acquired through study, meditation, unconscious intuition, divine bestowment, or the utilization of potent magic items, the methods by which non-magical classes access the weave can vary significantly.
+
+Some non-magical classes possess innate abilities to sap and utilize energy from the weave unconsciously, enabling them to perform extraordinary feats beyond the realm of traditional spellcasting. For instance, barbarians who follow the Path of The Zealot may draw upon the weave's energy to fuel their fervent attacks and unleash devastating displays of strength and resilience.
+
+Each class brings its own unique approach to interacting with the weave, reflecting the diversity of skills and backgrounds among adventurers. Whether through rigorous training, divine intervention, or instinctual intuition, non-magical classes demonstrate that the weave's influence extends far beyond the realm of traditional spellcasting.
+
 
 # Energies
 ![[Energies hierarchy.png]]

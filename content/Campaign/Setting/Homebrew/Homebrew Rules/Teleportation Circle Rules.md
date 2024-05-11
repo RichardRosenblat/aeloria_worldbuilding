@@ -1,3 +1,8 @@
+---
+tags:
+  - homebrew
+  - rule
+---
 # Teleportation Circle Rules
 
 Teleportation Circles are a form of magical transportation that allows individuals to travel instantaneously between two locations. These circles are created through a complex ritual, and the process of establishing a permanent circle demands unwavering commitment from the caster. The following rules outline the mechanics and limitations of Teleportation Circles within the world of [[Aeloria]]

@@ -1,3 +1,8 @@
+---
+tags:
+  - homebrew
+  - rule
+---
 
 This homebrew rules was taken from this video: https://www.youtube.com/watch?v=js5iEw4wWc4
 

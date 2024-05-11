@@ -42,30 +42,31 @@ tags:
 8. [ ] Create coins
 9.  [ ] Create Phenomena
 10. [ ] Rewrite handouts
-11. [ ] Create Map
-12. [ ] Create Biomes
-13. [ ] Create Seas/Oceans
-14. [ ] Make forgotten gods of old worships
-15. [ ] Create [[Marcus Valerian]]
-16. [ ] Create Monsters
-17. [ ] Finish unfinished NPCs
-18. [ ] Create more holidays (must be revisited once the world is more developed)
+11. [ ] write rule bout time effect in stuff https://www.youtube.com/watch?v=sgxWM_TD-Mk
+12. [ ] Create Map
+13. [ ] Create Biomes
+14. [ ] Create Seas/Oceans
+15. [ ] Make forgotten gods of old worships
+16. [ ] Create [[Marcus Valerian]]
+17. [ ] Create Monsters
+18. [ ] Finish unfinished NPCs
+19. [ ] Create more holidays (must be revisited once the world is more developed)
     1.  [x] Create global holidays
     2.  [ ] Create religious holidays (one for each god)
     3.  [ ] Create historic holidays (only recorded history)
     4.  [ ] Create cultural holidays (3/4 for each culture)
-19. [ ] Add info on planes taking inspiration in this playlist https://www.youtube.com/playlist?list=PLR1G6DpFDXdOtqGkkBXS3e-BWm7OyF_cA
-20. [ ] Create more monsters
-21. [ ] Create custom Downtime activities
-22. [ ] Create symbols/sigils for planets and moon
-23. [ ] Create the texts in the "Names mentioned that still need creating"
-24. [ ] Create [[Lightborn]]
-25. [ ] Create [[Shadowborn]]
-26. [ ] Create Elements/Magic
-27. [ ] Make ways to recognize members of factions, and diferentials of each rank
-28. [ ] Create Cultures and expand on it
-29. [ ] Create Kingdoms
-30. [ ] Create story of cultural erasure and signs of forgotten cultural detritus
+20. [ ] Add info on planes taking inspiration in this playlist https://www.youtube.com/playlist?list=PLR1G6DpFDXdOtqGkkBXS3e-BWm7OyF_cA
+21. [ ] Create more monsters
+22. [ ] Create custom Downtime activities
+23. [ ] Create symbols/sigils for planets and moon
+24. [ ] Create the texts in the "Names mentioned that still need creating"
+25. [ ] Create [[Lightborn]]
+26. [ ] Create [[Shadowborn]]
+27. [ ] Create Elements/Magic
+28. [ ] Make ways to recognize members of factions, and diferentials of each rank
+29. [ ] Create Cultures and expand on it
+30. [ ] Create Kingdoms
+31. [ ] Create story of cultural erasure and signs of forgotten cultural detritus
 ## These tasks can be done after the capaign starts
 1. [ ] Finish re checking the [[elemental planes]]
     1. [ ] [[Feywild]]

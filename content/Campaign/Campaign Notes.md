@@ -32,6 +32,10 @@ tags:
 "Something is different"
 "It's you"
 "Despite everything it is still you"
+"Well I dont know, but i know one thing. Governments are only excuses to subjulgate others to the will of the dominant socio-economic ethnic group, as they control the resources they choose who gets to be punished. So anyways do you want to go to the tavern?"
+"I dont think so, but i do think that the growing control of those that have the power over the means of production is a threat to the autonomy of the people. As value that is created by the working force is not rewarded to them. Instead only garantees enough for them to survive and work more. It's like slavery but with extra steps. So anywho, how's your day going?"
+"You know, that reminds me that sometimes, violence is the necessary. Sometimes the only path to redemption for the sins of ignorance is to face the fundamental truth of blood and fire. As they meet the primordial within their heartbeat, the opressors might have a chance to understand the pain they caused and atone for their sins. Also have you seen the new play at the theater?"
+
 
 ## Names For Outsiders
 Ya'qub Qamar Ad-din Dibiazah The greatest Sultan in his time
