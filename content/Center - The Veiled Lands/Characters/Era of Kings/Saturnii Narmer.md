@@ -66,7 +66,7 @@ tags:
 - **Proficiencies:**
     - **Arcane Mastery:** Saturnii is a skilled sorceress, specializing in enchantment and charm spells. Her right eye, with its deep pink sclera, serves as her arcane focus for casting these spells.
     - **Leadership:** As the co-founder and former Guildmaster of the Adventurers' Guild, Saturnii possesses strong leadership skills, guiding and inspiring her fellow adventurers.
-    - **Navigation:** Having explored both the skies and the [[Underdark]], Saturnii is proficient in navigation and mapping, contributing to the guild's success in exploring unknown regions.
+    - **Navigation:** Having explored both the land, skies and the [[Underdark]], Saturnii is proficient in navigation and mapping, contributing to the guild's success in exploring unknown regions.
     - **Insight:** Saturnii has honed her ability to read people and situations, a skill crucial for navigating the complexities of both the adventuring and political realms.
     - **Persuasion:** With her natural charisma and charm, Saturnii is adept at persuading others to see things from her perspective or convincing them to join her cause.
     - **History:** Having lived through significant events and changes in the world, Saturnii possesses a deep understanding of historical contexts and their impact on the present.
@@ -159,7 +159,7 @@ tags:
 - **Conversation Prompts:**
     1. **"Have you ever experienced the thrill of discovering something truly magical?"**
     2. **"How do you decide your style for the day?"**
-    3. **"I've been thinking about the balance between ambition and responsibility. How do you navigate it?"**
+    3. **"I've been thinking about the balance between ambition and responsibility. I feel like it can be hard to work with both things, don't you think?"**
 - **Recurring Thoughts:**
     1. **Legacy and Impact:** Saturnii often reflects on the legacy she hopes to leave behind, contemplating the impact of her actions on the world and the future of the Adventurers' Guild.
     2. **The Ever-Changing World:** Inspired by the cosmic forces of continuity and change, Saturnii frequently ponders the dynamic nature of the world and the role the guild plays in shaping its destiny.

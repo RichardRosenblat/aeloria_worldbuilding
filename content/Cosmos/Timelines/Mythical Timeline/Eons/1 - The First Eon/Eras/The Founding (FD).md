@@ -50,7 +50,7 @@ To aid them in their divine task, they birthed a pantheon of [[True Gods]]:
 - **[[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)|Erathis]]**
 - **[[Ethedok]]**
 - **[[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]**
-- **Kord**
+- **[[Kord, God of Strength and Storms - The Stormlord (CN)|Kord]]**
 - **Melora**
 - **Moradin**
 - **Pelor**

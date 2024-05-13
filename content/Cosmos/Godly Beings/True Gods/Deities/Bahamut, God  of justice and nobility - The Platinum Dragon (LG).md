@@ -214,7 +214,7 @@ The follower must cast *Bestow Curse* to invoke their available curses:
       - The target is marked by Bahamut's divine retribution, causing them to suffer 1d6 radiant damage each time they fail a ability check, saving throw or miss an attack until the curse is lifted.
 
 ## Myths
-### Gift from Kord
+### Gift from [[Kord, God of Strength and Storms - The Stormlord (CN)|Kord]]
 ![[Celestra#Celestra Creation]]
 
 ### Creation of the Metalic Dragons
