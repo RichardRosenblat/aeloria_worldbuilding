@@ -48,6 +48,7 @@ Muhammad Sumbul The bravest soldier of all time
 
 ## Ideas of stuff to do
 - Witch encounter offering human food
+- Villain encounter in ball playing libertango
 - Dwarf warrior protecting village for his human wife, he cant tell other people more because he couldn't make justice of her beauty 
 	- actually he forgot her face since it's been so many years
 - Asteni woman singing Cara MIa

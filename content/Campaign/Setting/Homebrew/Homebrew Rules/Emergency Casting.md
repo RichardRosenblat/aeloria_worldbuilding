@@ -22,7 +22,7 @@ The core premise of Emergency Spell Casting revolves around the utilization of a
 
 However, to enable this impromptu spellcasting, the wizard must have previously performed a ritual that takes 10 minutes per spell level, incorporating any material components required by the spell as well as consuming any materials that would be consumed by the spell's regular casting. 
 
-This ritual imbues the ink and paper of the specific pages of the spellbook with the necessary magical energies to function as a spell scroll. Once prepared, the page can be torn and used as a scroll for Emergency Spell Casting by any creature that can use a spell scroll of that spell. However, this act comes at a significant cost: the irretrievable destruction of the torn page and its corresponding spell from the wizard's repertoire.
+This ritual imbues the ink and paper of the specific pages of the spellbook with the necessary magical energies to function as a spell scroll. Once prepared, the page can be torn and used as a scroll for Emergency Spell Casting by any wizard that can use a spell scroll of that spell. However, this act comes at a significant cost: the irretrievable destruction of the torn page and its corresponding spell from the wizard's repertoire.
 
 ### Ultimate Attack: Unleashing Havoc
 

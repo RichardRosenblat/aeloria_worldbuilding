@@ -8,7 +8,7 @@ tags:
 
 *"It is said that the power of Kokusen is so great that it can shatter gargantuan boulders and carve holes through even the most durable of metals. The truth is, however, the the true might of Kokusen lies not in its destructive power, but in the sheer skill, discipline and precision required to execute it. It is a feat so rare that no one has ever been able to unleash more than four Kokusen in a row. To master Kokusen is to master oneself... or to be just a insanely lucky bastard." - Elder Monk of the Kokusen Temple*
 
-***Prerequisite: Proficiency in a martial weapon, be a Monk of at least second level or a fighter of at least 5th level.***
+***Prerequisite: Proficiency in a martial weapon, 2nd level Monk or 5th level Fighter.***
 
 **Description:** Through unparalleled mastery of combat techniques, you have unlocked the legendary power of Kokusen, allowing you to unleash devastating strikes with supernatural speed and precision. Kokusen is a distortion in space that occurs when Ki energy is applied within 0.000001 seconds of a physical hit. When a monk is able to achieve this, their Ki flashes black, and the destructive power of their strike is equal to five times the normal hit. This feat represents the pinnacle of martial prowess and requires precise timing and mastery over one's Ki.
 

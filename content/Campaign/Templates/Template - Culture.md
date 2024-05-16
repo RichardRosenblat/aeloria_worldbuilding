@@ -20,6 +20,14 @@ Outline of the social hierarchy, including classes, roles, and any notable disti
 
 Key principles, philosophies, or religious beliefs that shape the culture's worldview and behavior.
 
+#### Pantheon:
+
+Deities or spiritual figures revered by the culture, along with their domains and groupings.
+
+### How they feel about magic:
+
+How does this culture view magic and those who wield it? Are there specific magical traditions or taboos within the society?
+
 #### Customs and Traditions:
 
 Examples of rituals, ceremonies, festivals, or customary practices observed by members of the culture.
