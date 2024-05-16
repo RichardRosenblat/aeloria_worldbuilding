@@ -22,6 +22,7 @@ Happy adventuring and stay curious!
 | [[Emergency Casting]]          |
 | [[Teleportation Circle Rules]] |
 | [[Critical Momentum]]          |
+| [[Resurrection Rules]]         |
 
 ## Homebrew Character Options
 
