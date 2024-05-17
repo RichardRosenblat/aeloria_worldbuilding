@@ -221,3 +221,6 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ### Creating Tormentia
 ![[Tormentia#Tormentia's Creation]]
 
+### Creating the Giants
+
+![[The Creation (CR)#The Giants]]
