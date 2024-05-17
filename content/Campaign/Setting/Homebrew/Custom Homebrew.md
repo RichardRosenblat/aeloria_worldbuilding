@@ -23,6 +23,7 @@ Happy adventuring and stay curious!
 | [[Teleportation Circle Rules]] |
 | [[Critical Momentum]]          |
 | [[Resurrection Rules]]         |
+| [[Rest Rules]]                 |
 
 ## Homebrew Character Options
 
