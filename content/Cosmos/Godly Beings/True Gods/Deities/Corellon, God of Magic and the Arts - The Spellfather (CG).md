@@ -27,17 +27,17 @@ aliases:
 
 ## Culture Names
 
-| Culture                  | Name               | Title                    | Pronouns | Group                                                      |
-| ------------------------ | ------------------ | :----------------------- | -------- | ---------------------------------------------------------- |
-| Aerian (Human) Generic   | Corellon           | The Spellfather          | He/They  | The [[Defiant Gods]]                                       |
-| Asteni (Human) Italian   | Arcano             | The Weave                | He/It    | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
-| Dal (Human) Hispanic     | Artez              | The Lord of Spells       | He/It    | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
-| Duir (Dwarven) German    | Kuns-meister       | The Master Artisan       | He/They  | [[Defiant Gods\|Die Gegner]] (The opposers)                |
-| Dwelmer (Dwarven) Nordic | Svartalf           | The Runekeeper           | He/They  | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
-| Eldar (Elven) Elven      | Corellon Larethian | The Enchanter of Stars   | He/They  | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
-| Eldarin (Elven) Japanese | Inari              | The Patron of Creativity | He/They  | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
-| Mularir (Human) Greek    | Muse               | The Matron of the Arts   | She/Her  | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
-| Yotunn (Giant) Giant     | Bergur             | The Runic Wonder         | He/They  | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
+| Culture                  | Name               | Title                    | Pronouns | Group                                                                             |
+| ------------------------ | ------------------ | :----------------------- | -------- | --------------------------------------------------------------------------------- |
+| Aerian (Human) Generic   | Corellon           | The Spellfather          | He/They  | The [[Harmonious Gods]]                                                           |
+| Asteni (Human) Italian   | Arcano             | The Weave                | He/It    | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
+| Dal (Human) Hispanic     | Artez              | The Lord of Spells       | He/It    | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Duir (Dwarven) German    | Kuns-meister       | The Master Artisan       | He/They  | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
+| Dwelmer (Dwarven) Nordic | Svartalf           | The Runekeeper           | He/They  | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
+| Eldar (Elven) Elven      | Corellon Larethian | The Enchanter of Stars   | He/They  | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
+| Eldarin (Elven) Japanese | Inari              | The Patron of Creativity | He/They  | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
+| Mularir (Human) Greek    | Muse               | The Matron of the Arts   | She/Her  | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
+| Yotunn (Giant) Giant     | Bergur             | The Runic Wonder         | He/They  | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 
 ## Extra Titles

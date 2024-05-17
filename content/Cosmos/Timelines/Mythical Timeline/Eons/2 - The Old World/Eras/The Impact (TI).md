@@ -45,7 +45,7 @@ The [[True Gods]], chastened by the presence of [[Aena, goddess of kindness, cre
 6. [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)]]
 7. [[Ioun, Goddess of Knowledge - The Enlightened (N)]]
 8. [[Kord, God of Strength and Storms - The Stormlord (CN)]]
-9. [[Lolth, Goddess of spiders and lies - The Spider Queen (LE)]]
+9. [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)]]
 10. [[Melora, Goddess of the Wild and Sea - The Wildmother (N)]]
 11. [[Moradin, God of Creation - The Allhammer (LG)]]
 12. [[Pelor, God of the Sun and Agriculture - The Dawnfather (NG)]]

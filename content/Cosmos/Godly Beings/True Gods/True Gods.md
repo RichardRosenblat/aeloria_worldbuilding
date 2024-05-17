@@ -71,7 +71,7 @@ In the past, godly beings were capable of becoming True gods, by killing gods an
 | [[Gruumsh, God of Destruction - The Ruiner (CE)]]                            |
 | [[Ioun, Goddess of Knowledge - The Enlightened (N)]]                         |
 | [[Kord, God of Strength and Storms - The Stormlord (CN)]]                    |
-| [[Lolth, Goddess of spiders and lies - The Spider Queen (LE)]]               |
+| [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)]]               |
 | [[Melora, Goddess of the Wild and Sea - The Wildmother (N)]]                 |
 | [[Moradin, God of Creation - The Allhammer (LG)]]                            |
 | [[Pelor, God of the Sun and Agriculture - The Dawnfather (NG)]]              |

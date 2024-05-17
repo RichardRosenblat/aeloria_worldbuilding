@@ -27,17 +27,17 @@ aliases:
 
 ## Culture Names
 
-| Culture                  | Name        | Title                         | Pronouns    | Group                                                                             |
-| ------------------------ | ----------- | ----------------------------- | ----------- | --------------------------------------------------------------------------------- |
-| Aerian (Human) Generic   | Gruumsh     | The Ruiner                    | He/Him      | The [[Harmonious Gods]]                                                           |
-| Asteni (Human) Italian   | Vesanus     | The Master of Carnage         | He/Him      | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Human) Hispanic     | Destrus     | The Harbinger of Annihilation | He/Him      | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
-| Duir (Dwarven) German    | Zerstorungs | The One Eyed                  | He/Him      | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
-| Dwelmer (Dwarven) Nordic | Fenrir      | The Devourer of Realms        | He/Him      | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
-| Eldar (Elven) Elven      | Xyrsylvar   | The Fey Eater                 | He/They/It  | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
-| Eldarin (Elven) Japanese | Kurai       | The Annihilator of Worlds     | He/Her/It   | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
-| Mularir (Human) Greek    | Aporia      | The Lord of Ruin              | He/Her/They | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
-| Yotunn (Giant) Giant     | Ragndyr     | The Maelstrom Of Fury         | He/Him      | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
+| Culture                  | Name        | Title                         | Pronouns    | Group                                                      |
+| ------------------------ | ----------- | ----------------------------- | ----------- | ---------------------------------------------------------- |
+| Aerian (Human) Generic   | Gruumsh     | The Ruiner                    | He/Him      | The [[Defiant Gods]]                                       |
+| Asteni (Human) Italian   | Vesanus     | The Master of Carnage         | He/Him      | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
+| Dal (Human) Hispanic     | Destrus     | The Harbinger of Annihilation | He/Him      | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
+| Duir (Dwarven) German    | Zerstorungs | The One Eyed                  | He/Him      | [[Defiant Gods\|Die Gegner]] (The opposers)                |
+| Dwelmer (Dwarven) Nordic | Fenrir      | The Devourer of Realms        | He/Him      | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
+| Eldar (Elven) Elven      | Xyrsylvar   | The Fey Eater                 | He/They/It  | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
+| Eldarin (Elven) Japanese | Kurai       | The Annihilator of Worlds     | He/Her/It   | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
+| Mularir (Human) Greek    | Aporia      | The Lord of Ruin              | He/Her/They | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
+| Yotunn (Giant) Giant     | Ragndyr     | The Maelstrom Of Fury         | He/Him      | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 
 ## Extra Titles

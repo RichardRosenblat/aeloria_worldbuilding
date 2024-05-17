@@ -27,17 +27,17 @@ aliases:
 
 ## Culture Names
 
-| Culture                  | Name         | Title                          | Pronouns | Group                                                      |
-| ------------------------ | ------------ | ------------------------------ | -------- | ---------------------------------------------------------- |
-| Aerian (Human) Generic   | Erathis      | The Lawbearer                  | She/Her  | The [[Defiant Gods]]                                       |
-| Asteni (Human) Italian   | Civitas      | The Inventrix                  | She/Her  | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
-| Dal (Human) Hispanic     | Civilis      | The Mother of Progress         | She/Her  | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
-| Duir (Dwarven) German    | Zivilisation | The Builder of Strongholds     | He/Him   | [[Defiant Gods\|Die Gegner]] (The opposers)                |
-| Dwelmer (Dwarven) Nordic | Borir        | The Torchbearer of Innovation  | He/Him   | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
-| Eldar (Elven) Elven      | Amarie       | The Elegance of Civilization   | She/Her  | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
-| Eldarin (Elven) Japanese | Benzaiten    | The Painter of Cities          | She/Her  | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
-| Mularir (Human) Greek    | Polis        | The First City                 | They/It  | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
-| Yotunn (Giant) Giant     | Thrudheim    | The Builder of The Great Halls | He/Him   | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
+| Culture                  | Name         | Title                          | Pronouns | Group                                                                             |
+| ------------------------ | ------------ | ------------------------------ | -------- | --------------------------------------------------------------------------------- |
+| Aerian (Human) Generic   | Erathis      | The Lawbearer                  | She/Her  | The [[Harmonious Gods]]                                                           |
+| Asteni (Human) Italian   | Civitas      | The Inventrix                  | She/Her  | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
+| Dal (Human) Hispanic     | Civilis      | The Mother of Progress         | She/Her  | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Duir (Dwarven) German    | Zivilisation | The Builder of Strongholds     | He/Him   | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
+| Dwelmer (Dwarven) Nordic | Borir        | The Torchbearer of Innovation  | He/Him   | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
+| Eldar (Elven) Elven      | Amarie       | The Elegance of Civilization   | She/Her  | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
+| Eldarin (Elven) Japanese | Benzaiten    | The Painter of Cities          | She/Her  | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
+| Mularir (Human) Greek    | Polis        | The First City                 | They/It  | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
+| Yotunn (Giant) Giant     | Thrudheim    | The Builder of The Great Halls | He/Him   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 
 ## Extra Titles

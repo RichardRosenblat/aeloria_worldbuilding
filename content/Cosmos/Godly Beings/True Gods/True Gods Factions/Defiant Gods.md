@@ -50,7 +50,7 @@ These are The Defiant Gods
 |[[Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE)]]|
 |[[Bane, God of War and Conquest - The Strife Emperor (LE)]]|
 |[[Gruumsh, God of Destruction - The Ruiner (CE)]]|
-|[[Lolth, Goddess of spiders and lies - The Spider Queen (LE)]]|
+|[[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)]]|
 |[[Tharizdun, God of Madness - The Chained Oblivion (CE)]]|
 |[[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)]]|
 |[[Torog, God of the Underground - The Crawling King (NE)]]|
