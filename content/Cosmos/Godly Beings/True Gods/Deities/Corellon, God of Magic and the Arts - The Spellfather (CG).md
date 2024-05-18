@@ -171,7 +171,7 @@ Corellon's followers can invoke their deity's wrath upon their enemies by cursin
 
 The follower must cast *Bestow Curse* to invoke their available curses:
 
-1. **Weaver's Bane**
+1. **Weaver's Burden**
      - The cursed enemy's spells and magical effects have a chance to backfire. Whenever the cursed enemy casts a spell, they must make a Wisdom saving throw. On a failed save, the spell fizzles and has no effect, and the enemy takes psychic damage equal to the spell's level.
 
 2. **Arcane Convergence**

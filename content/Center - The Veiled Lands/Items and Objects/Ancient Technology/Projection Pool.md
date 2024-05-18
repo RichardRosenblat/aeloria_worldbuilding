@@ -1,6 +1,6 @@
-# Merlin's Projection Pools
+# [[Merlin]]'s Projection Pools
 
-Merlin, the legendary wizard, crafted a series of magical instruments known as the Projection Pools. These shallow pools, filled with enchanted golden sand, serve as powerful tools for communication and observation across great distances.
+[[Merlin]], the legendary wizard, crafted a series of magical instruments known as the Projection Pools. These shallow pools, filled with enchanted golden sand, serve as powerful tools for communication and observation across great distances.
 
 ## Description
 
@@ -35,4 +35,4 @@ The Projection Pools are invaluable for:
 
 ## Conclusion
 
-Merlin's Projection Pools are masterpieces of magical engineering, blending the beauty of enchanted artifacts with the practicality of powerful, long-distance communication and observation. Their existence showcases Merlin's unparalleled arcane prowess and continues to aid those who seek to explore and connect with the farthest reaches of their world.
+[[Merlin]]'s Projection Pools are masterpieces of magical engineering, blending the beauty of enchanted artifacts with the practicality of powerful, long-distance communication and observation. Their existence showcases [[Merlin]]'s unparalleled arcane prowess and continues to aid those who seek to explore and connect with the farthest reaches of their world.

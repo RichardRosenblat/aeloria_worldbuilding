@@ -54,11 +54,14 @@ The giants were forged by [[Kord, God of Strength and Storms - The Stormlord (CN
 
 ### The Fey and the Elves
 
-The fey, sung into existence by the [[Ainulindalë]], emerged from the very first tree. Selecting some fey, the elves were born, all shaped by [[Ainulindalë|the song of the gods]], composed by [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]. The elves migrated to the [[Material Plane|Prime Material]], eager to explore.
+The fey, sung into existence by the [[Ainulindalë]], emerged from the very first tree. Selecting some fey, the elves were born, all shaped by [[Ainulindalë|the song of the gods]], composed by [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]. [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]] created the eladrin, the sun elves and the moon elves, each with unique characteristics and abilities inspired in the leaves, the branches, and the roots of the first tree. The sun and moon elves migrated to the [[Material Plane|Prime Material]], eager to explore. As time took it's course, the moon elves became the drows, and the sun elves became the other elven subspecies.
 
 ### The Dwarves
 
 After the elves, the dwarves were created by the [[Moradin, God of Creation - The Allhammer (LG)|The Allhammer]], utilizing parts of the giants. Sturdy creatures, the dwarves were forged into existence. Like the elves, they desired exploration, digging out of the mountains to explore the surface.
+
+### The Creation of Drows
+A few years after the creation of the elves, the moon elves, who had migrated to the [[Material Plane|Prime Material]] alongside the sun elves, decided to venture too close to the [[Underdark]] and 
 
 ## Creation of Various Races
 

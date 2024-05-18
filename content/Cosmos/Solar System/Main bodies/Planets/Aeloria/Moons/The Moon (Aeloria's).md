@@ -1,7 +1,6 @@
 ---
 aliases:
   - Aeloria's Moon
-  - The Moon
 tags:
   - solar_system
   - moon

@@ -54,7 +54,7 @@ To aid them in their divine task, they birthed a pantheon of [[True Gods]]:
 - **Melora**
 - **Moradin**
 - **Pelor**
-- **[[Nerull, God of Death, Fate, and Winter - The winterlord (LN)]]**
+- **[[Nerull, God of Death, Fate, and Winter - The winterlord (LN)|Nerull]]**
 - **Sehanine**
 - **[[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]**
 - **Tharizdun**

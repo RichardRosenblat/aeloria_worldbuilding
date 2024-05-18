@@ -95,6 +95,9 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ## Myths
 
+### The Drows
+
+![[The Creation (CR)#The Creation of Drows]]
 
 
 for the god above can you create:
