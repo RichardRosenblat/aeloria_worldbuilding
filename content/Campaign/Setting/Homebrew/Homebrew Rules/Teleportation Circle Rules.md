@@ -17,7 +17,7 @@ Teleportation Circles are a form of magical transportation that allows individua
 
 - **Mobility and Stability:** Although Teleportation Circles can be relocated, both the circle and its reference point must move in unison. Should one element be displaced without the other, the circle becomes permanently ruined.
 
-- **Accessibility of Warp Pads:** Warp Pads, crafted from Pure Arcanite through perilous means, offer a universal means of teleportation. Unlike traditional circles, these pads require no reference point and can be utilized by individuals lacking any magical prowess.
+- **Accessibility of Warp Pads:** Warp Pads, crafted from Pure Arcanite through perilous and costly means, offer a universal means of teleportation. Unlike traditional circles, these pads require no reference point and can be utilized by individuals lacking any magical prowess.
 
 - **Catastrophic Ruination:** Attempts to utilize a ruined Teleportation Circle result in calamitous consequences. Any endeavor to teleport to or from such a circle leads to unpredictable and potentially hazardous outcomes.
 

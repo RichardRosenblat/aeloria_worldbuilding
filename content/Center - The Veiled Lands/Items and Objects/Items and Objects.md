@@ -67,7 +67,6 @@ Strong items to be used with caution by the dm to not break the campaign
 | [[Ainulindalë]]                      |
 | [[The Wings' Epistle]]               |
 | [[Pagida]]                           |
-| [[Three Dimensional Maneuver Gear]]  |
 | [[Lightning Strike Greataxe]]        |
 
 
@@ -100,4 +99,13 @@ Scientific arcane items used for studying the magical properties of the world
 | [[Aetherial Gauge]]      |
 | [[Arcane Chronometer]]   |
 | [[Elemental Harmonizer]] |
-| [[Flow Sphere]]                         |
+| [[Flow Sphere]]          |
+
+
+# Ancient Technology and Clockwork
+Item created many years ago by past civilizations and scholars
+
+| Ancient Technology and Clockwork |
+| --------------------------------- |
+| [[Three Dimensional Maneuver Gear]]  |
+| [[Projection Pool]]                |
