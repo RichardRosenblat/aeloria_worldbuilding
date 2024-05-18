@@ -62,14 +62,16 @@ tags:
 24. [ ] Create the texts in the "Names mentioned that still need creating"
 25. [ ] Create [[Lightborn]]
 26. [ ] Create [[Shadowborn]]
-27. [ ] Create Elements/Magic
-28. [ ] Make ways to recognize members of factions, and diferentials of each rank
-29. [ ] Make saturnii's corruption arc
+27. [ ] Write down info about the character options 
+28. [ ] Create types of ruins, their info like characterisits, materials, categorizations etc and categories
+29. [ ] Create Elements/Magic
+30. [ ] Make ways to recognize members of factions, and diferentials of each rank
+31. [ ] Make saturnii's corruption arc
 	1. [ ] Crown of dominion
 	2. [ ] https://youtu.be/U-LNI8JZYtE?si=lELf2yYZ0wVaV1-4
-30. [ ] Create Cultures and expand on it
-31. [ ] Create Kingdoms
-32. [ ] Create story of cultural erasure and signs of forgotten cultural detritus
+32. [ ] Create Cultures and expand on it
+33. [ ] Create Kingdoms
+34. [ ] Create story of cultural erasure and signs of forgotten cultural detritus
 ## These tasks can be done after the capaign starts
 1. [ ] Finish re checking the [[elemental planes]]
     1. [ ] [[Feywild]]

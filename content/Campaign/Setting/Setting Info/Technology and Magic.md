@@ -18,7 +18,7 @@ In the realm's conflicts, combat harkens back to medieval times, with swords, bo
 
 **Weapons**: Swords, bows, spears, and crossbows are the primary weapons used in combat, with magic-infused armaments being rare. Siege weapons like trebuchets and ballistae are rare sights on the battlefield.
 **Armor**: Armor is typically crafted from leather, chainmail, or plate, with magic-infused armaments being rare. Shields are commonly used to deflect blows and protect against ranged attacks.
-**Gunpowder**: Gunpowder, also known as black powder, has been discovered in ancient ruins, but its creation remains a mystery to most inhabitants of [[Aeloria]]. As a result, firearms are not widely used in combat, and gunpowder weapons are considered rare and exotic.
+**Gunpowder**: Gunpowder, also known as black powder, has been discovered in ancient ruins, but its creation remains a mystery to most inhabitants of [[Aeloria]]. As a result, firearms are almost none, and gunpowder weapons are considered extremely rare and exotic.
 
 ## Communication
 Communication in [[Aeloria]] is most commonly achieved through physical means, with magical communication reserved for a lucky few.
@@ -31,14 +31,14 @@ Communication in [[Aeloria]] is most commonly achieved through physical means, w
 Medical practices in [[Aeloria]] are predominantly rooted in natural remedies, potions, and basic surgical techniques. Healing magic and advanced alchemy offer hope to the injured, but their availability is limited to skilled practitioners and the fortunate few.
 
 **Medicine**: Herbalism, poultices, and salves are commonly used to treat ailments and injuries in [[Aeloria]]. Healers and apothecaries craft remedies from local flora and fauna, with some possessing knowledge of rare and potent ingredients.
-**Surgery**: Basic surgical techniques are employed to treat severe injuries and illnesses, with skilled practitioners using tools like scalpels, bone saws, and sutures. While magical healing can mend wounds with ease, surgical procedures are often necessary for more complex cases or in regions where magic is scarce.
+**Surgery**: Basic surgical techniques are employed to treat severe injuries and illnesses, with skilled practitioners using tools like scalpels, bone saws, and sutures. While magical healing can mend wounds with ease, surgical procedures are can be necessary for more complex cases or in regions where magic is scarce.
 **Healing Magic**: Clerics, druids, and other spellcasters capable of healing magic are revered for their ability to mend wounds, cure diseases, and restore vitality. Their services are in high demand, with many seeking their aid in times of need.
 **Ressurection**: While rare and costly, resurrection magic offers the hope of restoring life to the deceased. Powerful spellcasters and divine beings are capable of performing this miraculous feat, but the process is fraught with peril and requires great sacrifice.
 
 ## Aerial Transportation
 [[Aeloria]]'s skies are traversed by flying mounts such as griffins and dragons, offering a rare means of aerial transportation. Airships remain a dream of inventors and scholars, with experimentation and exploration hinting at the potential for future innovation.
 
-**Flying Mounts**: Griffins, dragons, and other flying creatures are used for aerial transportation in [[Aeloria]], with skilled riders and handlers guiding these majestic beasts through the skies. While rare and costly, flying mounts offer swift travel and a unique perspective on the world below.
+**Flying Mounts**: Griffins, dragons, and other flying creatures are sometimes used for aerial transportation in [[Aeloria]], with skilled riders and handlers guiding these majestic beasts through the skies. While rare and costly, flying mounts offer swift travel and a unique perspective on the world below.
 **Airships**: While airships have yet to grace the current skies of [[Aeloria]], experimentation with enchanted objects and magical artifacts and exploration of ancient ruins hints at the potential for future innovation. Some scholars and inventors dream of creating or finding ancient flying vessels capable of traversing the heavens, but such endeavors remain in the realm of speculation and fantasy.
 
 ## Technological Innovation
