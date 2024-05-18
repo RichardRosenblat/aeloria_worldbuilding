@@ -51,7 +51,7 @@ The Elven Protector: Corellon, God of the Feyfolk
 
 - _Create, inspire, and find beauty in all that you do._
 - _Follow the echoes of lost magic, forgotten sites, and ancient art, for within these lie the_ Spellfather's first works.
-- _Combat the followers of the Spider Queen wherever they may be._
+- _Combat the followers of [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|the Spider Queen]] wherever they may be._
 
 ## Symbols
 ![[Corellon Symbol.png|400]]
@@ -78,7 +78,7 @@ _Eight-pointed star_
 6. **Spellbinding Festivals:**
     - Periodic festivals are held where followers showcase their magical and artistic talents. These events celebrate the diverse expressions of magic and creativity, fostering a sense of community and shared devotion to Corellon.
 7. **Spider Queen's Hunt:**
-    - As per Corellon's commandment to combat the followers of the Spider Queen, dedicated followers organize hunts to eliminate threats posed by Lolth and her minions. These hunts are both a practical way to fulfill Corellon's will and a symbolic act of resisting darkness.
+    - As per Corellon's commandment to combat the followers of [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|the Spider Queen]], dedicated followers organize hunts to eliminate threats posed by [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|Lolth]] and her minions. These hunts are both a practical way to fulfill Corellon's will and a symbolic act of resisting darkness.
 
 ## Cultural Norms
 
@@ -92,8 +92,8 @@ _Eight-pointed star_
     - Rituals and ceremonies among Corellon worshipers are imbued with themes of creativity, magic, and enchantment. They seek to cultivate a harmonious balance in the elements within the community and within themselves. Through these rituals, they aim to channel the ethereal energies of the Weave, fostering unity and unleashing the boundless potential of their imaginative spirits.
 5. **Honoring the [[Feywild]]:**
     - Worshipers of Corellon hold a special reverence for the [[Feywild]], believing it to be a realm of beauty and raw power, closely connected to their deity's domain. They may celebrate festivals or perform rituals to honor the [[Feywild]]'s influence on their world.
-6. **Combatting Lolth:**
-    - Corellon's followers are committed to opposing forces of lies and destruction, especially those aligned with Lolth, the Spider Queen. They see it as their duty to uphold Corellon's commandment to combat the followers of Lolth and maintain elemental harmony in the world.
+6. **Combatting [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|Lolth]]:**
+    - Corellon's followers are committed to opposing forces of lies and destruction, especially those aligned with [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|Lolth]], [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|the Spider Queen]]. They see it as their duty to uphold Corellon's commandment to combat the followers of [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|Lolth]] and maintain elemental harmony in the world.
 7. **Community Involvement and Collaboration:**
     - Corellon's followers cherish community involvement, believing that collaborative creativity and magic strengthen their bonds. By uniting their artistic talents and magical abilities, they honor the Spellfather's essence, finding unity and inspiration in shared endeavors.
 8. **Artful Meditation and Creative Contemplation:**
@@ -139,7 +139,7 @@ All of them
 
 ## Blessings
 
-A follower of Corellon can gain favor with their deity by creating new art, searching for lost magic, and opposing the followers of Lolth. As they embody the principles of creativity, magic, and beauty, Corellon may bestow the following blessings upon them:
+A follower of Corellon can gain favor with their deity by creating new art, searching for lost magic, and opposing the followers of [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|Lolth]]. As they embody the principles of creativity, magic, and beauty, Corellon may bestow the following blessings upon them:
 
 1. **Inspiration of the Spellfather**
      - Once per long rest, the blessed character can add a d6 to any ability check, attack roll, or saving throw they make. They can choose to use this inspiration after seeing the roll but before knowing the outcome.

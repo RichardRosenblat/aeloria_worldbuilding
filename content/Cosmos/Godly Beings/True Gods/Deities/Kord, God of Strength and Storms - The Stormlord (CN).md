@@ -217,10 +217,10 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 
 ## Myths
-### Creating Celestra
+### Creating [[Celestra]]
 ![[Celestra#Celestra Creation]]
 
-### Creating Tormentia
+### Creat[[Tormentia|ing Torme]]ntia
 ![[Tormentia#Tormentia's Creation]]
 
 ### Creating the Giants
