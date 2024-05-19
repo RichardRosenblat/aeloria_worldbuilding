@@ -44,6 +44,10 @@ Some [[True Gods]] favored bright creations more than dark ones, and vice versa,
 With the land still barren, the [[True Gods]] decided to fill it with life. First, Melora, the goddess of nature, created the very first tree, and from it, all animals and plants emerged, designed by the capricious Wildmother. 
 Desiring beings with consciousness, the [[True Gods]] created realms for conscious existence—the [[metapsychic planes]] to hold all thoughts and dreams.
 
+## The First Spell
+
+![[Corellon's Grace#^a605b3]]
+
 ## Emergence of Powerful Beings
 
 The [[True Gods]] first crafted powerful beings. These beings were the first mortals with consciousness and free will, capable of shaping the world around them, They emerged from the primordial energies, embodying the essence of the elements and the realms they inhabited. Among these creations were the giants, the fey, the elves and the dwarves, each being shaped by the divine hands of the [[True Gods]].
@@ -54,19 +58,30 @@ The giants were forged by [[Kord, God of Strength and Storms - The Stormlord (CN
 
 ### The Fey and the Elves
 
-The fey, sung into existence by the [[Ainulindalë]], emerged from the very first tree. Selecting some fey, the elves were born, all shaped by [[Ainulindalë|the song of the gods]], composed by [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]. [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]] created the eladrin, the sun elves and the moon elves, each with unique characteristics and abilities inspired in the leaves, the branches, and the roots of the first tree. The sun and moon elves migrated to the [[Material Plane|Prime Material]], eager to explore. As time took it's course, the moon elves became the drows, and the sun elves became the other elven subspecies.
+The fey, sung into existence by the [[Ainulindalë]], emerged from the very first tree. Selecting some fey, the elves were born, all shaped by [[Ainulindalë|the song of the gods]], composed by [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]. [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]] created the Eladrin, the Sun Elves and the Moon Elves, each with unique characteristics and abilities inspired in the leaves, the branches, and the roots of the first tree. The Sun and Moon Elves migrated to the [[Material Plane|Prime Material]], eager to explore. As time took it's course, the Eladrin remained in the [[Feywild]], unchanged by the passage of time as the plane itself was. The Moon Elves became the drows, and the Sun Elves became the other elven subspecies, such as the wood elves and the high elves.
 
 ### The Dwarves
 
 After the elves, the dwarves were created by the [[Moradin, God of Creation - The Allhammer (LG)|The Allhammer]], utilizing parts of the giants. Sturdy creatures, the dwarves were forged into existence. Like the elves, they desired exploration, digging out of the mountains to explore the surface.
 
-### The Creation of Drows
-A few years after the creation of the elves, the moon elves, who had migrated to the [[Material Plane|Prime Material]] alongside the sun elves, decided to venture too close to the [[Underdark]] and 
 
 ## Creation of Various Races
 
 Following these events, the [[True Gods]] continued their creative endeavors, bringing forth a multitude of diverse races and creatures to inhabit the vast expanse of [[Aeloria]]. 
 Among these creations were the nimble halflings, the inventive gnomes, the formidable orcs, the enigmatic sphinxes, and the devastating demons, among many others. Each species bore unique characteristics and qualities, contributing to the rich tapestry of life woven by the divine hands.
+
+### The Creation of The Archfey
+
+![[Fey Sisters#^7ddf8d]]
+
+
+### The Creation of Drows
+Years after the creation of the elves, the Moon elves, who had migrated to the [[Material Plane|Prime Material]] alongside the Sun Elves, had restricted themselves to the dark caves, away from the [[Solis|sun]]. Different from their Sun Elf cousins, the Moon Elves were couldn't stand the [[Solis|sun]]'s light for long, so they had to move and explore the darkness of the [[Underdark]]. 
+This caused the Sun Elves to become distant from their Moon Elf cousins, and the Moon Elves to become resentful of their Sun Elf cousins. [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|Lolth, The Spider Queen]], who had been watching the elves from the shadows and ever cunning, saw that such resentment could be honed into hatred and be used with grace and power. 
+
+So the [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|spider goddess]] changed her form, to that of a beautiful Moon Elf, but with her hair white, her eyes red and her lower body that of a monstrous spider. And with sweet whispers and promises of power and of a endless night where they could conquer the surface, she convinced the Moon Elves to worship her, and she taught them the ways of deceit, treachery, and power as she invited them to go further into the [[Underdark|Middledark and Lowerdark]]. The Moon Elves, went through a intense and painful transformation as they enacted depraved rituals in the name of [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|Lolth]], their skin went from a pale blue to a dark purple with the dark power of [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|The Spider Queen]], and their hair turned white with the sheer stress of the excruciating rituals, as they were blessed with the power of the [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|spider goddess]] they became the Drows.
+
+After each ritual, more and more Sun Elves would be experimented on and ultimately sacrificed to [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|Lolth]]. [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]], the god of the elves, was horrified by the transformation and rituals of his children, and he declared the Moon Elves who had become Drows as traitors by cursing them to never step under the sun's light again and promised that he would get his revenge on [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|The Spider Queen]] and her followers. 
 
 ### The Creation of Halflings
 

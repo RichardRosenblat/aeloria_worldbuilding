@@ -223,4 +223,6 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ![[The Creation (CR)#The Creation of Goblinoids]]
 
+## Battle against [[Kord, God of Strength and Storms - The Stormlord (CN)|The Stormlord]]
 
+![[The Great War (GW)#The Battle Between Bane, God of War and Conquest - The Strife Emperor (LE) Bane and Kord, God of Strength and Storms - The Stormlord (CN) Kord]]

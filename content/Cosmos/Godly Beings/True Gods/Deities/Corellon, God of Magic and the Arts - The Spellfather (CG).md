@@ -197,14 +197,14 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ## Myths
 
-### The attack during [[The Great War (GW)|The Great War]]
+### The attack during [[The Great War (GW)|The Great War]] against [[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]
 ![[The Great War (GW)#The Wound of Gruumsh, God of Destruction - The Ruiner (CE) Gruumsh]]
 
 
 ### The [[Ainulindalë]]: Creation of the fey and elvenkind
 ![[The Creation (CR)#The Fey and the Elves]]
-
 ![[Ainulindalë#The Ainulindalë Song of the True Gods Gods]]
+![[The Creation (CR)#The Creation of Drows]]
 
 ### [[Corellon's Grace]]
 ![[Corellon's Grace#Myths]]
@@ -218,3 +218,5 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ### Helping in [[Tormentia]]
 ![[Tormentia#^8b998b]]
 
+### Battle against [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|Lolth]]
+![[The Great War (GW)#Corellon, God of Magic and the Arts - The Spellfather (CG) Corellon 's retribution against Lolth, Goddess of Spiders and Lies - The Spider Queen (LE) Lolth]]

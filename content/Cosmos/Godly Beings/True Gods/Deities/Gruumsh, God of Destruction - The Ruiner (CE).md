@@ -143,7 +143,7 @@ A follower of Gruumsh can gain favor with their deity by proving their strength 
    - Followers of Gruumsh exude an aura of fear and dominance on the battlefield, causing enemies that start their turn within 10 feet of them to make a Wisdom saving throw of dc 10 + the followers strength modifier or be frightened until the end of their next turn, reflecting the terror inspired by the Ruiner's wrath.
 
 5. **Rage of the Ruiner:** 
-   - Channeling the fury of Gruumsh, once per long rest, his followers can enter a state of demonic rage as a bonus action for 5 turns, doubling their speed, gaining resistance to all damage types except psychic, and dealing an additional 1d6 damage (3d6 if the enemy is an elf) with melee attacks and healing themselves for half the damage dealt, symbolizing the destructive power of the Ruiner unleashed through their strikes.
+   - Channeling the fury of Gruumsh, once per long rest, his followers can enter a state of demonic rage as a bonus action for 5 turns, doubling their speed, gaining resistance to all damage types except psychic, and dealing an additional 2d6 damage with melee attacks and healing themselves for half the damage dealt, symbolizing the destructive power of the Ruiner unleashed through their strikes.
   
 6. **Gaze of Annihilation:** 
    - Gruumsh bestows upon his followers the ability to focus their gaze with devastating effect. Once per short rest, they can unleash a powerful gaze attack as an action, forcing a creature within line of sight to make a Wisdom saving throw equal to 8 + the follower's proficiency bonus + their Strength modifier or be paralyzed for 1 minute and take 2d6 psychic damage, as the overwhelming presence of the Ruiner breaks their will and shatters their mind.

@@ -226,3 +226,7 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ### Creating the Giants
 
 ![[The Creation (CR)#The Giants]]
+
+## Battle against [[Bane, God of War and Conquest - The Strife Emperor (LE)|The Strife Emperor]]
+
+![[The Great War (GW)#The Battle Between Bane, God of War and Conquest - The Strife Emperor (LE) Bane and Kord, God of Strength and Storms - The Stormlord (CN) Kord]]
