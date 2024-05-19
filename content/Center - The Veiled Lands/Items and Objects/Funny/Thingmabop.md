@@ -48,13 +48,11 @@ There are no curses associated with the Thingmabop.
 The origin of the Thingmabop is shrouded in mystery, with no known creator or purpose. It has passed through the hands of various adventurers and collectors, each puzzled by its enigmatic nature.
 
 ## Additional:
-Despite its seemingly random effects, the Thingmabop adds a touch of whimsy and unpredictability to any adventure. Its true potential may yet be unlocked by those daring enough to delve into its mysteries.
-
 Every long or short rest, a creature can make a DC 15 Intelligence (Investigation) check to find out more about the Thingmabop. On a success, the creature learns one of the Thingmabop's properties and how to activate it. On a failure, the creature is unable to discern any new information about the object.
 
 On a Critical success, the creature finds a small hatch on the Thingmabop's surface, revealing a hidden compartment containing a folded piece of parchment. The parchment contains a cryptic instruction manual written in an ancient language
 
-This is what is written in the manual:
+### The manual:
 
 Congratulations on acquiring the Mechanism, the pinnacle of whimsicality and perplexity! Below are instructions on how to operate this enigmatic contraption. Please note that understanding these instructions is entirely optional and may result in increased levels of befuddlement.
 
