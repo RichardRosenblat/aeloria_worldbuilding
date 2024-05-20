@@ -28,9 +28,6 @@
 ## Why Would Someone Make a Pact:
 *The reasons why someone would seek to make a contract with the entity.*
 
-## Goals:
-*The entity's long-term goals or desires.*
-
 ## Consequences of Breaking a Pact:
 *The consequences of breaking a pact with the entity.*
 

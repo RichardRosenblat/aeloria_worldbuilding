@@ -64,9 +64,46 @@ _Eight-pointed star with a web motif_
 > In elven cultures she is mostly depicted as a monstrous and colossal spider 
 ![[Lolth appearance.png|400]]
 ![[lolth appearance 2.png|400]]
+
 ## Religious Practices
 
+The worshippers of Lolth perform a series of rituals and practices to connect with their goddess, these are some examples of such:
+
+1. **Drow Matron Ceremonies**: Matron ceremonies are elaborate rituals held within Drow society to honor Lolth and reaffirm the power structure within Drow households. These ceremonies often involve sacrifices, dark magic, torture of captives, and intricate dances performed by priestesses and high-ranking members of Drow society. Matron ceremonies serve to strengthen the bond between Lolth and her chosen people and to ensure the continued dominance of Drow matriarchs.
+
+2. **Spider Silk Weaving**: Followers of Lolth often engage in the art of spider silk weaving as a form of religious devotion. Spider silk, known for its strength and resilience, is seen as a sacred material symbolizing the interconnectedness of all things in Lolth's web of fate. Devotees may weave intricate patterns and designs into silk tapestries or garments, imbuing them with magical properties through rituals and incantations.
+
+3. **Bloodletting Sacrifices**: Bloodletting sacrifices are common offerings made to appease Lolth and gain her favor. Followers may offer the blood of captured enemies or unwilling victims in rituals conducted within dark temples dedicated to the Spider Queen. The act of sacrifice is believed to strengthen the bonds between Lolth and her worshippers and to empower her divine influence in the mortal realm.
+
+4. **Spider Hunts**: Followers of Lolth may participate in spider hunts as a form of religious pilgrimage and test of devotion. These hunts involve traversing the treacherous depths of the Underdark in search of rare and dangerous spiders believed to be blessed by Lolth. Capturing, taming and protecting these creatures is seen as a sign of favor from the Spider Queen and may grant blessings or boons to the participants.
+
+5. **Nightly Prayers and Offerings**: Each night, followers of Lolth gather in darkened temples or secluded shrines to offer prayers and offerings to the Spider Queen. These rituals often involve burning incense, chanting dark hymns, and making offerings of food, drink, and precious gems to appease Lolth and seek her guidance in matters of intrigue, deception, and power.
+
+6. **Dark Revels**: Followers of Lolth may partake in dark revels and orgiastic rituals as a form of religious celebration and communion with their goddess. These revels often involve intoxicating substances, elaborate costumes, and uninhibited acts of pleasure and debauchery. Through these rituals, worshippers seek to channel the chaotic energies of the Abyss and bask in the favor of their capricious goddess.
+   
+7. **Spider Rites**: Followers of Lolth engage in spider marking and poison rites, where they adorn their bodies with intricate spider patterns symbolizing their allegiance to the Spider Queen and the Drow race, including fangs and red eyes, using dark pigments. In addition, devotees willingly ingest a potent venom during ritualistic poisoning ceremonies, inducing extreme pain and hallucinations, as a form of penance and spiritual purification, believing that enduring such agony allows them to commune with Lolth's darker aspects and gain insight into the mysteries of the Underdark. Through these painful rituals, followers seek to embrace their inherent darkness, purify their souls, and reaffirm their unwavering loyalty to Lolth and the Drow, serving as a test of devotion and a reminder of the sacrifices required on their path.
+
+8. **Black Widow's Ritual**: The Black Widow's Ritual is a sacred ritual performed by priestesses of Lolth on a chosen Drow, usually the husband of a high-ranking priestess or a Matron Mother. The ritual involves the sacrifice of the chosen Drow, who is poisoned by a venomous spider bite and then consumed by the priestesses, the remains of the victim then being reborn into a powerful spider-like creature created to serve Lolth. 
+
 ## Cultural Norms
+
+Cultures that worship Lolth exhibit a number of distinctive cultural norms and practices that reflect the values and beliefs of the Spider Queen. These norms shape the social structure, behavior, and interactions of Lolth's followers, creating a complex and often treacherous society characterized by intrigue, betrayal, and a dark sense of beauty.
+
+1. **Matriarchal Society**: Cultures that worship Lolth often exhibit a strong matriarchal social structure, with women holding positions of power and authority within the community. Matron mothers and priestesses serve as leaders and decision-makers, guiding the society according to the will of Lolth. Men are typically subservient to women and may occupy roles such as warriors or laborers, with their status determined by their service to the matriarchy.
+
+2. **Ritualistic Cruelty**: Ritualistic cruelty is often normalized within cultures that venerate Lolth, with acts of violence and depravity seen as acceptable means of demonstrating devotion to the Spider Queen. Torture, sacrifice, and betrayal are common themes in religious ceremonies and social interactions, serving to reinforce the dominance of the strong over the weak and to appease the insatiable appetite of Lolth for suffering.
+
+3. **Intrigue and Betrayal**: Deception, intrigue, and betrayal are valued skills within cultures that worship Lolth, with individuals encouraged to outmaneuver their rivals through cunning and manipulation. Loyalty is fleeting, and alliances are constantly shifting as individuals vie for power and influence within the intricate web of Drow society. Trust is a rare commodity, and paranoia runs deep among the followers of the Spider Queen.
+
+4. **Dark Beauty and Elegance**: Despite their penchant for cruelty and deceit, cultures that worship Lolth often exhibit a fascination with dark beauty and elegance. Adornments such as intricate spider silk garments, jeweled spider motifs, and elaborate face paint are commonly worn as symbols of status and devotion to the Spider Queen. Physical attractiveness is prized, with individuals striving to embody the allure and allure of Lolth herself.
+
+5. **Subjugation of Other Races**: Cultures that venerate Lolth typically view themselves as superior to other races, particularly those who dwell on the surface world. Humans, elves, and other surface-dwelling races are often regarded as inferior beings fit only for exploitation. Drow societies may engage in raids and conquests to inprision captives and expand their territories, further reinforcing their dominance over lesser races.
+
+6. **Spider Symbolism and Taboos**: Spider symbolism permeates every aspect of life within cultures that worship Lolth, with spiders revered as sacred creatures and symbols of the Spider Queen's divine presence. Images of spiders adorn temples, artwork, and religious artifacts, serving as reminders of Lolth's dominion over the Underdark. Conversely, certain taboos and superstitions surround spiders, with killing or harming a spider seen as a sacrilegious act punishable by severe consequences.
+
+7. **Secretive and Isolationist**: Cultures that venerate Lolth tend to be secretive and isolationist, preferring to keep their rituals and traditions hidden from outsiders. Drow societies are often cloistered within the depths of the Underdark, hidden from the prying eyes of surface-dwellers and rival factions. Outsiders are viewed with suspicion and hostility, as potential threats to the fragile balance of power within Drow society.
+
+8. **Obsession with Power and Prestige**: Power and prestige hold immense importance within cultures that worship Lolth, with individuals striving to climb the ranks of society through any means necessary. Achieving status within the priesthood or military is a common goal, with ambitious individuals willing to betray allies and commit unspeakable acts to advance their own agendas. The pursuit of power is relentless, driving followers of Lolth to ever greater heights of ambition and depravity in service to their goddess.
 
 ## Political Structures
 
