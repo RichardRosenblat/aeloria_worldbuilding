@@ -31,8 +31,9 @@ These are the templates i use in these notes
 | [[Template - Note to do]]                   |
 | [[Template - NPC]]                          |
 | [[Template - Phenomena]]                    |
-| [[Template - Species]]                         |
+| [[Template - Species]]                      |
 | [[Template - Sea]]                          |
 | [[Template - Standard Language]]            |
 | [[Template - Timeline Event]]               |
 | [[Template - Alchemical Item]]              |
+| [[Template - Great Old One]]                |
