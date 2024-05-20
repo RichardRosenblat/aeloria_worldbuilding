@@ -44,7 +44,7 @@ aliases:
 
 - Lord of the Iron Throne: Asmodeus, God of Tyranny
 - Master of Infernal Fire: Asmodeus, God of Domination
-- Corrupting Ruler: Asmodeus, God of Slavery
+- Corrupting Ruler: Asmodeus, God of Deception
 - Prince of Pain: Asmodeus, God of Oppression
 
 ## Commandments

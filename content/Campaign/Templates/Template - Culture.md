@@ -34,7 +34,7 @@ Examples of rituals, ceremonies, festivals, or customary practices observed by m
 
 #### Language and Communication:
 
-Details about the language(s) spoken by the culture, as well as any unique forms of communication, such as gestures or symbolic expressions.
+Details about the language(s) spoken by the culture, as well as any unique forms of communication, such as gestures or symbolic expressions, ancient languages common to the culture and expressions unique to the culture.
 
 #### Arts and Entertainment:
 

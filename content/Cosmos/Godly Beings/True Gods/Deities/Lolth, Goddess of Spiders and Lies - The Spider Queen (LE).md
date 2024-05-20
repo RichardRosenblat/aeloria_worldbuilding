@@ -72,6 +72,22 @@ _Eight-pointed star with a web motif_
 
 ## Elemental Affinities
 
+| Elements      |
+|:------------- |
+| Water         |
+| Fire          |
+| Air           |
+| Metal         |
+| Acid          |
+| Poison        |
+| Necromancy    |
+| Transmutation |
+| Divination    |
+| Corruption    |
+| Mind          |
+| Void          |
+| Darkness      |
+
 ## Home Plane
 [[The Abyss#The Demonweb.|Infinite Layers of the Abyss > The Demonweb]]
 

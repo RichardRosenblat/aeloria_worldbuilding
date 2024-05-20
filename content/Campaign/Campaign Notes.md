@@ -24,17 +24,25 @@ tags:
 
 # Random Quotes
 
-"Are you aiming for greatness or avoiding disapointment"
-“the only evil that can be excused as necessary is the one that nation controls”
-"Si operarii omnes producunt, omnia operariis pertinent."
-"what do you think it means to be saved"
-"What happened?" - "Nothing that wasn't my fault"
-"Something is different"
-"It's you"
-"Despite everything it is still you"
-"Well I dont know, but i know one thing. Governments are only excuses to subjulgate others to the will of the dominant socio-economic ethnic group, as they control the resources they choose who gets to be punished. So anyways do you want to go to the tavern?"
-"I dont think so, but i do think that the growing control of those that have the power over the means of production is a threat to the autonomy of the people. As value that is created by the working force is not rewarded to them. Instead only garantees enough for them to survive and work more. It's like slavery but with extra steps. So anywho, how's your day going?"
-"You know, that reminds me that sometimes, violence is the necessary. Sometimes the only path to redemption for the sins of ignorance is to face the fundamental truth of blood and fire. As they meet the primordial within their heartbeat, the opressors might have a chance to understand the pain they caused and atone for their sins. Also have you seen the new play at the theater?"
+1. "Are you aiming for greatness or avoiding disapointment"
+2. “the only evil that can be excused as necessary is the one that nation controls”
+3. "Si operarii omnes producunt, omnia operariis pertinent."
+4. "what do you think it means to be saved"
+5. "What happened?" - "Nothing that wasn't my fault"
+6. "Something is different"
+7. "Well I dont know, but i know one thing. Governments are only excuses to subjulgate others to the will of the dominant socio-economic ethnic group, as they control the resources they choose who gets to be punished. So anyways do you want to go to the tavern?"
+8. "I dont think so, but i do think that the growing control of those that have the power over the means of production is a threat to the autonomy of the people. As value that is created by the working force is not rewarded to them. Instead only garantees enough for them to survive and work more. It's like slavery but with extra steps. So anywho, how's your day going?"
+9. "You know, that reminds me that sometimes, violence is the necessary. Sometimes the only path to redemption for the sins of ignorance is to face the fundamental truth of blood and fire. As they meet the primordial within their heartbeat, the opressors might have a chance to understand the pain they caused and atone for their sins. Also have you seen the new play at the theater?"
+10. "You think we're equals? I had to battle struggles you've never imagined. I became this while fearing the night, disguising myself as a man just to travel safely. Our similarities end when you learned to fight your enemies, while I had to fight both enemies and so-called comrades who left me with scars that will never heal. I survived because I was cursed to live as I am among those I swore to protect, only to be seen as their enemy."
+11. "The universe is and we are"
+12. "We do not have much connection, you and I. Still this encounter feels special, I hope you do not mind if I think of you as a friend" 
+13. "This is your home. If you want to fight to defend it, that's your choice. I'd be honoured to stand alongside you. The enemy attacks tomorrow. He's brutal and fights only to kill, which is why he will never defeat us. Look around. In this circle, we're all equals. You're not fighting because someone's ordering you to, you're fighting for so much more than that. You fight for your homes. You fight for your family. You fight for your friends. You fight for the right to grow crops in peace. And if you fall, you fall fighting for the noblest of causes: fighting for your very right to survive! And when you're old and grey, you'll look back on this day, and you'll know you earned the right to live every day in between! So you fight! For your family! For your friends! For Ealdor!"
+14. I can't blame you for wanting to know yourself better, it was one of the biggest pleasures of my life
+15. The pain of your absence is sharp and haunting, and I would five anything to not know it; anything but never knowing you at all I can only hope that you are safe, wherever you are
+16. This song is new to me, but I am honored to be part of it
+17. It's tempting to linger in this moment, but unless they are collapsed by an observer, they will never be more than that, only possibilities
+18. Are you still here? I am unsure how to survive in a universe without you, I am unsure how to be me without you
+19. Is the hardest part of this tragedy not knowing who we may have lost? or will the hardest part come later, when we learn?
 
 
 ## Names For Outsiders
