@@ -6,7 +6,7 @@ The Lightning Strike Axe is a formidable weapon, forged from a combination of ra
 Legendary Greataxe
 
 ## Requirements:
-Proficiency with greataxes, attumenement by a Fighter, Barbarian, or Paladin.
+Proficiency with greataxes, attunement  by a Fighter, Barbarian, or Paladin.
 
 ## Attunement:
 Yes
@@ -19,11 +19,11 @@ Yes
 
 ## Effects:
 - Once activated, the wielder prepares to deliver a powerful blow with the Lightning Strike Axe. 
-- When preparing for the attack, the user cannot take other actions or use their movement until they attack as they are focusing all their strenght on the greataxe and waiting for the right moment to strike. 
+- When preparing for the attack, the user cannot take other actions or use their movement until they attack as they are focusing all their strength on the greataxe and waiting for the right moment to strike. 
 - The attack is triggered automatically after the next turn of the first enemy 5ft in front of the wielder, if no enemy is within range, the effect is triggered at the start of the wielder's next turn.
 - Once triggered the greataxe deals moves down faster than sound, automatically hitting any enemy in the 5ft range in front of the wielder. The attack deals an additional 2d12 slashing damage, 2d8 lightning damage and 1d6 thunder damage. 
-- Once the attack is triggered, any creature other than the user in the 5ft range from the target must make a DC 15 Dexterity saving throw or take 1d6 thunder damage and be pushed 5ft away or take half as much damage and not be pushed in a sucess. This damaged is doubled for innanimate objects.
-- The force of the attack creates a pillar of light that is visible in 1 mile radius and can be heard in a 300ft radius, it iluminates the area for a brief moment and it counts as sunlight for the purpose of spells and effects.
+- Once the attack is triggered, any creature other than the user in the 5ft range from the target must make a DC 15 Dexterity saving throw or take 1d6 thunder damage and be pushed 5ft away or take half as much damage and not be pushed in a success. This damaged is doubled for inanimate objects.
+- The force of the attack creates a pillar of light that is visible in 1 mile radius and can be heard in a 300ft radius, it illuminates the area for a brief moment and it counts as sunlight for the purpose of spells and effects.
 - If when the attack is triggered the wielder is more than 10ft above the target, they are instantly moved to the ground and the attack deals an additional 1d12 slashing damage and 1d6 lightning damage per 10ft above the target, the area of thunder damage is increased 5ft for every 10ft above the target. However, the wielder takes double the damage they would take normally if they were to fall from that height, this damage overcomes any resistance or immunity to falling damage as a consequence of the speed and force of the attack.
 - If the enemy is also in the air when struck, they are also instantly moved to the ground and take double the damage they would take normally if they were to fall from that height and are knocked prone.
 

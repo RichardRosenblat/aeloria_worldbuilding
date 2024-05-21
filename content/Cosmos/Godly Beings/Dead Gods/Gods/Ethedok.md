@@ -26,4 +26,4 @@ As the eons passed, Ethedok's name became a fleeting whisper in the corridors of
 
 ## A Symbol of [[the Far Realm]]'s Toll
 
-Ethedok's story remains a poignant symbol of the toll exacted by [[the Far Realm]]'s madness, a reminder that even the divine offspring of [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]] were not immune to the cosmic struggles that unfolded in the tumultuous dance between creation and eldritch chaos.
+Ethedok's story remains a poignant symbol of the toll exacted by [[the Far Realm]]'s madness, a reminder that even the divine offspring of [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] were not immune to the cosmic struggles that unfolded in the tumultuous dance between creation and eldritch chaos.

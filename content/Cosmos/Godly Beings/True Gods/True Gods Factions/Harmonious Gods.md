@@ -43,7 +43,7 @@ In the era of divine enlightenment, the Harmonious Gods generously shared their 
 The Harmonious Gods stood as guardians of a vision where the interplay of opposing forces became a source of strength and resilience for both the divine and mortal realms. Their commitment to balance and preservation was reflected in the crafting of [[Harmonious Vestiges]]—artifacts intended to bring stability to the tumultuous world.
 
 ## Legacy of Divine Conflict
-In the aftermath of [[The Great War (GW)|The Great War]], the legacy of the Harmonious Gods endured as symbols of balance and harmony. The reformed pantheon, anchored by [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]]'s divine intervention and [[The Divine Accord]], reflected a new era where [[True Gods]] and mortals coexisted, healing the scars of divine conflict.
+In the aftermath of [[The Great War (GW)|The Great War]], the legacy of the Harmonious Gods endured as symbols of balance and harmony. The reformed pantheon, anchored by [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]'s divine intervention and [[The Divine Accord]], reflected a new era where [[True Gods]] and mortals coexisted, healing the scars of divine conflict.
 
 
 ## List of Harmonious Gods

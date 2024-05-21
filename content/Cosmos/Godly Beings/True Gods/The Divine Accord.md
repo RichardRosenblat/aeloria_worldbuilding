@@ -13,7 +13,7 @@ In response to [[The Great War (GW)|tumultuous conflicts]] among [[True Gods]] a
 
 ### Origins and Creators
 
-Conceived in the midst of cosmic strife, the Divine Accord was forged by [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]], [[Over-Deities|the cosmic dreamers]] who birthed [[Aeloria]]. Recognizing the need for order and balance, these [[Over-Deities|The Twin Goddesses]] established the accord to guide the interactions of the pantheon and shape the destiny of their creation.
+Conceived in the midst of cosmic strife, the Divine Accord was forged by [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]], [[Over-Deities|the cosmic dreamers]] who birthed [[Aeloria]]. Recognizing the need for order and balance, these [[Over-Deities|The Twin Goddesses]] established the accord to guide the interactions of the pantheon and shape the destiny of their creation.
 
 ## Laws of the Divine Accord
 

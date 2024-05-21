@@ -24,11 +24,11 @@ This 3 day event was the reshaping of the world, when all old magic got destroye
 
 ## Divine Reflection
 
-Witnessing the celestial dance of new gods ascending and mortals claiming divine status, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]], [[Over-Deities|the Twin Goddesses]], gazed upon the unfolding events with a profound cosmic wisdom. In the heart of [[the Eternal Workshop]], they convened the divine assembly, their eyes reflecting both admiration and concern for their divine children.
+Witnessing the celestial dance of new gods ascending and mortals claiming divine status, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]], [[Over-Deities|the Twin Goddesses]], gazed upon the unfolding events with a profound cosmic wisdom. In the heart of [[the Eternal Workshop]], they convened the divine assembly, their eyes reflecting both admiration and concern for their divine children.
 
 ### Divine Wisdom Unveiled
 
-In their timeless gaze, [[Over-Deities|the twin goddesses]] discerned the miracles and recklessness interwoven in the actions of their divine offspring. Recognizing the inevitability of change and the intrinsic value of growth, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]] saw the emergence of Raven Queen and Vecna as unique threads in the grand tapestry of the divine pantheon.
+In their timeless gaze, [[Over-Deities|the twin goddesses]] discerned the miracles and recklessness interwoven in the actions of their divine offspring. Recognizing the inevitability of change and the intrinsic value of growth, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] saw the emergence of Raven Queen and Vecna as unique threads in the grand tapestry of the divine pantheon.
 
 ### Embracing Uniqueness
 
@@ -36,7 +36,7 @@ Despite harboring reservations, [[Over-Deities|the twin goddesses]] understood t
 
 ## Concerns of Mortal Ascensions
 
-While acknowledging the unique positions of Raven Queen and Vecna, [[Over-Deities|the twin goddesses]] harbored deep concerns regarding the mortal rituals that had facilitated their ascension. Fearing that unchecked mortal godhood could disrupt the delicate balance they had tirelessly maintained, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]] decided to take decisive action.
+While acknowledging the unique positions of Raven Queen and Vecna, [[Over-Deities|the twin goddesses]] harbored deep concerns regarding the mortal rituals that had facilitated their ascension. Fearing that unchecked mortal godhood could disrupt the delicate balance they had tirelessly maintained, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] decided to take decisive action.
 
 ### Guardians of Cosmic Balance
 
@@ -44,7 +44,7 @@ Understanding the potential consequences of unbridled mortal ascensions, [[Over-
 
 ## Reshaping [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]'s Essence
 
-[[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]], with a commitment to preserving the delicate balance of creation, turned their gaze towards [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]], the God of Magic. Recognizing the potent influence of magic in the ascension of mortals, [[Over-Deities|the twin goddesses]], in their boundless creativity, decided to redefine the very essence of [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]].
+[[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]], with a commitment to preserving the delicate balance of creation, turned their gaze towards [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]], the God of Magic. Recognizing the potent influence of magic in the ascension of mortals, [[Over-Deities|the twin goddesses]], in their boundless creativity, decided to redefine the very essence of [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]].
 
 ### Radiant Transformation
 
@@ -60,7 +60,7 @@ This alteration in [[Corellon, God of Magic and the Arts - The Spellfather (CG)|
 
 ### Erasing the Traces
 
-As the final stroke in their cosmic canvas, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]], wielding their omnipotent abilities, embarked on a profound act. They cleansed the world of every remnant of past magic—every thread of arcane energy, hidden rune, and ancient artifact imbued with mystical power. With cosmic gestures, they erased all traces of magic from the world.
+As the final stroke in their cosmic canvas, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]], wielding their omnipotent abilities, embarked on a profound act. They cleansed the world of every remnant of past magic—every thread of arcane energy, hidden rune, and ancient artifact imbued with mystical power. With cosmic gestures, they erased all traces of magic from the world.
 
 ### Godly Sacrifice
 
@@ -68,13 +68,13 @@ This act, while preserving the balance, came at a cost. The gods themselves used
 
 ### A Second Chance
 
-[[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]] believed in the necessity of this sacrifice to provide the mortal realm a second chance to grow without damaging the harmony of balance. Liberated from the temptations and dangers of unchecked magic, they envisioned a new form of magic that mortals would gradually master. This magic would be shaped by the experiences and wisdom of mortals, ensuring a harmonious and balanced existence in the reborn world.
+[[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] believed in the necessity of this sacrifice to provide the mortal realm a second chance to grow without damaging the harmony of balance. Liberated from the temptations and dangers of unchecked magic, they envisioned a new form of magic that mortals would gradually master. This magic would be shaped by the experiences and wisdom of mortals, ensuring a harmonious and balanced existence in the reborn world.
 
 ## The Reform: Cosmic Unraveling
 
 ### The Three Days of Cosmic Unrest
 
-As [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]] initiated their cosmic reform, three tumultuous days unfolded, marking a transformative epoch for both gods and mortals alike. The mortal realm experienced chaos as the divine powers granted by the gods abruptly ceased to function, and the repercussions of the reform took hold.
+As [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] initiated their cosmic reform, three tumultuous days unfolded, marking a transformative epoch for both gods and mortals alike. The mortal realm experienced chaos as the divine powers granted by the gods abruptly ceased to function, and the repercussions of the reform took hold.
 
 ### First Day: For the Bright Sky
 

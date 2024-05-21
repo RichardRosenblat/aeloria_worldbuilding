@@ -12,7 +12,6 @@ tags:
 | Generate markdown wiki text | [[Generate wiki text]]               |
 | Generate quests             | [[Generate quest boards]]            |
 | Generating NPCs             | [[Generate NPC]]                     |
-| Npc template with examples  | [[Npc model with examples]]          |
 | Items folder                | [[Items and Objects]]                |
 | Dictionary for languages    | [[Languages Dictionary]]             |
 | Homebrew monsters           | [[Bestiary]]                         |
@@ -20,7 +19,7 @@ tags:
 | list of plans               | [[Important names to create later]]  |
 | City unique details         | [[200 Things to Make a City Unique]] |
 | Myths                       | [[Myth - Flor]]                      |
-| NPC random backstories                       | [[NPC Backstories]]                      |
+| NPC random backstories      | [[NPC Backstories]]                  |
 
 # Random Quotes
 
@@ -62,7 +61,7 @@ Muhammad Sumbul The bravest soldier of all time
 - Asteni woman singing Cara MIa
 	- Man from her hometown, she was a free spirit
 - [[Merlin]] creates at least these 2 spells,
-	- [[Merlin]]’s Divine Audience (talk to [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]]), causes stars to change colors
+	- [[Merlin]]’s Divine Audience (talk to [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]), causes stars to change colors
 	- [[Merlin]]'s Transcendent Transformation (fuses with the [[Setting Info|Principles]]), becomes the Witch song image
 - Quest with making and helpig a undergraduate in their research of mermaids
 	- crafted from a modified wagon

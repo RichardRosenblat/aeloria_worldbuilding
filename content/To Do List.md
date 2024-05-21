@@ -97,4 +97,4 @@ tags:
 13. [ ] Add important Past Figures
 14. [ ] Add races
 15. [ ] Create elder elementals
-16. [ ] Commision artist for [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]] apperance
+16. [ ] Commision artist for [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] apperance

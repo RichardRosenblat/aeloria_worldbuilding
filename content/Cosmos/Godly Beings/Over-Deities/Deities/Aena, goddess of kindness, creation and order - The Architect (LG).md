@@ -60,10 +60,10 @@ aliases:
 *Lotus flower when mentioned by herself*
 
 ![[Aena Symbol Triquetra.png|400]]
-*Triquetra  when mentioned with [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]]*
+*Triquetra  when mentioned with [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]*
 
 ![[OverDeities Symbol.png|400]]
-*When connected with [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]]*
+*When connected with [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]*
 
 ## Avatars
 ### Aerian (Human) Generic

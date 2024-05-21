@@ -27,13 +27,13 @@ The Divine Spark is an anchor that connects a god to the fabric of reality. To e
 
 ### Return to the [[Over-Deities]]
 
-If a god is killed and their divine spark is not absorbed by another entity, it dissipates into existential metadynamic energy, returning to [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]], the [[Over-Deities|Twin Goddesses]], to then be returned to reality.
+If a god is killed and their divine spark is not absorbed by another entity, it dissipates into existential metadynamic energy, returning to [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]], the [[Over-Deities|Twin Goddesses]], to then be returned to reality.
 
 ## Origin and Creation
 
 ### Original Divine Sparks:
 
-A limited number of original Divine Sparks exist, crafted in the cosmic atelier by the [[over-deities]] [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]]. These sparks are unique and unparalleled, serving as the primordial source from which all other variations derive.
+A limited number of original Divine Sparks exist, crafted in the cosmic atelier by the [[over-deities]] [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]. These sparks are unique and unparalleled, serving as the primordial source from which all other variations derive.
 
 ### Creation of Divine Sparks:
 
@@ -43,16 +43,16 @@ In ages past, various methods existed for the creation of original Divine Sparks
 
 All godly beings possess divine sparks, each a derivative of the original ones. These variations showcase the diverse applications of raw Metadynamic energy, giving rise to a multitude of divine entities with unique attributes and characteristics.
 
-In contrast, the [[over-deities]] [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]] transcend the realm of Divine Sparks. Unlike their divine counterparts, their source of power emanates from the mysterious Axiomatic Nullity, a force that distinguishes them from the pantheon they oversee.
+In contrast, the [[over-deities]] [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] transcend the realm of Divine Sparks. Unlike their divine counterparts, their source of power emanates from the mysterious Axiomatic Nullity, a force that distinguishes them from the pantheon they oversee.
 
 ### Types of Divine Sparks
 
 #### Axiomatic Nullity
 
-The Axiomatic Nullity is a fascinating concept that powers [[Over-Deities]]. Unlike traditional godly entities with Divine sparks, [[Over-deities]] derive their foundational essence from the Axiomatic Nullity. This abstract principle is intricately woven from the fabric of mathematical paradoxes, resembling the essence of Imaginary numbers and transcending the boundaries of conventional reality. Unlike a mere absence, the Axiomatic Nullity represents a profound presence of non-being that births existence through its very negation. The paradox finds expression in the Limit of infinite dimensions, a ceaseless cycle that grows into itself, creating a confined infinite existence. This cosmic mathematical Function, a self-referential abstraction, defies conventional understanding and mirrors a perpetual dance of creation and destruction. The Axiomatic Nullity, existing at the intersection of mathematical abstraction and cosmic reality, shapes the divine might of [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]], serving as a paradoxical wellspring from which their influence emanates, intricately weaving the cosmic tapestry with the threads of infinite dimensions and unending mathematical intricacies.
+The Axiomatic Nullity is a fascinating concept that powers [[Over-Deities]]. Unlike traditional godly entities with Divine sparks, [[Over-deities]] derive their foundational essence from the Axiomatic Nullity. This abstract principle is intricately woven from the fabric of mathematical paradoxes, resembling the essence of Imaginary numbers and transcending the boundaries of conventional reality. Unlike a mere absence, the Axiomatic Nullity represents a profound presence of non-being that births existence through its very negation. The paradox finds expression in the Limit of infinite dimensions, a ceaseless cycle that grows into itself, creating a confined infinite existence. This cosmic mathematical Function, a self-referential abstraction, defies conventional understanding and mirrors a perpetual dance of creation and destruction. The Axiomatic Nullity, existing at the intersection of mathematical abstraction and cosmic reality, shapes the divine might of [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]], serving as a paradoxical wellspring from which their influence emanates, intricately weaving the cosmic tapestry with the threads of infinite dimensions and unending mathematical intricacies.
 
 #### Original Divine Sparks
-The Original divine sparks are a unique and potent force that lies at the core of their existence. Crafted by the [[Over-Deities]] [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]], these divine essences grant [[True Gods]] unparalleled power.
+The Original divine sparks are a unique and potent force that lies at the core of their existence. Crafted by the [[Over-Deities]] [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]], these divine essences grant [[True Gods]] unparalleled power.
 
 These sparks represent the essence of desire and behavior patterns that shape energies within reality. Unlike other godly beings, [[True Gods]] lack physical bodies, existing as immaterial entities. To interact with the mortal realm, [[True Gods]] employ Avatars—physical manifestations that embody their divine essence and will.
 

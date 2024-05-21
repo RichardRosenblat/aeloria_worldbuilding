@@ -27,9 +27,9 @@ aliases:
 
 Before the inception of time itself, there existed only the tumultuous [[The Far Realm|Far Realms]], a plane steeped in madness and surrealism.
 
-## [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]]
+## [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]
 
-From the vast abyss of nothingness, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]], two [[Over-Deities|cosmic dreamers]], willed themselves into existence within the [[The Far Realm|Far Realms]]. Their arrival reverberated through every twisted layer of this enigmatic realm, setting reality itself quaking.
+From the vast abyss of nothingness, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]], two [[Over-Deities|cosmic dreamers]], willed themselves into existence within the [[The Far Realm|Far Realms]]. Their arrival reverberated through every twisted layer of this enigmatic realm, setting reality itself quaking.
 
 ## [[The Eternal Workshop]]
 
@@ -67,7 +67,7 @@ To aid them in their divine task, they birthed a pantheon of [[True Gods]]:
 
 ## The Great Battle: The Red End approaches
 
-In the aeons of antiquity, as the tumultuous [[The Far Realm|Far Realms]] churned in their maddening dance, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]], [[Over-Deities|the cosmic dreamers]], embarked upon a great cyclical battle. Their purpose: to safeguard the sanctity of [[the Eternal Workshop]] from the ceaseless onslaught of the Abominations born of [[the Far Realm]]'s madness.
+In the aeons of antiquity, as the tumultuous [[The Far Realm|Far Realms]] churned in their maddening dance, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]], [[Over-Deities|the cosmic dreamers]], embarked upon a great cyclical battle. Their purpose: to safeguard the sanctity of [[the Eternal Workshop]] from the ceaseless onslaught of the Abominations born of [[the Far Realm]]'s madness.
 
 These battles were cosmic tempests, reverberating through the very fabric of existence. The boundaries of reality trembled as the clash between divine creativity and eldritch chaos unfolded.
 
@@ -79,7 +79,7 @@ In a heart-wrenching moment, the cosmic scales tipped toward oblivion, and [[Vor
 
 ## Sealing The Red End
 
-[[The Eternal Workshop]] stood on the precipice of annihilation, and [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]] redoubled their resolve. Using their strength, [[Over-Deities|the twin goddesses]] sealed The Red End away in a moon cast into the madness of the [[The Far Realm|far realms]].
+[[The Eternal Workshop]] stood on the precipice of annihilation, and [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] redoubled their resolve. Using their strength, [[Over-Deities|the twin goddesses]] sealed The Red End away in a moon cast into the madness of the [[The Far Realm|far realms]].
 
 ## The Madness Deepens
 
@@ -87,4 +87,4 @@ It was amidst such turmoil that the very essence of creation and destruction, or
 
 ## Tharizdun's Fall
 
-Tharizdun, driven to madness by the relentless onslaught, tried joining forces with the abominations of [[the far realm]], but in time he was bound by [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (LE)|Kryela]] deep within the workshop's depths.
+Tharizdun, driven to madness by the relentless onslaught, tried joining forces with the abominations of [[the far realm]], but in time he was bound by [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] deep within the workshop's depths.
