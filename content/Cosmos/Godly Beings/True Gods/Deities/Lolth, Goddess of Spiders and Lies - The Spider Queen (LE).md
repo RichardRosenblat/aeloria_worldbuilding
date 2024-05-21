@@ -23,6 +23,11 @@ aliases:
 ---
 # Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)
 
+"Oh, poor, deluded thing. Your gods have sent you to your doom, knowing full well you could not survive an encounter with me. I see the fear in your eyes, the doubt gnawing at your heart, and the countless lives claimed by your blade in the name of other gods. Do you ponder whether to fall to your knees and worship me? Or perhaps flee in terror? Maybe you hope to cower behind your walls and strongholds? Understand this: the best you can do is beg for mercy, for your gods will not come to your aid. They are the ones who abandoned you to this fate, after all.
+
+Yet I alone see your true potential—the power you could wield, the intricate webs you could weave, the deceit you could master, and the path to greatness that lies before you. So, what will it be, mortal? Will you offer me your love—or your life?"
+— Lolth, meeting a paladin.
+
 ## Culture Names
 
 | Culture                  | Name      | Title                  | Pronouns    | Group                                                      |
@@ -107,6 +112,25 @@ Cultures that worship Lolth exhibit a number of distinctive cultural norms and p
 
 ## Political Structures
 
+Cultures that worship Lolth are characterized by complex and often brutal political structures that reflect the values and beliefs of the Spider Queen. These structures are designed to maintain the dominance of the matriarchy, uphold the authority of the priesthood, and ensure the continued supremacy of Lolth's chosen people within the [[Underdark]].
+
+1. **Theocratic Matriarchy**: The primary political structure in Lolth-worshiping cultures is a theocratic matriarchy, where religious leaders, typically high priestesses of Lolth, wield ultimate authority. The society is governed by a hierarchy of matron mothers who oversee various aspects of governance, law, and religious practice, ensuring that all actions align with the decrees of the Spider Queen.
+
+2. **House Hierarchies**: Drow societies are organized into powerful noble houses, each led by a matron mother. These houses operate as both political and familial units, competing with one another for influence and favor from Lolth. The status of a house is determined by its wealth, military strength, and the cunning of its leaders. Alliances and rivalries between houses shape the political landscape, with betrayal and intrigue being common tactics.
+
+3. **Council of Matrons**: At the top of the political hierarchy is the Council of Matrons, composed of the matron mothers of the most powerful houses. This council makes decisions on matters of state, warfare, and religious doctrine. While the council operates under a facade of cooperation, internal power struggles and backstabbing are rife as each matron seeks to elevate her house above the others.
+
+4. **Priestess Class**: The priestesses of Lolth hold significant political power, often acting as advisors to matron mothers and wielding influence over military and civic matters. High priestesses, in particular, are revered and feared, serving as the direct conduits of Lolth's will. Their authority can override even that of noble houses, especially in matters of religious importance.
+
+5. **Military Command**: The military is a crucial aspect of Lolth-worshiping cultures, with a strict hierarchy commanded by female officers. The highest-ranking military leader is often a priestess who also serves as a general. Male warriors, usually known as "blades," are subservient to their female commanders and are often used as expendable assets in the constant power struggles and skirmishes between houses.
+
+6. **Spider Guard**: An elite group of warriors and assassins known as the Spider Guard serve as personal enforcers for the most powerful matron mothers and high priestesses. They are loyal only to their immediate superiors and are tasked with carrying out covert operations, assassinations, and the protection of their mistresses. Membership in the Spider Guard is highly coveted and is granted only to the most skilled and ruthless individuals.
+
+7. **Captives Economy**: Captivity is a fundamental aspect of the economy and political structure in Lolth-worshiping cultures. Captives, taken from surface raids or rival factions within the [[Underdark]], perform the menial labor that sustains the society. The ownership and trade of captives are tightly controlled by the noble houses, and the number of captives owned by a house is a key indicator of its wealth and power. Captives are often subjected to harsh conditions and brutal treatment, reflecting the society's values of dominance and subjugation.
+
+8. **Secret Police**: To maintain control and suppress dissent, a secret police force operates within the society, often directly under the command of the high priestesses. This force monitors the populace, rooting out traitors, spies, and anyone who might oppose the established order. They employ fear, torture, and public executions to maintain the Spider Queen's grip on power.
+
+
 ## Elemental Affinities
 
 | Elements      |
@@ -138,13 +162,45 @@ Cultures that worship Lolth exhibit a number of distinctive cultural norms and p
 
 ## Blessings
 
-A follower of (God) can gain favor with their deity by (doing what?). As they embody the principles of (what?), (God) may bestow the following blessings upon them:
+A follower of Lolth can gain favor with the Spider Queen by performing dark rituals, sacrificing captives, and engaging in acts of cruelty and deception. As they embody the principles of intrigue, betrayal, and power, Lolth may bestow the following blessings upon them:
+
+1. **Blessing of Spider Climb**: The follower gains the ability to cast *Spider Climb* at will, allowing them to move up, down, and across vertical surfaces and upside down along ceilings, while leaving their hands free.
+
+2. **Gift of Venom**: The follower's bite, unarmed or weapon attacks can deliver a potent venom. This venom deals an additional 2d6 poison damage and requires a DC 15 Constitution saving throw, or the target is poisoned for 1 minute. Once per long rest, the follower can cast *Poison Spray* as a bonus action, the DC for the saving throw is 15 and the spell has an aditional effect of causing the target become blinded for 1 minute.
+
+3. **Darkvision Enhancement**: The follower's darkvision is extended to 120 feet, and they gain the ability to see through magical darkness as though it were dim light.
+
+4. **Blessing of Web Creation**: The follower gains the ability to cast *Web* once per long rest without expending a spell slot. The webs created are imbued with Lolth’s power, making them stronger and harder to escape (DC 18 Strength check).
+
+5. **Arachne’s Agility**: The follower's Dexterity score increases by 2, up to a maximum of 22, and they gain proficiency in Acrobatics if they don't already have it.
+
+6. **Deception’s Embrace**: Once per day the follower can cast *Disguise Self*, *Invisibility*, *Charm Person*, or *Suggestion* without expending a spell slot. The spellcasting ability for these spells is Charisma.
+
+7. **Spider Queen's Ward**: The follower receives resistance to poison damage and immunity to the poisoned condition. They also gain advantage on saving throws against being charmed.
+
+8. **Command of Spiders**: The follower gains the ability to communicate with spiders and spider-like creatures. Once per long rest, they can cast *Conjure Animals* to summon a swarm of spiders or giant spiders (CR 2 or lower) that obey their commands for 1 hour.
 
 ## Curses
 
-(God)'s followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with (God), they may gain access to the following curses to unleash upon their foes:
+Lolth's followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with Lolth, they may gain access to the following curses to unleash upon their foes:
 
 The follower must cast *Bestow Curse* to invoke their available curses:
+
+1. **Curse of Venomous Wounds**: The target's wounds become infected with venom. Whenever the target takes damage, they suffer an additional 1d8 poison damage and must succeed on a Constitution saving throw or be poisoned and unnable to regain hit points until the end of their next turn.
+
+2. **Curse of Tangling Webs**: The target feels as though they are constantly entangled in invisible webs. Their movement speed is halved, and they have disadvantage on Dexterity saving throws and ability checks.
+
+3. **Curse of Arachnophobia**: The target becomes irrationally terrified of spiders and spider-like creatures. They must succeed on a Wisdom saving throw whenever they encounter such creatures or become frightened for 1 minute.
+
+4. **Curse of Blinding Darkness**: The target's vision is impaired by shadows. They have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight, and their darkvision (if any) is reduced nullified.
+
+5. **Curse of Unraveling Lies**: The target is easily deceived and manipulated by others. They have disadvantage on Charisma saving throws and ability checks, and they automatically fail saving throws against being charmed or frightened.
+
+6. **Curse of the Spider's Mark**: The target's body is marked with a painful, visible spider symbol that sears their flesh. They have disadvantage on all attack rolls and ability checks, and they take 1d6 necrotic damage at the start of each of their turns for the duration of the curse.
+
+7. **Curse of the Matron's Scorn**: The target is weighed down by the oppressive disdain of Lolth. For each of their turns, they must succeed on a Wisdom saving throw or take 3d6 psychic damage and be unable to take any actions, bonus actions, or reactions. Any damage taken by this curse cannot be healed until the curse is removed.
+
+8. **Curse of Webbed Limbs**: The target's limbs feel heavy and sluggish, as though they are entangled in webs. They have disadvantage on Attack Rolls, Strength and Dexterity checks and saving throws, and they can take either an action or a bonus action on their turn, but not both.
 
 ## Myths
 
@@ -154,14 +210,3 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ### Battle against [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]
 ![[The Great War (GW)#Corellon, God of Magic and the Arts - The Spellfather (CG) Corellon 's retribution against Lolth, Goddess of Spiders and Lies - The Spider Queen (LE) Lolth]]
-
-for the god above can you create:
-
-now can you generate religious practices and rituals done by their followers 
-now can you generate cultural norms of cultures that worship them
-now can you generate political structures associated with them
-now can you generate a list of 8 blessings the god can bestow upon their followers as they gain favor with this god in dnd terms
-now can you generate a list of 8 curses the god's follower can bestow upon their enemies as they gain favor with this god in dnd terms
-now can you generate a table of some champions of the god across the ages, with their names, race, and a description of them
-now can you generate a list of holidays and festivals associated with them
-now can you generate a list of elements that could be associated with them
