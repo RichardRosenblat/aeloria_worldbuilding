@@ -54,7 +54,7 @@ The [[True Gods]] first crafted powerful beings. These beings were the first mor
 
 ### The Giants
 
-The giants were forged by [[Kord, God of Strength and Storms - The Stormlord (CN)|Kord]] and [[Moradin, God of Creation - The Allhammer (LG)|Moradin]]. The two [[True Gods]] gathered the oldest rocks and the primordial energies, shaping them into the living beings. The giants emerged within the mountains, embodying minerals, skies, hills, fire, and ice. They were the first to explore the world, delving into the mountains and the skies, seeking to understand the realms they inhabited.
+The giants were forged by [[Kord, God of Strength and Storms - The Stormlord (CN)|Kord]] and [[Moradin, God of Creation - The Allhammer (LG)|Moradin]]. [[Moradin, God of Creation - The Allhammer (LG)|Moradin]] had created the first and biggest mountain, and [[Kord, God of Strength and Storms - The Stormlord (CN)|Kord]] impressed by the creation, decided to climb to the very top of the mountain to see the world from above. As he strode unstoppable as a unyielding storm, he reached out his hand and grabbed the pure elemental forces of the world, dragging them with him to the top of the mountain. During his climb, the elemental forces joined with parts of the mountain, the hills from below, the stones from the mountain, the ice from the top, the fire from the magma, the clouds from the sky, and when he reached the top, he shaped created a mighty storm to lift himself above the mountain, imbuing the storm with the elemental forces he had gathered as a final gift to the world. And thus the first giants were born, each embodying the elements of the world. 
 
 ### The Fey and the Elves
 
