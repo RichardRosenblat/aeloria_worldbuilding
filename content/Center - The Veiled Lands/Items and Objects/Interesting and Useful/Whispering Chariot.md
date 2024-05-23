@@ -2,6 +2,7 @@
 tags:
   - interesting_item
   - cursed
+  - magic_item
 ---
 # Whispering Chariot
 

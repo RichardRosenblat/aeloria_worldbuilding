@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#funny"
+  - "#funny_item"
   - "#magic_item"
 ---
 # Bottle-o'-Party

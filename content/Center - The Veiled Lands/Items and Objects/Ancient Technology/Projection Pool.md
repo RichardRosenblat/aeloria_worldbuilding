@@ -1,6 +1,7 @@
 ---
 tags:
   - ancient_tech
+  - magic_item
 ---
 # [[Merlin]]'s Projection Pools
 

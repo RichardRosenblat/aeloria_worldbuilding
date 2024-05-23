@@ -1,6 +1,7 @@
 ---
 tags:
-  - funny
+  - funny_item
+  - magic_item
 ---
 # Name: Thingmabop
 

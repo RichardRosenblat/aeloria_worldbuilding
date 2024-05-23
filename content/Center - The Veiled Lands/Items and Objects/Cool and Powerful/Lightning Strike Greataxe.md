@@ -1,6 +1,7 @@
 ---
 tags:
   - cool_item
+  - magic_item
 ---
 # Lightning Strike Greataxe
 ## Description:

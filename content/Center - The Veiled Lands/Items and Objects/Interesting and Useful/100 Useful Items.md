@@ -3,6 +3,7 @@ tags:
   - "#magic_item"
   - "#table"
   - alchemical
+  - interesting_item
 ---
 `dice: 1d100`
 

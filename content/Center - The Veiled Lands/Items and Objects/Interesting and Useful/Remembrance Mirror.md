@@ -1,6 +1,7 @@
 ---
 tags:
   - interesting_item
+  - magic_item
 ---
 # Remembrance Mirror
 

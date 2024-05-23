@@ -2,6 +2,7 @@
 tags:
   - cool_item
   - cursed
+  - magic_item
 ---
 # Pagida - The Enrapturing Blade
 

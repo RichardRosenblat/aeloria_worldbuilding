@@ -15,11 +15,11 @@ tags:
 
 **Mana**
 
-| Name                              | Level recovered | Rarity    | Price           | DC Min | Exhaustion |
-| --------------------------------- | --------------- | --------- | --------------- | ------ | ---------- |
-| Potion of Spell Recovery          | `dice: 1d4`     | Uncommon  | 101-500 gp      | 17     | 1          |
-| Potion of Greater Spell Recovery  | `dice: 1d6-1`   | Rare      | 501-5,000 gp    | 18     | 2          |
-| Potion of Superior Spell Recovery | `dice: 1d6`     | Very rare | 5,001-50,000 gp | 19     | 3          |
-| Potion of Supreme Spell Recovery  | `dice: 1d8`     | Legendary | 50,001+ gp      | 20     | 4          |
+| Name                              | Level recovered | Rarity    | Price           |
+| --------------------------------- | --------------- | --------- | --------------- |
+| Potion of Spell Recovery          | `dice: 1d4`     | Uncommon  | 101-500 gp      |
+| Potion of Greater Spell Recovery  | `dice: 1d6-1`   | Rare      | 501-5,000 gp    |
+| Potion of Superior Spell Recovery | `dice: 1d6`     | Very rare | 5,001-50,000 gp |
+| Potion of Supreme Spell Recovery  | `dice: 1d8`     | Legendary | 50,001+ gp      |
 
 
