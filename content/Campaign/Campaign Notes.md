@@ -4,21 +4,22 @@ tags:
 ---
 # Campaign Table of Contents
 
-| Category                    | Contents                            |
-| --------------------------- | ----------------------------------- |
-| Useful links                | [[Dm Links]]                        |
+| Category                    | Contents                                 |
+| --------------------------- | ---------------------------------------- |
+| Useful links                | [[Dm Links]]                             |
 | Creating a Settlement       | [[Creating a Settlement]]                |
-| Prices of magic items       | [[Magic Item prices]]               |
-| Generate markdown wiki text | [[Generate wiki text]]              |
-| Generate quests             | [[Generate quest boards]]           |
-| Generating NPCs             | [[Generate NPC]]                    |
-| Items folder                | [[Items and Objects]]               |
-| Dictionary for languages    | [[Languages Dictionary]]            |
-| Homebrew monsters           | [[Bestiary]]                        |
-| Calendar                    | [[Aelorian Calendar]]               |
-| list of plans               | [[Important names to create later]] |
-| Myths                       | [[Myth - Flor]]                     |
-| NPC random backstories      | [[NPC Backstories]]                 |
+| Prices of magic items       | [[Magic Item prices]]                    |
+| Generate markdown wiki text | [[Generate wiki text]]                   |
+| Generate quests             | [[Generate quest boards]]                |
+| Generating NPCs             | [[Generate NPC]]                         |
+| Items folder                | [[Items and Objects]]                    |
+| Dictionary for languages    | [[Languages Dictionary]]                 |
+| Homebrew monsters           | [[Bestiary]]                             |
+| Calendar                    | [[Aelorian Calendar]]                    |
+| list of plans               | [[Important names to create later]]      |
+| Myths                       | [[Myth - Flor]]                          |
+| NPC random backstories      | [[NPC Backstories]]                      |
+| Random buildings | [[Random Buildings]] |
 
 # Random Quotes
 
@@ -43,6 +44,7 @@ tags:
 19. "Is the hardest part of this tragedy not knowing who we may have lost? or will the hardest part come later, when we learn?"
 20. "Speak, mortal. You have reached Tharvek, Devourer of Innocents and Wielder of Eternal Flames. It appears I have missed your pitiful attempt at contact. Leave your name, teleportation runes, preferred genre of torment, shoe size, allegiance, deepest fears, vulnerabilities, complete medical history, and where you summoned the gall to disturb me. I may choose to acknowledge your existence, but not by such mundane means. Thank you, and remember: tread carefully, for death lurks at every shadowed crossing."
 21. "I see someone making through, you just need to be sure it is you"
+22. "You are no saint; you're just indifferent. You aid all without caring who they've wronged or what evil they've wrought. You place the wicked among those who shelter you. Even the gods' love is not unconditional, and neither should ours be."
 
 
 ## Names For Outsiders
