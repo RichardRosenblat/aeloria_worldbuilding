@@ -1,3 +1,7 @@
+---
+tags:
+  - interesting_item
+---
 # Remembrance Mirror
 
 ## Description:

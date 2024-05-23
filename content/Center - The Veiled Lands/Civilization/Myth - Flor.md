@@ -1,3 +1,7 @@
+---
+tags:
+  - myth
+---
 # Myth of Flor
 
 In the depths of the Miramar Peninsula forest lies a tale woven with threads of mystery and wonder, whispered through generations of soldiers, fighters, and curious adventurers. Within this ancient woodland, where shadows dance with moonlight and the air hums with secrets, there exists a phenomenon that defies understanding—a rendezvous with a spirit from a realm beyond the known seas.

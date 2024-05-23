@@ -1,3 +1,8 @@
+---
+tags:
+  - cool_item
+  - cursed
+---
 # Pagida - The Enrapturing Blade
 
 *"Ah, adventurer! Feast your eyes on Pagida, the Enrapturing Blade, a treasure from distant shores. It's said to possess a spirited personality, but a firm tap on a rock sets it right. For a mere 1000 gold pieces, this blade will unlock the secrets of time and memory, offering entertaining visions of past heroes. Not to mention, it holds the power to hold down enemies for a devastating strike. What say you? Will you grasp this opportunity to wield a legend?"*

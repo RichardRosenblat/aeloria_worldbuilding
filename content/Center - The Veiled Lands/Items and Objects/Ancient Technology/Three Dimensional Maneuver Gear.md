@@ -1,3 +1,7 @@
+---
+tags:
+  - ancient_tech
+---
 # Three Dimensional Maneuver Gear
 
 ## Description:

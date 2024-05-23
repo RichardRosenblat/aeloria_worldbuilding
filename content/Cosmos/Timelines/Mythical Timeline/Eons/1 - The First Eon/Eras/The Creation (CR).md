@@ -41,7 +41,7 @@ Some [[True Gods]] favored bright creations more than dark ones, and vice versa,
 
 ## Creation of Life
 
-With the land still barren, the [[True Gods]] decided to fill it with life. First, Melora, the goddess of nature, created the very first tree, and from it, all animals and plants emerged, designed by the capricious Wildmother. 
+With the land still barren, the [[True Gods]] decided to fill it with life. First, [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]], the goddess of nature, created the very first tree, and from it, all animals and plants emerged, designed by the capricious Wildmother. 
 Desiring beings with consciousness, the [[True Gods]] created realms for conscious existence—the [[metapsychic planes]] to hold all thoughts and dreams.
 
 ## The First Spell

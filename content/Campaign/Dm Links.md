@@ -16,7 +16,6 @@ tags:
 | Encounter generator     | [donjon/5e/random/encounter](https://donjon.bin.sh/5e/random/#type=encounter;encounter-n_pc=4;encounter-level=1;encounter-difficulty=easy;encounter-environment=underdark) |
 | Prices                  | [dungeonmastertools](https://dungeonmastertools.github.io/items.html)                                                                                                      |
 | Map maker dungeon       | [dungeonscrawl/](https://app.dungeonscrawl.com/)                                                                                                                           |
-| City Generator          | [fantasytowngenerator](https://www.fantasytowngenerator.com/)                                                                                                              |
 | item-npcs-landmarks     | [herebetaverns](https://www.herebetaverns.com/)                                                                                                                            |
 | NPC generator           | [npcgenerator](https://www.npcgenerator.com/)                                                                                                                              |
 | Thieves Guild           | [thievesguild](https://www.thievesguild.cc/)                                                                                                                               |
@@ -26,3 +25,4 @@ tags:
 | other gens              | [thievesguild/tables](https://www.thievesguild.cc/tables/)                                                                                                                 |
 | Sigils                  | [watabou/sigil-generator](https://watabou.itch.io/sigil-generator)                                                                                                         |
 | Draconic words          | [Thu'um word wall](https://www.thuum.org/learn/practice/word-walls.php)                                                                                                    |
+| Fantasy city database   | [praxxian city generator](https://praxxian.github.io/RPG-City-Generator/)                                                                                                  |

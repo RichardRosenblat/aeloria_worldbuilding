@@ -1,3 +1,8 @@
+---
+tags:
+  - interesting_item
+  - cursed
+---
 # Whispering Chariot
 
 *"My liege, sire, oh allfather of speed, permit these lowly peasants to behold the swiftness of thy mighty chariot. Display unto them the very essence of haste, as they lament their inability to fathom such celestial velocity. Let no obstacle impede thy course nor obscure thy path until we claim the very horizon itself. For in the dust of our wake lies the testament of thy prowess, and in the echoes of our speed resounds the hymn of thy glory. Onward, I beseech thee, to the realms unknown, where the wind itself shall kneel in reverence to our passage, and time shall dare not linger in our wake. Oh, master of the reins, unleash the thunder of thy chariot and let the world marvel at thy boundless might!"* - Messenger of the Whispering Chariot

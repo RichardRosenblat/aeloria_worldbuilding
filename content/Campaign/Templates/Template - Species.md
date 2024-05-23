@@ -1,6 +1,3 @@
----
-tags: []
----
 # Species Name:
 *(Choose a name for your species)*
 

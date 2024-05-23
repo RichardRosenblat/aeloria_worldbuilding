@@ -1,3 +1,7 @@
+---
+tags:
+  - funny
+---
 # Name: Thingmabop
 
 *Has you really been far? Even as decided to use even go want to look more like? 

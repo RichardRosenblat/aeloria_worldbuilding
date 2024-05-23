@@ -17,7 +17,7 @@ the origin of its evocative name remains shrouded in mystery, veiled by the echo
 ## Myths
 ### Creation
 
-Aeloria, the planet, has many creation myths but one of the most known myths is the one of Menrogia and Melora.
+Aeloria, the planet, has many creation myths but one of the most known myths is the one of Menrogia and [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]].
 
 In the primordial [[The Creation (CR)|Creation Era]], where elemental forces danced in chaotic symphony, there emerged a colossal serpent named Menrogia. This majestic creature, a ruler of myriad elements—water, earth, metal, and air—towered over the realms, known by names such as Ouroboros and Jormungandr.
 
@@ -27,27 +27,27 @@ However, amidst his reign of power, a prophetic revelation struck fear into the 
 
 Fearing the inescapable reality of his doom, Menrogia hid in a deep cave and sought unnatural allies twisting the remains of his former subjects into abominable creations. With these monstrous beings, he forged a malevolent spear, an affront to the very fabric of reality itself.
 
-Yet, Melora, the wildmother, could not remain indifferent to the suffering inflicted by Menrogia. She heard the cries of families torn apart by his tyranny, and her divine presence resonated with the pain of the exploited elements. In response, she assumed various forms—a soaring eagle in the sky, a graceful fish in the ocean, a powerful jaguar running through fields—and embarked on a relentless pursuit of the serpent.
+Yet, [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]], [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|the wildmother]], could not remain indifferent to the suffering inflicted by Menrogia. She heard the cries of families torn apart by his tyranny, and her divine presence resonated with the pain of the exploited elements. In response, she assumed various forms—a soaring eagle in the sky, a graceful fish in the ocean, a powerful jaguar running through fields—and embarked on a relentless pursuit of the serpent.
 
 Menrogia, sensing the approach of the goddess, coiled in his cave, awaiting the inevitable confrontation. 
 
-As Melora approached the shadowed cave, Menrogia, coiled in the darkness, questioned, "*Why dost thou hunt me?*"
+As [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] approached the shadowed cave, Menrogia, coiled in the darkness, questioned, "*Why dost thou hunt me?*"
 
-"*For thy sins against that which is natural*," replied Melora, her voice resonating with divine authority.
+"*For thy sins against that which is natural*," replied [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]], her voice resonating with divine authority.
 
 "*Begone! I am the ruler of this land, the owner of all that is*," retorted the serpent defiantly.
 
-Melora smiled, her eyes reflecting ancient wisdom, and said, "*Thy throne is dirt, thy crown is rusted, thy subjects are dust, thy wine is mud, and thy food is worms. Thou art now the sovereign of delusion.*"
+[[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] smiled, her eyes reflecting ancient wisdom, and said, "*Thy throne is dirt, thy crown is rusted, thy subjects are dust, thy wine is mud, and thy food is worms. Thou art now the sovereign of delusion.*"
 
 "*The blame for the sins of mine lies solely at thy feet. I, a monarch, speak words as honeyed venom, my purpose, dominion. Thine, not the same. Thou shouldst yield to my will, as all else erstwhile hath.*" Menrogia demanded, gripping a spear crafted from the twisted remnants of his subjects.
 
-In a swift motion, Menrogia attacked, piercing through Melora's chest. Undeterred, she approached the serpent holding the spear, wounded yet resolute. Seizing Menrogia, she held him in an unyielding grip, and the serpent, for the first time, felt true dread—a prey cornered by a wild wolf.
+In a swift motion, Menrogia attacked, piercing through [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]]'s chest. Undeterred, she approached the serpent holding the spear, wounded yet resolute. Seizing Menrogia, she held him in an unyielding grip, and the serpent, for the first time, felt true dread—a prey cornered by a wild wolf.
 
-"*Thou art a fool! All was erstwhile beneath thy sway, verily. But the sole thing thou couldst never master was thine own dread and avarice. This befell unto thee as thou didst strive to spurn fate. Rather than embracing it tranquilly in due course, thou didst recoil in shame. So harken, all things, whether grand or diminutive, must encounter their cessation; refusal thereof is solely the arrogance of fools.*" Melora declared, her words echoing in the cave. The goddess's eyes sharpened, and her maw opened to bite the serpent, like a lion before finishing its prey.
+"*Thou art a fool! All was erstwhile beneath thy sway, verily. But the sole thing thou couldst never master was thine own dread and avarice. This befell unto thee as thou didst strive to spurn fate. Rather than embracing it tranquilly in due course, thou didst recoil in shame. So harken, all things, whether grand or diminutive, must encounter their cessation; refusal thereof is solely the arrogance of fools.*" [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] declared, her words echoing in the cave. The goddess's eyes sharpened, and her maw opened to bite the serpent, like a lion before finishing its prey.
 
-As panic seized Menrogia, he attempted to bite Melora first, aiming to poison her. Unyielding, Melora grabbed the serpent's tail and forced it into Menrogia's own mouth. The serpent, in a desperate bid to escape, accidentally poisoned itself, undone by something he could never control—his own fear.
+As panic seized Menrogia, he attempted to bite [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] first, aiming to poison her. Unyielding, [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] grabbed the serpent's tail and forced it into Menrogia's own mouth. The serpent, in a desperate bid to escape, accidentally poisoned itself, undone by something he could never control—his own fear.
 
-With Menrogia defeated, Melora, recognizing the potential of the serpent's body, used it to shape and create Aeloria, the world born from the remnants of a fallen tyrant. However, the seers of the elements issued a warning prophecy: "*The monarch, in a different guise, shall return, in a distinct era's prime.*" The echoes of fate reverberated through the cosmos, signaling that the story of Menrogia's legacy was far from over.
+With Menrogia defeated, [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]], recognizing the potential of the serpent's body, used it to shape and create Aeloria, the world born from the remnants of a fallen tyrant. However, the seers of the elements issued a warning prophecy: "*The monarch, in a different guise, shall return, in a distinct era's prime.*" The echoes of fate reverberated through the cosmos, signaling that the story of Menrogia's legacy was far from over.
 
 ## Appearance in Telescope
 

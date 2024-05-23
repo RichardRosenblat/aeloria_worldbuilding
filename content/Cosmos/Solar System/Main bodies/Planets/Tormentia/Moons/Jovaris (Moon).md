@@ -9,7 +9,7 @@ Jovaris is a moon of [[Tormentia]] with a turbulent atmosphere, featuring swirli
 
 ## Name
 
-The name "Jovaris" finds its origins in the ancient tales of [[Aeloria]], deeply rooted in the lore surrounding a divine Whirlpool crafted by the Wildmother, the revered goddess of nature and the sea. Legends speak of the swirling power within this enchanted vortex serving as the goddess's sanctum for her hunting arsenal. Within the depths of Jovaris, the Wildmother conceals her array of formidable weapons, infusing them with elemental energy and the essence of life itself. When the call for their use arises, the Whirlpool of Jovaris becomes a conduit, expelling these sacred artifacts, enveloped in a dazzling display of energy and vitality, thus manifesting the divine might of the Wildmother.
+The name "Jovaris" finds its origins in the ancient tales of [[Aeloria]], deeply rooted in the lore surrounding a divine Whirlpool crafted by [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|the Wildmother]], the revered goddess of nature and the sea. Legends speak of the swirling power within this enchanted vortex serving as the goddess's sanctum for her hunting arsenal. Within the depths of Jovaris, [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|the Wildmother]] conceals her array of formidable weapons, infusing them with elemental energy and the essence of life itself. When the call for their use arises, the Whirlpool of Jovaris becomes a conduit, expelling these sacred artifacts, enveloped in a dazzling display of energy and vitality, thus manifesting the divine might of [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|the Wildmother]].
 
 ## Description
 

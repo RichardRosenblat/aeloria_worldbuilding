@@ -17,19 +17,19 @@ In the astronomical lore of Mossloch, the planet earned its distinctive name due
 
 ### Creation
 
-Tales told to children before they sleep speak of Mossloch as a colossal moss-covered lake, where Mazatl resides. Mazatl is an axolotl created by Melora, the wild mother and goddess of the wild and the seas.
+Tales told to children before they sleep speak of Mossloch as a colossal moss-covered lake, where Mazatl resides. Mazatl is an axolotl created by [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]], the wild mother and goddess of the wild and the seas.
 
-Before the creation of the many creatures of [[Aeloria]], Melora crafted Mazatl as a small creature with a big heart. Mazatl's purpose was to swim in the seas of [[Aeloria]] and advise the living creatures that Melora would create. Mazatl diligently aided her mother, and they became inseparable.
+Before the creation of the many creatures of [[Aeloria]], [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] crafted Mazatl as a small creature with a big heart. Mazatl's purpose was to swim in the seas of [[Aeloria]] and advise the living creatures that [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] would create. Mazatl diligently aided her mother, and they became inseparable.
 
-As Melora created plants, Mazatl taught them to dance with the winds. When fireflies were brought into existence, Mazatl looked at the stars and taught the small insects to glow like them. Together, they shaped and nurtured countless creatures, from the smallest to the largest.
+As [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] created plants, Mazatl taught them to dance with the winds. When fireflies were brought into existence, Mazatl looked at the stars and taught the small insects to glow like them. Together, they shaped and nurtured countless creatures, from the smallest to the largest.
 
-However, when Melora created the Dragon-turtles, she realized that Mazatl was so tiny that she might be at risk of being crushed or eaten by her own creations. Fearing for Mazatl's safety, Melora bestowed upon her powers over regeneration and immortality, promising eternal care.
+However, when [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] created the Dragon-turtles, she realized that Mazatl was so tiny that she might be at risk of being crushed or eaten by her own creations. Fearing for Mazatl's safety, [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] bestowed upon her powers over regeneration and immortality, promising eternal care.
 
-Over time, thanks to Melora's constant love and care, Mazatl grew into a giant axolotl too big for the seas of [[Aeloria]]. In response, Melora decided to create a lake, as vast as Mazatl needed, filled with her favorite plants and creatures, covered in moss. This became Mazatl's new home, Mossloch.
+Over time, thanks to [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]]'s constant love and care, Mazatl grew into a giant axolotl too big for the seas of [[Aeloria]]. In response, [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] decided to create a lake, as vast as Mazatl needed, filled with her favorite plants and creatures, covered in moss. This became Mazatl's new home, Mossloch.
 
-Delighted with her new abode, Mazatl chose to stay and protect the creatures within. Melora, realizing that her friend now had a home all for herself, placed the lake in the sky of [[Aeloria]]. This way, Mazatl could always see her mother and her creations, and Melora could visit her cherished friend.
+Delighted with her new abode, Mazatl chose to stay and protect the creatures within. [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]], realizing that her friend now had a home all for herself, placed the lake in the sky of [[Aeloria]]. This way, Mazatl could always see her mother and her creations, and [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] could visit her cherished friend.
 
-Thus, Mossloch came into existence. To commemorate Mazatl, Melora created small images of her in the form of axolotls, placing them in the lakes and rivers of [[Aeloria]]. And so, the myth of Mossloch's creation became a cherished tale passed down through generations.
+Thus, Mossloch came into existence. To commemorate Mazatl, [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] created small images of her in the form of axolotls, placing them in the lakes and rivers of [[Aeloria]]. And so, the myth of Mossloch's creation became a cherished tale passed down through generations.
 
 ## Appearance in Telescope
 

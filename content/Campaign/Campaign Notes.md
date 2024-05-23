@@ -36,12 +36,14 @@ tags:
 11. "The universe is and we are"
 12. "We do not have much connection, you and I. Still this encounter feels special, I hope you do not mind if I think of you as a friend" 
 13. "This is your home. If you want to fight to defend it, that's your choice. I'd be honoured to stand alongside you. The enemy attacks tomorrow. He's brutal and fights only to kill, which is why he will never defeat us. Look around. In this circle, we're all equals. You're not fighting because someone's ordering you to, you're fighting for so much more than that. You fight for your homes. You fight for your family. You fight for your friends. You fight for the right to grow crops in peace. And if you fall, you fall fighting for the noblest of causes: fighting for your very right to survive! And when you're old and grey, you'll look back on this day, and you'll know you earned the right to live every day in between! So you fight! For your family! For your friends! For Ealdor!"
-14. I can't blame you for wanting to know yourself better, it was one of the biggest pleasures of my life
-15. The pain of your absence is sharp and haunting, and I would five anything to not know it; anything but never knowing you at all I can only hope that you are safe, wherever you are
-16. This song is new to me, but I am honored to be part of it
-17. It's tempting to linger in this moment, but unless they are collapsed by an observer, they will never be more than that, only possibilities
-18. Are you still here? I am unsure how to survive in a universe without you, I am unsure how to be me without you
-19. Is the hardest part of this tragedy not knowing who we may have lost? or will the hardest part come later, when we learn?
+14. "I can't blame you for wanting to know yourself better, it was one of the biggest pleasures of my life"
+15. "The pain of your absence is sharp and haunting, and I would five anything to not know it; anything but never knowing you at all I can only hope that you are safe, wherever you are"
+16. "This song is new to me, but I am honored to be part of it"
+17. "It's tempting to linger in this moment, but unless they are collapsed by an observer, they will never be more than that, only possibilities"
+18. "Are you still here? I am unsure how to survive in a universe without you, I am unsure how to be me without you"
+19. "Is the hardest part of this tragedy not knowing who we may have lost? or will the hardest part come later, when we learn?"
+20. "Speak, mortal. You have reached Tharvek, Devourer of Innocents and Wielder of Eternal Flames. It appears I have missed your pitiful attempt at contact. Leave your name, teleportation runes, preferred genre of torment, shoe size, allegiance, deepest fears, vulnerabilities, complete medical history, and where you summoned the gall to disturb me. I may choose to acknowledge your existence, but not by such mundane means. Thank you, and remember: tread carefully, for death lurks at every shadowed crossing."
+21. "I see someone making through, you just need to be sure it is you"
 
 
 ## Names For Outsiders
@@ -51,7 +53,6 @@ Khindir Karawita Greatest lancer and strategist in his prime
 Ismail Ahmad Kanabawi The best horseman of all time
 Usman Abdul Jalil Sisha Smartest sage in the desert
 Muhammad Sumbul The bravest soldier of all time
-
 
 ## Ideas of stuff to do
 - Witch encounter offering human food

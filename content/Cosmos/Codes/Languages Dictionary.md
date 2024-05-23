@@ -119,8 +119,8 @@ tags:
 | Tauraru         | tau-RAH-roo              | dance                                          |
 | te              | teh                      | the                                            |
 | tū              | too                      | Standing up defiantly                          |
-| Tupã            | tu-pahn                  | Wildmother (Melora) as Protector               |
-| Tzapotlatena    | tza-po-tla-te-na         | Wildmother (Melora) as Huntress                |
+| Tupã            | tu-pahn                  | [[Melora, Goddess of the Wild and Sea - The Wildmother (N)\|Wildmother (Melora)]] as Protector               |
+| Tzapotlatena    | tza-po-tla-te-na         | [[Melora, Goddess of the Wild and Sea - The Wildmother (N)\|Wildmother (Melora)]] as Huntress                |
 | wanawana        | wah-nah-wah-nah          | endless numbers                                |
 | Yvoty           | ee-voh-chi               | Floral                                         |
 | tetã yvyra'ỹgua | teh-tã ee-vee-rah-uh-gwa | Invasors                                       |

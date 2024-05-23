@@ -1,3 +1,7 @@
+---
+tags:
+  - timeline
+---
 # The Shifting Sands of [[Aeloria]]'s Past
 
 In [[Aeloria]], the fabric of time is a tapestry woven by the interplay of diverse perspectives, cultures, and beliefs. The understanding of what came before is as varied as the myriad beings inhabiting this enchanting world. To know the past is to know the people that exist in the present;

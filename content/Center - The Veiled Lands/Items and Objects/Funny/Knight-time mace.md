@@ -1,3 +1,7 @@
+---
+tags:
+  - funny
+---
 # Knight Time Mace
 
 ## Description:

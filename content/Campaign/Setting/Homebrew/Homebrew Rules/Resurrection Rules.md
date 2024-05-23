@@ -1,3 +1,8 @@
+---
+tags:
+  - homebrew
+  - rule
+---
 This rule is from **Tal'Dorei Campaign Setting Reborn**
 # Resurrection Rules 
 Character death often becomes no more than a minor inconvenience in some campaigns. Once an adventuring party reaches a certain level, the spells available to return fallen comrades from the afterlife—including *revivify*, *raise dead*, and *resurrection*—make death no more than a temporary setback, potentially undermining one of the most significant elements of danger and threat in the campaign story. 

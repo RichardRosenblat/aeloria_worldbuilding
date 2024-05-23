@@ -1,3 +1,7 @@
+---
+tags:
+  - setting
+---
 # The Technological State of [[Aeloria]]
 
 This text elaborates on the current technological state of [[Aeloria]], as per the year 550 of the Age of Yggdrasil, and how it interacts with the magical elements of the world.
@@ -60,7 +64,7 @@ Cultural and governmental restrictions shape the technological landscape, with c
 
 **Magic Regulation**: In some regions, the use of magic is tightly controlled and regulated by the ruling authorities, with spellcasters required to register their abilities and adhere to strict guidelines. Failure to comply with these regulations can result in fines, imprisonment, or even execution.
 **Magic Acceptance**: In other regions, magic is revered and celebrated, with spellcasters held in high esteem and granted special privileges. These cities and settlements often serve as havens for those with magical abilities, offering training, resources, and protection to those who seek to hone their skills.
-**Necromancy**: The practice of necromancy with the intent of creating undead creatures is widely outlawed in [[Aeloria]], with many regions viewing it as a dark and forbidden art. But in some regions, mostly in the [[underdark]], necromancy is a respected and accepted practice.
+**Necromancy**: The practice of necromancy with the intent of creating undead creatures is widely outlawed in [[Aeloria]], with many regions viewing it as a dark and forbidden art. But in some regions, mostly in the [[underdark]], necromancy is a respected and accepted practice. Some cultures also consider ressurection magic and beings brought back to life by it as taboo, with the belief that the use of magic to defy death is an affront to the natural order of the world or it devalues the importance of life itself.
 
 ## Cultural Variances
 Diverse cultures and civilizations in [[Aeloria]] exhibit varied approaches to technology and innovation. While some eagerly embrace progress, others cling to time-honored traditions. Yet, the allure of newfound advancements transcends borders, driving the rapid dissemination of innovation across the realm.

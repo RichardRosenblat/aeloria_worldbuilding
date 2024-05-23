@@ -1,7 +1,6 @@
 ---
 tags:
   - "#magic_item"
-  - artefact
   - vestige
 ---
 > [!Todo] There is still much to do

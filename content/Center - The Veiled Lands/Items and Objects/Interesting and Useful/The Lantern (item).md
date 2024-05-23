@@ -1,3 +1,7 @@
+---
+tags:
+  - interesting_item
+---
 
 **The Lantern**
 

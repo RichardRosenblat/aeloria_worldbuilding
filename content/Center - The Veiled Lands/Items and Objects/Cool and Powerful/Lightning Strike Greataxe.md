@@ -1,3 +1,7 @@
+---
+tags:
+  - cool_item
+---
 # Lightning Strike Greataxe
 ## Description:
 The Lightning Strike Axe is a formidable weapon, forged from a combination of rare metals and imbued with powerful enchantments. Its imposing appearance features a sleek, polished steel blade with intricate runes etched along its length. The hilt is wrapped in supple leather, providing a firm grip for its wielder.

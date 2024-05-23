@@ -49,6 +49,7 @@ Goof items for gags and laughs
 | [[Knight-time mace]] |
 | [[Arrow of Slaying]] |
 | [[Thingmabop]]       |
+| [[Bottle-o'-party]]  |
 
 
 ## Cool and Powerful

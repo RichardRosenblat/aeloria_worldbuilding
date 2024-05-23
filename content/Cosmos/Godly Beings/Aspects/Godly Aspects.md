@@ -31,7 +31,7 @@ Aspects crafted by a single god serve specific roles:
 ### Joined Aspects
 
 Crafted by multiple gods, these aspects symbolize common ground and overlaps between domains:
-- **Harmony of Domains:** Representing the collaboration of gods like [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]] and Melora, a joined aspect might embody magical elemental disasters, foretelling impending magical destruction.
+- **Harmony of Domains:** Representing the collaboration of gods like [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]] and [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]], a joined aspect might embody magical elemental disasters, foretelling impending magical destruction.
 
 ## [[The Divine Accord|Divine Accord]] and Existence in the [[Material Plane|Prime Material]] Plane
 

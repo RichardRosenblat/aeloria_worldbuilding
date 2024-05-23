@@ -1,3 +1,7 @@
+---
+tags:
+  - ancient_tech
+---
 # [[Merlin]]'s Projection Pools
 
 [[Merlin]], the legendary wizard, crafted a series of magical instruments known as the Projection Pools. These shallow pools, filled with enchanted golden sand, serve as powerful tools for communication and observation across great distances.

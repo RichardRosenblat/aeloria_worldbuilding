@@ -51,7 +51,7 @@ To aid them in their divine task, they birthed a pantheon of [[True Gods]]:
 - **[[Ethedok]]**
 - **[[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]**
 - **[[Kord, God of Strength and Storms - The Stormlord (CN)|Kord]]**
-- **Melora**
+- **[[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]]**
 - **Moradin**
 - **Pelor**
 - **[[Nerull, God of Death, Fate, and Winter - The winterlord (LN)|Nerull]]**

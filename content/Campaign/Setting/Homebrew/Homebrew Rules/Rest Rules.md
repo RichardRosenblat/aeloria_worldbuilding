@@ -1,3 +1,8 @@
+---
+tags:
+  - homebrew
+  - rule
+---
 # Homebrew Rule: Rations Required for Long Rests
 
 ## Overview

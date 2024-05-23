@@ -1,3 +1,8 @@
+---
+tags:
+  - interesting_item
+  - alchemical
+---
 # Potion of Flos
 
 ## Description:
