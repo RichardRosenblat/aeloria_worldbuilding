@@ -1,10 +1,7 @@
 ---
 tags:
-  - "#plane"
-  - "#echo_plane"
 ---
 >[!info] You're seeing double!
 >This document is a duplicate! It was created with the intention of copying all the information of another file to another folder, to make alterations go to the original
 
-![[Ethereal Plane#Border Ethereal]]
-
+![[Aelor - The First City|Aelor (City)]]

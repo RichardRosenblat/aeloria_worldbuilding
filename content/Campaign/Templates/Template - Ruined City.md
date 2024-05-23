@@ -8,15 +8,21 @@
 (List the sounds that echo through the empty streets - like the distant howling of ghosts or the rustling of ancient scrolls)
 ### Aromas
 (Describe any lingering scents, such as musty tombs, decaying vegetation, or the faint scent of magic)
+### Known For
+(What was the city once known for or it's ruins are known for? Was it a center of learning, a hub of trade, or a place of dark rituals?)
 
 ## Architecture:
 
 ### Ruined Buildings
 (Detail the state of the city's structures - crumbling towers, collapsed homes, or overgrown ruins)
+### Materials
+(Identify the materials used in construction - are the buildings made of stone, wood, or enchanted crystal?)
 ### Previous Splendor
 (Mention what the city once looked like in its prime, contrasting with its current dilapidated state)
 ### Eerie Monuments
 (Highlight any ominous or mysterious architectural features that remain)
+### Layout
+(Describe the city's past and current layout - is it a maze of winding streets, a central plaza surrounded by buildings, or a series of concentric rings? Have the ruins blocked off certain areas or are reclaimed by nature?)
 
 ## City History:
 

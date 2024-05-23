@@ -13,15 +13,21 @@ A sense of eerie desolation pervades Zenith. It feels as if the weight of time h
 Within the city's cavernous depths, only the faint echoes of dripping water and tumbling rocks break the eerie silence. The occasional creaking of the ancient stone structures adds to the ghostly ambiance.
 ### Aromas
 The air is heavy with the scent of damp stone, and there's a faint mineral tang from the brine springs. The lingering aroma of magic is discernible, like a whisper of long-forgotten incantations.
+### Known For
+Zenith is a forgotten city, only known by a few scholars and adventurers as the deepest city in the [[Underdark]]. 
 
 ## Architecture:
 
 ### Ruined Buildings
 Zenith's buildings are crumbling, their once-grand architecture now reduced to decaying ruins. Over the ages, they've weathered the relentless passage of time.
+### Materials
+The city's structures were crafted from a unique blend of stone and crystal, now cracked and worn by centuries of neglect. The remnants of once-majestic spires and arches stand as silent sentinels to the city's former glory.
 ### Previous Splendor
-In its prime, Zenith was a marvel of subterranean civilization. Towering spires and intricate carvings adorned buildings now left to ruin.
+In its prime, Zenith was a marvel of civilization. Towering spires and intricate carvings adorned buildings now left to ruin.
 ### Eerie Monuments
 Mysterious monoliths rise from the city's streets, bearing inscriptions in languages lost to time. They hint at the city's ancient glory and its enigmatic past.
+### Layout
+Zenith's layout is a labyrinth of winding streets and shadowed alleyways, leading to forgotten chambers and hidden crypts. The city's depths are a maze of crumbling corridors and collapsed chambers, concealing untold secrets.
 
 ## City History:
 

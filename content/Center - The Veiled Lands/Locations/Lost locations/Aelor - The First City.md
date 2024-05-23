@@ -42,6 +42,8 @@ A sense of awe and wonder permeates the air of Aelor, as the city stands as a be
 The sounds of Aelor are a symphony of harmonious melodies, blending the soft chimes of enchanted bells with the gentle rustling of wind through lush gardens. Scholars engage in spirited debates in scholarly halls, while artisans craft intricate works of art in bustling workshops. The city's streets resound with lost conversations and laughter, creating a vibrant tapestry of sound that echoes through its ancient walls.
 ### Aromas: 
 A medley of fragrances fills the streets of Aelor, blending the scent of exotic spices from bustling marketplaces with the subtle aroma of mystical incense wafting from sacred temples. The air carries hints of freshly baked bread from artisan bakeries, mingling with the earthy scent of ancient tomes in scholarly archives.
+### Known For:
+Aelor is renowned for its dedication to knowledge and enlightenment, with scholars and mages flocking to the city in search of wisdom and inspiration. The city's artisans are celebrated for their exquisite craftsmanship, producing works of art that rival the beauty of the city itself. Aelor's temples and shrines are revered as sacred sanctuaries, where the faithful seek solace and guidance from the divine.
 
 ## Architecture:
 
@@ -74,9 +76,13 @@ Crystals and gems recovered from deep caverns are used to create intricate mosai
 ### Layout:
 Aelor's layout is meticulously organized, similar to a [[solar system]], it has a central plaza with the Luminous Citadel at its core, surrounded by concentric rings of streets and districts that radiate outwards like the rays of a sun. Each district contains their own plaza with circular streets and a central building, like a planet orbiting the sun, with the Luminous Citadel at the center of the city, serving as the focal point of Aelor's cultural and intellectual life. A great river flows through the city, dividing it into two halves, before curving around the Luminous Citadel and flowing outwards towards the sea with bridges and waterways connecting the various districts and providing a means of transportation and trade.
 ### Government: 
-The city is governed by a council of wise elders and esteemed scholars and priests, who convene in the Luminous Citadel to discuss matters of governance and policy. The council is fiercely dedicated to upholding the city's values of progress and enlightenment, ensuring that Aelor remains a beacon of civilization and culture in a world plagued by darkness and ignorance.
+The city is governed by a council of wise elders and esteemed scholars and priests, who convene in the Luminous Citadel to discuss matters of governance and policy. The council is fiercely dedicated to upholding the city's values of progress and enlightenment, ensuring that Aelor remains a beacon of civilization and culture in a world plagued by darkness and ignorance. The people of Aelor hold their leaders in high esteem, viewing them as paragons of wisdom and virtue who guide the city towards a brighter future.
+### Economy:
+Aelor's economy is driven by a thriving market of artisans, enchanters, and scholars, who produce and trade a wealth of goods and knowledge. The city's craftsmen are renowned for their exquisite works of art and magical artifacts, which are in high demand among collectors and connoisseurs. The Arcane Academy serves as a center of magical innovation and learning, attracting students and scholars from far and wide who seek to unlock the secrets of the arcane. Aelor's temples and shrines are also a source of economic prosperity, drawing pilgrims and worshippers who offer donations and tributes to the city's divine patrons.
 ### Social Hierarchy:
 While Aelor values meritocracy and egalitarianism, there exists a subtle hierarchy based on individuals' contributions to the city's cultural and intellectual advancement. Scholars, artisans, and civic leaders hold considerable influence, while laborers and artisans are respected for their essential roles in sustaining the city's infrastructure.
+### Species Relations:
+Aelor is a melting pot of diverse cultures and species, with humans, elves, dwarves, and gnomes living and working side by side in harmony. The city's inhabitants share a common dedication to knowledge and progress, overlooking differences to create a vibrant and inclusive community. The city's temples and shrines welcome worshippers of all faiths, fostering a spirit of unity and cooperation among its diverse populace.
 
 ## Geographical Points of Interest:
 
@@ -95,6 +101,9 @@ While Aelor values meritocracy and egalitarianism, there exists a subtle hierarc
 ### Gates and Entrances:
 Aelor's gates are adorned with intricate carvings depicting scenes of prosperity and enlightenment, welcoming travelers with open arms while warding off any potential threats with silent vigilance.
 
+### Current Calamity:
+During the days of Aelor, the differences between the [[Harmonious Gods]] and the [[Defiant Gods]] and their goals for creation reflected on the city's streets. Starting as a simple stereotyping of the worshippers of gods of different alignments, it escalated to a impatience and intolerance that led to [[The Great War (GW)#The Return of Primordial Forces|the awakening of the primordial forces]] and [[The Great War (GW)|The Great War]]
+
 ## Specific Details:
 
 ### Local Cuisine: 
@@ -109,7 +118,7 @@ Aelor's gates are adorned with intricate carvings depicting scenes of prosperity
 - **Dragon's Breath Festival**: A festival of fire and light, where the city's streets are lined with torches and lanterns, and citizens engage in friendly competitions of pyrotechnic skill and artistry. As a mean to celebrate the creation of the Dragons
 - **Arcane Parade**: A grand procession through the city's streets, where mages and enchanters showcase their magical talents and creations, dazzling spectators with displays of light and sound.
 
-### Guilds and Factions: 
+### Factions: 
 - **The Guild of Artificers**: A prestigious guild of master craftsmen and enchanters, renowned for their innovative magical creations and arcane expertise.
 - **The Scholars' Circle**: An esteemed association of intellectuals and researchers dedicated to the pursuit of knowledge and academic excellence.
 - **The Forgeborn Brotherhood**: A fellowship of skilled artisans and blacksmiths, who craft exquisite weapons and armor imbued with magical properties.

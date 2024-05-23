@@ -2,5 +2,5 @@
 tags: []
 ---
 >[!info] You're seeing double!
->This file is a duplicate! It was created with the intention of cloning another from in another folder, to make alterations go to the original
+>This document is a duplicate! It was created with the intention of copying all the information of another file to another folder, to make alterations go to the original
 

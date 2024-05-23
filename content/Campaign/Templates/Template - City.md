@@ -8,6 +8,8 @@
 (List distinctive sounds that fill the air - like the hum of magical energy, bustling markets, or the song of mythical creatures)
 ### Aromas: 
 (Detail the city's distinctive scents - exotic spices, mystical incense, or natural odors)
+### Known For:
+(What is the city famous for? Is it renowned for its artisans, scholars, or warriors?)
 
 ## Architecture:
 
@@ -23,9 +25,13 @@
 ### Layout:
 (Describe the city's layout - is it a labyrinth of narrow alleyways, organized districts, or concentric rings around a central hub?)
 ### Government: 
-(Explain the city's governing structure, and who holds the power)
+(Explain the city's governing structure, and who holds the power, and how they are viewed by the populace)
+### Economy:
+(Discuss the city's primary industries, trade routes, and economic strengths)
 ### Social Hierarchy:
 (Mention any notable class or social divisions that define the city)
+### Species Relations:
+(Describe the interactions between different humanoid species within the city)
 
 ## Geographical Points of Interest:
 
@@ -35,6 +41,8 @@
 (Include unique man-made structures or magical constructs that are integral to the city)
 ### Gates and Entrances:
 (Describe the city's gates and how they welcome or ward off travelers)
+### Current Calamity:
+(Explain any ongoing problems, crisis or disasters that affects the city)
 
 ## Specific Details:
 
@@ -42,11 +50,11 @@
 (Highlight distinctive local dishes and drinks)
 ### Festivals:
 (Describe annual or seasonal festivals celebrated by the city's residents)
-### Guilds and Factions: 
-(Identify influential guilds, organizations, or factions within the city)
+### Factions: 
+(List which factions, guilds, or organizations are present in the city and what is their level of influence)
 ### Legends and Lore: 
 (Share local myths, legends, or stories that enrich the city's history)
 
 ## Differentiating Element:
 
-(This could be a unique feature in your city. Anything that makes the city memorable)
+(This could be a unique feature in your city. Any notable trait that makes the city memorable)
