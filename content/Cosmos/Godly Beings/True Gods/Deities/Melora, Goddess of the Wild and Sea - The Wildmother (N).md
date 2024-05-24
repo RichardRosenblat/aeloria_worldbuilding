@@ -67,18 +67,18 @@ _Wavelike swirl_
 ## Political Structures
 
 ## Elemental Affinities
-| Elements |
-| -------- |
-| Water    |
+|    Elements   |
+| ------------- |
+| Water         |
 | Earth         |
-| Fire         |
-| Air         |
-| Electricity         |
-| Cold         |
-| Life         |
-| Transmutation         |
-| Gravity         |
-| Time         |
+| Fire          |
+| Air           |
+| Electricity   |
+| Cold          |
+| Life          |
+| Transmutation |
+| Gravity       |
+| Time          |
 
 ## Home Plane
 
@@ -104,7 +104,48 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ## Myths
 
+### Creation of [[Aeloria]]
+![[Aeloria#Creation]]
 
+### The Creation of Life
+![[The Creation (CR)#Creation of Life]]
+
+### The Creation of [[Mossloch]]
+![[Mossloch#Creation]]
+
+### The Remaking of the night sky
+In the ancient times, when the world was young and the gods walked among mortals, unlimited by domains, there dwelled Melora, the radiant Goddess of that created the Wilderness and Seas. She was known far and wide as the Wildmother, her beauty rivaling the splendor of the sun-kissed waves and the untamed forests.
+
+In her divine grace and beauty, Melora walked the realms without any romantic companions. Many marveled at her majesty, yet none could win all her love. And so it was that her worshippers, yearning for love in their own lives, beseeched her for guidance and solace.
+
+Hearing the fervent prayers of her devoted followers, Melora was moved with compassion. Calling forth a powerful cloud to carry her, she ascended into the expanse that is the sky. From her vantage point high above, she looked around, surveying the vastness of the heavens. Then, as the stars danced in their eternal waltz, she knew what she must do.
+
+With a melodious whistle that echoed through the heavens, Melora summoned the winds to bring forth her free-spirited sister, [[Avandra, Goddess of Change and Luck - The Changebringer (CG)|Avandra, the Changebringer]]. [[Avandra, Goddess of Change and Luck - The Changebringer (CG)|Avandra]] appeared, her form swept by the currents of the air and her whimsical presence glowing with the laughter of change and luck. Together, the two goddesses stood, their powers intertwining as they gazed upon the expanse of the sky.
+
+Melora, her voice like the gentle caress of the breeze, shared with [[Avandra, Goddess of Change and Luck - The Changebringer (CG)|Avandra]] her desire to bestow love upon their worshippers. [[Avandra, Goddess of Change and Luck - The Changebringer (CG)|Avandra]], with a mischievous smile playing upon her lips, understood the yearning of mortals for the adventures of love and companionship. And so, united in purpose, they waved their hands and called forth the celestial beings, their angels who dwelled among the heavens.
+
+As the angels gathered close, eager to learn from the goddesses of nature and fate, Melora and [[Avandra, Goddess of Change and Luck - The Changebringer (CG)|Avandra]] began to impart their wisdom. Melora spoke with her voice that rolled like the waves upon a beach, singing of the secrets of love, the stars and nature, drawing upon her deep connection to the wild and the sea. [[Avandra, Goddess of Change and Luck - The Changebringer (CG)|Avandra]], her voice filled with the thrill of change and possibility, revealed the mysteries of fate, free will, and luck.
+
+With rapt attention, the celestial beings listened as the goddesses wove their teachings into the fabric of the cosmos. Together, they moved swiftly, crafting a masterpiece in the sky above—a luminous map adorned with twinkling stars and shimmering galaxies. Each constellation became a guidepost, leading seekers on their journey to discover the love they sought, guided by the harmonious blend of Melora's compassion and [[Avandra, Goddess of Change and Luck - The Changebringer (CG)|Avandra]]'s playful touch.
+
+And so, from that moment forth, the sky became a celestial chart of love, a testament to Melora's boundless compassion and grace and [[Avandra, Goddess of Change and Luck - The Changebringer (CG)|Avandra]]’s yearning for constant change and adventure. Those who felt lost and alone could look to the heavens for guidance, following the shining pathways to the arms of their destined partner or partners.
+
+With hearts filled with hope and determination, lovers embarked on their quests, guided by the gentle winds of [[Avandra, Goddess of Change and Luck - The Changebringer (CG)|the Changebringer]] and the stars of Wildmother. And as they ventured forth, they discovered that true love awaited them, patiently waiting to be found amidst the wonders of the world.
+
+For Melora and [[Avandra, Goddess of Change and Luck - The Changebringer (CG)|Avandra]], had bestowed upon mortals the greatest gift of all—the promise that love, in all its forms, would always be within reach, waiting to be discovered by those who dared to look for it.
+
+### The Creation of Firbolg with Sehanine
+
+### The Creation of Satyr with [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]
+
+### The Creation of Tabaxi
+
+### The Creation of Triton
+
+### The Creation of Lizardfolk with Zehir
+
+### Jovaris and the Wildmother
+![[Jovaris (Moon)#Name]]
 
 for the god above can you create:
 

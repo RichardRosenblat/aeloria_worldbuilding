@@ -19,9 +19,9 @@ This table provides a general overview of different types of settlements, includ
 | Hamlet          | 20-150       | 1-2                | Small                     | Limited   | Basic       | Informal                                   | Rural, tightly-knit community                          |
 | Village         | 150-1,000    | 2-3                | Small to Medium           | Basic     | Limited     | Elders or elected council                  | Agrarian, communal spaces                              |
 | Town            | 1,000-6,000  | 3-5                | Medium                    | Diverse   | Moderate    | Mayor or town council                      | Markets, diverse professions                           |
-| City            | 6,000-25,000 | 5-10               | Medium to Large           | Complex   | Strong      | Mayor and council, bureaucracy             | Districts, trade hubs, strong defense                  |
-| Metropolis      | 25,000+      | 10+                | Large                     | Extensive | Very Strong | Mayor, council, specialized administrators | Multiple districts, advanced infrastructure            |
-| Capital         | 50,000+      | 10+                | Very Large                | Vast      | Exceptional | King/Queen, central government             | Cultural and political center, advanced infrastructure |
+| City            | 6,000-10,000 | 5-10               | Medium to Large           | Complex   | Strong      | Mayor and council, bureaucracy             | Districts, trade hubs, strong defense                  |
+| Metropolis      | 10,000+      | 10+                | Large                     | Extensive | Very Strong | Mayor, council, specialized administrators | Multiple districts, advanced infrastructure            |
+| Capital         | 25,000+      | 10+                | Very Large                | Vast      | Exceptional | King/Queen, central government             | Cultural and political center, advanced infrastructure |
 
 ### Explanation of Columns
 

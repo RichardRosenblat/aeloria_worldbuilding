@@ -24,6 +24,7 @@ Happy adventuring and stay curious!
 | [[Critical Momentum]]          |
 | [[Resurrection Rules]]         |
 | [[Rest Rules]]                 |
+| [[Levels Beyond 20th]]         |
 
 ## Homebrew Character Options
 

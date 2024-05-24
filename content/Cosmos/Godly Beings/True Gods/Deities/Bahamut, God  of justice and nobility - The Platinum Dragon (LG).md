@@ -220,8 +220,5 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ### Creation of the Metalic Dragons
 ![[The Calm Age (CA)#The Birth of Dragons]]
 
-### [[Celestial Harp]]
-![[Celestial Harp#^creationStory]]
-
 ### The attack during [[The Great War (GW)|The Great War]] against [[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]
 ![[The Great War (GW)#The Wound of Gruumsh, God of Destruction - The Ruiner (CE) Gruumsh]]

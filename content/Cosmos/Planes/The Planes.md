@@ -6,12 +6,12 @@ tags:
 
 ## Overview
 
-In the vast and intricate cosmology of [[Aeloria]], the multiverse is comprised of various planes, each with its unique characteristics, energies, and interconnections. These planes serve as the foundational elements shaping the reality within the campaign world. Here, we delve into the [[Metaphysical Planes]], [[Echo Planes]], [[Liminal Planes]], [[Metapsychic Planes]], and the mysterious [[Non-realities]] that collectively form the fabric of [[Aeloria]]'s existence.
+In the cosmology of [[Aeloria]], the multiverse is comprised of various planes, each with its unique characteristics, energies, and interconnections. These planes serve as the foundational elements shaping the reality within the campaign world. Here are tdescribed the [[Metaphysical Planes]], [[Echo Planes]], [[Liminal Planes]], [[Metapsychic Planes]], and the mysterious [[Non-realities]] that collectively form the fabric of [[Aeloria]]'s existence.
 
 ## [[Metaphysical Planes]]
 
 ### Definition
-The [[Metaphysical Planes]], also known as the "[[Metaphysical Planes|Inner Planes]]" or the "Matrix of Existence," constitute the fundamental underpinning of [[Aeloria]]'s reality. They form a lattice upon which all physical matter and existence are woven.
+The [[Metaphysical Planes]], also known as the "[[Metaphysical Planes|Inner Planes]]" or the "Base of Matter," constitute the fundamental underpinning of [[Aeloria]]'s reality. They form a lattice upon which all physical matter and existence are woven.
 
 ### Characteristics
 - **Elemental Forces:** Source of elemental forces, influencing magic and defining the core structure of the world.
@@ -46,8 +46,4 @@ Travel between the [[Metapsychic Planes|Outer Planes]] involves astral projectio
 The [[Non-realities]] exist beyond [[the Greater Limit]], where reality unravels into cosmic tapestries of wonders and horrors. These planes, like the [[The Eternal Workshop|Phlogiston]] Currents and the Maddening Domains of [[The Far Realm]], challenge mortal comprehension.
 
 ### Exploration
-Venturing into the [[Non-realities]] requires navigating the tumultuous currents, where reality and madness blur into an enigmatic dance on the precipice of existence.
-
-## Conclusion
-
-[[Aeloria]]'s multiverse is a tapestry woven with diverse planes, each contributing to the grand narrative of high-fantasy exploration, continuity, and change. From the foundational [[Metaphysical Planes]] to the mysterious [[Non-realities]], adventurers in [[Aeloria]] are presented with a vast and intricate cosmos to explore and unravel.
+Venturing into the [[Non-realities]] requires navigating the tumultuous currents, where reality and madness blur into an enigmatic precipice of existence.
