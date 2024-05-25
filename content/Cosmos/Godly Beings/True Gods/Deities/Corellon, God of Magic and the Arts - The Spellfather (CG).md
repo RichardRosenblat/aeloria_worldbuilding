@@ -206,6 +206,9 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ![[Ainulindalë#The Ainulindalë Song of the True Gods Gods]]
 ![[The Creation (CR)#The Creation of Drows]]
 
+### The Creation of the Satyrs with [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]]
+![[The Creation (CR)#The Creation of The Satyr]]
+
 ### [[Corellon's Grace]]
 ![[Corellon's Grace#Myths]]
 

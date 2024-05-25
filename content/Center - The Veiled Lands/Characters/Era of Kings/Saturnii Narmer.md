@@ -9,7 +9,7 @@ tags:
 ## 1. General Information:
 - **Memorable Phrase:** "In the tapestry of life, let charisma be the thread that weaves bonds of unity."
 - **Name:** Saturnii Narmer
-- **Race:** Half-Elf
+- **Species:** Half-Elf
 - **Class/Profession:** Sorceress
 - **Alignment:** Neutral Good
 - **Background:** Faction Agent

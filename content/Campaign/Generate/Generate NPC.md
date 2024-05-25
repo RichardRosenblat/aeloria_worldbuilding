@@ -12,7 +12,7 @@ ALL new NPCs created must have their information answered in this format:
 ## 1. General Information:
 - **Memorable Phrase:** A distinctive quote or saying that captures the essence of the NPC's personality.
 - **Name:** The NPC's given name.
-- **Race:** The creature's race or species.
+- **Species:** The creature's species.
 - **Class/Profession:** The NPC's class or profession.
 - **Alignment:** The NPC's moral and ethical alignment.
 - **Background:** The NPC's life before the current events in your campaign.
@@ -91,7 +91,7 @@ This is an example of an npc created using this model
 # 1. General Information:
 - **Memorable Phrase:** "In the tapestry of life, let charisma be the thread that weaves bonds of unity."
 - **Name:** Iluma Napt
-- **Race:** Half-Elf
+- **Species:** Half-Elf
 - **Class/Profession:** Sorceress
 - **Alignment:** Neutral Good
 - **Background:** Charismatic Explorer

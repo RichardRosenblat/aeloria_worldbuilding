@@ -14,7 +14,7 @@ A summary of the culture's historical background, including significant events, 
 
 #### Social Structure:
 
-Outline of the social hierarchy, including classes, roles, and any notable distinctions based on factors such as race, gender, or occupation.
+Outline of the social hierarchy, including classes, roles, and any notable distinctions based on factors such as species/races, gender, or occupation.
 
 #### Values and Beliefs:
 

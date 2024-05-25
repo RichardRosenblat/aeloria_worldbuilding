@@ -96,6 +96,6 @@ tags:
 11. [ ] Create elemental [[titans]]
 12. [ ] make Alliance bank account types
 13. [ ] Add important Past Figures
-14. [ ] Add races
+14. [ ] Add races/species
 15. [ ] Create elder elementals
 16. [ ] Commision artist for [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] apperance

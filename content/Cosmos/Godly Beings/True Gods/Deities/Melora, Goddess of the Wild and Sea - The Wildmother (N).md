@@ -41,7 +41,7 @@ aliases:
 ## Extra Titles
 The Lady of Nature: Melora, Goddess of Nature
 The Protector of the Sea: Melora, Goddess of the Oceans
-The Huntress of the Forest: Melora, Goddess of the Hunt
+The Wild Beauty: Melora, Goddess of the Hunt
 The Spirit of the Elements: Melora, Goddess of the Elements
 ## Commandments
 - _Protect the untamed wilderness from exploitation and destruction._
@@ -135,10 +135,14 @@ With hearts filled with hope and determination, lovers embarked on their quests,
 For Melora and [[Avandra, Goddess of Change and Luck - The Changebringer (CG)|Avandra]], had bestowed upon mortals the greatest gift of all—the promise that love, in all its forms, would always be within reach, waiting to be discovered by those who dared to look for it.
 
 ### The Creation of Firbolg with Sehanine
+![[The Creation (CR)#The Creation of The Firbolgs]]
 
 ### The Creation of Satyr with [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]
+![[The Creation (CR)#The Creation of The Satyr]]
 
 ### The Creation of Tabaxi
+
+![[The Creation (CR)#The Creation of The Tabaxi]]
 
 ### The Creation of Triton
 

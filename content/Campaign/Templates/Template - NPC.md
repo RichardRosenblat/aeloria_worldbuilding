@@ -5,7 +5,7 @@ tags: []
 ## 1. General Information:
 - **Memorable Phrase:** A distinctive quote or saying that captures the essence of the NPC's personality.
 - **Name:** The NPC's given name.
-- **Race:** The creature's race or species.
+- **Species:** The creature's species/race.
 - **Class/Profession:** The NPC's class or profession.
 - **Alignment:** The NPC's moral and ethical alignment.
 - **Background:** The NPC's life before the current events in your campaign.

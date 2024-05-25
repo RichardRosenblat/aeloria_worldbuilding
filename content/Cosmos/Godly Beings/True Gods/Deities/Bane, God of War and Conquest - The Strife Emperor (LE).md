@@ -63,7 +63,7 @@ The Annihilator: Bane, God of Total Victory
 
 ## Avatars
 ### Aerian (Human) Generic
-> A dark reflection of the honorable warrior, the Strife Emperor is often depicted as a brutish man clad in jagged black armor. Heads dangle from his belt and unblinking, piercing yellow eyes peer through the shadow that obscures his helmeted face. His followers usually depict him as belonging to their own race, out of a sense of superiority.
+> A dark reflection of the honorable warrior, the Strife Emperor is often depicted as a brutish man clad in jagged black armor. Heads dangle from his belt and unblinking, piercing yellow eyes peer through the shadow that obscures his helmeted face. His followers usually depict him as belonging to their own species, out of a sense of superiority.
 ![[Bane Appearance.png|400]]
 
 ## Religious Practices
