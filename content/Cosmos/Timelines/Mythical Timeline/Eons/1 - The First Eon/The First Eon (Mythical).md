@@ -9,7 +9,7 @@ aliases:
 # The First Eon
 
 >[!tip] This is an Eon
->This **Eon** of the [[Mythical Timeline]] spans between **infinity years ago** and **100 Thousand years ago** 
+>This **Eon** of the [[Mythical Timeline]] spans between **time immemorial** and **100 Thousand years ago** 
 
 ```
 <span 

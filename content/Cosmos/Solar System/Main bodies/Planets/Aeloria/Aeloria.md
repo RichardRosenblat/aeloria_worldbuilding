@@ -89,7 +89,7 @@ Aeloria is accompanied by a single moon, a celestial companion that influences t
 
 ### Description
 
-Scattered across Aeloria's diverse landscapes are the remnants of ancient ruins created by the legendary wizard [[Merlin]] over 550 years ago. These ruins serve as a testament to [[Merlin]]'s exploration and magical prowess.
+Scattered across Aeloria's diverse landscapes are the remnants of ancient ruins created by the legendary wizard [[Merlin]] more than 550 years ago. These ruins serve as a testament to [[Merlin]]'s exploration and magical prowess.
 
 ### Purpose
 

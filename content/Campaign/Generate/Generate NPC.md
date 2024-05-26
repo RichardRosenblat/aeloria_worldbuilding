@@ -116,7 +116,7 @@ This is an example of an npc created using this model
 	2. **Fashion and Style:** Inspired by her charismatic presence, Iluma has an interest in fashion and style. She enjoys expressing herself through unique wardrobe choices and accessories that reflect her energetic personality.
 	3. **Musical Appreciation:** Iluma has a fondness for music, especially pieces that resonate with her confident and charismatic character. She may share her favorite tunes and even attend musical events when time allows.
 	4. **Exploration:** As the co-founder and leader of the Adventurers' Guild, Iluma is passionate about exploration and the thrill of discovering new territories. The joy of uncovering hidden wonders and expanding knowledge motivates her.
-	5. **Unity and Cooperation:** Iluma strongly believes in the power of unity and cooperation among different races and factions. She enjoys fostering positive relations and collaboration to create a harmonious world.
+	5. **Unity and Cooperation:** Iluma strongly believes in the power of unity and cooperation among different species and factions. She enjoys fostering positive relations and collaboration to create a harmonious world.
 - **Dislikes:**
 	1. **Manipulation and Coercion:** Despite her proficiency in enchantment magic, Iluma strongly disapproves of manipulation and coercion. She believes in the ethical use of magical abilities and frowns upon those who use charm spells for malicious purposes.
 	2. **Complacency:** Iluma harbors a fear of stagnation and complacency. She dislikes situations where individuals or groups become too comfortable and cease to strive for growth and exploration.
@@ -202,7 +202,7 @@ This is an example of an npc created using this model
 - **Long-term Goals:**
 	1. **World Exploration:** Iluma envisions the Adventurers' Guild as a key player in uncovering the secrets of the post-tempest world. Her long-term goal is to explore new uncharted realms, discover ancient civilizations, and contribute to a comprehensive understanding of the cosmos.
 	2. **Arcane Legacy:** Iluma aims to leave behind a legacy of magical knowledge and understanding. She aspires to establish a magical academy or library dedicated to the study of enchantment, charm, and the elemental forces that shape the world.
-	3. **Unity Among Races:** In the long term, Iluma hopes to promote unity among the diverse races and factions in the world. Through shared exploration and collaboration, she believes that understanding and cooperation can overcome historical animosities.
+	3. **Unity Among Races:** In the long term, Iluma hopes to promote unity among the diverse species and factions in the world. Through shared exploration and collaboration, she believes that understanding and cooperation can overcome historical animosities.
 - **Motivations for Actions:**
 	1. **Protection of the Guild:** Iluma is motivated by a deep sense of responsibility for the well-being of the Adventurers' Guild and its members. She takes decisive actions to ensure their safety and success in the face of challenges.
 	2. **Curiosity and Wonder:** The innate curiosity that led Iluma to follow a pink moth as a child still drives her. She is motivated by a sense of wonder and excitement about the mysteries the world holds, pushing her to continually explore and discover.
@@ -225,7 +225,7 @@ This is an example of an npc created using this model
 	2. **Diplomatic Mission:** Concerned about potential conflicts, Iluma might request the party's assistance in a diplomatic mission to establish alliances or ease tensions between different factions in the world.
 	3. **Exploration of the Unknown:** Inspired by her own thirst for exploration, Iluma could propose an expedition into an uncharted region, seeking the party's expertise in overcoming the challenges it may present.
 - **Moral Beliefs:**
-	1. **Unity and Cooperation:** Iluma strongly believes in the power of unity and cooperation. She advocates for understanding and collaboration among different races and factions, striving to create a harmonious world.
+	1. **Unity and Cooperation:** Iluma strongly believes in the power of unity and cooperation. She advocates for understanding and collaboration among different species and factions, striving to create a harmonious world.
 	2. **Ethical Use of Magic:** While skilled in enchantment, Iluma emphasizes the ethical use of magical abilities. She disapproves of manipulation and coercion, encouraging the responsible use of enchantment spells.
 - **Conversation Prompts:**
 	1. **"Have you ever experienced the thrill of discovering something truly magical?"**

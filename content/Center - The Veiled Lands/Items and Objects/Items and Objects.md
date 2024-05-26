@@ -8,10 +8,11 @@ tags:
 # Vestiges 
 Items created by the [[True Gods]] that are of great power
 
-| Vestige Types           |
-| ----------------------- |
-| [[Defiant Vestiges]]    |
-| [[Harmonious Vestiges]] |
+| Vestige Types              |
+| -------------------------- |
+| [[Defiant Vestiges]]       |
+| [[Harmonious Vestiges]]    |
+| [[Yggdrasil's Morphblade]] |
 
 # Regular
 Common items that are usually seen around the world with low levels of rarity
@@ -106,7 +107,8 @@ Scientific arcane items used for studying the magical properties of the world
 # Ancient Technology and Clockwork
 Item created many years ago by past civilizations and scholars
 
-| Ancient Technology and Clockwork |
-| --------------------------------- |
-| [[Three Dimensional Maneuver Gear]]  |
-| [[Projection Pool]]                |
+| Ancient Technology and Clockwork    |
+| ----------------------------------- |
+| [[Three Dimensional Maneuver Gear]] |
+| [[Projection Pool]]                 |
+| [[Bowl of Limbo's Matter]]          |

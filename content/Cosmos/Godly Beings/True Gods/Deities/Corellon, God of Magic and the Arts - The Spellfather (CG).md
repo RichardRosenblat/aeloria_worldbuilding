@@ -70,7 +70,7 @@ _Eight-pointed star_
 2. **The Weave's Dance:**
     - Devotees gather in sacred places, often adorned with symbols of the eight-pointed star, to cast spells, perform intricate dances and movements symbolizing the interweaving of magic and the arts. This ritual is believed to invoke Corellon's favor and blessings upon the participants.
 3. **[[Ainulindalë]] Recitation:**
-    - Clerics and devout followers gather to recite a symbolic version of [[Ainulindalë]], the [[Ainulindalë|Song of the Gods]], in a harmonious manner. This recitation is considered a sacred act, aiming to resonate with the celestial forces that shaped the fey races and to honor Corellon's role as the creator.
+    - Clerics and devout followers gather to recite a symbolic version of [[Ainulindalë]], the [[Ainulindalë|Song of the Gods]], in a harmonious manner. This recitation is considered a sacred act, aiming to resonate with the celestial forces that shaped the fey species and to honor Corellon's role as the creator.
 4. **Celestial Offerings:**
     - Followers make offerings of artistic creations, such as paintings, sculptures, or finely crafted items, in sacred spaces dedicated to Corellon. These offerings are believed to please the Spellfather and strengthen the connection between the mortal realm and the divine.
 5. **Dance of the [[Fey Sisters]]:**

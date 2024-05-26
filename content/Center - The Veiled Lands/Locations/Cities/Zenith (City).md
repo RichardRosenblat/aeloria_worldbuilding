@@ -36,7 +36,7 @@ Zenith's downfall remains shrouded in myth and legend. Some say a cataclysmic wa
 ### Encounters
 In the shadows of Zenith, apparitions of past residents wander, forever trapped in a spectral existence. Otherworldly creatures lurk in the abyssal gloom, guarding the city's darkest secrets.
 ### Former Residents
-The city was once a hub of arcane knowledge and trade, inhabited by a multitude of races from the [[Underdark]]. Scholars, artisans, and merchants once thrived in Zenith, their legacy now a silent testament to the city's former vitality.
+The city was once a hub of arcane knowledge and trade, inhabited by a multitude of species from the [[Underdark]]. Scholars, artisans, and merchants once thrived in Zenith, their legacy now a silent testament to the city's former vitality.
 
 ## Geographical Points of Interest:
 

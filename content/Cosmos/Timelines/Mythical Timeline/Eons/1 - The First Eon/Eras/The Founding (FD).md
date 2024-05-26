@@ -10,7 +10,7 @@ aliases:
 # The Founding (FD)
 
 > [!tldr] This is an Era
-> This **Era** of the [[Mythical Timeline]] spans between **infinity years ago** and **1 billion years ago**
+> This **Era** of the [[Mythical Timeline]] spans between **time immemorial** and **1 billion years ago**
 ```
 <span 
 	  class='ob-timelines' 

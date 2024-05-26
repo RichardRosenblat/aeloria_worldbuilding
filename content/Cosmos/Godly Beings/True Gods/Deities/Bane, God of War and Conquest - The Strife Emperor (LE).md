@@ -86,7 +86,7 @@ Real: Sure, let's delve into the religious practices and rituals of the follower
 5. **Triumphant Processions:**
     - Victorious warriors organize processions to celebrate their conquests. These events involve parading through conquered territories, displaying symbols of the Iron Fist and showcasing the spoils of war.
 6. **Curse of Strife Remembrance:**
-    - Periodic ceremonies are conducted to remember the Curse of Strife, emphasizing the perpetual conflict embedded in the goblinoid races. This serves as a reminder of the necessity of chaos and conflict in the world.
+    - Periodic ceremonies are conducted to remember the Curse of Strife, emphasizing the perpetual conflict embedded in the goblinoid species. This serves as a reminder of the necessity of chaos and conflict in the world.
 7. **Nightly Battle Hymns:**
     - At nightfall, worshippers gather to sing martial hymns and chants praising Bane. These hymns recount the tales of the Strife Emperor's conquests and inspire the faithful to continue their relentless pursuit of power.
 8. **Conquest Festivals:**
@@ -107,7 +107,7 @@ Here are some cultural norms observed in various Bane-worshiping societies withi
 5. **Individualistic Pursuit of Power**
     - Influenced by Bane's teachings, societies emphasize the individual's pursuit of power and dominance. Members are driven to excel on a personal level, with the belief that individual strength is the pinnacle of might.
 6. **Goblinoid Inferiority Beliefs:**
-    - In regions where Bane is revered as the creator of goblinoids, cultural norms often emphasize the inferiority of goblinoid races. This can result in hierarchical structures where goblinoids are positioned at the lower end of the social order, reinforcing a sense of subservience and acknowledging their role as pawns in the battles of Bane.
+    - In regions where Bane is revered as the creator of goblinoids, cultural norms often emphasize the inferiority of goblinoid species. This can result in hierarchical structures where goblinoids are positioned at the lower end of the social order, reinforcing a sense of subservience and acknowledging their role as pawns in the battles of Bane.
 7. **Warrior's Code of Conduct:**
     - Bane-worshipping cultures often adhere to a strict warrior's code that dictates honorable conduct in battle. This code may include rules for the treatment of defeated enemies, the use of certain weapons, and adherence to specific battle strategies.
 8. **Anniversary Celebrations of Conquests:**

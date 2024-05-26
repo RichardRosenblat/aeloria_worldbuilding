@@ -34,7 +34,7 @@ tags:
     2. **Fashion and Style:** Inspired by her charismatic presence, Saturnii has an interest in fashion and style. She enjoys expressing herself through unique wardrobe choices and accessories that reflect her energetic personality.
     3. **Musical Appreciation:** Saturnii has a fondness for music, especially pieces that resonate with her confident and charismatic character. She may share her favorite tunes and even attend musical events when time allows.
     4. **Exploration:** As the co-founder and leader of the Adventurers' Guild, Saturnii is passionate about exploration and the thrill of discovering new territories. The joy of uncovering hidden wonders and expanding knowledge motivates her.
-    5. **Unity and Cooperation:** Saturnii strongly believes in the power of unity and cooperation among different races and factions. She enjoys fostering positive relations and collaboration to create a harmonious world.
+    5. **Unity and Cooperation:** Saturnii strongly believes in the power of unity and cooperation among different species and factions. She enjoys fostering positive relations and collaboration to create a harmonious world.
     6. **Artistic Expression:** Saturnii has a hidden talent for art, particularly in sketching magical creatures and landscapes in her Explorer's Journal. This artistic expression allows her to capture the essence of the guild's expeditions.
     7. **Protecting Sacred Sites:** Inspired by her encounter with a celestial being, Saturnii is dedicated to protecting sacred sites. She values positive relations with celestial beings and ensures the guild's expeditions respect these sacred places.
     8. **Stargazing:** During rare moments of respite, Saturnii enjoys stargazing from the rooftop of the guildhouse. It's a quiet, personal ritual that allows her to reflect on the vastness of the cosmos and find inspiration.
@@ -48,7 +48,7 @@ tags:
     4. **Lack of Curiosity:** Saturnii values curiosity and a thirst for knowledge. She dislikes individuals who lack interest in exploring the unknown or who reject the potential wonders the world has to offer.
     5. **Disrespect for Sacred Sites:** Due to her celestial connection, Saturnii strongly dislikes any disrespect shown towards sacred sites. She expects guild members to approach such places with reverence and caution.
     6. **Irresponsible Use of Magic:** Saturnii disapproves of the irresponsible use of magic, especially when it comes to endangering the safety of others. She expects guild members to exercise caution and responsibility in their magical practices.
-    7. **Disharmony Among Races:** Saturnii actively works towards unity among different races and factions. She dislikes any actions or attitudes that promote division or animosity among the diverse inhabitants of the world.
+    7. **Disharmony Among Races:** Saturnii actively works towards unity among different species and factions. She dislikes any actions or attitudes that promote division or animosity among the diverse inhabitants of the world.
     8. **Betrayal of Trust:** As a leader and friend, Saturnii deeply dislikes betrayal of trust. She values loyalty and expects guild members to uphold the principles of trust and collaboration within the Adventurers' Guild.
     9. **Injustice:** Saturnii has a strong sense of justice and dislikes witnessing unfair treatment or injustice. She may intervene or take action to address situations where individuals or groups are treated unjustly.
     10. **Negative Impact on Nature:** Saturnii dislikes any actions that have a negative impact on nature, especially the habitats of magical creatures. She advocates for responsible exploration that minimizes harm to the environment.
@@ -131,7 +131,7 @@ tags:
 - **Long-term Goals:**
     1. **World Exploration:** Saturnii envisions the Adventurers' Guild as a key player in uncovering the secrets of the post-tempest world. Her long-term goal is to explore new uncharted realms, discover ancient civilizations, and contribute to a comprehensive understanding of the cosmos.
     2. **Arcane Legacy:** Saturnii aims to leave behind a legacy of magical knowledge and understanding. She aspires to establish a magical academy or library dedicated to the study of enchantment, charm, and the elemental forces that shape the world.
-    3. **Unity Among Races:** In the long term, Saturnii hopes to promote unity among the diverse races and factions in the world. Through shared exploration and collaboration, she believes that understanding and cooperation can overcome historical animosities.
+    3. **Unity Among Races:** In the long term, Saturnii hopes to promote unity among the diverse species and factions in the world. Through shared exploration and collaboration, she believes that understanding and cooperation can overcome historical animosities.
 - **Motivations for Actions:**
     1. **Protection of the Guild:** Saturnii is motivated by a deep sense of responsibility for the well-being of the Adventurers' Guild and its members. She takes decisive actions to ensure their safety and success in the face of challenges.
     2. **Curiosity and Wonder:** The innate curiosity that led Saturnii to follow a pink moth as a child still drives her. She is motivated by a sense of wonder and excitement about the mysteries the world holds, pushing her to continually explore and discover.
@@ -154,7 +154,7 @@ tags:
     2. **Diplomatic Mission:** Concerned about potential conflicts, Saturnii might request the party's assistance in a diplomatic mission to establish alliances or ease tensions between different factions in the world.
     3. **Exploration of the Unknown:** Inspired by her own thirst for exploration, Saturnii could propose an expedition into an uncharted region, seeking the party's expertise in overcoming the challenges it may present.
 - **Moral Beliefs:**
-    1. **Unity and Cooperation:** Saturnii strongly believes in the power of unity and cooperation. She advocates for understanding and collaboration among different races and factions, striving to create a harmonious world.
+    1. **Unity and Cooperation:** Saturnii strongly believes in the power of unity and cooperation. She advocates for understanding and collaboration among different species and factions, striving to create a harmonious world.
     2. **Ethical Use of Magic:** While skilled in enchantment, Saturnii emphasizes the ethical use of magical abilities. She disapproves of manipulation and coercion, encouraging the responsible use of enchantment spells.
 - **Conversation Prompts:**
     1. **"Have you ever experienced the thrill of discovering something truly magical?"**

@@ -6,7 +6,7 @@ tags:
 ---
 # The Arcaneborn: Living Manifestations of Magic
 
-In the realms of Aloria, the Arcaneborn are beings shaped by the intricate dance of arcane forces. Born of ancient enchantments, they bear visual alterations reflecting their affinity for one of seven schools of magic: Abjuration, Conjuration, Divination, Enchantment, Illusion, Necromancy, and Transmutation. Marked by ethereal glows and shimmering eyes, they thrive in magical enclaves and faced a history of persecution with resilience. Each subrace embodies a distinct magical essence, from the guardians of Abjuration to the reality-shapers of Transmutation. The Arcaneborn's journey is one of self-discovery, acceptance, and the pursuit of balance in a world where magic is both wondrous and formidable.
+In the realms of Aloria, the Arcaneborn are beings shaped by the intricate dance of arcane forces. Born of ancient enchantments that affected humanoid species, they bear visual alterations reflecting their affinity for one of seven schools of magic: Abjuration, Conjuration, Divination, Enchantment, Illusion, Necromancy, and Transmutation. Marked by ethereal glows and shimmering eyes, they thrive in magical enclaves and faced a history of persecution with resilience. Each subspecies embodies a distinct magical essence, from the guardians of Abjuration to the reality-shapers of Transmutation. The Arcaneborn's journey is one of self-discovery, acceptance, and the pursuit of balance in a world where magic is both wondrous and formidable.
 
 ## Appearance of the Arcane
 Arcaneborn individuals exhibit distinctive magical alterations to their appearance. This might include ethereal glows, runes on their skin, blue skin or other magical manifestations. The degree of alteration varies among individuals, making each Arcaneborn visually unique. Their eyes might shimmer with magical energy, and when they cast spells, the arcane energy often manifests more visibly.
@@ -39,13 +39,13 @@ _Elemental Manifestations:_ Transmutation Arcaneborn might have parts of their b
 _Prismatic Gleam:_ Their skin or hair may have a prismatic gleam, reflecting light in a rainbow around them.
 
 ## Knowledge among bretheren
-Arcaneborn communities are often found in regions rich with magical energy, such as ancient ruins, arcane academies, or hidden enclaves in the heart of mystical forests. However, individual Arcaneborn can be found living among other races in diverse environments, drawn to places where the balance of magical forces is evident.
+Arcaneborn communities are often found in regions rich with magical energy, such as ancient ruins, arcane academies, or hidden enclaves in the heart of mystical forests. However, individual Arcaneborn can be found living among other species in diverse environments, drawn to places where the balance of magical forces is evident.
 
 ## Persecuted in old days
 The Arcaneborn have a complex history, marked by the interplay of magical forces. In the past, their kind faced persecution and misunderstanding due to their magical alterations. This history provides a rich backdrop for storytelling, allowing for themes of acceptance, redemption, and the consequences of wielding powerful magic. Additionally, conflicts may arise from the different magical schools, with rivalries and alliances shaping the dynamics of Arcaneborn society.
 
 ## Peaceful but wary
-Arcaneborn often have a diplomatic stance with other races, as they understand the importance of maintaining a balance between different civilizations. However, their history of persecution has left some Arcaneborn wary of other races, particularly those who held prejudices against magic in older times. Interaction with other races may involve efforts to dispel myths and foster understanding.
+Arcaneborn often have a diplomatic stance with other species, as they understand the importance of maintaining a balance between different civilizations. However, their history of persecution has left some Arcaneborn wary of other species, particularly those who held prejudices against magic in older times. Interaction with other species may involve efforts to dispel myths and foster understanding.
 
 ### Magically inclined
 Arcaneborn are naturally inclined toward classes that involve magic, such as wizards, sorcerers, and bards. Their affinity for different magical schools makes them versatile spellcasters. Backgrounds tied to academia, magical research, or mystical traditions align well with the Arcaneborn, reflecting their connection to the arcane arts.
@@ -53,7 +53,7 @@ Arcaneborn are naturally inclined toward classes that involve magic, such as wiz
 The Arcaneborn's signature traits include Arcane Affinity, Tainted Form, and Arcane Knowledge. These traits collectively represent their inherent connection to magic, their visually distinctive appearances, and their proficiency in understanding arcane mysteries.
 
 ## Arcane division
-Each subrace of the Arcaneborn is associated with a specific school of magic, influencing their abilities and strengths. The Abjuration Arcaneborn, for example, excels in defensive magic with the Warding Presence trait, making them resilient protectors. On the other hand, the Illusion Arcaneborn can cast the minor illusion cantrip, enhancing their abilities in deception and trickery. Each subrace brings a unique flavor to the Arcaneborn, allowing players to tailor their characters to specific magical themes and playstyles.
+Each subspecies of the Arcaneborn is associated with a specific school of magic, influencing their abilities and strengths. The Abjuration Arcaneborn, for example, excels in defensive magic with the Warding Presence trait, making them resilient protectors. On the other hand, the Illusion Arcaneborn can cast the minor illusion cantrip, enhancing their abilities in deception and trickery. Each subspecies brings a unique flavor to the Arcaneborn, allowing players to tailor their characters to specific magical themes and playstyles.
 
 
 **Ability Score Increase:**
@@ -82,11 +82,11 @@ Common, and one additional language of your choice.
 
 - *Arcane Knowledge:* You gain proficiency in the Arcana skill.
 
-## Subraces:
+## Subspecies:
 
 ### Abjuration Arcaneborn:
   - *Ability Score Increase:* +1 Wisdom
-  - *Warding Presence:* You can use your reaction to impose disadvantage on an attack roll against a creature within 5 feet of you.
+  - *Warding Presence:*  Once per long rest you can use your reaction to give yourself or a creature within 30 feet of you temporary hit points equal half your total hit points rounded down.
 
 ### Conjuration Arcaneborn:
   - *Ability Score Increase:* +1 Dexterity
@@ -98,11 +98,11 @@ Common, and one additional language of your choice.
 
 ### Enchantment Arcaneborn:
   - *Ability Score Increase:* +1 Charisma
-  - *Hypnotic eyes:* When you make eye contact with a creature within 30 feet of you, you can use your reaction to impose disadvantage on the next attack roll made against you by that creature before the start of your next turn. Once you use this feature, you can't use it again until you finish a short or long rest.
+  - *Hypnotic eyes:* When you make eye contact with a creature within 30 feet of you, you can use your reaction to impose disadvantage on the next attack roll or saving throw that creature makes against you or your allies. Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ### Illusion Arcaneborn:
   - *Ability Score Increase:* +1 Dexterity
-  - *Illusory Veil:* You can cast the minor illusion cantrip, if you already have this cantrip you can pick another from the school of illusion.
+  - *Illusory Veil:* You can cast the minor illusion cantrip without needing any components. Once you reach 3rd level, you can cast the silent image spell once per long rest. You can pick which spellcasting ability you use for these spells.
 
 ### Necromancy Arcaneborn:
   - *Ability Score Increase:* +1 Constitution
@@ -110,7 +110,7 @@ Common, and one additional language of your choice.
 
 ### Transmutation Arcaneborn:
   - *Ability Score Increase:* +1 Constitution
-  - *Resilient Form:* Once per long rest, you can spend 10 minutes focusing on a non-magical material with a size no larger than 1 cubic foot, transforming it into a substance of equal value. For example, you could turn a handful of sand into gemstones or a piece of wood into metal. The transmutation lasts for 1 hour.
+  - *Resilient Form:* Once per long rest, you can spend 10 minutes focusing on a non-magical and non-living material at touch range with a size no larger than 3 cubic feet, transforming it into a object of the same material. For example, you could turn a handful of sand into colored glass or a piece of wood into a sculputre or mend a broken armor.
 
 ## Roleplaying Tips:
 Arcaneborn are often contemplative and attuned to the magical energies that flow through their being. They may be cautious in their actions, aware of the delicate balance that magic brings to the world. Some Arcaneborn may embrace their magical nature openly, while others might seek to hide their arcane features, fearing prejudice from those who don't understand the nuances of their existence. As a species shaped by magical forces, Arcaneborn may have a natural curiosity about the arcane arts, and many find themselves drawn to careers as scholars, wizards, or magic users.

@@ -4,7 +4,7 @@ tags:
 ---
 # The mythical timeline
 
-This is a timeline created by myths, divine guidance, folklore, epics and tales. It tells stories of the [[True Gods]] and the creation of the world and races.
+This is a timeline created by myths, divine guidance, folklore, epics and tales. It tells stories of the [[True Gods]] and the creation of the world and species.
 
 ## The timeline summarized
 

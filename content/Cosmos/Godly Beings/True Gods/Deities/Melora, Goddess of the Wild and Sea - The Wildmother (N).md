@@ -141,15 +141,18 @@ For Melora and [[Avandra, Goddess of Change and Luck - The Changebringer (CG)|Av
 ![[The Creation (CR)#The Creation of The Satyr]]
 
 ### The Creation of Tabaxi
-
 ![[The Creation (CR)#The Creation of The Tabaxi]]
 
 ### The Creation of Triton
+![[The Creation (CR)#The Creation of The Triton]]
 
 ### The Creation of Lizardfolk with Zehir
 
 ### Jovaris and the Wildmother
 ![[Jovaris (Moon)#Name]]
+
+### The Creation of [[Yggdrasil's Morphblade]]
+![[Yggdrasil's Morphblade#History]]
 
 for the god above can you create:
 

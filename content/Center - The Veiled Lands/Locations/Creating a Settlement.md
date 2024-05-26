@@ -183,7 +183,7 @@ Every settlement has something that sets it apart from others, whether it's a na
 |45| Buildings made of interwoven vines and flowers.|
 |46| Districts dedicated to the worship of different cosmic entities.|
 |47| Arcane-powered street performers who manipulate reality in their acts.|
-|48| Floating platforms for aerial races on magical creatures.|
+|48| Floating platforms for aerial species on magical creatures.|
 |49| A district where emotions manifest as floating orbs of light.|
 |50| A mystical forge that can craft weapons with elemental enhancements.|
 |51| Buildings made from the feathers of celestial beings.|
