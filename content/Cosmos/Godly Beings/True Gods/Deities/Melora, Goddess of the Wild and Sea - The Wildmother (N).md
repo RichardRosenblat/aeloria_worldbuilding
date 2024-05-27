@@ -147,6 +147,7 @@ For Melora and [[Avandra, Goddess of Change and Luck - The Changebringer (CG)|Av
 ![[The Creation (CR)#The Creation of The Triton]]
 
 ### The Creation of Lizardfolk with Zehir
+![[The Creation (CR)#The Creation of Lizardfolk]]
 
 ### Jovaris and the Wildmother
 ![[Jovaris (Moon)#Name]]

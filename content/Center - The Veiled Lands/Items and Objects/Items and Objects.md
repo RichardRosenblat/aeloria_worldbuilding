@@ -70,6 +70,7 @@ Strong items to be used with caution by the dm to not break the campaign
 | [[The Wings' Epistle]]               |
 | [[Pagida]]                           |
 | [[Lightning Strike Greataxe]]        |
+| [[Starshard Sphere]]                 |
 
 
 ## Books and Texts

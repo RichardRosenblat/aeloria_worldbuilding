@@ -1,7 +1,7 @@
-# Bowl of Matter from Limbo
+# Bowl of Matter from [[Limbo]]
 
 ## Description:
-This item appears as a simple bowl full of sand. In reality, the bowl contains matter taken from the plane of Limbo, stabilized by an intricate enchantment carved into the bowl's surface. When a user places their hands around the bowl and concentrates on an image of an object, the matter begins to form into the object envisioned. The level of detail and complexity of the object affects the time and concentration required for its formation. The created object is resized to fit within a cylinder with a diameter equal to the bowl and a height twice the diameter of the bowl. If concentration is broken or contact with the bowl is lost, the matter reverts to sand.
+This item appears as a simple bowl full of sand. In reality, the bowl contains matter taken from the plane of [[Limbo]], stabilized by an intricate enchantment carved into the bowl's surface. When a user places their hands around the bowl and concentrates on an image of an object, the matter begins to form into the object envisioned. The level of detail and complexity of the object affects the time and concentration required for its formation. The created object is resized to fit within a cylinder with a diameter equal to the bowl and a height twice the diameter of the bowl. If concentration is broken or contact with the bowl is lost, the matter reverts to sand.
 
 ## Rarity and Type:
 *Rare Wondrous Item*
@@ -14,7 +14,7 @@ No
 
 ## Properties:
 - **Shape Matter:** By placing your hands around the bowl and concentrating on an image of an object, the matter in the bowl will start to form into the object you are thinking of. The matter will reshape itself to better fit the object, adapting to the level of detail you are thinking of. More complex objects take longer to form and require more concentration.
-- **Size Limitation:** Any creation will be resized to fit within a cylinder with a diameter equal to the bowl and a height twice the diameter of the bowl.
+- **Size Limitation:** Any creation will be resized to fit within a cylinder with a diameter equal to the bowl's and a height twice the diameter of the bowl.
 - **Reversion to Sand:** The matter becomes sand if concentration is broken or if contact with the bowl is lost.
 
 ## Activation:
@@ -56,7 +56,8 @@ If matter is removed from the bowl, roll a d20 each round to determine the trans
 - None
 
 ## History:
-The Bowl of Matter from Limbo was created by students of a powerful Archmage who tried to impress their master with their ingenuity. The students managed to stabilize the chaotic matter from Limbo, creating a unique and useful item. However, the Archmage rejected the gift, deeming it too dangerous to be used carelessly. The students, disappointed but undeterred, kept the bowl for themselves and used it to create various objects for their own amusement.
+The Bowl of Matter from [[Limbo]] was created by students of a powerful Archmage who tried to impress their master with their ingenuity. The students managed to stabilize the chaotic matter from [[Limbo]], creating a unique and useful item. However, the Archmage rejected the gift, deeming it too dangerous to be used carelessly. The students, disappointed but undeterred, kept the bowl for themselves and used it to create various objects for their own amusement.
 
 ## Additional:
-- The enchantment that stabilizes the matter from Limbo is extremely delicate. Any attempt to tamper with or alter the enchantment could result in the bowl's destruction and an uncontrolled release of chaotic energy.
+- The enchantment that stabilizes the matter from [[Limbo]] is extremely delicate. Any attempt to tamper with or alter the enchantment could result in the bowl's destruction and an uncontrolled release of chaotic energy.
+- A bowl of 15 cm in diameter contains 1 liter of matter from [[Limbo]], enough to create 1000 ball bearings 

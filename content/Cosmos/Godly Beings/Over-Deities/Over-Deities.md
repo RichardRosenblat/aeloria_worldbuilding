@@ -39,6 +39,8 @@ The [[Divine Spark|Axiomatic Nullity]]'s intense nothingness, existing at the in
 
 ## The Twin Goddesses: [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]
 
+"One to create, one to destroy; The Architect and The Falling Tower; The Weaver and The Unraveler; The twin goddesses, two limits of the same line, they are the ones above and below all. Never one without the other." - The teaching repeated by the followers of the Twin Goddesses.
+
 ### The Nature of [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]
 
 [[Aena, goddess of kindness, creation and order - The Architect (LG)]], and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)]], embody opposing forces. Together, they represent the dual embodiment of immutable law, the eternal interplay of two extremes in every instance of space and time.
@@ -49,9 +51,9 @@ The [[Divine Spark|Axiomatic Nullity]]'s intense nothingness, existing at the in
 
 ## Religious Practices
 
-1. **Harmonic Rituals:** Devotees engage in rituals that symbolize the harmonious balance between creation and destruction. These rituals may involve creating and subsequently dismantling artistic displays, representing the perpetual cycle of [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]]'s creation and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]'s undoing.
+1. **Harmonic Rituals:** Devotees engage in rituals that symbolize the harmonious balance between creation and destruction. These rituals often involve creating intricate art like mandalas made from sand, and then detroying them once they are done to restart the process from the scraps, representing the perpetual cycle of [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]]'s creation and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]'s undoing.
     
-2. **Dual Affinity Meditation:** Followers practice meditation that acknowledges both [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]]'s elemental affinity and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]'s untamed elements. This meditation seeks to find inner balance, drawing strength from both forces to navigate the complexities of existence.
+2. **Dual Affinity Meditation:** Followers practice meditation, often with another follower, that acknowledges both [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]]'s elemental affinity and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]'s untamed elements. This meditation seeks to find inner balance, drawing strength from both forces to navigate the complexities of existence.
     
 3. **Equilibrium Ceremonies:** Special ceremonies are held to honor the concept of equilibrium, emphasizing the coexistence of order and chaos. Offerings are made to signify the importance of maintaining balance in personal and societal endeavors.
     
@@ -124,7 +126,7 @@ The [[Divine Spark|Axiomatic Nullity]]'s intense nothingness, existing at the in
 ## Cosmic dreamers stories
 
 ### [[The First Eon (Mythical)|The First Eon]]
-![[The Founding (FD)#Aena, goddess of kindness, creation and order - The Architect (LG) Aena and Kryela, goddess of malice, destruction and chaos - Undoing (CE) Kryela]]
+![[The Founding (FD)#Aena, goddess of kindness, creation and order - The Architect (LG) Aena and Kryela, goddess of malice, destruction and chaos - The Undoing (CE) Kryela]]
 ![[The Founding (FD)#The Eternal Workshop]]
 ![[The Founding (FD)#The Pantheon]]
 ![[The Founding (FD)#Sealing The Red End]]
