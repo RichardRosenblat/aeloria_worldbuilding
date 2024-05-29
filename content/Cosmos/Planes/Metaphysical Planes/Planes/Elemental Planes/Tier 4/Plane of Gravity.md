@@ -45,7 +45,7 @@ tags:
 	Within the Gravity plane, there are cities and settlements adapted to gravitational forces. Floating cities are built on asteroids and have gravitational control systems to maintain stability. Buildings and structures are designed considering the influence of gravity, with suspended platforms and pathways that adapt to gravitational changes.
 
 - Elemental Landmarks:
-	Landmarks in the Gravity plane include celestial and astronomical landmarks, such as living constellations and bright [[Astronomical objects|nebulas]]. Additionally, there are special locations, such as the "Gravitational Vale," a region where multiple gravitational wells converge, creating complex and challenging gravitational effects.
+	Landmarks in the Gravity plane include celestial and astronomical landmarks, such as living constellations and bright stardust clouds. Additionally, there are special locations, such as the "Gravitational Vale," a region where multiple gravitational wells converge, creating complex and challenging gravitational effects.
 
 - Elemental Landscapes:
 	Landscapes in the Gravity plane are diverse and fascinating. They range from open fields of floating asteroids to planetary landscapes with stunning vistas. Each elemental landscape has unique features related to gravity, such as hills that defy gravity, floating mountains, and canyons where gravity seems nonexistent. The imposing presence of the central black hole, with its brilliant accretion disk, adds a touch of grandeur to the plane.
