@@ -4,24 +4,27 @@ tags:
 ---
 # Campaign Table of Contents
 
-| Category                    | Contents                                 |
-| --------------------------- | ---------------------------------------- |
-| Useful links                | [[Dm Links]]                             |
-| Creating a Settlement       | [[Creating a Settlement]]                |
-| Prices of magic items       | [[Magic Item prices]]                    |
-| Generate markdown wiki text | [[Generate wiki text]]                   |
-| Generate quests             | [[Generate quest boards]]                |
-| Generating NPCs             | [[Generate NPC]]                         |
-| Items folder                | [[Items and Objects]]                    |
-| Dictionary for languages    | [[Languages Dictionary]]                 |
-| Homebrew monsters           | [[Bestiary]]                             |
-| Calendar                    | [[Aelorian Calendar]]                    |
-| list of plans               | [[Important names to create later]]      |
-| Myths                       | [[Myth - Flor]]                          |
-| NPC random backstories      | [[NPC Backstories]]                      |
-| Random buildings | [[Random Buildings]] |
+| Category                    | Contents                            |
+| --------------------------- | ----------------------------------- |
+| Useful links                | [[Dm Links]]                        |
+| Creating a Settlement       | [[Creating a Settlement]]           |
+| Prices of magic items       | [[Magic Item prices]]               |
+| Generate markdown wiki text | [[Generate wiki text]]              |
+| Generate quests             | [[Generate quest boards]]           |
+| Generating NPCs             | [[Generate NPC]]                    |
+| Items folder                | [[Items and Objects]]               |
+| Dictionary for languages    | [[Languages Dictionary]]            |
+| Homebrew monsters           | [[Bestiary]]                        |
+| Calendar                    | [[Aelorian Calendar]]               |
+| list of plans               | [[Important names to create later]] |
+| Myths                       | [[Myth - Flor]]                     |
+| NPC random backstories      | [[NPC Backstories]]                 |
+| Random buildings            | [[Random Buildings]]                |
 
-# Random Quotes
+## Songs to remember to use
+Makora - https://youtu.be/vOWSDBKFjQ4?si=bvnU6ZeeT4W2ENHs
+Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
+## Random Quotes
 
 1. "Are you aiming for greatness or avoiding disapointment"
 2. “the only evil that can be excused as necessary is the one that nation controls”
@@ -56,6 +59,7 @@ Usman Abdul Jalil Sisha Smartest sage in the desert
 Muhammad Sumbul The bravest soldier of all time
 
 ## Ideas of stuff to do
+
 - Witch encounter offering human food
 - Villain encounter in ball playing libertango
 - Dwarf warrior protecting village for his human wife, he cant tell other people more because he couldn't make justice of her beauty 
@@ -65,6 +69,14 @@ Muhammad Sumbul The bravest soldier of all time
 - [[Merlin]] creates at least these 2 spells,
 	- [[Merlin]]’s Divine Audience (talk to [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]), causes stars to change colors
 	- [[Merlin]]'s Transcendent Transformation (fuses with the [[Setting Info|Principles]]), becomes the Witch song image
+## Quest ideas
+- Quest of clearing a goblin cave (with the scroll)
+- Quest with studying a stasis bubble
+- Quest being wrongly arrested 
+- Quest of elemental convergence
+- Quest of proctect of the wild hunt
+- quest of blood moon
+- Quest of sudden multiple events
 - Quest with making and helpig a undergraduate in their research of mermaids
 	- crafted from a modified wagon
 	- reinforced with adamantine
@@ -154,7 +166,7 @@ In our next class, we shall expand upon the concept of planes and their role in 
 
 Remember to seek truth in spell and honor [[Corellon, God of Magic and the Arts - The Spellfather (CG)|the spellfather]]’s gift
 
-# Text about [[False Hydra]]
+## Text about [[False Hydra]]
 
 As the [[Solis|sun]] reaches its zenith, bathing the renowned town of Eldor in a warm midday glow, you approach its gates with the hum of prosperity in the air. Eldor, a hub of commerce and bustling activity, is known far and wide for its ever-expanding trade routes and vibrant marketplaces.
 

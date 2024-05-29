@@ -120,6 +120,11 @@ Single, unblinking eye that bleeds
 [[The Abyss|The Infinite Layers of the Abyss]]
 ## Champions
 
+|Previous Champions|
+| ---- |
+|[[Makora| General Makora, The Unstoppable Butcher]]|
+
+
 ## Holidays
 
 | Holidays |

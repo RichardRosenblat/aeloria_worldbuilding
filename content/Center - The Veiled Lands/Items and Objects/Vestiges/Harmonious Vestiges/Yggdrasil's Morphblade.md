@@ -1,3 +1,10 @@
+---
+tags:
+  - artefact
+  - magic_item
+  - vestige
+  - harmonious_vestige
+---
 # Yggdrasil's Morphblade
 
 ## Description:

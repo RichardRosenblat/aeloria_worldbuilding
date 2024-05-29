@@ -2,6 +2,7 @@
 tags:
   - "#cool_item"
   - "#magic_item"
+  - consumable
 ---
 **Item Name:** Amulet of Dark Summoning
 

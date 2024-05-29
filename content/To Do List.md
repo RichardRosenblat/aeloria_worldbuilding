@@ -24,55 +24,55 @@ tags:
 10. [x] Add list to gods
 11. [x] Create general text about divine beings and explain that their full classification is Non-Elemental Divine Beings
 12. [x] Create Devil King
+13. [x] Create spell reversal and elemental reversion 
 ---
 
 # To Do
 1. [ ] Create the [[true gods]] 
-2. [ ] Create spell reversal and elemental reversion 
-3.  [ ] Create Materials
-4. [ ] Create Alchemical Ingredients
-5.  [ ] Create factions
-6.  [ ] Create great old ones
+2.  [ ] Create Materials
+3. [ ] Create Alchemical Ingredients
+4.  [ ] Create factions
+5.  [ ] Create great old ones
 	1. [ ] Make new symbols for the great old ones
 	2. [ ] make boons for their followers
 	3. [ ] make initiation procedures for their cults
-7. [ ] Rewrite items using template
+6. [ ] Rewrite items using template
 	1. [ ] Magic items
 	2. [ ] Achemical Items
-8. [ ] Create coins
-9.  [ ] Create Celestial Phenomena
-10.  [ ] Create Phenomena
-11. [ ] Rewrite handouts
-12. [ ] write rule bout time effect in stuff https://www.youtube.com/watch?v=sgxWM_TD-Mk
-13. [ ] Create Map
-14. [ ] Create Biomes
-15. [ ] Create Seas/Oceans
-16. [ ] Make forgotten gods of old worships
-17. [ ] Create [[Marcus Valerian]]
-18. [ ] Create Monsters
-19. [ ] Finish unfinished NPCs
-20. [ ] Create more holidays (must be revisited once the world is more developed)
+7. [ ] Create coins
+8.  [ ] Create Celestial Phenomena
+9.  [ ] Create Phenomena
+10. [ ] Rewrite handouts
+11. [ ] write rule bout time effect in stuff https://www.youtube.com/watch?v=sgxWM_TD-Mk
+12. [ ] Create Map
+13. [ ] Create Biomes
+14. [ ] Create Seas/Oceans
+15. [ ] Make forgotten gods of old worships
+16. [ ] Create [[Marcus Valerian]]
+17. [ ] Create Monsters
+18. [ ] Finish unfinished NPCs
+19. [ ] Create more holidays (must be revisited once the world is more developed)
     1.  [x] Create global holidays
     2.  [ ] Create religious holidays (one for each god)
     3.  [ ] Create historic holidays (only recorded history)
     4.  [ ] Create cultural holidays (3/4 for each culture)
-21. [ ] Add info on planes taking inspiration in this playlist https://www.youtube.com/playlist?list=PLR1G6DpFDXdOtqGkkBXS3e-BWm7OyF_cA
-22. [ ] Create more monsters
-23. [ ] Create custom Downtime activities
-24. [ ] Create symbols/sigils for planets and moon
-25. [ ] Create the texts in the "Names mentioned that still need creating"
-26. [ ] Create [[Lightborn]]
-27. [ ] Create [[Shadowborn]]
-28. [ ] Write down info about the character options 
-29. [ ] Create types of ruins, their info like characterisits, materials, categorizations etc and categories
-30. [ ] Create Elements/Magic
-31. [ ] Make ways to recognize members of factions, and diferentials of each rank
-32. [ ] Make saturnii's corruption arc
+20. [ ] Add info on planes taking inspiration in this playlist https://www.youtube.com/playlist?list=PLR1G6DpFDXdOtqGkkBXS3e-BWm7OyF_cA
+21. [ ] Create more monsters
+22. [ ] Create custom Downtime activities
+23. [ ] Create symbols/sigils for planets and moon
+24. [ ] Create the texts in the "Names mentioned that still need creating"
+25. [ ] Create [[Lightborn]]
+26. [ ] Create [[Shadowborn]]
+27. [ ] Write down info about the character options 
+28. [ ] Create types of ruins, their info like characterisits, materials, categorizations etc and categories
+29. [ ] Create Elements/Magic
+30. [ ] Make ways to recognize members of factions, and diferentials of each rank
+31. [ ] Make saturnii's corruption arc
 	1. [ ] Crown of dominion
 	2. [ ] https://youtu.be/U-LNI8JZYtE?si=lELf2yYZ0wVaV1-4
-33. [ ] Create Cultures and expand on it
-34. [ ] Create Kingdoms
-35. [ ] Create story of cultural erasure and signs of forgotten cultural detritus
+32. [ ] Create Cultures and expand on it
+33. [ ] Create Kingdoms
+34. [ ] Create story of cultural erasure and signs of forgotten cultural detritus
 ## These tasks can be done after the capaign starts
 1. [ ] Finish re checking the [[elemental planes]]
     1. [ ] [[Feywild]]
@@ -86,16 +86,17 @@ tags:
     1.  [ ] Create physical timeline
     2.  [ ] Create recorded timeline
 3. [ ] Create Champions of the gods
-4. [ ] Create story about each of [[the planes]]
-5. [ ] Create [[Harmonious vestiges]]
-6. [ ] Create [[defiant vestiges]]
-7. [ ] Make cultural differences in the timeline and gods appearances
-8. [ ] Create the other godly beings
-9. [ ] Create automatas
-10. [ ] Create elemental personification on the elements
-11. [ ] Create elemental [[titans]]
-12. [ ] make Alliance bank account types
-13. [ ] Add important Past Figures
-14. [ ] Add races/species
-15. [ ] Create elder elementals
-16. [ ] Commision artist for [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] apperance
+4. [ ] Create Makora
+5. [ ] Create story about each of [[the planes]]
+6. [ ] Create [[Harmonious vestiges]]
+7. [ ] Create [[defiant vestiges]]
+8. [ ] Make cultural differences in the timeline and gods appearances
+9. [ ] Create the other godly beings
+10. [ ] Create automatas
+11. [ ] Create elemental personification on the elements
+12. [ ] Create elemental [[titans]]
+13. [ ] make Alliance bank account types
+14. [ ] Add important Past Figures
+15. [ ] Add races/species
+16. [ ] Create elder elementals
+17. [ ] Commision artist for [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] apperance

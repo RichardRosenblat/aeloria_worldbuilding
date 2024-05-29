@@ -71,6 +71,7 @@ Strong items to be used with caution by the dm to not break the campaign
 | [[Pagida]]                           |
 | [[Lightning Strike Greataxe]]        |
 | [[Starshard Sphere]]                 |
+| [[Makora's Scroll]]                  |
 
 
 ## Books and Texts

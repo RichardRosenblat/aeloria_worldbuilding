@@ -62,9 +62,89 @@ _Wavelike swirl_
 
 ## Religious Practices
 
+1. **Nature Walks**: Devotees embark on guided nature walks through forests, meadows, and along coastlines, led by knowledgeable priests or priestesses. These walks serve as a way to connect with the natural world, appreciate Melora's creation, and reflect on the balance and harmony of existence.
+    
+2. **Offerings to the Sea**: Followers make offerings to the sea as a sign of reverence to Melora's domain. Offerings may include flowers, shells, fruits, or other natural items, which are placed into the water with prayers for blessings and protection.
+    
+3. **Wilderness Preservation**: Followers actively participate in environmental conservation efforts, such as tree planting, beach clean-ups, and wildlife habitat restoration. These actions reflect their commitment to protecting the untamed wilderness, in accordance with Melora's commandments.
+    
+4. **Rites of Passage**: Ceremonies marking significant life events, such as birth, coming of age, marriage, and death, are conducted in natural settings. These rites often involve rituals that symbolize the individual's connection to nature and their place within the cosmic balance.
+    
+5. **Elemental Invocations**: Priests and priestesses perform rituals to invoke the elemental forces associated with Melora, such as water, earth, fire, and air. These invocations seek to harmonize with the natural elements and draw upon their power for blessings and guidance.
+    
+6. **Sacred Festivals**: Followers gather for seasonal festivals celebrating the cycles of nature, such as the solstices, equinoxes, and harvests. These festivals feature feasting, music, dance, and storytelling, honoring Melora's role as the goddess of the wild and the seas.
+    
+7. **Animal Blessings**: Priests and priestesses bless animals, both domestic and wild, as representatives of Melora's diverse creation. These blessings may involve ceremonies performed at animal sanctuaries, zoos, or during livestock herding events, fostering a sense of respect and stewardship towards all living beings.
+    
+8. **Mediation and Reflection**: Followers engage in solitary meditation or group reflection sessions in natural settings, such as secluded groves, mountain overlooks, or quiet beaches. These practices encourage introspection, spiritual renewal, and communion with Melora's divine presence in the natural world.
+    
+9. **Elemental Pilgrimages**: Pilgrimages are undertaken to sacred sites associated with the elements, such as waterfalls, volcanic craters, ancient forests, or windswept plains. These journeys offer opportunities for spiritual growth, communion with nature, and deepening one's connection to Melora's elemental realm.
+    
+10. **Creation of Nature Artifacts**: Artisans create handmade crafts and artifacts inspired by nature, such as wooden carvings, woven baskets, pottery, and jewelry adorned with natural materials. These creations serve as offerings to Melora and symbols of devotion to the wild and the sea.
+
 ## Cultural Norms
 
+1. **Environmental Stewardship**: A deep respect for nature and commitment to environmental preservation are central. This includes sustainable living practices, such as conserving resources, recycling, and supporting ecological balance.
+    
+2. **Community Gatherings**: Frequent communal activities and gatherings are common, often centered around nature. Festivals, feasts, and seasonal celebrations are integral parts of the social fabric, fostering a sense of unity and collective appreciation for the natural world.
+    
+3. **Respect for Wildlife**: Hunting and fishing are regulated by strict ethical guidelines to ensure balance and respect for wildlife. Excessive hunting or wasteful practices are heavily frowned upon, and there is a strong emphasis on coexisting harmoniously with animals.
+    
+4. **Ritual Bathing**: Regular cleansing rituals in natural bodies of water, such as rivers, lakes, and seas, are practiced to symbolize purification and renewal. These rituals often mark important life transitions or seasonal changes.
+    
+5. **Natural Aesthetics**: Art, architecture, and clothing often draw inspiration from natural forms and materials. Homes are built to blend with the environment, and personal attire often incorporates elements like feathers, shells, and plant fibers.
+    
+6. **Oral Tradition**: Storytelling is a revered tradition, with tales of the wild, the sea, and the goddess Melora being passed down through generations. These stories often contain moral lessons about balance, respect for nature, and the interconnectedness of all life.
+    
+7. **Herbal Medicine**: The use of natural remedies and herbal medicine is widespread. Knowledge of medicinal plants and their uses is highly valued, and healers play a crucial role in the community.
+    
+8. **Seasonal Rhythms**: Daily life and activities are closely aligned with the seasons and natural cycles. Agricultural practices, fishing, and even social events are timed to harmonize with the rhythms of nature.
+    
+9. **Craftsmanship**: There is a strong tradition of craftsmanship, with skills in creating tools, clothing, and art from natural materials. These crafts are not only functional but also carry cultural and spiritual significance.
+    
+10. **Pilgrimage and Travel**: Undertaking pilgrimages to natural sacred sites is a common practice. These journeys are seen as opportunities for spiritual growth, personal reflection, and deeper connection to Melora’s domains.
+    
+11. **Balance and Moderation**: A cultural emphasis on balance and moderation in all aspects of life. Excessive behavior, whether in consumption, work, or leisure, is discouraged in favor of a harmonious lifestyle.
+    
+12. **Intergenerational Knowledge Transfer**: Elders are highly respected for their wisdom and experience. They play a key role in educating the younger generation about cultural traditions, environmental stewardship, and the worship of Melora.
+    
+13. **Mutual Aid**: A strong sense of community support and mutual aid. People help each other with tasks like building, harvesting, and childcare, reflecting the collective unity principle.
+    
+14. **Mindfulness and Presence**: Practicing mindfulness and being present in the moment are encouraged, particularly during interactions with nature. This fosters a deeper appreciation and connection to the environment.
+    
+15. **Respect for Natural Phenomena**: Natural phenomena, such as storms, earthquakes, and tides, are revered and respected as expressions of Melora’s power. Communities prepare for and respond to these events with rituals and practical measures.
+
 ## Political Structures
+
+1. **Council of Elders**: Leadership is often vested in a council of elders, who are respected for their wisdom, experience, and deep connection to nature. This council makes decisions based on consensus and the well-being of the community and environment.
+    
+2. **Tribal Confederacies**: Communities may be organized into tribal confederacies, where each tribe maintains autonomy but collaborates on larger issues such as environmental protection, defense, and trade. This structure allows for local governance while fostering unity among different groups.
+    
+3. **Chieftainships**: Some communities might have a chieftain who leads based on merit and respect rather than hereditary right. The chieftain is often chosen for their deep understanding of nature, leadership skills, and ability to mediate conflicts.
+    
+4. **Shamanic Leadership**: Spiritual leaders, such as shamans or druids, often play a significant role in governance. They provide guidance on matters of spiritual and ecological importance, ensuring that decisions align with the principles of balance and harmony.
+    
+5. **Ecological Councils**: Specialized councils focused on environmental stewardship are common. These councils include experts in various ecological fields, such as forestry, marine biology, and agriculture, who advise on sustainable practices and resource management.
+    
+6. **Decentralized Governance**: Governance is typically decentralized, with local communities having significant autonomy. This allows for governance structures that are closely attuned to the specific needs and conditions of their natural surroundings.
+    
+7. **Consensus-Based Decision Making**: Many communities prioritize consensus-based decision-making processes. This approach emphasizes inclusive dialogue, where all voices are heard and decisions are made collectively, ensuring harmony and mutual agreement.
+    
+8. **Rotating Leadership**: Leadership roles might rotate among qualified individuals within the community, ensuring that power does not become concentrated and that various perspectives are considered in governance.
+    
+9. **Guardians of the Wild**: Some cultures may have a group of dedicated protectors known as the Guardians of the Wild. These individuals are responsible for enforcing laws that protect the environment and wildlife, acting as both enforcers and educators.
+    
+10. **Ritual Assemblies**: Major decisions and policy changes are often made during ritual assemblies, which coincide with significant natural events or festivals. These gatherings ensure that decisions are made in a context that reinforces cultural values and spiritual beliefs.
+    
+11. **Land Stewardship**: Land and resources are often held in common or managed by the community rather than by individuals. This collective stewardship ensures that resources are used sustainably and equitably.
+    
+12. **Advisory Councils**: In more complex societies, there may be multiple advisory councils focusing on different aspects of life, such as agriculture, trade, defense, and spiritual matters. These councils provide specialized advice to the main governing body.
+    
+13. **Civic Ecology**: Public projects and infrastructure are designed with ecological principles in mind. Governance structures include civic ecologists who ensure that urban planning and development are sustainable and harmonious with the natural environment.
+    
+14. **Conflict Resolution Committees**: Committees or councils specifically focused on conflict resolution ensure that disputes are settled in a way that maintains social harmony and respects natural laws.
+    
+15. **Inter-Tribal Councils**: For larger regions, inter-tribal councils are formed to address issues that affect multiple communities, such as regional environmental policies, inter-tribal trade, and collective security.
 
 ## Elemental Affinities
 |    Elements   |
@@ -103,6 +183,10 @@ A follower of (God) can gain favor with their deity by (doing what?). As they em
 The follower must cast *Bestow Curse* to invoke their available curses:
 
 ## Myths
+
+### Vestiges
+
+![[Yggdrasil's Morphblade#History]]
 
 ### Creation of [[Aeloria]]
 ![[Aeloria#Creation]]
