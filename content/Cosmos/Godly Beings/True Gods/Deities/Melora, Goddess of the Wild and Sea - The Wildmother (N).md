@@ -29,7 +29,7 @@ aliases:
 | ------------------------ | ------------- | :--------------------------- | ----------- | --------------------------------------------------------------------------------- |
 | Aerian (Human) Generic   | Melora        | The Wildmother               | She/Her     | The [[Harmonious Gods]]                                                           |
 | Asteni (Human) Italian   | Nettuno       | The King of the Seas         | He/Him      | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Human) Hispanic     | Oceana        | The Mistress of the Deep         | She/Her     | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Dal (Human) Hispanic     | Oceana        | The Mistress of the Deep     | She/Her     | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Natur-huterin | The Eldertree                | He/Him      | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
 | Dwelmer (Dwarven) Nordic | Njordr        | The Wildkeeper               | He/Him      | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
 | Eldar (Elven) Elven      | Silvannon     | The Rooted King              | He/They     | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
