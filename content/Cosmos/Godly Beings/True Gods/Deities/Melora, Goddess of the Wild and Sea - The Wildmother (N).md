@@ -174,13 +174,45 @@ The cultural norms of cultures that worship Melora are:
 
 ## Blessings
 
-A follower of (God) can gain favor with their deity by (doing what?). As they embody the principles of (what?), (God) may bestow the following blessings upon them:
+A follower of Melora can gain favor with the Wildmother by protecting the untamed wilderness, respecting the balance of nature, and embracing the wild and the sea. As they embody the principles of environmental stewardship, spiritual harmony, and reverence for the natural world, Melora may bestow the following blessings upon them:
+
+1. **Blessing of the Untamed Heart**: The follower gains the ability to cast *Speak with Animals* and *Speak with Plants* at will. Additionally, they have advantage on Wisdom (Animal Handling) checks, regardless of the creature's type, with beasts being drawn to the follower's presence. 
+
+2. **Blessing of the Tides**: The follower receives a swim speed equal to their walking speed and can breathe underwater. Additionally, they gain resistance to cold damage and have advantage on saving throws against being knocked prone. They can also cast *Water Walk* at will, but only on themselves.
+
+3. **Blessing of the Verdant Touch**: The follower can touch a living plant, fungus or creature of the plant type to cast "Cure Wounds" at first level without using a spell slot. This ability improves to second level when the follower reaches 5th level and third level when they reach 11th level.
+
+4. **Blessing of the Forest Guardian**: The follower can cast "Barkskin" on themselves once per long rest without using a spell slot. The spell does not require concentration when cast this way and instead of having the AC of 16, the follower's AC cannot be lower than 20 when this spell is active.
+
+5. **Blessing of the Eternal Wanderer**: The follower gains proficiency in Survival and Nature, and they have advantage on ability checks to forage for food and water, and cannot become lost except by magical means. Additionally, if the user spends 1 hours familiarizing themselves with the wildlife of an area, they can touch a living plant or beast to teleport to a location within 1 mile, or teleport to the area from another location. The follower can use this ability a number of times equal to their Wisdom modifier (minimum of 1) per long rest and take up to 5 willing creatures with them, as long as they are touching the follower when they teleport.
+
+6. **Blessing of the Burrowing Beast**: The follower gains nightvision to 60ft (if they already have nightvision it is extended 60ft) and a burrow speed equal to their walking speed and can move through nonmagical difficult terrain made of earth or stone without expending extra movement, they have advantage on saving throws against being restrained or grappled. Adittionally, if the follower is a druid, they can choose to wildshape immediately after surfacing from burrowing.
+
+7. **Blessing of the Wild Shape**: As an action the follower can choose any beast of CR 1/4 or lower that they see within 125ft and magically change places with it while taking on its form. The follower can use this ability a number of times equal to their Wisdom modifier (minimum of 1) per long rest and this transformation lasts for a number of hours equal to half the follower's level (rounded down). The CR of the beast increases to 1/2 at 5th level, 1 at 11th level, and 2 at 17th level. All susequent rules for Wild Shape apply to this ability, except any that restrict the follower's choice of form. 
+
+8. **Blessing of the Elemental Conduit**: The follower gains resistance to fire, cold, lightning, radiant, acid and poison damage. Once during a long rest, the follower choose to become immune to one of these damage types for 1 minute and any damage they deal with a weapon attack or spell has 1d6 additional damage of the chosen type. This damage increases to 2d6 at 5th level, 3d6 at 11th level, and 4d6 at 17th level.
+
 
 ## Curses
 
-(God)'s followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with (God), they may gain access to the following curses to unleash upon their foes:
+Melora's followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with Melora, they may gain access to the following curses to unleash upon their foes:
 
 The follower must cast *Bestow Curse* to invoke their available curses:
+
+1. **Curse of Withering**: The target must succeed on a Constitution saving throw or be afflicted with a withering curse, reducing their maximum hit points by 1d10 for 24 hours. Once a long rest, the target can attempt to save against the curse, ending it on a success but reducing their maximum hit points by 1d10 again on a failure.
+
+2. **Curse of the Tide**: For the duration of the spell the target must succeed on a Strength saving throw at the start of their actions or be knocked prone and pushed 10 feet away from the caster as if hit by a powerful wave. Additionally, the target loses their swim speed and can no longer breathe underwater for the duration of the spell.
+
+3. **Curse of the Thorns**: The target must succeed on a Dexterity saving throw or be covered in painful thorns. For the duration, the target takes 1d6 piercing damage whenever they take an action or move, and their movement speed is halved. Additionally, any time the creature speaks, they must succeed on a Constitution saving throw or take 1d6 piercing damage as the thorns grow in their throat.
+
+4. **Curse of the Predator**: The target is marked by Melora's wrath and becomes the target of all creatures in the area. For the duration of the spell, the target is attacked by any beast or plant creature within 120 feet that can see them, and these creatures have advantage on attack rolls against the target. Additionally, the target has disadvantage on all saving throws against being frightened.
+
+5. **Curse of Drowning**: The target must succeed on a Constitution saving throw or feel an overwhelming sensation of drowning, becoming only able to breathe water (if the creature is already underwater, they begin to drown and can only breathe air). For the duration of the curse, the target can only hold their breath for a number of rounds equal to their Constitution modifier (minimum of 1) before they begin suffocating. Additionally, the target has to roll concentration checks for each round they are not submerged in water.
+
+6. **Curse of Decay**: The target must succeed on a Constitution saving throw or be afflicted with rapid decay. The target takes 2d6 necrotic damage, and non-magical food and drink within 10 feet of the target spoil instantly. For the duration of the curse, the target has disadvantage on all saving throws, attack rolls, and ability checks. When they take more than 15 damage from a single source, they must succeed on a Constitution saving throw or loose a body part and have their constitution score reduced by 1d4.
+
+8. **Curse of the Wildfire**: Any natural surface that the target touches ignites in flames, dealing 1d6 fire damage to the target at the start of their turn until they leave the surface and use an action to put out the fire. Non-magical flames within 10 feet of the target bend towards them. Adittionally, any natural surface becomes difficult terrain for the target, and they become unnable to go through bushes, trees, or other natural obstacles.
+
 
 ## Myths
 
