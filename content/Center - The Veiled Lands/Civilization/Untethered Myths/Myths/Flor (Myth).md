@@ -2,7 +2,20 @@
 tags:
   - myth
 ---
-# Myth of Flor
+
+# Flor
+
+## Scales:
+- **Spread:** Regionally Known
+- **Importance:** Minor
+- **Age:** Recent
+- **Region:** Miramar Peninsula
+- **Culture:** Dal, Miramar Peninsula
+
+## Cultural Variations:
+- None
+
+## The Myth:
 
 In the depths of the Miramar Peninsula forest lies a tale woven with threads of mystery and wonder, whispered through generations of soldiers, fighters, and curious adventurers. Within this ancient woodland, where shadows dance with moonlight and the air hums with secrets, there exists a phenomenon that defies understanding—a rendezvous with a spirit from a realm beyond the known seas.
 
@@ -19,7 +32,7 @@ But as the reflecting light encompass the dreamer, the spirit's form begins to f
 Her name remains a mystery, lost to the ages, but those who have encountered her in dreams speak of her fondly as "Flor," a name that lingers like a whisper upon the lips of those who have glimpsed the secrets of the Miramar forest. And so, the legend of Flor, the mysterious spirit of the woods, continues to weave its spell, drawing wanderers and dreamers into its enchanting embrace.
 
 
-## Quotes
+### Quotes
 
 "Ai que bom, que você chegou. É tão bom te conhecer, meu bem. Vem, vamos passear juntos, vamos ver o que o mundo tem a nos mostrar. Antes que a lua se vá e o sol nos chame de volta."
 

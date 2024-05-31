@@ -71,8 +71,9 @@ tags:
 	1. [ ] Crown of dominion
 	2. [ ] https://youtu.be/U-LNI8JZYtE?si=lELf2yYZ0wVaV1-4
 32. [ ] Create Cultures and expand on it
-33. [ ] Create Kingdoms
-34. [ ] Create story of cultural erasure and signs of forgotten cultural detritus
+33. [ ] Change Aerian culture name
+34. [ ] Create Kingdoms
+35. [ ] Create story of cultural erasure and signs of forgotten cultural detritus
 ## These tasks can be done after the capaign starts
 1. [ ] Finish re checking the [[elemental planes]]
     1. [ ] [[Feywild]]

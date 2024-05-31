@@ -3,7 +3,6 @@ tags:
   - "#island"
   - "#location"
 ---
-
 ![[whistiling fields.png|500]]
   
 - # Whistling Fields: A Mysterious Expanse of Desolation

@@ -17,7 +17,7 @@ tags:
 | Homebrew monsters           | [[Bestiary]]                        |
 | Calendar                    | [[Aelorian Calendar]]               |
 | list of plans               | [[Important names to create later]] |
-| Myths                       | [[Myth - Flor]]                     |
+| Myths                       | [[Untethered Myths]]                |
 | NPC random backstories      | [[NPC Backstories]]                 |
 | Random buildings            | [[Random Buildings]]                |
 

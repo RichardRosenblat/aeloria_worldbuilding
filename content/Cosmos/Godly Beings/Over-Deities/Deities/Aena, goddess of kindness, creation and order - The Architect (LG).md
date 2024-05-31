@@ -23,7 +23,7 @@ aliases:
 ---
 # Aena, Goddess of Kindness, Creation, and Order: The Architect (LG)
 
-"Isn't it wonderful? This world is full of endless possibilities, each living being, each stone and spec of dust is a unique story of endless depth. Carrying all the things they've seen, and all the things they're yet to see. It's all so complex that i wish you all could see it as i do, you'd undestand how crucial you are to every other thing in this world. I can't wait to see what you'll do next. Know that I will always be here, watching over you and adoring every single breath you take. Know that when you love, that's me, loving you, and trying to make you understand how I feel about you. So please, dont forget to be there for eachother" - Aena's message to her followers
+"There is just so much I want to tell you. Isn't it amazing? This world is full of so many possibilities, with every living thing and even every speck of dust having its own unique story. They've all seen so much, and there's still so much more to come. It's all so complicated and yet so simple, but if you could see it like I do, you'd realize how important you are to everything else. I can't wait to see what you'll do next. Just know that I'll always be here, watching over you and loving every moment. When you feel love, that's me loving you and trying to show you how much you mean to me. So please, never forget to love each other, because I crafted each of you with all my heart and soul, pouring love into every detail of your being. Just as I cherish you, I want you to embrace my creation with love."  - Aena's message to her followers
 
 ## Culture Names
 

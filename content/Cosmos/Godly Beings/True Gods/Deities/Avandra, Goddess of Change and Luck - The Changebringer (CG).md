@@ -210,4 +210,11 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ## Myths
 
+### The creation of the Halflings
+
 ![[The Creation (CR)#The Creation of Halflings]]
+
+
+### The remaking of the night sky
+
+![[Melora, Goddess of the Wild and Sea - The Wildmother (N)#The Remaking of the night sky]]
