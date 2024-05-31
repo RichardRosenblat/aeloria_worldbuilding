@@ -204,8 +204,6 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ![[The Great War (GW)#Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE) Asmodeus 's Betrayal]]
 
-### The Cursed Blood of The Tieflings
+### [[The Cursed Blood of The Tieflings]]
   
-In the recods of [[Aeloria]]'s history, there exists a myth shrouded in darkness, whispered in hushed tones around flickering hearth fires. Long ago, a mortal, consumed by ambition and blinded by his own desires, dared to strike a bargain with the dread Lord of [[the Nine Hells]], Asmodeus himself. In exchange for power beyond mortal reckoning, he pledged his allegiance and the souls of his descendants for eternity. Little did he know the true cost of his folly. As the ink dried upon the infernal contract, his bloodline was forever cursed, destined to bear the mark of the tiefling. From that cursed pact sprang forth the first tieflings, bearing the infernal taint of their diabolical ancestry.
-
-Through the ages, whispers spread of alternative methods by which tiefling children came into existence. Some mortals, by sheer accident or ill-fated curiosity, found themselves touched by the arcane energies of the [[Metapsychic Planes|lower planes]], forever altering their lineage. Others, driven by reckless desire or unholy temptation, succumbed to unions with beings from the depths of the [[Metapsychic Planes|lower planes]], birthing offspring marked by both mortal and infernal blood. Thus, alongside those born of infernal pacts, tieflings roamed the realms of [[Aeloria]], a reminder of mortals' perilous dance with the powers beyond and the eternal consequences that follow.
+![[The Cursed Blood of The Tieflings#The Myth]]

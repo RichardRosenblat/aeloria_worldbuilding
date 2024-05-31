@@ -9,7 +9,7 @@ aliases:
   - Borir
   - Amarie
   - Benzaiten
-  - Polis
+  - Polis (Deity)
   - Thrudheim
   - The Lawbearer
   - The Inventrix

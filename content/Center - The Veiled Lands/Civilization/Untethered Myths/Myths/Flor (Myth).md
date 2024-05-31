@@ -6,11 +6,11 @@ tags:
 # Flor
 
 ## Scales:
-- **Spread:** Regionally Known
-- **Importance:** Minor
-- **Age:** Recent
-- **Region:** Miramar Peninsula
-- **Culture:** Dal, Miramar Peninsula
+- **Spread:** Regionally Known.
+- **Importance:** Minor.
+- **Age:** Recent.
+- **Region:** Miramar Peninsula.
+- **Culture:** Dal - Miramar Peninsula.
 
 ## Cultural Variations:
 - None

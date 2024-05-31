@@ -34,6 +34,8 @@ The City of Light is known to have many names, these are some of them:
 
 # Past Glory: Aelor - The City Of Light
 
+This is the information about the past state of the City of Light, before it was lost to time.
+
 ## Atmosphere:
 
 ### Dominant Emotion: 
