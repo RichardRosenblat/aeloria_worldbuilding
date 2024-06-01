@@ -46,14 +46,25 @@ The [[True Gods]] used the primordial elemental energies to create worlds above 
 
 Some [[True Gods]] favored bright creations more than dark ones, and vice versa, while others loved both equally. To resolve this, they created realms to segregate the creations: the bright [[Feywild]], the dark [[Shadowfell]], and the middle ground called the [[Material Plane|Prime Material]]. These realms mirrored each other, allowing the [[True Gods]] to continue their collaboration while accommodating their diverse preferences, that was the birth of the [[Echo Planes]].
 
-## Creation of Life
+## Creation of [[Pyrosphere]]
 
-With the land still barren, the [[True Gods]] decided to fill it with life. First, [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]], the goddess of nature, created the very first tree, and from it, all animals and plants emerged, designed by the capricious Wildmother. 
-Desiring beings with consciousness, the [[True Gods]] created realms for conscious existence—the [[metapsychic planes]] to hold all thoughts and dreams.
+![[Pyrosphere#Creation]]
 
 ## The First Spell
 
 ![[Corellon's Grace#^a605b3]]
+
+## Creation of Life
+
+With the land still barren, the [[True Gods]] decided to fill it with life. First, [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]], the goddess of nature, created the very first tree, and from it, all animals and plants emerged, designed by the capricious Wildmother. 
+
+## The Creation of Many Creatures and [[Mossloch]]
+
+![[Mossloch#Creation]]
+
+## The Desire for Consiousness
+
+Desiring beings with consciousness, the [[True Gods]] created realms for conscious existence—the [[metapsychic planes]] to hold all thoughts and dreams.
 
 ## Emergence of Powerful Beings
 
@@ -77,9 +88,9 @@ Following these events, the [[True Gods]] continued their creative endeavors, br
 Among these creations were the nimble halflings, the inventive gnomes, the formidable orcs, the enigmatic sphinxes, and the powerful archfey, among many others. Each species bore unique characteristics and qualities, contributing to the rich tapestry of life woven by the divine hands.
 The order of creation after the creation of the dwarves often varies depending on the source, but it is known that the last humanoid species created from the [[True Gods]] were the humans. The humanoid species that came after them were created by either artificial means or altering existing species.
 
-### The Creation of The Archfey
+### The Creation of The Archfey and The [[Fey Sisters]]
 
-![[Fey Sisters#^7ddf8d]]
+![[Fey Sisters#Creation]]
 
 ### The Creation of The Satyr
 

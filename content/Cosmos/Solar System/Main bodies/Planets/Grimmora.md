@@ -11,6 +11,7 @@ Grimmora, a desolate celestial body, stands as a stark contrast to the vibrant l
 ## Myth
 
 In the records of cosmic lore, Grimmora stands as a mysterious enigma, veiled in a cloak of silence that few dare to disturb. 
+
 ### Creation
 
 The planet's origin is a nebulous tale, seldom spoken of in the realms of myths and stories. Whispers among celestial scholars suggest that Grimmora's existence was hardly acknowledged until the [[The Era of Ascensions (EA)|Era of Ascensions]], a time when the nefarious Vecna ascended to godhood, casting a shadow across the multiverse. It is said that Grimmora manifested in the cosmic expanse shortly after Vecna's ascent, as if it were a pawn in the whispered one intricate machinations. The scarce rumors that linger tell of an otherworldly connection between Vecna's newfound divinity and the emergence of this desolate celestial body. As Grimmora remains a realm untouched by the vibrant tales of the past, its purpose and origin remain obscured in the cosmic mysteries that only the boldest adventurers might seek to unveil.

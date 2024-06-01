@@ -78,9 +78,13 @@ Once a churning mass of turbulent energy, the [[Elemental Chaos]] transformed in
 
 Witnessing this unforeseen consequence, the [[True Gods]], ever resourceful, harnessed the escaping elemental energies. They redirected these potent forces to fuel the magic of [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]], utilizing the very essence of the primordial elements to empower the divine and arcane arts. In this intricate dance between order and chaos, the dragons' pivotal role extended beyond mere containment, becoming a catalyst for the control of elemental energies.
 
+## The Gifts of [[Kord, God of Strength and Storms - The Stormlord (CN)|Kord]] and The Creation of [[Celestra]] and [[Tormentia]]
+
+![[Celestra#Celestra Creation]]
+![[Tormentia#Tormentia's Creation]]
 ## The First Cities
 
-After the dragons had successfully sealed the primordial elements, indulgin in a era of peace, mortals began to thrive. Guided by [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)|Erathis]] and the [[Harmonious Gods|Harmonious Deities]], mortals began to build the first cities. These cities were a testament to the ingenuity and creativity of mortals, a reflection of their potential to shape the world around them.
+After the dragons had successfully sealed the primordial elements, indulging in a era of peace, mortals began to thrive. Guided by [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)|Erathis]] and the [[Harmonious Gods|Harmonious Deities]], mortals began to build the first cities. These cities were a testament to the ingenuity and creativity of mortals, a reflection of their potential to shape the world around them.
 
 The very first city became known with many names but most commonly as [[Aelor - The First City|Aelor, the City of Light]]. It was a beacon of hope and progress, a place where mortals could gather, learn, and grow. The city of Aelor stood as a testament to the indomitable spirit of mortals to overcome adversity and build a better future for themselves.
 
@@ -93,6 +97,10 @@ During this epoch of enlightenment, a golden age of knowledge emerged, illuminat
 In this era of divine enlightenment, mortals thrived, their potential reaching unprecedented heights under the nurturing guidance of [[Harmonious Gods|benevolent deities]]. The [[Harmonious Gods]], with boundless compassion, cultivated a flourishing civilization where the pursuit of knowledge became a sacred endeavor.
 
 Simultaneously, amidst the celestial glow of enlightenment, the shadows of defiance lingered. The [[Defiant Gods]], ever thirsting for power, sought ways to amass strength and influence through their mortal followers. Exploiting the fragile truce that lingered between divine factions, they cunningly manipulated the age of arcane development among mortals. The once-harmonious pursuit of knowledge became a battleground of conflicting ideologies, as the [[Defiant Gods]] wove their dark threads into the fabric of mortal understanding. The Golden Age of Knowledge, while a testament to enlightenment, also bore witness to the subtle dance between divine guidance and the insidious allure of forbidden arcane power.
+
+## The Creation of [[Solaurum]]
+
+![[Solaurum#Creation]]
 
 ## The Unleashing of Elemental Forces
 

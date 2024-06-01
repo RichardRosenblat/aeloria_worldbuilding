@@ -33,7 +33,10 @@ A great mortal sorceress, driven by an insatiable thirst for power and guided by
 - **[[Raven Queen, Goddess of Death Crow - The Matron of Death (LN)]]**, the newly ascended Raven Queen took control of the realm of death, introducing a sense of order and balance to the transition between life and the afterlife.
 
 ### Vecna's Dark Ascent
-
 Inspired by the audacious act of the Raven Queen, a great archlich sought to harness the chaotic magic that permeated the healing world. Employing a ritual reminiscent of the one performed by the Raven Queen, although more refined, this archlich aimed to ascend to godhood and embrace the mantle of secrets and deceit.
 
 - [[Vecna, god of evil secrets - The Whispered One (NE)]], Vecna successfully completed the ritual and ascended to godhood, using small parts of the current [[True Gods]]' [[Divine Spark|divine sparks]] to create his own. With dominion over evil secrets, Vecna became a dark force that thrived on manipulation and hidden knowledge, further shaping the divine landscape of [[Aeloria]].
+
+## The Creation of [[Grimmora]]
+
+![[Grimmora#Creation]]

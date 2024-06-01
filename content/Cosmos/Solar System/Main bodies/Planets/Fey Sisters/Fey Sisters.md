@@ -23,7 +23,7 @@ The binary system, given the moniker "The Fey Sisters," aptly captures the juxta
 ## Myths
 ### Creation
 
-During the [[The Creation (CR)|Creation Era]], [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]], the god of Magic, crafted the fairies with the [[Ainulindalë]] song. Seeking greater power, he created the Archfey, but he was still unsatisfied. He then created twin archfeys based of his mothers [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]: Titania, ruling the Seelie Court, and The Queen of Air and Darkness, sovereign of the Unseelie Court. ^7ddf8d
+During the [[The Creation (CR)|Creation Era]], [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]], the god of Magic, crafted the fairies with the [[Ainulindalë]] song. Seeking greater power, he created the Archfey, but he was still unsatisfied. He then created twin archfeys based of his mothers [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]: Titania, ruling the Seelie Court, and The Queen of Air and Darkness, sovereign of the Unseelie Court.
 
 Titania, radiantly benevolent, found love in Oberon, one of the archfeys under her father's creation. In celebration of their union, [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]] fashioned a celestial gift. He collected one of every herb, plant, tree, and leaf, creating a luminous gem named [[Verdantia]]. This radiant gem adorned the sky, accompanied by a magnificent ring crafted from the ice of the coldest mountain peak.
 

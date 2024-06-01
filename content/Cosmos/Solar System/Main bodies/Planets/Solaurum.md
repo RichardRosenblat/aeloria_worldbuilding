@@ -8,12 +8,11 @@ tags:
 Solaurum is the second planet orbiting [[Solis]]. it is a desert planet characterized by its scorching heat, expansive golden sand dunes, and mesmerizing sunsets. 
 
 ## Name
-### Creation
 
 Solaurum, the desert planet bathed in the radiant glow of its golden surface, derives its name from the eloquent tapestry of ancient languages. A harmonious union of words steeped in meaning, it marries "Sol," resonating with the essence of the [[Solis|Sun]] and the brilliance it bestows, with "Aurum," a nod to the precious metal gold. Together, these linguistic echoes form a celestial symphony encapsulating the planet's scorching heat, expansive golden sand dunes, and mesmerizing sunsets. Solaurum stands as a testament to the celestial poetry embedded in its name, reflecting the union of radiant light and the precious allure of a world draped in shimmering gold.
 
 ## Myths
-
+### Creation
 In the divine lore, the genesis of Solaurum is etched in the tale of Tiamat, the formidable deity revered as the Scaled Tyrant. During the tranquil embrace of the [[The Calm Age (CA)|Calm Age]], Tiamat, harbinger of wealth, greed, and vengeance, encountered the allure of gold among mortal realms. Witnessing its power to grant dominion and strength, an insatiable desire kindled within her to claim this precious metal as her own. With an unyielding will, she seized all the gold in the realms, burning those who had wielded it before, deeming them unworthy of its potency. The mortal progenitors who dared impart this knowledge were the first to succumb to her ravenous hunger.
 
 Mighty and resolute, Tiamat amassed the coveted gold, secreting it amidst the celestial tapestry, distant from mortal grasp yet conspicuously visible to all, a testament to her indomitable prowess. Thus, Solaurum was born from the womb of her hoard, a world enshrined in the shimmering wealth she coveted.

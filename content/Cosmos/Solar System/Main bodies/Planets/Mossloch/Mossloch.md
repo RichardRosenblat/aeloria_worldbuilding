@@ -19,7 +19,7 @@ In the astronomical lore of Mossloch, the planet earned its distinctive name due
 
 Tales told to children before they sleep speak of Mossloch as a colossal moss-covered lake, where Mazatl resides. Mazatl is an axolotl created by [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]], the wild mother and goddess of the wild and the seas.
 
-Before the creation of the many creatures of [[Aeloria]], [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] crafted Mazatl as a small creature with a big heart. Mazatl's purpose was to swim in the seas of [[Aeloria]] and advise the living creatures that [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] would create. Mazatl diligently aided her mother, and they became inseparable.
+Before the creation of many creatures of [[Aeloria]], [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] crafted Mazatl as a small creature with a big heart. Mazatl's purpose was to swim in the seas of [[Aeloria]] and advise the living creatures that [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] would create. Mazatl diligently aided her mother, and they became inseparable.
 
 As [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] created plants, Mazatl taught them to dance with the winds. When fireflies were brought into existence, Mazatl looked at the stars and taught the small insects to glow like them. Together, they shaped and nurtured countless creatures, from the smallest to the largest.
 
