@@ -8,98 +8,34 @@ tags:
 ## Introduction
 Traveling through the wilderness can be a significant part of an adventure, requiring time, resources, and careful planning. The following rules provide guidelines for tracking travel time, rations, water, and encounters during overland travel. These rules are designed to enhance the exploration aspect of the game and provide additional challenges and opportunities for the party as they journey through the world.
 
-## Rations and Water
+### Step by step
 
-Rations and water are essential for survival during long journeys. The following rules provide guidelines for tracking rations and water consumption during travel.
+Here is a step-by-step guide to using these rules during a travel sequence:
 
-### Rations and Water Requirements
+**Shorter Trips (less than 25 km/15.5 Mi)**
+1. Determine the distance and terrain to be traveled.
+2. Choose the pace for the journey (fast, normal, slow).
+3. Determine the travel time based on the chosen pace and terrain
+4. Ask if the party wants to force the pace.
+5. Calculate the number of rations and water required for the journey.
+6. Roll for encounter frequency and type.
+7. Ask for a Wisdom (Survival) check to avoid becoming lost if the party doesn't have a guide or a well-marked trail.
 
-The rule for minimum rations and water required for travel is as follows:
+**Short Scale Trips (25 km/15.5 Mi Hex)**
+1. Determine the distance and terrain to be traveled.
+2. Choose the pace for the journey (fast, normal, slow).
+3. Determine the travel time based on the chosen pace and terrain.
+4. Calculate the number of rations and water required for the journey.
+5. Roll for encounter frequency and type.
+6. Ask for a Wisdom (Survival) check to avoid becoming lost if the party doesn't have a guide or a well-marked trail.
 
-**A creature consumes 1 ration(5 sp) per day of travel** 
-
-_Be aware that this is the minimum amount of rations required for the long rests made at the end of day of travel. Aditional long rests will require additional rations._
-
-Rations contain enough food and water to sustain a Medium creature for one day. Creatures above or below Medium size require different amounts of food and water per day.
-
-The table below shows the number of rations required per day for creatures of different sizes:
-
-| Size       | Rations/Day |
-| ---------- | ------- |
-| Tiny       | 0.25    |
-| Small      | 0.5     |
-| Medium     | 1       |
-| Large      | 2       |
-| Huge       | 3       |
-| Gargantuan | 4+      |
-
-### Foraging for Food and Water
-
-If a creature is unable to find or purchase rations for any reason, it can attempt to forage for food and water during travel. **If the group is traveling in a slow pace, they can forage for food and water for the entire group** during the travel by making a Wisdom (Survival) check.
-
-If the check is successful, the creature finds enough food and water to sustain their party for one day. If the check fails, the creature doesn't find enough food or water, and the party must rely on their remaining rations, if any. 
-
-The DC for the check is determined by the availability of resources in their current terrain:
-
-| Food and Water Availability	 | DC |
-| ----------------------- | -- |
-|Abundant food and water sources| 10 |
-|Limited food and water sources	 | 15 |
-|Very little, if any, food and water sources	| 20 |
-
-If the party is traveling at a normal or fast pace, they can't forage for food and water during travel. But they can spend time foraging during a break of their travel, during a short or long rest. 
-
-**The amount of food and water found by searching for resources during a rest is enough to sustain the creature searching** for one day. If the creature is searching for food and water for more than one creature, the creature must make a separate check for each creature and search in different locations. 
-
-### Travelling Without Food or Water
-
-If a creature doesn't have enough food or water, it must roll a Constitution saving throw at the end of the day. The DC is 10 + 1 for each day without food or water. On a failed save, the creature suffers one level of exhaustion.
-
-## Events and Encounters
-
-Traveling through the wilderness can be dangerous and unpredictable, but it can also be an opportunity for exploration and discovery. The following rules provide guidelines for generating events and encounters during travel.
-
-### Encounter Frequency
-
-The frequency of encounters during travel can vary based on the distance traveled and the scale of the journey. Use the following guidelines to determine the frequency of encounters:
-
-| Scale        | Small Trip (1-3 Hexes)        | Medium Trip (4-6 Hexes)       | Long Trip (7+ Hexes)       |
-| ------------ | ----------------------------- |:----------------------------- | --------------------------- |
-| Small Scale  | 1d4-2 (Minimum 0) or pick 0-2 | 1d4-1 (Minimum 2) or pick 2-3 | 1d6 (Minimum 3) or pick 3-6 |
-| Big Scale | 1d4-1 (Minimum 1) or pick 1-3 | 1d4 (Minimum 3) or pick 3-4   | 1d6 (Minimum 4) or pick 4-6 |
-
-### Encounter Types
-
-To add variety to the journey, encounters can be categorized into different types based on their nature and focus. Use the following color code to categorize encounters:
-
-- Red (Combat): These encounters involve battles with monsters or hostile NPCs that appear during the journey.
-- Blue (Roleplay): These encounters involve interactions with friendly NPCs, encounters with merchants, or events between party members.
-- Green (Exploration): These encounters involve discovering points of interest, uncovering hidden secrets, finding resources, landmarks, lore or ruins.
-
-Examples of encounters by type:
-
-- Red (Combat): A group of bandits ambushes the party on the road; a bear attacks the camp at night looking for food; a hired assassin tries to kill one of the party members for a bounty; a rival adventuring party challenges the group to settle a dispute.
-- Blue (Roleplay): A traveling merchant offers to sell rare items to the party; a local farmer asks for help dealing with a pest problem; a mysterious stranger approaches the party with a cryptic message; a bard performs a song about the party and asks to tag along.
-- Green (Exploration): The party discovers an ancient ruin hidden in the forest; the group finds a hidden cave beneath a fallen tree; a strange monolith appears in the distance; the party stumbles upon a group of small hovering mushrooms that seem to travel in their own journey.
-
-### Selecting Encounter Colors
-
-When generating encounters, roll a d12 to determine the color of the encounter. Use the following table to determine the color based on the roll:
-
-| 1d12  | Color                          |
-| ----- | ------------------------------ |
-| 1-3   | Red (Combat)                   |
-| 4-7   | Blue (Roleplay)                |
-| 7-9   | Green (Exploration)            |
-| 10-12 | Roll again and mix the results |
-
-### Encounter Resolution
-
-When an encounter occurs, the party must decide how to handle the situation. The following guidelines provide options for resolving encounters:
-
-- **Combat Encounters:** If the encounter is a combat encounter, the party must defeat the enemies to resolve the encounter. Use the standard combat rules to determine the outcome of the battle. After the encounter, the party can search the area for loot, gather information or even find shelter.
-- **Roleplay Encounters:** If the encounter is a roleplay encounter, the party can interact with the NPCs or creatures they encounter. Use the social interaction rules to determine the outcome of the encounter. After the encounter, the party can gain information, make deals, or form alliances with the NPCs, start combat and so on.
-- **Exploration Encounters:** If the encounter is an exploration encounter, the party can explore the area, search for hidden secrets, or uncover lore and history. Use the exploration rules to determine the outcome of the encounter. After the encounter, the party can find resources, uncover lore, or discover hidden locations or shortcuts.
+**Big Scale Trips (100 km/62 Mi Hex)**
+1. Determine the distance and terrain to be traveled.
+2. Choose the pace for the journey (fast, normal, slow).
+3. Determine the travel time based on the chosen pace and terrain.
+4. Calculate the number of rations and water required for the journey.
+5. Roll for encounter frequency and type.
+6. Ask for a Wisdom (Survival) check to avoid becoming lost if the party doesn't have a guide or a well-marked trail.
 
 ## Terrain Characteristic Descriptions
 
@@ -181,71 +117,6 @@ During the next sections, you will find a list of terrain characteristics that c
   - Dense, marshy areas with difficult navigation.
   - Slow and challenging travel for all ship sizes, especially big ships.
 
-## Becoming Lost
-
-Under certain conditions, characters might become lost while traveling through the wilderness. They might lose their way due to poor visibility, confusing terrain, or other factors. **Unless they have a reliable guide or are following a well-marked trail, characters can become lost**, as described in the following rules.
-
-The party's navigator must make a Wisdom (Survival) check when they attempt to navigate through unfamiliar terrain for the first time or whenever the DM calls for one, which may be when the party resumes traveling after a long rest or when they change direction. The DC for this check is determined by the terrain and the prevailing conditions. 
-
-How to determine the DC for the Wisdom (Survival) check:
-1. **Terrain Difficulty:** The DC is based on the difficulty of the terrain, as shown in the table below.
-2. **Modifiers:** Apply modifiers based on the prevailing conditions, such as poor visibility, confusing landmarks, or other factors.
-3. **Help:** If the another party member is proficient in the Survival skill, they can assist the navigator, granting advantage on the check. An additional party member can also assist the navigator even if they are not proficient in the Survival skill, adding their wisdom modifier to the check.
-4. **Results:** If the check succeeds, the party continues on its way without getting lost. If the check fails, the party becomes lost and must roll again to find its way back after a certain amount of time.
-
-### Terrain Difficulty
-
-How difficult it is to navigate through the terrain can affect the DC of the Wisdom (Survival) check. The following table provides guidelines for determining the Base DC of the check based:
-
-| Ground Terrain | Base DC |
-| -------------- |:------- |
-| Regular        | 10      |
-| Dense          | 15      |
-| Steep          | 20      |
-| Rough          | 15      |
-| Wet            | 15      |
-| Sandy          | 15      |
-| Rocky          | 12      |
-| Clear          | 5       |
-
-
-| Water Terrain      | Base DC |
-|:------------------ | ------- |
-| Open Sea           | 12      |
-| Coastal Waters     | 12      |
-| River (Downstream) | 8       |
-| River (Upstream)   | 8       |
-| Rough Waters       | 16      |
-| Shallow Waters     | 10      |
-| Calm Water         | 10      |
-| Swamp              | 20      |
-
-### Modifiers
-
-These factors can affect the DC of the Wisdom (Survival) check to avoid becoming lost:
-
-| Condition                                              | Modifier |
-|:------------------------------------------------------ | -------- |
-| Using a map                                            | -5       |
-| Clear weather                                          | -2       |
-| Bad weather (rain, fog, snow, etc.)                    | +5       |
-| Night travel                                           | +5       |
-| Traveling at a fast pace                               | +5       |
-| Traveling at a slow pace                               | -3       |
-| Party has a skilled navigator (proficient in Survival) | -3       |
-| Previous experience in the area                        | -2       |
-| Traveling through unmapped wilderness                  | +5       |
-| Each time this check is made after the first           | -1       |
-
-### Results of the Check
-
-The outcome of the Wisdom (Survival) check to avoid becoming lost is determined by the result of the roll:
-
-**Natural 20:** If the check is a natural 20, the party not only avoids becoming lost but also is able to find a hidden path or shortcut that reduces the travel time by 1d8 hours.
-**Success:** If the check succeeds, the party continues on its way without getting lost.
-**Failure by 5 or less:** If the check fails by 5 or less, the party becomes lost but can attempt to find its way back after 1d4 hours.
-**Failure by more than 5:** If the check fails by more than 5, the party becomes lost and must attempt to find its way back after 1d6 hours.
-**Natural 1:** If the check is a natural 1, the party becomes lost and must attempt to find its way back after 1d8 hours.
 
 ## Travel Time
 
@@ -273,8 +144,8 @@ When traveling, characters can choose from different paces based on their prefer
   - This pace allows for the use of stealth.
   - Can be maintained for 12 hours before requiring rest or causing exhaustion.
 
-#### Pacing Limitations, Forced March and Exhaustion 
-_Only use for short distances or if the party specifically wants to push themselves to the limit._
+### Pacing Limitations, Forced March and Exhaustion 
+_Only use for short trips (less than 25 km/15.5 Mi) or if the party specifically wants to push themselves to the limit._
 
 When characters are traveling, they can only maintain a pace for a certain amount of time before they must take a long or short rest. If the party continues to travel without resting, they risk gaining levels of exhaustion. 
 
@@ -366,6 +237,31 @@ Consider the following modifiers to adjust travel times based on specific condit
 
 ### Travel Time Tables
 
+#### Shorter Trips (less than 25 km / 15.5 Mi)
+
+##### Walking Travel
+
+| Pace         | Distance per Minute | Distance per Hour | Distance per Day | Effect                                             |
+| ------------ |:------------------- | ----------------- | ---------------- | -------------------------------------------------- |
+| Doubled Fast | 244 m / 800 ft      | 13 Km / 48 Mi     | -                | Maximum of 1 hour, requires a long rest afterwards |
+| Fast         | 122 m / 400 ft      | 6.5 Km / 4 Mi     | 48 Km / 30 Mi    | -5 penalty to passive Wisdom (Perception) scores   |
+| Normal       | 91.5 m / 300 ft     | 5 Km / 3 Mi       | 38.5 Km / 24 Mi  | -                                                  |
+| Slow         | 61 m / 200 ft       | 3 Km / 2 Mi       | 29 Km / 18 Mi    | Able to use stealth                                |
+
+##### Mounted Travel
+
+| Pace         | Distance per Minute | Distance per Hour | Distance per Day | Effect                                              |
+| ------------ | ------------------- | ----------------- | ---------------- | --------------------------------------------------- |
+| Doubled Fast | 488 m / 1600 ft      | 26 Km / 96 Mi     | -                | Maximum of 2 hours, requires a long rest afterwards |
+| Fast         | 244 m / 800 ft       | 13 Km / 8 Mi      | 96 Km / 60 Mi    | -5 penalty to passive Wisdom (Perception) scores    |
+| Normal       | 183 m / 600 ft       | 10 Km / 6 Mi      | 77 Km / 48 Mi    | -                                                   |
+| Slow         | 122 m / 400 ft       | 6 Km / 4 Mi       | 58 Km / 36 Mi    | Able to use stealth                                 |
+
+##### Sailing Travel
+
+When traveling over short distances (less than 25 km / 15.5 Mi), use the ship's speed to determine the travel time. 
+
+
 #### Hex Travel Time Table (Short scale, 25 km / 15.5 Mi Hex)
 
 ##### Walking Travel
@@ -447,4 +343,167 @@ Consider the following modifiers to adjust travel times based on specific condit
 | Shallow Waters                | 2 days/hex   | 2.5 days/hex | 3 days/hex   |
 | Calm Water                    | 1 days/hex   | 18 hours/hex | 12 hours/hex |
 | Swamp                         | 3.5 days/hex | 3 days/hex   | 4 days/hex   |
+
+
+
+## Rations and Water
+
+Rations and water are essential for survival during long journeys. The following rules provide guidelines for tracking rations and water consumption during travel.
+
+### Rations and Water Requirements
+
+The rule for minimum rations and water required for travel is as follows:
+
+**A creature consumes 1 ration(5 sp) per day of travel** 
+
+_Be aware that this is the minimum amount of rations required for the long rests made at the end of day of travel. Aditional long rests will require additional rations._
+
+Rations contain enough food and water to sustain a Medium creature for one day. Creatures above or below Medium size require different amounts of food and water per day.
+
+The table below shows the number of rations required per day for creatures of different sizes:
+
+| Size       | Rations/Day |
+| ---------- | ------- |
+| Tiny       | 0.25    |
+| Small      | 0.5     |
+| Medium     | 1       |
+| Large      | 2       |
+| Huge       | 3       |
+| Gargantuan | 4+      |
+
+### Foraging for Food and Water
+
+If a creature is unable to find or purchase rations for any reason, it can attempt to forage for food and water during travel. **If the group is traveling in a slow pace, they can forage for food and water for the entire group** during the travel by making a Wisdom (Survival) check.
+
+If the check is successful, the creature finds enough food and water to sustain their party for one day. If the check fails, the creature doesn't find enough food or water, and the party must rely on their remaining rations, if any. 
+
+The DC for the check is determined by the availability of resources in their current terrain:
+
+| Food and Water Availability	 | DC |
+| ----------------------- | -- |
+|Abundant food and water sources| 10 |
+|Limited food and water sources	 | 15 |
+|Very little, if any, food and water sources	| 20 |
+
+If the party is traveling at a normal or fast pace, they can't forage for food and water during travel. But they can spend time foraging during a break of their travel, during a short or long rest. 
+
+**The amount of food and water found by searching for resources during a rest is enough to sustain the creature searching** for one day. If the creature is searching for food and water for more than one creature, the creature must make a separate check for each creature and search in different locations. 
+
+### Travelling Without Food or Water
+
+If a creature doesn't have enough food or water, it must roll a Constitution saving throw at the end of the day. The DC is 10 + 1 for each day without food or water. On a failed save, the creature suffers one level of exhaustion.
+
+## Events and Encounters
+
+Traveling through the wilderness can be dangerous and unpredictable, but it can also be an opportunity for exploration and discovery. The following rules provide guidelines for generating events and encounters during travel.
+
+### Encounter Frequency
+
+The frequency of encounters during travel can vary based on the distance traveled and the scale of the journey. Use the following guidelines to determine the frequency of encounters:
+
+| Scale        | Small Trip (1-3 Hexes)        | Medium Trip (4-6 Hexes)       | Long Trip (7+ Hexes)       |
+| ------------ | ----------------------------- |:----------------------------- | --------------------------- |
+| Smaller Scale  | 1d4-3 (Minimum 0) or pick 0-1 | - | - |
+| Small Scale  | 1d4-2 (Minimum 0) or pick 0-2 | 1d4-1 (Minimum 2) or pick 2-3 | 1d6 (Minimum 3) or pick 3-6 |
+| Big Scale | 1d4-1 (Minimum 1) or pick 1-3 | 1d4 (Minimum 3) or pick 3-4   | 1d6 (Minimum 4) or pick 4-6 |
+
+### Encounter Types
+
+To add variety to the journey, encounters can be categorized into different types based on their nature and focus. Use the following color code to categorize encounters:
+
+- Red (Combat): These encounters involve battles with monsters or hostile NPCs that appear during the journey.
+- Blue (Roleplay): These encounters involve interactions with friendly NPCs, encounters with merchants, or events between party members.
+- Green (Exploration): These encounters involve discovering points of interest, uncovering hidden secrets, finding resources, landmarks, lore or ruins.
+
+Examples of encounters by type:
+
+- Red (Combat): A group of bandits ambushes the party on the road; a bear attacks the camp at night looking for food; a hired assassin tries to kill one of the party members for a bounty; a rival adventuring party challenges the group to settle a dispute.
+- Blue (Roleplay): A traveling merchant offers to sell rare items to the party; a local farmer asks for help dealing with a pest problem; a mysterious stranger approaches the party with a cryptic message; a bard performs a song about the party and asks to tag along.
+- Green (Exploration): The party discovers an ancient ruin hidden in the forest; the group finds a hidden cave beneath a fallen tree; a strange monolith appears in the distance; the party stumbles upon a group of small hovering mushrooms that seem to travel in their own journey.
+
+### Selecting Encounter Colors
+
+When generating encounters, roll a d12 to determine the color of the encounter. Use the following table to determine the color based on the roll:
+
+| 1d12  | Color                          |
+| ----- | ------------------------------ |
+| 1-3   | Red (Combat)                   |
+| 4-7   | Blue (Roleplay)                |
+| 7-9   | Green (Exploration)            |
+| 10-12 | Roll again and mix the results |
+
+### Encounter Resolution
+
+When an encounter occurs, the party must decide how to handle the situation. The following guidelines provide options for resolving encounters:
+
+- **Combat Encounters:** If the encounter is a combat encounter, the party must defeat the enemies to resolve the encounter. Use the standard combat rules to determine the outcome of the battle. After the encounter, the party can search the area for loot, gather information or even find shelter.
+- **Roleplay Encounters:** If the encounter is a roleplay encounter, the party can interact with the NPCs or creatures they encounter. Use the social interaction rules to determine the outcome of the encounter. After the encounter, the party can gain information, make deals, or form alliances with the NPCs, start combat and so on.
+- **Exploration Encounters:** If the encounter is an exploration encounter, the party can explore the area, search for hidden secrets, or uncover lore and history. Use the exploration rules to determine the outcome of the encounter. After the encounter, the party can find resources, uncover lore, or discover hidden locations or shortcuts.
+
+
+## Becoming Lost
+
+Under certain conditions, characters might become lost while traveling through the wilderness. They might lose their way due to poor visibility, confusing terrain, or other factors. **Unless they have a reliable guide or are following a well-marked trail, characters can become lost**, as described in the following rules.
+
+The party's navigator must make a Wisdom (Survival) check when they attempt to navigate through unfamiliar terrain for the first time or whenever the DM calls for one, which may be when the party resumes traveling after a long rest or when they change direction. The DC for this check is determined by the terrain and the prevailing conditions. 
+
+How to determine the DC for the Wisdom (Survival) check:
+1. **Terrain Difficulty:** The DC is based on the difficulty of the terrain, as shown in the table below.
+2. **Modifiers:** Apply modifiers based on the prevailing conditions, such as poor visibility, confusing landmarks, or other factors.
+3. **Help:** If the another party member is proficient in the Survival skill, they can assist the navigator, granting advantage on the check. An additional party member can also assist the navigator even if they are not proficient in the Survival skill, adding their wisdom modifier to the check.
+4. **Results:** If the check succeeds, the party continues on its way without getting lost. If the check fails, the party becomes lost and must roll again to find its way back after a certain amount of time.
+
+### Terrain Difficulty
+
+How difficult it is to navigate through the terrain can affect the DC of the Wisdom (Survival) check. The following table provides guidelines for determining the Base DC of the check based:
+
+| Ground Terrain | Base DC |
+| -------------- |:------- |
+| Regular        | 10      |
+| Dense          | 15      |
+| Steep          | 20      |
+| Rough          | 15      |
+| Wet            | 15      |
+| Sandy          | 15      |
+| Rocky          | 12      |
+| Clear          | 5       |
+
+
+| Water Terrain      | Base DC |
+|:------------------ | ------- |
+| Open Sea           | 12      |
+| Coastal Waters     | 12      |
+| River (Downstream) | 8       |
+| River (Upstream)   | 8       |
+| Rough Waters       | 16      |
+| Shallow Waters     | 10      |
+| Calm Water         | 10      |
+| Swamp              | 20      |
+
+### Modifiers
+
+These factors can affect the DC of the Wisdom (Survival) check to avoid becoming lost:
+
+| Condition                                              | Modifier |
+|:------------------------------------------------------ | -------- |
+| Using a map                                            | -5       |
+| Clear weather                                          | -2       |
+| Bad weather (rain, fog, snow, etc.)                    | +5       |
+| Night travel                                           | +5       |
+| Traveling at a fast pace                               | +5       |
+| Traveling at a slow pace                               | -3       |
+| Party has a skilled navigator (proficient in Survival) | -3       |
+| Previous experience in the area                        | -2       |
+| Traveling through unmapped wilderness                  | +5       |
+| Each time this check is made after the first           | -1       |
+
+### Results of the Check
+
+The outcome of the Wisdom (Survival) check to avoid becoming lost is determined by the result of the roll:
+
+**Natural 20:** If the check is a natural 20, the party not only avoids becoming lost but also is able to find a hidden path or shortcut that reduces the travel time by 1d8 hours and triggers a green encounter.
+**Success:** If the check succeeds, the party continues on its way without getting lost.
+**Failure by 5 or less:** If the check fails by 5 or less, the party becomes lost but can attempt to find its way back after 1d4 hours.
+**Failure by more than 5:** If the check fails by more than 5, the party becomes lost and must attempt to find its way back after 1d6 hours.
+**Natural 1:** If the check is a natural 1, the party becomes lost and must attempt to find its way back after 1d8 hours and trigger a red encounter.
 

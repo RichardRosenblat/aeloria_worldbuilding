@@ -23,6 +23,21 @@ aliases:
 ---
 # Melora, Goddess of the Wild and Sea - The Wildmother (N)
 
+"Melora, wild and free,
+In forests deep and boundless sea,
+Guide us with your timeless grace,
+Through nature's realm, find our place.
+
+In every tree, in every wave,
+Your spirit strong, our hearts brave,
+Protect us in the wild's embrace,
+In harmony, we find our space.
+
+The quiet shade, across old bark,
+In the Ancient Glade, it is always dark,
+Yet in the shadows, your light does gleam,
+Guiding us through the stream." - Poem written in prayer to the Wildmother
+
 ## Culture Names
 
 | Culture                  | Name          | Title                        | Pronouns    | Group                                                                             |
@@ -253,11 +268,3 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ### The Creation of [[Yggdrasil's Morphblade]]
 ![[Yggdrasil's Morphblade#History]]
 
-for the god above can you create:
-
-now can you generate religious practices and rituals done by their followers 
-now can you generate cultural norms of cultures that worship them
-now can you generate political structures associated with them
-now can you generate a list of 8 blessings the god can bestow upon their followers as they gain favor with this god in dnd terms
-now can you generate a list of 8 curses the god's follower can bestow upon their enemies as they gain favor with this god in dnd terms
-now can you generate a list of elements that could be associated with them

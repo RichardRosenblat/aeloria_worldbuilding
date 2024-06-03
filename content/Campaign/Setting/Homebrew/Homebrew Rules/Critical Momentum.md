@@ -3,7 +3,7 @@ tags:
   - "#homebrew"
   - rule
 ---
-Variant Rule: Critical Momentum
+# Variant Rule: Critical Momentum
 
 In the ever-shifting tapestry of fate, the balance of fortune and misfortune is a delicate dance. In this variant rule, the natural extremes—rolling a natural 1 or a natural 20—echoes through the fabric of reality, potentially amplifying their effects to legendary or catastrophic proportions.
 
