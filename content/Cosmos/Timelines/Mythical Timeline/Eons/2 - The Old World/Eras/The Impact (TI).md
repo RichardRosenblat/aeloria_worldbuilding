@@ -47,7 +47,7 @@ The [[True Gods]], chastened by the presence of [[Aena, goddess of kindness, cre
 8. [[Kord, God of Strength and Storms - The Stormlord (CN)]]
 9. [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)]]
 10. [[Melora, Goddess of the Wild and Sea - The Wildmother (N)]]
-11. [[Moradin, God of Creation - The Allhammer (LG)]]
+11. [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)]]
 12. [[Pelor, God of the Sun and Agriculture - The Dawnfather (NG)]]
 13. [[Nerull, God of Death, Fate, and Winter - The winterlord (LN)]]
 14. [[Sehanine, Goddess of the Moon - The Moonweaver (CG)]]

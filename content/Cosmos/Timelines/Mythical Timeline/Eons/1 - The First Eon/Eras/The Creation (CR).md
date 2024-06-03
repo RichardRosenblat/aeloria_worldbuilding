@@ -72,7 +72,7 @@ The [[True Gods]] first crafted powerful beings. These beings were the first mor
 
 ### The Giants
 
-The giants were forged by [[Kord, God of Strength and Storms - The Stormlord (CN)|Kord]] and [[Moradin, God of Creation - The Allhammer (LG)|Moradin]]. [[Moradin, God of Creation - The Allhammer (LG)|Moradin]] had created the first and biggest mountain, and [[Kord, God of Strength and Storms - The Stormlord (CN)|Kord]] impressed by the creation, decided to climb to the very top of the mountain to see the world from above. As he strode unstoppable as a unyielding storm, he reached out his hand and grabbed the pure elemental forces of the world, dragging them with him to the top of the mountain. During his climb, the elemental forces joined with parts of the mountain, the hills from below, the stones from the mountain, the ice from the top, the fire from the magma, the clouds from the sky, and when he reached the top, he shaped created a mighty storm to lift himself above the mountain, imbuing the storm with the elemental forces he had gathered as a final gift to the world. And thus the first giants were born, each embodying the elements of the world. 
+The giants were forged by [[Kord, God of Strength and Storms - The Stormlord (CN)|Kord]] and [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)|Moradin]]. [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)|Moradin]] had created the first and biggest mountain, and [[Kord, God of Strength and Storms - The Stormlord (CN)|Kord]] impressed by the creation, decided to climb to the very top of the mountain to see the world from above. As he strode unstoppable as a unyielding storm, he reached out his hand and grabbed the pure elemental forces of the world, dragging them with him to the top of the mountain. During his climb, the elemental forces joined with parts of the mountain, the hills from below, the stones from the mountain, the ice from the top, the fire from the magma, the clouds from the sky, and when he reached the top, he shaped created a mighty storm to lift himself above the mountain, imbuing the storm with the elemental forces he had gathered as a final gift to the world. And thus the first giants were born, each embodying the elements of the world. 
 
 ### The Fey and the Elves
 
@@ -80,7 +80,7 @@ The fey, sung into existence by the [[Ainulindalë]], emerged from the very firs
 
 ### The Dwarves
 
-After the elves, the dwarves were created by the [[Moradin, God of Creation - The Allhammer (LG)|The Allhammer]], utilizing parts of the giants. Sturdy creatures, the dwarves were forged into existence. Like the elves, they desired exploration, digging out of the mountains to explore the surface.
+After the elves, the dwarves were created by the [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)|The Allhammer]], utilizing parts of the giants. Sturdy creatures, the dwarves were forged into existence. Like the elves, they desired exploration, digging out of the mountains to explore the surface.
 
 ## Creation of Various Species
 

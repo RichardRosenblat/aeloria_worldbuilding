@@ -58,7 +58,7 @@ These are the Harmonious Gods
 | [[Ioun, Goddess of Knowledge - The Enlightened (N)]]                   |
 | [[Kord, God of Strength and Storms - The Stormlord (CN)]]              |
 | [[Melora, Goddess of the Wild and Sea - The Wildmother (N)]]           |
-| [[Moradin, God of Creation - The Allhammer (LG)]]                      |
+| [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)]]                      |
 | [[Pelor, God of the Sun and Agriculture - The Dawnfather (NG)]]        |
 | [[Raven Queen, Goddess of Death Crow - The Matron of Death (LN)]]     |
 | [[Sehanine, Goddess of the Moon - The Moonweaver (CG)]]                |

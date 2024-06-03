@@ -73,7 +73,7 @@ In the past, godly beings were capable of becoming True gods, by killing gods an
 | [[Kord, God of Strength and Storms - The Stormlord (CN)]]                    |
 | [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)]]               |
 | [[Melora, Goddess of the Wild and Sea - The Wildmother (N)]]                 |
-| [[Moradin, God of Creation - The Allhammer (LG)]]                            |
+| [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)]]                            |
 | [[Pelor, God of the Sun and Agriculture - The Dawnfather (NG)]]              |
 | [[Raven Queen, Goddess of Death Crow - The Matron of Death (LN)]]            |
 | [[Sehanine, Goddess of the Moon - The Moonweaver (CG)]]                      |

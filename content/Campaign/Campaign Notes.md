@@ -110,6 +110,10 @@ very cool bird!
 I have the body of a pig
 Lies? in your house of god?
 
+## Homebrew Rules 
+
+![[Custom Homebrew#Homebrew Rules]]
+
 ## Druids Haka
 1. Screams
 2. Skulls

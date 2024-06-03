@@ -25,6 +25,8 @@ Happy adventuring and stay curious!
 | [[Resurrection Rules]]         |
 | [[Rest Rules]]                 |
 | [[Levels Beyond 20th]]         |
+| [[Travel Rules]]               |
+| [[Tactical Skill Checks]]      |
 
 ## Homebrew Character Options
 
