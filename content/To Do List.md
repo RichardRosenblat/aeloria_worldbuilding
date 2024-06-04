@@ -75,9 +75,11 @@ tags:
 34. [ ] Create Kingdoms
 35. [ ] Create story of cultural erasure and signs of forgotten cultural detritus
 ## These tasks can be done after the capaign starts
-1. [ ] Finish re checking the [[elemental planes]]
+1. [ ] Finish re checking the [[elemental planes]] and [[Echo Planes]] and metal-elemental **influences**
     1. [ ] [[Feywild]]
+        1. [ ] Also add domains of delight
     2. [ ] [[Shadowfell]]
+        1. [ ] Also add domains of dread
     3. [ ] [[Plane of Energy]]
     4. [ ] [[Plane of Mind]]
     5. [ ] [[Plane of Darkness]]

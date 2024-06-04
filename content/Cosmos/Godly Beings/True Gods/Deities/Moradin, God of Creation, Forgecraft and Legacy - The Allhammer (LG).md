@@ -40,6 +40,11 @@ aliases:
 
 ## Extra Titles
 
+The Father of the Forge: Moradin, God of Creation
+The Dwarven Artisan: Moradin, God of Smithing
+The Maker of Mountains: Moradin, God of Stonecraft
+The Guardian of Tradition: Moradin, God of Ancestry
+
 ## Commandments
 
 - _Remain stoic and tenacious in the face of catastrophe._
@@ -52,7 +57,7 @@ aliases:
 _Hammer with ends carved in the likeness of dwarven heads_
 
 ![[moradin symbol 2.png|400]]
-Flaming anvil_
+_Flaming anvil_
 
 ## Avatars
 ### Aerian (Human) Generic
