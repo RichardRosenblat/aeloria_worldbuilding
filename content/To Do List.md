@@ -75,7 +75,8 @@ tags:
 34. [ ] Create Kingdoms
 35. [ ] Create story of cultural erasure and signs of forgotten cultural detritus
 ## These tasks can be done after the capaign starts
-1. [ ] Finish re checking the [[elemental planes]] and [[Echo Planes]] and metal-elemental **influences**
+1. [ ] Visit planes and create models for them
+2. [ ] Finish re checking the [[elemental planes]] and [[Echo Planes]] for metal-elemental influences
     1. [ ] [[Feywild]]
         1. [ ] Also add domains of delight
     2. [ ] [[Shadowfell]]
@@ -85,21 +86,22 @@ tags:
     5. [ ] [[Plane of Darkness]]
     6. [ ] [[Plane of Gravity]]
     7. [ ] [[Plane of Void]]
-2. [ ] Create [[Timelines]]
+3. [ ] Create [[Timelines]]
     1.  [ ] Create physical timeline
     2.  [ ] Create recorded timeline
-3. [ ] Create Champions of the gods
-4. [ ] Create Makora
-5. [ ] Create story about each of [[the planes]]
-6. [ ] Create [[Harmonious vestiges]]
-7. [ ] Create [[defiant vestiges]]
-8. [ ] Make cultural differences in the timeline and gods appearances
-9. [ ] Create the other godly beings
-10. [ ] Create automatas
-11. [ ] Create elemental personification on the elements
-12. [ ] Create elemental [[titans]]
-13. [ ] make Alliance bank account types
-14. [ ] Add important Past Figures
-15. [ ] Add races/species
-16. [ ] Create elder elementals
-17. [ ] Commision artist for [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] apperance
+4. [ ] Create Champions of the gods
+5. [ ] Create characteristics of the god's champions (personality traits, ideals, bonds, flaws and giveaways of their god's influence)
+6. [ ] Create Makora
+7. [ ] Create story about each of [[the planes]]
+8. [ ] Create [[Harmonious vestiges]]
+9. [ ] Create [[defiant vestiges]]
+10. [ ] Make cultural differences in the timeline and gods appearances
+11. [ ] Create the other godly beings
+12. [ ] Create automatas
+13. [ ] Create elemental personification on the elements
+14. [ ] Create elemental [[titans]]
+15. [ ] make Alliance bank account types
+16. [ ] Add important Past Figures
+17. [ ] Add races/species
+18. [ ] Create elder elementals
+19. [ ] Commision artist for [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] apperance

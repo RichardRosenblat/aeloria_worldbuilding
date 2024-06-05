@@ -26,3 +26,7 @@ tags:
 | Sigils                  | [watabou/sigil-generator](https://watabou.itch.io/sigil-generator)                                                                                                         |
 | Draconic words          | [Thu'um word wall](https://www.thuum.org/learn/practice/word-walls.php)                                                                                                    |
 | Fantasy city database   | [praxxian city generator](https://praxxian.github.io/RPG-City-Generator/)                                                                                                  |
+| Using Deck of many things to Make Readings  | [divinatory uses](https://5e.tools/book.html#dmtcrg,-1,divinatory%20uses,0)                                                                                                  |
+| Using Deck of many things to Make adventure  | [making adventures](https://5e.tools/book.html#dmtcrg,-1,adventure%20spreads,0)                                                                                                  |
+| Deck of many more things  | [deck to use](https://5e.tools/decks.html#deck%20of%20many%20more%20things_dmtcrg)                                                                                                  |
+

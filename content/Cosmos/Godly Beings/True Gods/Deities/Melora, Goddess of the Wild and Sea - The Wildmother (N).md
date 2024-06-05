@@ -135,6 +135,8 @@ The cultural norms of cultures that worship Melora are:
 
 ## Political Structures
 
+Culture that worship Melora rarely have centralized political structures, instead favoring decentralized governance models that reflect the principles of balance, harmony, and respect for the natural world. Some common political structures include:
+
 1. **Council of Generations**: Leadership is often vested in a council composed of representatives from different age groups. Elders provide wisdom and guidance, while younger members offer fresh perspectives and innovative ideas. This structure ensures that decisions are made with consideration for the past, present, and future.
     
 2. **Tribal Confederacies**: Communities may be organized into tribal confederacies, where each tribe maintains autonomy but collaborates on larger issues such as environmental protection, defense, and trade. This structure allows for local governance while fostering unity among different groups.

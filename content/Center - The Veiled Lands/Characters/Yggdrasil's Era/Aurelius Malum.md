@@ -25,4 +25,4 @@ His speech to the group:
 I alone stand above all others in the multiverse. This is not vanity, this is an undeniable fact. At birth, I was graced with the two highest blessings that mortal can attain, gifts that can bestowed only by the [[Over-Deities]] themselves. This cannot be without purpose. I must deserve this, and the gods must want me to succeed in whatever I desire. So I shall put a leash on the world, and I shall compel it to acknowledge its rightful place beneath me. And you, will bow before your king, willingly or I will break you until you do so."
 
 His domain's names: 
-**Dominii ampliatio: iustitia Malum Perfecti** Meaning: Domain expansion: The Righteousness of Perfect Evil / Righteous embodiment of perfect evil
+**Dominii ampliatio: Iustitia Malum Perfecti** Meaning: Domain expansion: The Righteousness of Perfect Evil / Righteous embodiment of perfect evil

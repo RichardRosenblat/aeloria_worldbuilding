@@ -65,6 +65,7 @@ tags:
 
 | Word                       | Meaning                                                     |
 | :------------------------- | :---------------------------------------------------------- |
+| Ardalithrond   | Lineage of Kin (family tree), music (or beauty) of the world        |
 | [[Ainulindalë]]            | Music of creation / Music of the gods                       |
 | Eladrin                    | Wise-ones / Eladrin (Arcaic word)                           |
 | Eldar                      | Ones of the [[Solis\|Sun]] (Eldorwyn elfs)                  |

@@ -44,6 +44,10 @@ Two queens hold court in the Feywild, and most fey owe allegiance to one or the 
 
 Seelie and unseelie do not directly correlate with good and evil, though many mortals make that equation. Many seelie fey are good, and many unseelie are evil, but their opposition to each other stems from their rivalry, not abstract moral concerns. Ugly denizens of the Feywild, such as fomorians and hags, are almost never members of either court, and fey of independent spirit reject the courts entirely.
 
+**The Seelie Court**: Also known as the Summer Court or The Court of Light and Summer, lead by Queen Titania, is the court of the bright sun and the verdant summer. The seelie fey cling to tradition and courtly manners, and they value protocol and uphold tradition in all things. 
+
+**The Unseelie Court**: Also known as the Gloaming Court or The Court of Night and Winter, lead by The Queen of Air and Darkness, is the court of the dark moon and the icy winter. The unseelie fey indulge in revelry and wildness, they embrace their primal instincts, abhor adherence to protocol, and shun conformity in all things.
+
 The courts have warred at times, but they also compete in more-or-less friendly contests and even ally with one another in small and secret ways.
 
 ## Fey Crossings
