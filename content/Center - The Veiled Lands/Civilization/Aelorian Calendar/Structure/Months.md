@@ -66,17 +66,17 @@ In the [[Aelorian Calendar]], time unfolds in a cyclical dance of seasons, each 
 To align the [[Aeloria|Aelorian]] months with the Gregorian calendar, here's the conversion:
 
 | [[Aeloria\|Aelorian]] N° | [[Aeloria\|Aelorian]] Months | Gregorian Months | Gregorian N° |
-| --- | --- | --- | --- |
-| 1 | Frostfall | December | 12 |
-| 2 | Snowdrift | January | 1 |
-| 3 | Thawbreak | February | 2 |
-| 4 | Blossomrise | March | 3 |
-| 5 | Rainbloom | April | 4 |
-| 6 | Petalspree | May | 5 |
-| 7 | Sunstart | June | 6 |
-| 8 | Blazepeak | July | 7 |
-| 9 | Highharvest | August | 8 |
-| 10 | Leafturn | September | 9 |
-| 11 | Mistfall | October | 10 |
-| 12 | Moonharvest | November | 11 |
+| ------------------------ | ---------------------------- | ---------------- | ------------ |
+| 1                        | Frostfall                    | December         | 12           |
+| 2                        | Snowdrift                    | January          | 1            |
+| 3                        | Thawbreak                    | February         | 2            |
+| 4                        | Blossomrise                  | March            | 3            |
+| 5                        | Rainbloom                    | April            | 4            |
+| 6                        | Petalspree                   | May              | 5            |
+| 7                        | Sunstart                     | June             | 6            |
+| 8                        | Blazepeak                    | July             | 7            |
+| 9                        | Highharvest                  | August           | 8            |
+| 10                       | Leafturn                     | September        | 9            |
+| 11                       | Mistfall                     | October          | 10           |
+| 12                       | Moonharvest                  | November         | 11           |
 

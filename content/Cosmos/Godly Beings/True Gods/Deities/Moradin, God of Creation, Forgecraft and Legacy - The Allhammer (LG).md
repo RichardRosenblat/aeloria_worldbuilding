@@ -66,7 +66,7 @@ _Flaming anvil_
 
 ## Religious Practices
 
-Moradin's 
+Moradin's followers are known for their dedication to craftsmanship, tradition, and community. They engage in a variety of religious practices and rituals to honor the Allhammer and seek his guidance and blessings. Some of the most common practices include:
 
 1. **Forging Ceremonies:** Devotees of Moradin regularly participate in forging ceremonies where they craft weapons, armor, and other items as offerings to the god. These ceremonies are conducted with solemnity and reverence, with prayers offered to Moradin for guidance and inspiration in their craftsmanship.
 
@@ -85,6 +85,8 @@ Moradin's
 8. **Burning offering:** Whenever a follower of Moradin wishes to confess their love, deep respect, and gratitude to another, they must embark on a quest for the perfect gift, one that will endure through generations, unfazed by the passage of time. This quest begins with seeking Moradin's blessing through meditation, ensuring divine guidance in finding the perfect materials, design, and execution. The gift must be crafted by the follower themselves, who must achieve perfection in all aspects, however long it may take. The creation process must be conducted in stoic concentration, allowing the follower to channel their feelings and devotion into the work. Once the gift is completed, the follower presents it to the recipient in a private and significant location. Here, they explain the meaning and emotions behind the gift, but never the crafting process, as the gift must speak for the dedication and effort on its own. The offering must be conducted with utmost respect and reverence. If the recipient accepts the gift, it signifies reciprocation of feelings, forging a bond as strong as the item itself. If the gift is rejected, the follower must accept this with dignity, never speaking of the offering or the feelings behind it again to avoid burdening the recipient with the resposability for the follower's feelings. This ritual is a profound way for followers to express their deepest emotions and create lasting bonds through the power of craftsmanship. Many followers of Moradin spend years searching and crafting the perfect gift, creating intricate and beautiful items. Some inscribe their feelings into the item, others use materials from distant lands, and some imbue their creations with powerful magic and enchantments. Gifts created in this manner often become family heirlooms, symbolizing the enduring bond between giver and recipient.
 
 ## Cultural Norms
+
+Cultures that worship Moradin are characterized by their dedication to craftsmanship, tradition, and community. These norms shape the daily lives of individuals and guide their interactions with others. Some of the key cultural norms include:
 
 1. **Valuing Craftsmanship:** In cultures devoted to Moradin, exceptional craftsmanship is highly esteemed. From blacksmiths to jewelers, artisans are revered, and their work is considered both a practical necessity and a spiritual offering. People are encouraged to learn and perfect a craft, seeing it as a way to honor Moradin.
 
@@ -109,6 +111,33 @@ Moradin's
 11. **Education in the Arts:** Education in various crafts and arts is encouraged from a young age. Apprenticeships and mentorships are common, with masters passing down their skills to apprentices through hands-on training and personal instruction. As they must keep their craft passed down through generations to be improved and handled by great artisans and smiths that will carry their legacy with them and their creations.
 
 ## Political Structures
+
+Cultures that worship Moradin often have unique political structures that reflect their values of craftsmanship, tradition, and community. These structures are designed to promote stability, cooperation, and the preservation of cultural heritage. Some of the common political systems include:
+
+1. **Clan-Based Governance:** Political power is concentrated within clans, with each clan electing or appointing a leader, often known as a chieftain or elder. These leaders represent their clans in a council that governs the broader community.
+
+2. **Council of Elders:** A governing body comprised of the oldest and most respected members of society. This council makes decisions on important matters, leveraging their wisdom and experience to guide the community.
+
+3. **Guild Leadership:** Guilds of artisans, miners, and other craftspeople hold significant influence. Each guild has their way of choosing their leaders, representatives, or any other form of governance, and these guilds then work together to manage the community's affairs in a form of council.
+
+4. **Meritocratic Hierarchy:** Leaders are chosen based on their skills, achievements, and contributions to society rather than their birthright. Positions of power are earned through demonstrated ability, craftsmanship, and dedication to the community.
+
+5. **Theocratic Rule:** Priests and religious leaders of Moradin hold significant authority, guiding the community based on divine principles and religious doctrines. The high priest or priestess often serves as the primary leader.
+
+6. **Monarchical System:** A hereditary monarchy where the king or queen is seen as the direct descendant of a legendary figure blessed by Moradin. This ruler is often advised by a council of nobles and elders.
+
+7. **Warrior-Craftsmen Leadership:** A unique blend of military and artisanal leadership, where the highest-ranking warriors who are also skilled craftsmen hold dual roles in defending the community and leading it in governance. Often owing their position to their prowess in battle and their ability to craft powerful weapons and armor.
+
+8. **Democratic Assemblies:** Citizens have the right to vote on important matters, with representatives elected from each district or clan. These representatives form an assembly that creates and enforces laws.
+
+9. **Rotating Leadership:** Leadership roles rotate among the heads of different clans or guilds on a regular basis. This ensures that no single group maintains power for too long and that diverse perspectives are considered.
+
+10. **Trade Confederacy:** A coalition of trade leaders and merchants who control economic policy and governance. They ensure that commerce and craftsmanship flourish, benefiting the entire community.
+
+11. **Craftsmen Senate:** A senate composed of representatives from various trades and professions. Each trade elects a representative to the senate, which then works together to create policies that support economic and social stability.
+
+12. **Oligarchic Council:** A small group of the most influential and wealthy individuals, often successful guildmasters and master craftsmen, who make decisions for the community. Their wealth and influence give them significant political power.
+
 
 ## Elemental Affinities
 | Elements      |
