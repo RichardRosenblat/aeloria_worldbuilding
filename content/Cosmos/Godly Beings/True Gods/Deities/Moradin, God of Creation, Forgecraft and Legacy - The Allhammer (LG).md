@@ -165,13 +165,45 @@ Cultures that worship Moradin often have unique political structures that reflec
 
 ## Blessings
 
-A follower of (God) can gain favor with their deity by (doing what?). As they embody the principles of (what?), (God) may bestow the following blessings upon them:
+A follower of Moradin can gain favor with the Allhammer by dedicating themselves to the craft of creation, upholding tradition, and honoring their ancestors. As they embody the principles of craftsmanship, resilience, and legacy, Moradin may bestow the following blessings upon them:
+
+1. **Artisan's Mastery**: The follower gains proficiency in Smith's Tools, Mason's Tools, Jeweler's Tools, Carpenter's Tools and gains advantage on all ability checks related to crafting, identifying or repairing items related to those crafts. Additionally, when crafting weapons or armor, the follower reduces the time and cost required by half.
+
+2. **Stonewarden's Resilience**: The follower gains resistance to bludgeoning, piercing, and slashing damage from non-magical weapons while wearing medium or heavy armor. Additionally, they gain advantage on saving throws against petrification effects.
+
+3. **Divine Inspiration**: Once per long rest, the follower can call upon Moradin's guidance to immediatly succeed on an ability check or saving throw related to crafting, combat, or solving a problem involving stone or metal.
+
+4. **Flaming Vigor**: Once per long rest, the follower can channel Moradin's divine energy to fuel his inner fire, the follower emits light in a 5-foot radius and dim light for an additional 5 feet. Additionally, the follower gains temporary hit points equal to their level + proficiency bonus, and their melee attacks deal an additional 1d6 fire damage, increasing to 2d6 at 5th level, 3d6 at 11th level, and 4d6 at 17th level. This effect lasts for 1 minute.
+
+5. **Ancestral Blessing**: Once per short rest, the follower can invoke the spirits of their ancestors to aid them in battle. 1d4 Ghostly dwarven warriors appear and fight alongside the follower for 1 minute, they attack after the follower's turn, having the same weapon and armor proficiencies as the follower, dealing 1d6 + the follower's Strength (or Wisdom) modifier damage of the same type as the follower's current weapon on a successful hit. The follower can command the spirits to attack a specific target or defend them, but they cannot move more than 30 feet away from the follower.
+
+6. **Stonestride's Grace**: The follower gains a +10-foot bonus to their movement speed while underground or in rocky terrain. Additionally, they can move through difficult terrain made of stone or earth without penalty and without leaving tracks. Additionally, once per short rest, the follower can gain 30 feet of tremorsense, flying, and a burrowing speed of 30 feet for 1 minute. When burrowing, the follower can move through solid stone or earth as if it were air, not leaving a tunnel behind.
+
+7. **Flameforged Weapon**: Once per long rest, the follower can imbue a weapon with Moradin's fiery blessing, extending its range an additional 30ft and causes it to deal an additional 1d10 fire damage on a successful hit for 1 minute. This blessing can be applied to any melee weapon or ranged weapon made primarily of metal.
+
+8. **Mountain's Endurance**: The follower gains proficiency in Constitution saving throws and can add their proficiency bonus to Constitution checks made to resist exhaustion or endure environmental hazards, such as extreme cold or high altitude. Additionally, they gain advantage on checks to resist being moved or knocked prone and gains resistence to poison damage and immunity to the poisoned condition.
 
 ## Curses
 
 (God)'s followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with (God), they may gain access to the following curses to unleash upon their foes:
 
 The follower must cast *Bestow Curse* to invoke their available curses:
+
+1. **Forgebound Shackles**: The cursed enemy's movements become sluggish and heavy as if weighed down by invisible chains. For the duration of the curse,they loose any weapon or tool proficiency they had and suffer disadvantage on Dexterity-based ability checks and saving throws, their movement speed is halved for the duration as well.
+
+2. **Stonebane Affliction**: The cursed enemy's tools, armor and weapons become brittle and prone to breaking. For the duration of the curse, any attacks made against them have advantage, their AC is reduced by 5, and they suffer disadvantage on saving throws against being disarmed or having their equipment damaged and any attack rolls they make recieve a -5 penalty.
+
+3. **Forge's Wrath**: Whenever the cursed enemy touches metal or stone, they are burned by searing heat as if being under the spell *Heat Metal*, causing 4d8 fire damage. Additionally, any attacks made against them with fire damage deal an additional 1d6 fire damage. If the cursed user does not stop touching the metal or stone within 1 minute, the metal starts melting and the stone starts cracking, any item held becomes unusable and any stone surface touched becomes difficult terrain.
+
+4. **Ancestor's Disfavor**: The cursed enemy finds themselves haunted by the spirits of their ancestors, who scream and wail into their mind. They suffer disadvantage on Wisdom-based ability checks and saving throws, as well as on Charisma checks made to interact with allies. Additionally, they suffer disadvantage on saving throws against fear effects and gain vulnerability to psychic damage.
+
+5. **Stoneshatter's Ruin**: The cursed enemy's connection to the earth weakens, causing the ground beneath their feet to tremble and crack. They suffer disadvantage on Dexterity or Strength-based ability checks and saving throws, and they automatically fail Strength checks to break or lift objects and Dexterity saving throws to not fall prone. All terrain within 10 feet of them becomes difficult terrain for them for the duration of the curse.
+
+6. **Flameforged Mark**: The cursed enemy becomes marked by Moradin's fiery wrath, causing them to emit dim light in a 10-foot radius. Additionally, any attacks made against them with fire damage deal an additional 2d6 fire damage.
+
+7. **Brittle Body**: The cursed enemy's body becomes as fragile as glass, causing them to suffer disadvantage on Constitution saving throws and checks, and they gain vulnerability to bludgeoning, piercing, slashing and thunder damage, if they recieve any damage of those types they recieve 1d8 aditional damage of the same type. If they fall for more than 4 feet, they take 1d6 blugeoning damage must succeed on a Dexterity saving throw or be knocked prone. 
+
+8. **Stonecursed Paralysis**: The cursed enemy's body becomes stiff and unyielding as if turned to stone. At the start of each of their turns, they must succeed on a Constitution saving throw or recieve -10 to their movement speed at the start of each of their turns and suffer disadvantage on all attack rolls and Dexterity saving throws, but their ac gains a +2 bonus. If their movement speed reaches 0, they are petrified for the duration of the curse.
 
 ## Myths
 
@@ -187,7 +219,7 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ![[The Creation (CR)#The Dwarves]]
 
-### The Creation of Pyrosphere
+### The Creation of [[Pyrosphere]]
 
 ![[Pyrosphere#Creation]]
 

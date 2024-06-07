@@ -23,8 +23,9 @@ In this homebrew rule, characters must consume 1 day of rations each in order to
 ### No Rations Available
 
 If a character does not have a ration to consume:
-- **No Long Rest Benefits**: The character does not gain any benefits of a long rest.
-- **Fatigue and Exhaustion**: The character must make a Constitution saving throw of a DC 10 + The amount of days spent without rations or suffer one level of exhaustion.
+- **No Long Rest Possible**: The character cannot take a long rest.
+- **No Long Rest Benefits**: The character does not gain any benefits of a long rest when they sleep without rations.
+- **Fatigue and Exhaustion**: If the character has not consumed rations for multiple long rests, the character must make a Constitution saving throw of a DC 10 + The amount of days spent without rations or suffer one level of exhaustion.
 
 ### Finding and Managing Rations
 
