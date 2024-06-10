@@ -2,7 +2,6 @@
 tags:
   - setting
 ---
-  
 # Homebrew Mechanics of the World of [[Aeloria]]!
 
 In our D&D campaign, we've introduced some unique homebrew rules, feats, spells, and character options to enhance your gaming experience. This page serves as your guide to navigating through these additions.
@@ -34,9 +33,13 @@ Happy adventuring and stay curious!
 
 ## Homebrew Spells
 
-| Spells           |
-| ---------------- |
-| [[Danger-sense]] |
+| Spells                  | Level   |
+| ----------------------- | ------- |
+| [[Danger-sense]]        | 2       |
+| [[Merlin's Water Saw]]  | 5       |
+| [[Cleanse Stain]]       | Cantrip |
+| [[Pan's Ease]]          | Cantrip |
+| [[Housekeeper's Touch]] | Cantrip |
 
 ## Homebrew Feats
 

@@ -38,3 +38,4 @@ These are the templates i use in these notes
 | [[Template - Alchemical Item]]              |
 | [[Template - Great Old One]]                |
 | [[Template - Myth]]                         |
+| [[Template - Spell]]                        |
