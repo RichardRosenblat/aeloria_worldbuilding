@@ -22,13 +22,15 @@ The core premise of Emergency Spell Casting revolves around the utilization of a
 
 However, to enable this impromptu spellcasting, the wizard must have previously performed a ritual that takes 10 minutes per spell level, incorporating any material components required by the spell as well as consuming any materials that would be consumed by the spell's regular casting. 
 
+The ritual can only be performed on a spellbook page that the wizard has authored, and no other wizard's spellbook pages can be used for this purpose. This process can only be completed in a spellbook, since it is the intense feeling of connection to the spell that allows the wizard to perform this ritual without having to scribe a spell scroll in the traditional sense.
+
 This ritual imbues the ink and paper of the specific pages of the spellbook with the necessary magical energies to function as a spell scroll. Once prepared, the page can be torn and used as a scroll for Emergency Spell Casting by any wizard that can use a spell scroll of that spell. However, this act comes at a significant cost: the irretrievable destruction of the torn page and its corresponding spell from the wizard's repertoire.
 
 ### Ultimate Attack: Unleashing Havoc
 
 In dire emergencies, a wizard who has authored the spellbook's pages, and only they, can unleash a devastating ultimate attack. By triggering all the spells prepared for Emergency Spell Casting at once, the wizard unleashes a havoc of magical prowess. This ultimate attack annihilates all the spells prepared for Emergency Spell Casting, triggering multiple effects in a chaotic surge of power.
 
-For this effect to occur, the wizard must be the one to copy and prepare the spells for Emergency Spell Casting. If they have only copied or prepared some of the spells, the remaining ones will remain uncast. Additionally, any pages not authored by the wizard casting these effects will not be used in this ultimate attack.
+For this effect to occur, the wizard must be the one to copy and prepare the spells for Emergency Spell Casting. Additionally, any pages not authored by the wizard casting these effects will not be used in this ultimate attack.
 
 ### Implementation and Considerations
 
