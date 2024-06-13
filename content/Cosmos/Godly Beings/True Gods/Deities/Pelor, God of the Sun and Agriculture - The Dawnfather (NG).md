@@ -1,23 +1,52 @@
-# Name
+---
+aliases:
+  - Pelor
+  - Pelor
+  - Apollo
+  - Soleado
+  - Sonnen-spender
+  - Solbjorn
+  - Earendil
+  - Amaterasu
+  - Helios
+  - Solskin
+  - The Dawnfather
+  - The Sunbringer
+  - The Radiant One
+  - The Golden Lord
+  - The Sunforged
+  - The Radiant Star
+  - The Harvest Empress
+  - The Shining Master
+  - The Everlight
+---
+# Pelor, God of the Sun and Agriculture - The Dawnfather (NG)
 
 ## Culture Names
 
-| Culture                  | Name | Title | Pronouns | Group                                                                             |
-| ------------------------ | ---- | ----- | -------- | --------------------------------------------------------------------------------- |
-| Aerian (Human) Generic   |      |       |          | The [[Harmonious Gods]]                                                           |
-| Asteni (Human) Italian   |      |       |          | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Human) Hispanic     |      |       |          | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
-| Duir (Dwarven) German    |      |       |          | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
-| Dwelmer (Dwarven) Nordic |      |       |          | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
-| Eldar (Elven) Elven      |      |       |          | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
-| Eldarin (Elven) Japanese |      |       |          | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
-| Mularir (Human) Greek    |      |       |          | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
-| Yotunn (Giant) Giant     |      |       |          | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
+| Culture                  | Name           | Title               | Pronouns | Group                                                                             |
+| ------------------------ |:-------------- | ------------------- |:-------- | --------------------------------------------------------------------------------- |
+| Aerian (Human) Generic   | Pelor          | The Dawnfather      | He/Him   | The [[Harmonious Gods]]                                                           |
+| Asteni (Human) Italian   | Apollo         | The Sunbringer      | He/They  | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
+| Dal (Human) Hispanic     | Soleado        | The Radiant One     | He/They  | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Duir (Dwarven) German    | Sonnen-spender | The Golden Lord     | He/Him   | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
+| Dwelmer (Dwarven) Nordic | Solbjorn       | The Sunforged       | He/Him   | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
+| Eldar (Elven) Elven      | Earendil       | The Radiant Star    | She/Her  | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
+| Eldarin (Elven) Japanese | Amaterasu      | The Harvest Empress | She/Her  | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
+| Mularir (Human) Greek    | Helios         | The Shining Master  | He/Him   | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
+| Yotunn (Giant) Giant     | Solskin        | The Everlight         | He/She   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 
 ## Extra Titles
+The Radiant: Pelor, God of the Sun 
+The King of Harvest: Pelor, God of Agriculture 
+The Dawn Lord: Pelor, God of Renewal 
+The Guardian of Dawn: Pelor, God of Light
 
 ## Commandments
+- _Be ever vigilant for evil. People are quick to forget the lessons of the past._
+- _Help relieve the suffering of the innocent._
+- _Deliver the light of the Dawnfather where darkness dwells, and do so with kindness, compassion, and mercy._
 
 ## Symbols
 
