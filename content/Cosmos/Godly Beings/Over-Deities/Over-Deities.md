@@ -36,9 +36,146 @@ At the core of the Twin Goddesses, [[Aena, goddess of kindness, creation and ord
 This paradoxical nature finds expression in the Limit of infinite dimensions, a ceaseless expansion that grows into itself until it reverts, creating a confined infinite existence. The [[Divine Spark|Axiomatic Nullity]] functions as a cosmic mathematical Function, an ever-repeating cycle that negates itself to birth existence and, in turn, negates that existence to return to the infinite void. It is a mathematical enigma, a self-referential abstraction that defies conventional understanding.
 
 The [[Divine Spark|Axiomatic Nullity]]'s intense nothingness, existing at the intersection of mathematical abstraction and cosmic reality, mirrors a perpetual dance of creation and destruction. As this profound nothingness grows into itself, reverting and restarting the cycle, it shapes the very foundation of [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]'s divine might, a paradoxical wellspring from which their influence emanates, weaving the cosmic tapestry with the threads of infinite dimensions and unending mathematical intricacies.
+
+
 ### Mind-Breaking Effect of Over-Deities
 
-Beholding the presence of over-deities induces a profound and catastrophic rupture in the fabric of a mortal’s mind, distorting their perception across time and space. This mental fragmentation results in individuals involuntarily speaking disjointed phrases—echoes of conversations spanning eons. These utterances, seemingly random, range from eerily nonsensical to cosmically profound, reflecting the vast temporal spectrum of existence. The rupture obliterates coherent thought, embedding fragments of dialogues from all eras into the afflicted mind, rendering the individual a vessel for the voices of countless pasts. This phenomenon underscores the incomprehensible power of over-deities, whose mere unmediated presence can transcend mortal comprehension and reality itself.
+Beholding the presence of over-deities, be by communing with their raw essence or by some way travelling past the [[The Greater Limit]],  induces a profound and catastrophic rupture in the fabric of a mortal’s mind, distorting their perception across time and space. This mental fragmentation results in individuals involuntarily speaking disjointed phrases—echoes of conversations spanning eons. These utterances, seemingly random, range from eerily nonsensical to cosmically profound, reflecting the vast temporal spectrum of existence. The rupture obliterates coherent thought, embedding fragments of dialogues from all eras into the afflicted mind, rendering the individual a vessel for the voices of countless pasts. This phenomenon underscores the incomprehensible power of over-deities, whose mere unmediated presence can transcend mortal comprehension and reality itself
+
+#### Some phrases that can be heard from a mind-broken individual:
+
+**Little Meaning:**
+
+|d20| Little Meaning Phrases |
+|---|---------------------- |
+|1|"The clouds whisper secrets to the winds."|
+|2|"A fish swims in the sky, dreaming of mountains."|
+|3|"Candles in the rain, dancing shadows on the wall."|
+|4|"Blue is the sound of forgotten laughter."|
+|5|"The rabbit chases the moon through the forest."|
+|6|"A thousand butterflies weave a tapestry of silence."|
+|7|"Stars hum lullabies to sleeping stones."|
+|8|"Rainbows taste like morning dew."|
+|9|"The echo of a smile, lost in the fog."|
+|10|"Time skips stones across the river of yesterday."|
+|11|"The wind sang to the empty barrels."|
+|12|"Three stones sat in a row, waiting."|
+|13|"A feather danced on the lake’s edge."|
+|14|"The candle flickered without a whisper."|
+|15|"Clouds drew shapes no one noticed."|
+|16|"A single leaf fell, unheard by all."|
+|17|"The door creaked in the silent room."|
+|18|"Dust settled on forgotten shelves."|
+|19|"The clock ticked, ignoring time."|
+|20|"A pebble rolled into the shadow."|
+
+
+**Eerie Undertone:**
+
+| d20 | Eerie Phrases                                                          |
+| --- | ---------------------------------------------------------------------- |
+| 1   | "It's in the house. It took them all."                                 |
+| 2   | "Shadows grow teeth when the moon is full."                            |
+| 3   | "The mirror holds a stranger's reflection."                            |
+| 4   | "Screams echo in vaulted halls."                                       |
+| 5   | "The wind carries the scent of forgotten graves."                      |
+| 6   | "Eyes in the night, watching, waiting."                                |
+| 7   | "There's something in the field."                                      |
+| 8   | "Ghostly fingers tap at the windowpane."                               |
+| 9   | "It's hunting us. It knows what we're afraid of."                      |
+| 10  | "There are footsteps in the house when no one's home."                 |
+| 11  | "In strange eons even death may die"                                   |
+| 12  | "It's not human. It just wears the skin."                              |
+| 13  | "Don't be scared. It can't hurt you."                                  |
+| 14  | "Whispers from the attic never ceased."                                |
+| 15  | "The old well hid more than water."                                    |
+| 16  | "Eyes glowed from the forest’s edge."                                  |
+| 17  | "The dolls moved when no one watched."                                 |
+| 18  | "It moves around at night."                                            |
+| 19  | "Mom and Dad haven't come back from the woods. It's been three days."| |
+| 20  | "The portrait's eyes seemed to follow."                                |
+
+**Cosmic Undertone:**
+
+| d20 | Cosmic Phrases                                                                       |
+| --- | ------------------------------------------------------------------------------------ |
+| 1   | "Stars are the eyes of ancient beings."                                              |
+| 2   | "Galaxies dance to the music of the spheres."                                        |
+| 3   | "The void whispers the secrets of creation."                                         |
+| 4   | "Time is but a ripple in the ocean of eternity."                                     |
+| 5   | "The universe breathes in rhythms unknown."                                          |
+| 6   | "Celestial bodies spin tales of forgotten realms."                                   |
+| 7   | "The cosmos speaks in tongues of light."                                             |
+| 8   | "Can you hear the stars singing. Rhyming. Chiming. Timing. Every hour every minute." |
+| 9   | "[[Astronomical objects\|Nebulas]] pulse with the heartbeats of gods."               |
+| 10  | "The fabric of reality is woven with stardust."                                      |
+| 11  | "Stars sang in frequencies we can't hear."                                           |
+| 12  | "The sun is breathing loud. It has teeth."                                           |
+| 13  | "The void holds secrets of forgotten gods."                                          |
+| 14  | "Stars are melting, loud, proud, sound. They are raining. draining. paining."        |
+| 15  | "Dimensions ripple like water in the ether."                                         |
+| 16  | "The stars so loud. loud. cloud. proud."                                             |
+| 17  | "Black holes are the eyes an ancient one."                                           |
+| 18  | "The cosmos breathes in cycles of eons."                                             |
+| 19  | "[[Astronomical objects\|Nebulas]] cradles newborn stars." |
+| 20  | "The universe pulses with unseen rhythms."                                           |
+
+**Common Phrases:**
+
+|d20| Common Phrases |
+|---|---------------------- |
+|1| "But why did you leave the lantern burning all night?"|
+|2| "Do you think the stars look different in other worlds?"|
+|3| "He said the prophecy was just a tale, but I'm not so sure."|
+|4| "I didn't do this you'r highness, I didn't kill anyone."|
+|5| "She promised the spell would protect us, but look what happened."|
+|6| "In the end, it was the melody that saved us all."|
+|7| "The maps were wrong, and now we're lost in the mists."|
+|8| "They whispered about a hidden city beneath the waves."|
+|9| "If only we had listened to the old hermit's warnings."|
+|10| "The last time we saw the comet, kingdoms fell."|
+|11| "Did you hear about old Marley's new horse? It's a beauty."|
+|12| "Anya's bread is the best in the village, don't you think?"|
+|13| "The crops are looking good this year; hopefully, there'll be no drought."|
+|14| "I saw Thomas at the market; he's grown so much!"|
+|15| "Sarah said the festival will be grand this year."|
+|16| "The blacksmith's son is off to join the king's army."|
+|17| "Remember when old Mrs. Green lost her cat? It was in the barn the whole time!"|
+|18| "Jacob's new baby is the spitting image of him."|
+|19| "He didn't do those things. Dad wouldn't hurt my sister. There was something in the house. There was a man in the walls."
+|20| "Have you tried the stew at Greta's inn? It's to die for."|
+|21| "Lara shouldn't be here. Not today. No way. Stay. Play. Away."|
+|22| "Emily's been under the weather lately; I hope she gets better soon."|
+|23| "They say young Henry is courting Lady Nora now."|
+|24| "The fisherman, Ben, caught the biggest fish I've ever seen!"|
+|25| "The miller's daughter is getting married next [[Months\|month]]."|
+|26| "I heard Clara's been knitting blankets for the winter."|
+|27| "Old Mr. Johnson is always telling stories of the past."|
+|28| "I'm not like you Alex, I can't just pretend everything's fine."|
+|29| "Peter's dog chased after the chickens again yesterday."|
+|30| "There's a rumor that Anna's moving to the big city."|
+|31| "Plans? No plans! I left them in the past."|
+|32| "The blacksmith's work is better than ever these days."|
+|33| "The weather's been so unpredictable lately; I hope it settles down."|
+|34| "There’s a new tailor in town, and their work is exquisite."|
+|35| "The market was bustling with traders from all over today."|
+|36| "Do you hear that melody?"|
+|37| "The children have been playing by the river all afternoon."|
+|38| "The bridge needs repairs before the rainy season starts."|
+|39| "The rumors about a new tax have everyone worried."|
+|40| "There was a beautiful sunrise over the hills this morning."|
+|41| "You said we were safe. That there was no curse left in him."|
+|42| "The fields look greener than ever this year. Too son. Maybe later."|
+|43| "The town square is being decorated for the celebration."|
+|44| "There's talk of a traveling merchant arriving tomorrow."|
+|45| "The local healer has been very busy with all the ailments going around."|
+|46| "The cobbler fixed my shoes perfectly; they feel brand new."|
+|47| "Everyone’s been talking about the strange lights in the sky last night."|
+|48| "I'm not hungry, but I'll eat something later. Maybe a little bit of bread"|
+|49| "The windmill's been working non-stop since the repairs."|
+|50| "The town crier announced some interesting news this morning."|
+
+
 ## The Twin Goddesses: [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]
 
 "One to create, one to destroy; [[Aena, goddess of kindness, creation and order - The Architect (LG)|The Architect]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|The Falling Tower]]; The Weaver and The Unraveler; The twin goddesses, two limits of the same line, they are the ones above and below all. Never one without the other." - The teaching repeated by the followers of the Twin Goddesses.

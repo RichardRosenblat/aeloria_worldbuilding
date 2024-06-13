@@ -48,7 +48,24 @@ Eldarin -> a culture inspired in japanese culture with themes of the samurais
 Mularir -> a culture inspired in greek culture with themes of the greek gods
 Yotunn -> a culture inspired in giant culture with themes of the giants from norse mythology
 
+# Seasons 
 
+The inhabitants have a deep connection and respect for the natural cycles of the seasons
+### Winter
+
+- **Winter** is viewed as a time of challenge and endurance. They are aware of the harsh and unyielding conditions that must be faced. Its end indicates a sense of relief and anticipation for the warmer days ahead, marking winter's end as a hopeful transition. It is marked by a grim determination to survive the cold and dark days, while also recognizing the importance of rest and the reminder of the fragility of life. The inhabitants also see winter as a time where the past is laid to rest, the present is endured, and the future is hoped for.
+### Spring
+
+- **Spring** is seen as a season of renewal and growth. Spring conveys a sense of optimism and vitality. The focus on blooming flowers and necessary rains underscores the importance of this season for rejuvenation and the flourishing of life. And the sewing of seeds for the future. The inhabitants see spring as a time of new beginnings, fresh starts, and a time to plan and plant seeds for the future.
+### Summer
+
+- **Summer** is appreciated for its warmth and productivity. The summer is characterized by the intense heat and the bounty it brings. The season is associated with hard work and the signs of growth of harvest, indicating a connection between the heat of summer and agricultural abundance. The heat of summer marks a time when the inhabitants are busy with the tasks of the season, putting their plans into action so that they can reap the rewards of their labor, as they prepare for the coming fall and winter.
+### Fall
+
+- **Fall** is regarded as a time of transition and reflection. It start signifies the change in nature, its middle point evokes a mystical, contemplative atmosphere, and its end ties the season to the completion of harvests, indulgence in the bountiful fruits of the land, under the full moon, suggesting a blend of practicality and spirituality. It is a season of reflection, of looking back on the year that has passed, and preparing for the year ahead, specifically the winter where they will need to endure the harsh conditions once again. The inhabitants see fall as a time of balance, of preparation for the harsh winter and indulgence in the fruits of their labor.
+
+Overall, the inhabitants view the seasons as cyclical periods of challenge, renewal, productivity, and reflection, each with its own distinct beauty and significance.
+  
 # Understanding Magic for Each Class
 
 In the realm of magical prowess, various classes possess distinct approaches to harnessing arcane forces. While some beings, such as dragons and beholders, inherently wield the weave, most humanoids lack this natural aptitude. Instead, they must acquire it through diverse means: inherent birthright, self-modification, divine bestowment, or latent potential, which can be unlocked through intense study, meditation, potent emotions, or enchanted artifacts.
