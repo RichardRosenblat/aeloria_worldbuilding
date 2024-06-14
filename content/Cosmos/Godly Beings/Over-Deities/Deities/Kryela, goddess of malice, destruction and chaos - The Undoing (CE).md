@@ -45,7 +45,7 @@ aliases:
 - The Selfish: Goddess of Egoism and Greed 
 - The Crumbling Tower: Goddess of Annihilation and Ruin 
 - The Chaotic: Goddess of Disorder and Discord 
-- The Destroyer: Goddess of Anger and Enmity
+- The Oblivion: Goddess of Destruction and Decay
 
 ## Commandments
 

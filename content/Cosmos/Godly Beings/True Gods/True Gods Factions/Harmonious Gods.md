@@ -34,7 +34,7 @@ Amidst celestial discord, an unlikely alliance formed between the Harmonious God
 In the collaboration between the Harmonious Gods and the [[Defiant Gods]], [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]] and Tiamat, two formidable [[True Gods]], collaborated to give birth to dragons. Chromatic Dragons, created by Tiamat, were tasked with resisting elemental forces, while Metallic Dragons, crafted by [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]], became wise and intelligent custodians of mortal realms.
 
 ## Pivotal Role of Dragons
-These dragons played a crucial role in sealing potent primordial elements, creating [[elemental planes]] and casting them into the [[Elemental Chaos]]. The leakage of elemental energies, redirected by the [[True Gods]], fueled the magic of [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]], becoming a catalyst for the control of elemental energies.
+These dragons played a crucial role in sealing potent primordial elements, creating [[elemental planes]] and casting them into the [[Elemental Chaos]]. The leakage of elemental energies, redirected by the [[True Gods]], fueled the magic of [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]], becoming a catalyst for the control of elemental energies.
 
 ## Golden Age of Knowledge
 In the era of divine enlightenment, the Harmonious Gods generously shared their timeless wisdom with mortals, leading to a golden age of knowledge. Magic became a disciplined pursuit, and the secrets of the world unfolded under the nurturing guidance of benevolent deities.
@@ -51,14 +51,14 @@ These are the Harmonious Gods
 
 |  [[True Gods]]                                                        |
 | ---------------------------------------------------------------------- |
-| [[Avandra, Goddess of Change and Luck - The Changebringer (CG)]]       |
+| [[Avandra, Goddess of Change, Autumn and Luck - The Changebringer (CG)]]       |
 | [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)]]    |
-| [[Corellon, God of Magic and the Arts - The Spellfather (CG)]]         |
+| [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)]]         |
 | [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)]]|
 | [[Ioun, Goddess of Knowledge - The Enlightened (N)]]                   |
 | [[Kord, God of Strength and Storms - The Stormlord (CN)]]              |
 | [[Melora, Goddess of the Wild and Sea - The Wildmother (N)]]           |
 | [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)]]                      |
-| [[Pelor, God of the Sun and Agriculture - The Dawnfather (NG)]]        |
+| [[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)]]        |
 | [[Raven Queen, Goddess of Death Crow - The Matron of Death (LN)]]     |
 | [[Sehanine, Goddess of the Moon - The Moonweaver (CG)]]                |

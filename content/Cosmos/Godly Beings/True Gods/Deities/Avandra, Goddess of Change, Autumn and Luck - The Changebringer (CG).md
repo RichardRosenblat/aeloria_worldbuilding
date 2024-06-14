@@ -21,7 +21,7 @@ aliases:
   - Ymirin
   - The Shifter of Luck
 ---
-# Avandra, Goddess of Change and Luck: The Changebringer (CG)
+# Avandra, Goddess of Change, Autumn and Luck: The Changebringer (CG)
 
 "Go forth, my child, embrace adventure and the winds of change, experience the dance of fortune. Luck favors the bold, and in your hands, you hold the power to shape your own destiny." - Avandra's blessing to her followers
 
@@ -217,4 +217,8 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ### [[The Remaking of the Night Sky By Melora And Avandra]]
 
-![[Melora, Goddess of the Wild and Sea - The Wildmother (N)#The Remaking of the night sky]]
+![[The Remaking of the Night Sky By Melora And Avandra#The Myth]]
+
+### The Reason of Autumn 
+
+![[The Reason For the Seasons#Fall ( Avandra, Goddess of Change and Luck - The Changebringer (CG) Avandra 's Ritual)]]

@@ -279,9 +279,20 @@ Beholding the presence of over-deities, be by communing with their raw essence o
 ![[The Impact (TI)#Aena, goddess of kindness, creation and order - The Architect (LG) Aena and Kryela, goddess of malice, destruction and chaos - Undoing (CE) Kryela 's Overwhelming Presence]]
 ### [[The New World (Mythical)|The New World]]
 ![[The Reform (RF)#Divine Reflection]]
-![[The Reform (RF)#Reshaping Corellon, God of Magic and the Arts - The Spellfather (CG) Corellon 's Essence]]
-![[The Reform (RF)#**Radiant Transformation**]]
-![[The Reform (RF)#**Erasing the Traces**]]
+![[The Reform (RF)#Reshaping Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG) Corellon 's Essence]]
+![[The Reform (RF)#Radiant Transformation]]
+![[The Reform (RF)#Erasing the Traces]]
+
+### The seasons of [[Aeloria]]
+
+![[The Reason For the Seasons#The Myth]]
+
+### Creation of [[Solis]]
+![[Solis#Creation]]
+
+### Inspiration for Titania and the Queen of Air and Darkness
+
+![[The Creation (CR)#The Creation of The Archfey and The Fey Sisters]]
 
 ## List
 

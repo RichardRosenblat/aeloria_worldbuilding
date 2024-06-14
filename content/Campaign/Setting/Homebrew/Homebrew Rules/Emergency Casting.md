@@ -8,7 +8,7 @@ This homebrew rules was taken from this video: https://www.youtube.com/watch?v=j
 
 # Emergency Spell Casting: A Homebrew Rule
 
-"This hurts me more than I thought it would. But if it means saving my friends, then so be it. May [[Corellon, God of Magic and the Arts - The Spellfather (CG)|The Spellfather]] forgive me for what I'm about to do." - Kalinda, Elven Wizard
+"This hurts me more than I thought it would. But if it means saving my friends, then so be it. May [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|The Spellfather]] forgive me for what I'm about to do." - Kalinda, Elven Wizard
 
 In [[Aeloria]], practitioners of the arcane arts often find themselves in precarious situations where traditional spellcasting methods falter. To address such dire circumstances, a novel approach known as "Emergency Spell Casting" has emerged among the learned circles of spellcasters.
 

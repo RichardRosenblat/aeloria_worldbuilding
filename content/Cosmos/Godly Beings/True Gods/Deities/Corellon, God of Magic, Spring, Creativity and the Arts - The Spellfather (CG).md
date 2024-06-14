@@ -21,7 +21,7 @@ aliases:
   - The Runic Wonder
   - Corellon Larethian
 ---
-# Corellon, God of Magic and the Arts: The Spellfather (CG)
+# Corellon, God of Magic, Spring, Creativity and the Arts: The Spellfather (CG)
 
 "Magic is in it's essence, imagination. Breathe in inspiration and exhale spells. A battle, a dance, a song, a painting, a sculpture, a spell. All of them are the same, all of them are art." - Proverb of Corellon
 
@@ -223,3 +223,6 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ### Battle against [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|Lolth]]
 ![[The Great War (GW)#Corellon, God of Magic and the Arts - The Spellfather (CG) Corellon 's retribution against Lolth, Goddess of Spiders and Lies - The Spider Queen (LE) Lolth]]
+
+### The reason for the Spring
+![[The Reason For the Seasons#Spring ( Corellon, God of Magic and the Arts - The Spellfather (CG) Corellon 's Ritual)]]

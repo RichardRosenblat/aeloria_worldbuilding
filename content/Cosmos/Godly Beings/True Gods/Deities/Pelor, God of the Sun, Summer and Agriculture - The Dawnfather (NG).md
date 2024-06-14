@@ -20,7 +20,7 @@ aliases:
   - The Shining Master
   - The Everlight
 ---
-# Pelor, God of the Sun and Agriculture - The Dawnfather (NG)
+# Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)
 
 ## Culture Names
 

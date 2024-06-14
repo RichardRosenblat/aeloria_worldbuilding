@@ -42,21 +42,21 @@ While acknowledging the unique positions of Raven Queen and Vecna, [[Over-Deitie
 
 Understanding the potential consequences of unbridled mortal ascensions, [[Over-Deities|the twin goddesses]] resolved to safeguard the balance in creation. Their decision to intervene aimed to prevent further disruptions and maintain the harmony they had woven into the very fabric of [[Aeloria]]. The reform they envisioned would shape the future of divine ascensions and guide the destinies of both gods and mortals.
 
-## Reshaping [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]'s Essence
+## Reshaping [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]]'s Essence
 
-[[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]], with a commitment to preserving the delicate balance of creation, turned their gaze towards [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]], the God of Magic. Recognizing the potent influence of magic in the ascension of mortals, [[Over-Deities|the twin goddesses]], in their boundless creativity, decided to redefine the very essence of [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]].
+[[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]], with a commitment to preserving the delicate balance of creation, turned their gaze towards [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]], the God of Magic. Recognizing the potent influence of magic in the ascension of mortals, [[Over-Deities|the twin goddesses]], in their boundless creativity, decided to redefine the very essence of [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]].
 
 ### Radiant Transformation
 
-In a luminous instant within [[the Eternal Workshop]], [[Over-Deities|the twin goddesses]] worked their cosmic artistry on [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]. They interwove a new aspect into his divine existence, imbuing him with the eternal responsibility of safeguarding the magic of the world. [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]'s essence now bore the concepts of limitation and balance.
+In a luminous instant within [[the Eternal Workshop]], [[Over-Deities|the twin goddesses]] worked their cosmic artistry on [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]]. They interwove a new aspect into his divine existence, imbuing him with the eternal responsibility of safeguarding the magic of the world. [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]]'s essence now bore the concepts of limitation and balance.
 
 ### Guardian of the Weave
 
-Once a deity of free and unbridled magic, [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]] underwent a transformative shift. Embracing his new role, he became the Guardian of the Weave, tasked with protecting the delicate threads that wove the fabric of reality together. The unrestrained forces of magic were now tethered by his divine mandate.
+Once a deity of free and unbridled magic, [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]] underwent a transformative shift. Embracing his new role, he became the Guardian of the Weave, tasked with protecting the delicate threads that wove the fabric of reality together. The unrestrained forces of magic were now tethered by his divine mandate.
 
 ## Limiting Mortal Ascensions
 
-This alteration in [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]'s essence served a vital purpose—to curtail the mortal path to godhood. The cosmic forces of creation and magic, now regulated and bound by [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]'s influence, imposed a restraint that would prevent mortals from ascending through the same means.
+This alteration in [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]]'s essence served a vital purpose—to curtail the mortal path to godhood. The cosmic forces of creation and magic, now regulated and bound by [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]]'s influence, imposed a restraint that would prevent mortals from ascending through the same means.
 
 ### Erasing the Traces
 
@@ -105,7 +105,7 @@ As [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] a
     
 - **Memory Crystallization:**
   - At midday, gemstones orbited the heads of mortals, crystallizing memories of the past, present, and future. These stones then fell to the ground, shattering as they released the memories they held.
-  - Eleven at night marked the rupture of temples dedicated to [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]], with fractures appearing at every representation of the deity.
+  - Eleven at night marked the rupture of temples dedicated to [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]], with fractures appearing at every representation of the deity.
 
 - **Divine Manifestations:**
   - Transient temples of divine energy manifested across [[Aeloria]], showcasing overwhelming power. These ethereal structures vanished as quickly as they appeared, leaving a lasting impact on those fortunate enough to witness their fleeting presence.

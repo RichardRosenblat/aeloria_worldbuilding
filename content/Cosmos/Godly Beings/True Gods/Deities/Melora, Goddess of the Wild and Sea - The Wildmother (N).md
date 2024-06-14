@@ -252,7 +252,7 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ### The Creation of Firbolg with Sehanine
 ![[The Creation (CR)#The Creation of The Firbolgs]]
 
-### The Creation of Satyr with [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]
+### The Creation of Satyr with [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]]
 ![[The Creation (CR)#The Creation of The Satyr]]
 
 ### The Creation of Tabaxi

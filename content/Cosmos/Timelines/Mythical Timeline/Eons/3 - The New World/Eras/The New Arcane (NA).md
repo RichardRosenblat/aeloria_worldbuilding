@@ -28,15 +28,15 @@ In the eons devoid of magic, [[Aeloria]] existed in a state untouched by the mys
 
 ## A World Reclaimed by Magic
 
-After the initial absence of magic, a slow and steady resurgence began, weaving its way back into the fabric of the world. Millennia passed, and magic, now governed by rules and the commitment to [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]'s responsibility, regained strength, influencing both the world and the lives of mortals.
+After the initial absence of magic, a slow and steady resurgence began, weaving its way back into the fabric of the world. Millennia passed, and magic, now governed by rules and the commitment to [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]]'s responsibility, regained strength, influencing both the world and the lives of mortals.
 
 ### The Gradual Return
 
-Magic's return was a patient process, unfolding over the course of centuries. The once-forgotten enchantments and spells reemerged in a now different configuration, shaped by the laws imposed by [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]'s newfound role as the Guardian of the Weave. This resurgence marked a rebirth of the mystical forces that had long been absent from the mortal realm.
+Magic's return was a patient process, unfolding over the course of centuries. The once-forgotten enchantments and spells reemerged in a now different configuration, shaped by the laws imposed by [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]]'s newfound role as the Guardian of the Weave. This resurgence marked a rebirth of the mystical forces that had long been absent from the mortal realm.
 
 ### Guided by Rules
 
-The rules and restrictions imposed by [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]'s responsibility became the framework through which magic manifested. Mortals, now more cautious and respectful of the arcane, embraced these guidelines as a means of wielding magic responsibly. The laws governing magic ensured that its use aligned with the delicate balance of the world.
+The rules and restrictions imposed by [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]]'s responsibility became the framework through which magic manifested. Mortals, now more cautious and respectful of the arcane, embraced these guidelines as a means of wielding magic responsibly. The laws governing magic ensured that its use aligned with the delicate balance of the world.
 
 ## Mortal Caution and Responsibility
 

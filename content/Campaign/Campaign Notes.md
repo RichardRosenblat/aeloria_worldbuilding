@@ -170,7 +170,7 @@ In the weeks to come, we shall delve into the intricacies of each magical school
 
 In our next class, we shall expand upon the concept of planes and their role in the intricate lattice of material and psychic existence. In preparation for this, I will ask each of you to craft a 500-word research on the following topics: Metaphysical, Metapsychic, Echoes, and Liminal. Pertinent literature on these subjects can be located in the school's library; therefore, kindly make contact with the current librarian on duty to secure copies of the requisite texts. For students of this course, access to these materials is afforded without charge for a [[Days of The Week|week]], within the confines of our campus. However, do exercise due diligence in returning the books promptly to evade the imposition of fees.
 
-Remember to seek truth in spell and honor [[Corellon, God of Magic and the Arts - The Spellfather (CG)|the spellfather]]’s gift
+Remember to seek truth in spell and honor [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|the spellfather]]’s gift
 
 ## Text about [[False Hydra]]
 

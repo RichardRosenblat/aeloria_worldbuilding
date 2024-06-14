@@ -44,9 +44,9 @@ In its infancy, this domain possessed no defined boundaries, leaving it vulnerab
 To aid them in their divine task, they birthed a pantheon of [[True Gods]]:
 
 - **[[He Who Was]]**
-- **[[Avandra, Goddess of Change and Luck - The Changebringer (CG)|Avandra]]**
+- **[[Avandra, Goddess of Change, Autumn and Luck - The Changebringer (CG)|Avandra]]**
 - **[[Bane, God of War and Conquest - The Strife Emperor (LE)|Bane]]**
-- **[[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]**
+- **[[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]]**
 - **[[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)|Erathis]]**
 - **[[Ethedok]]**
 - **[[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]**

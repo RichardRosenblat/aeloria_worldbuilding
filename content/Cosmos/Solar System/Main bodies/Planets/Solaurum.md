@@ -55,7 +55,7 @@ Solaurum lacks oceans, with its landscape dominated by vast stretches of sandy d
 
 ### Purpose
 
-The ruins had a sacred purpose, acting as sanctuaries for studying earth magic and conducting rituals dedicated to the god of magic, [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]. They preserve the rich history of magical practices on Solaurum.
+The ruins had a sacred purpose, acting as sanctuaries for studying earth magic and conducting rituals dedicated to the god of magic, [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]]. They preserve the rich history of magical practices on Solaurum.
 
 ## Atmosphere
 

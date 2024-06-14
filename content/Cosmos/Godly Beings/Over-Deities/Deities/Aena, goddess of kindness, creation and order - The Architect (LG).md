@@ -43,7 +43,7 @@ aliases:
 ## Extra Titles
 
 - The Generous: Goddess of Generosity and Charity
-- The Creator: Goddess of Creation and Making
+- The Soulforger: Goddess of Creation and Making
 - The Orderly: Goddess of Structure and Balance
 - The Loving: Goddess of Love and Devotion
 

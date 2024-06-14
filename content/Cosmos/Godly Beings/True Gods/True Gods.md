@@ -63,10 +63,10 @@ In the past, godly beings were capable of becoming True gods, by killing gods an
 | True God                                                                     |
 | ---------------------------------------------------------------------------- |
 | [[Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE)]]               |
-| [[Avandra, Goddess of Change and Luck - The Changebringer (CG)]]             |
+| [[Avandra, Goddess of Change, Autumn and Luck - The Changebringer (CG)]]             |
 | [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)]]         |
 | [[Bane, God of War and Conquest - The Strife Emperor (LE)]]                  |
-| [[Corellon, God of Magic and the Arts - The Spellfather (CG)]]               |
+| [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)]]               |
 | [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)]]      |
 | [[Gruumsh, God of Destruction - The Ruiner (CE)]]                            |
 | [[Ioun, Goddess of Knowledge - The Enlightened (N)]]                         |
@@ -74,7 +74,7 @@ In the past, godly beings were capable of becoming True gods, by killing gods an
 | [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)]]               |
 | [[Melora, Goddess of the Wild and Sea - The Wildmother (N)]]                 |
 | [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)]]                            |
-| [[Pelor, God of the Sun and Agriculture - The Dawnfather (NG)]]              |
+| [[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)]]              |
 | [[Raven Queen, Goddess of Death Crow - The Matron of Death (LN)]]            |
 | [[Sehanine, Goddess of the Moon - The Moonweaver (CG)]]                      |
 | [[Tharizdun, God of Madness - The Chained Oblivion (CE)]]                    |

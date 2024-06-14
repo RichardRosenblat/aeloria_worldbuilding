@@ -208,5 +208,5 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ![[The Creation (CR)#The Creation of Drows]]
 
-### Battle against [[Corellon, God of Magic and the Arts - The Spellfather (CG)|Corellon]]
+### Battle against [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]]
 ![[The Great War (GW)#Corellon, God of Magic and the Arts - The Spellfather (CG) Corellon 's retribution against Lolth, Goddess of Spiders and Lies - The Spider Queen (LE) Lolth]]
