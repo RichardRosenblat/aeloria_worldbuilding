@@ -8,37 +8,36 @@ tags:
 Hello there, explorer!!! 🌍✨
 
 ## About [[Aeloria]]
-This a worldbuilding project, a world from my imagination and fueled by creativity. [[Aeloria]] is a high-fantasy realm filled with tales of magic, mystery, and exploration. As the Dungeon Master, I craft its narrative, introducing new storylines, characters, and places.
+This a worldbuilding project, a world from my imagination and love for storytelling and Tabletop Role-Playing Games. [[Aeloria]] is a high-fantasy realm filled with tales of magic, mystery, and exploration. As the Dungeon Master, I craft its narrative, introducing new storylines, characters, and places. This wiki serves as a repository of knowledge about [[Aeloria]], a place where adventurers can immerse themselves in its lore and embark on epic quests.
 
 ## Endless Exploration
-[[Aeloria]] is a canvas shaped by the principles of Balance of Existence, Elements, and Continuity and Change. Dive into a world where opposing forces harmonize, magic blends with elemental energies, and the past subtly transforms. Every bit of history is a clue, every change a testament to the enduring, ever-changing nature of existence.
+[[Aeloria]] is a canvas shaped by [[Aeloria's Principles and themes|principles]] like: Balance of Existence, Elements, and Continuity and Change and many others. These principles guide the creation of its lore, ensuring a cohesive and immersive experience for adventurers. The realm is a tapestry woven with intricate details, waiting to be explored. It's a place where the cosmos, gods, and mortals intertwine, creating a rich tapestry of stories and legends that grows with each new discovery, adventure, and campaign.
 
 ## [[Aeloria]]'s Future
-This journey is just beginning, with grand plans for [[Aeloria]]'s future. It's not just a blog; it's a stepping stone to further adventures. The goal is to expand this world over the years, turning it into a rich and immersive Dungeons & Dragons setting. Perhaps there will be books, stories, and realms yet undiscovered.
-
-## Embracing the Art of Worldbuilding with a Robotic Assistant
-In the expansive realm of [[Aeloria]], crafting narratives is both an art and a challenge. As the maker of this world, I use AI as a silent collaborator, refining and structuring my thoughts into coherent texts.
+This journey is just starting, [[Aeloria]] has a long way to go and a bright future ahead. The realm will continue to evolve, with new stories, characters, and locations waiting to be discovered. The wiki will be updated regularly, offering fresh insights into the world of [[Aeloria]]. The goal is to create a deeply developed and engaging Dungeons & Dragons setting, that can be enjoyed by players and Dungeon Masters alike, inspiring new ideas and adventures. I plan to develop campaigns, adventures, and other resources that will allow players to dive into the world of [[Aeloria]], experiencing its wonders firsthand. My hope is that this realm will last for many years, providing a framework for countless adventures and stories to come.
 
 ## The Nexus of Adventure: [[Aeloria]]'s Centers
-In [[Aeloria]]'s vast expanse, you'll find mysterious locales known as "Centers." These are hubs where destiny intertwines, serving as focal points for exploration and campaigns. From epic quests to intricate storylines, Centers are dynamic stages where [[Aeloria]] unfolds.
-
-## Exploring the dm_notes
-Venture into pages marked as `#dm_note`, they are a glimpse into my creative process. These notes are a compilation of raw ideas, a repository of untamed inspiration waiting to be shaped into [[Aeloria]]'s narrative. Beware, for the texts here may not be immediately coherent. Consider these pages a repository of inspiration, waiting to be shaped into [[Aeloria]]'s narrative.
-
-## More on the generation notes
-
-Among the notes, you might come across pages adorned with the tag `#generation`—consider these the raw building blocks of the realm. These notes aren't immediately coherent, but rather, they serve as the foundation for a unique collaboration between myself and AI. Tagged with this label, they encompass everything from commands sent to the AI to generate new information to meticulously crafted tables of contents. These elements play a crucial role in the continuous evolution of [[Aeloria]], acting as the seeds from which new details sprout and breathe life into the ever-expanding narrative. Delve into these pages, and you'll witness the behind-the-scenes magic, where the sparks of inspiration ignite, fueling the generative process that adds depth and richness to our fantastical journey.
+In [[Aeloria]]'s vast expanse, you'll find mysterious locales known as "Centers." These are hubs where destiny intertwines, serving as focal points for exploration and campaigns. From epic quests to intricate storylines, Centers are dynamic stages where [[Aeloria]] as a setting unfolds. Currently the only center in the wiki is The Veiled Lands, but more will be added in the future.  
 
 ## [[Aeloria]] Wiki Navigation: A Quick Tip
-For a deep dive into [[Aeloria]]'s lore, I suggest using a computer to explore the wiki. Larger screens provide a canvas where details come alive, offering a better experience for explorers.
-On bigger screens, new components will appear to guide you through the notes that shape [[Aeloria]]'s narrative. This allows for a smooth journey through the worldbuilding.
+For a deep dive into [[Aeloria]]'s lore, I suggest using a computer to explore the wiki. Larger screens provide a canvas where details can be showcased in their entirety, allowing for a more immersive experience.
+On bigger screens, new components will appear to guide you through the notes that shape [[Aeloria]]'s narrative. This allows for a smooth journey through the realm.
+
+## Exploring the dm_notes
+Venture into pages marked as `#dm_note`, they are a glimpse into my messy notes, where many loose ideas and concepts are stored. These notes are a compilation of raw ideas and unfinished thoughts, waiting to be used in the worldbuilding process. Although. keep in mind these texts here may not be immediately coherent. Consider them as pages of one of my notebooks, where I jot down ideas, concepts, and inspirations before carrying them over to the main narrative.
+
+## Embracing the Art of Worldbuilding with a Robotic Helper
+Crafting narratives is both an art and a challenge. In the case of [[Aeloria]], I've embraced the power of AI to assist in the worldbuilding process. By using AI tools, such as GPT and github Copilot, I've been able to streamline my thoughts and make my texts more coherent, something I struggle with. While the AI helps in generating content and words, it's my hand that shapes the final narrative, ensuring that the essence of [[Aeloria]] remains true to my vision. I do not claim authorship of any content here, as much of it is either deeply inspired by other works or generated by AI, with few exceptions. My goal is to create a world that is intriguing and fits my vision, none of it is meant to be commercial or to infringe on any copyrights.
 
 ## Inspirations and Intentions
 It's important to note that [[Aeloria]] is not a 100% original project. It draws inspiration from many of my favorite pieces of media, influencing elements such as the names of the [[True Gods]], [[The Planes|planes]], and more. This realm is a labor of love, a homage to the creativity of other media that has shaped who I am. It's not intended as a commercial endeavor; [[Aeloria]] is a passion project meant for exploration, storytelling, and the joy of worldbuilding. Should the unlikely event arise where [[Aeloria]] becomes a source of revenue, I am committed to making any necessary adjustments to avoid causing trouble for those who have inspired this fantastical journey. The aim is to celebrate and share the joy of storytelling, ensuring respect for the origins that have contributed to [[Aeloria]]'s tapestry.
 
 **Image Credits: Appreciating Artistic Inspiration**
 
-While every aspect of [[Aeloria]]'s world, from its intricate lore to the dynamic interactions between its elements, is crafted by me, using multiple tools, it's important to acknowledge that none of the images featured in this blog belong to me, they come from multiple sources. These captivating visuals are chosen not only for their aesthetic appeal but also for their ability to vividly capture the essence of [[Aeloria]]'s landscapes, characters, and mysteries. They serve as inspirational touchstones, enhancing the immersive experience of exploring this fantastical realm. Each image reflects my vision for [[Aeloria]], offering glimpses into the wonders that await adventurers within its boundless horizons.
+The images used in this wiki are not my own creations. They are sourced from talented artists who have shared their work online. None of the images are intended for commercial use, and I do not claim ownership of them. As I continue to expand [[Aeloria]], I will strive to credit the artists whose work has inspired the realm's visual representation. As I am not a professional artist, I rely on the creativity of others to bring the world of [[Aeloria]] to life. As I keep expanding and revisiting the wiki, I will work to ensure that the artists behind the images receive the credit they deserve.
+
+## More on the generation notes
+Among the notes, you might come across pages adorned with the tag `#generation`—consider these the raw building blocks of the realm. These notes aren't immediately coherent, but rather, they serve as the propmts for me to use when generating content with AI. Tagged with this label, they encompass everything from commands sent to the AI to generate new information to meticulously crafted tables of contents. These elements play a crucial role in the continuous evolution of [[Aeloria]], acting as the seeds from which new details sprout and breathe life into the ever-expanding narrative.
 
 ## Join the Adventure
 Explore the [[Aeloria]] Wiki, a repository of knowledge about this high-fantasy realm. Whether you're a seasoned explorer or a newcomer, there's always something to discover.
