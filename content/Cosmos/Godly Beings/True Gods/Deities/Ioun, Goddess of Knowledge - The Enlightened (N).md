@@ -29,7 +29,7 @@ aliases:
 
 | Culture                  | Name          | Title                | Pronouns | Group                                                                             |
 | ------------------------ | ------------- | -------------------- | -------- | --------------------------------------------------------------------------------- |
-| Aerian (Human) Generic   | Ioun          | The Enlightened      | She/Her  | The [[Harmonious Gods]]                                                           |
+| Alonian (Human) Generic   | Ioun          | The Enlightened      | She/Her  | The [[Harmonious Gods]]                                                           |
 | Asteni (Human) Italian   | Minerva       | The Oracle of Wisdom | She/Her  | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
 | Dal (Human) Hispanic     | Savio         | The Wise One         | He/Him   | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Wissen-shuter | The Keeper of Wisdom | He/Him   | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
@@ -58,7 +58,7 @@ Pair of open eyes crowned with a third open eye
 Crook shaped like a stylized eye
 
 ## Avatars
-### Aerian (Human) Generic
+### Alonian (Human) Generic
 > Ioun's appears as an young woman with long, wavy silver hair. Sleek eyes with green irises and a third floating eye with yellow sclera, and a green iris surrounded by a red ring. She wears white robes that tumble out from her form in tendrils of parchment
 ![[Ioun appearance.png|400]]
 _art by https://www.youtube.com/@user-lp4sk2fk9j_

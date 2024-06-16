@@ -29,7 +29,7 @@ aliases:
 
 | Culture                  | Name         | Title                  | Pronouns  | Group                                                                             |
 | ------------------------ | ------------ | ---------------------- | --------- | --------------------------------------------------------------------------------- |
-| Aerian (Human) Generic   | Moradin      | The Allhammer          | He/Him    | The [[Harmonious Gods]]                                                           |
+| Alonian (Human) Generic   | Moradin      | The Allhammer          | He/Him    | The [[Harmonious Gods]]                                                           |
 | Asteni (Human) Italian   | Vesuvius     | The Shipwright         | He/Him    | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
 | Dal (Human) Hispanic     | Creaciónica  | The Hearthkeeper       | She/Her   | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Runenschmied | The Runesmith          | He/Him    | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
@@ -62,7 +62,7 @@ _Hammer with ends carved in the likeness of dwarven heads_
 _Flaming anvil_
 
 ## Avatars
-### Aerian (Human) Generic
+### Alonian (Human) Generic
 > By his worshipers he is depicted as a faceless, stout dwarf-like being of immense strength, hunched over, clasping within his massive hands a flaming heart
 ![[Moradin Appearance.png|400]]
 

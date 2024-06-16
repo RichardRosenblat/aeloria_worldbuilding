@@ -60,28 +60,28 @@ In the past, godly beings were capable of becoming True gods, by killing gods an
 
 ## List of True Gods
 
-| True God                                                                     |
-| ---------------------------------------------------------------------------- |
-| [[Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE)]]               |
-| [[Avandra, Goddess of Change, Autumn and Luck - The Changebringer (CG)]]             |
-| [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)]]         |
-| [[Bane, God of War and Conquest - The Strife Emperor (LE)]]                  |
-| [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)]]               |
-| [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)]]      |
-| [[Gruumsh, God of Destruction - The Ruiner (CE)]]                            |
-| [[Ioun, Goddess of Knowledge - The Enlightened (N)]]                         |
-| [[Kord, God of Strength and Storms - The Stormlord (CN)]]                    |
-| [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)]]               |
-| [[Melora, Goddess of the Wild and Sea - The Wildmother (N)]]                 |
-| [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)]]                            |
-| [[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)]]              |
-| [[Raven Queen, Goddess of Death Crow - The Matron of Death (LN)]]            |
-| [[Sehanine, Goddess of the Moon - The Moonweaver (CG)]]                      |
-| [[Tharizdun, God of Madness - The Chained Oblivion (CE)]]                    |
-| [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)]] |
-| [[Torog, God of the Underground - The Crawling King (NE)]]                   |
-| [[Vecna, God of evil secrets - The Whispered One (NE)]]                      |
-| [[Zehir, God of darkness and poison - The Cloaked Serpent (CE)]]             |
+| True God                                                                           | Cleric's Domains                |
+| ---------------------------------------------------------------------------------- | ------------------------------- |
+| [[Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE)]]                     | Order, Trickery, War            |
+| [[Avandra, Goddess of Change, Autumn and Luck - The Changebringer (CG)]]           | Nature, Trickery                |
+| [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)]]               | Life, Order, War                |
+| [[Bane, God of War and Conquest - The Strife Emperor (LE)]]                        | Forge, Order, War               |
+| [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)]] | Arcana, Light, Nature           |
+| [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)]]            | Civilization, law, peace        |
+| [[Gruumsh, God of Destruction - The Ruiner (CE)]]                                  | Death, Tempest, War             |
+| [[Ioun, Goddess of Knowledge - The Enlightened (N)]]                               | Arcana, Knowledge, Twilight     |
+| [[Kord, God of Strength and Storms - The Stormlord (CN)]]                          | Tempest, War                    |
+| [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)]]                     | Knowledge, Trickery             |
+| [[Melora, Goddess of the Wild and Sea - The Wildmother (N)]]                       | Life, Nature, Tempest           |
+| [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)]]           | Forge, Knowledge, War           |
+| [[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)]]            | Healing, Light, Nature          |
+| [[Raven Queen, Goddess of Death Crow - The Matron of Death (LN)]]                  | Death, Grave, Twilight          |
+| [[Sehanine, Goddess of the Moon - The Moonweaver (CG)]]                            | Arcana, Moon, Twilight          |
+| [[Tharizdun, God of Madness - The Chained Oblivion (CE)]]                          | Death, Grave, Trickery          |
+| [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)]]       | Trickery, War                   |
+| [[Torog, God of the Underground - The Crawling King (NE)]]                         | Death, Trickery                 |
+| [[Vecna, God of evil secrets - The Whispered One (NE)]]                            | Arcana, Death, Grave, Knowledge |
+| [[Zehir, God of darkness and poison - The Cloaked Serpent (CE)]]                   | Nature, Trickery                |
 ## The Divine History
 The True Gods have a rich and deep history, deeply rooted in the [[Mythical Timeline]], this it the timeline summarized
 

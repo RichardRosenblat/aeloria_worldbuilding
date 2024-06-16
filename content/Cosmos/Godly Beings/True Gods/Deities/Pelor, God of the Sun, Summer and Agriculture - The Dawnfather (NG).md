@@ -1,10 +1,9 @@
 ---
 aliases:
   - Pelor
-  - Pelor
   - Apollo
-  - Soleado
-  - Sonnen-spender
+  - Soleo
+  - Sonnen-splender
   - Solbjorn
   - Earendil
   - Amaterasu
@@ -19,22 +18,24 @@ aliases:
   - The Harvest Empress
   - The Shining Master
   - The Everlight
+tags:
+  - true_god
 ---
 # Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)
 
 ## Culture Names
 
-| Culture                  | Name           | Title               | Pronouns | Group                                                                             |
-| ------------------------ |:-------------- | ------------------- |:-------- | --------------------------------------------------------------------------------- |
-| Aerian (Human) Generic   | Pelor          | The Dawnfather      | He/Him   | The [[Harmonious Gods]]                                                           |
-| Asteni (Human) Italian   | Apollo         | The Sunbringer      | He/They  | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Human) Hispanic     | Soleado        | The Radiant One     | He/They  | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
-| Duir (Dwarven) German    | Sonnen-spender | The Golden Lord     | He/Him   | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
-| Dwelmer (Dwarven) Nordic | Solbjorn       | The Sunforged       | He/Him   | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
-| Eldar (Elven) Elven      | Earendil       | The Radiant Star    | She/Her  | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
-| Eldarin (Elven) Japanese | Amaterasu      | The Harvest Empress | She/Her  | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
-| Mularir (Human) Greek    | Helios         | The Shining Master  | He/Him   | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
-| Yotunn (Giant) Giant     | Solskin        | The Everlight         | He/She   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
+| Culture                  | Name            | Title               | Pronouns | Group                                                                             |
+| ------------------------ | :-------------- | ------------------- | :------- | --------------------------------------------------------------------------------- |
+| Alonian (Human) Generic  | Pelor           | The Dawnfather      | He/Him   | The [[Harmonious Gods]]                                                           |
+| Asteni (Human) Italian   | Apollo          | The Sunbringer      | He/They  | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
+| Dal (Human) Hispanic     | Soleo           | The Radiant One     | He/They  | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Duir (Dwarven) German    | Sonnen-splender | The Golden Lord     | He/Him   | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
+| Dwelmer (Dwarven) Nordic | Solbjorn        | The Sunforged       | He/Him   | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
+| Eldar (Elven) Elven      | Earendil        | The Radiant Star    | She/Her  | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
+| Eldarin (Elven) Japanese | Amaterasu       | The Harvest Empress | She/Her  | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
+| Mularir (Human) Greek    | Helios          | The Shining Master  | He/Him   | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
+| Yotunn (Giant) Giant     | Solskin         | The Everlight       | He/She   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 
 ## Extra Titles
@@ -50,9 +51,15 @@ The Guardian of Dawn: Pelor, God of Light
 
 ## Symbols
 
-## Avatars
-### Aerian (Human) Generic
+![[Pelor symbol.png|400]]
+_Circle with six outwardly radiating points_
 
+![[pelor symbol 2.png|400]]
+_Bright, eight-pointed Sun_
+## Avatars
+### Alonian (Human) Generic
+> Pelor wears a white cloak over an intricate golden plate armor. Where a head would be, instead, there is a burning star. In between the plates of his armor, is possible to see a material similar to the night sky.
+![[Pelor Apperance.png|400]]
 
 ## Religious Practices
 
@@ -62,7 +69,19 @@ The Guardian of Dawn: Pelor, God of Light
 
 ## Elemental Affinities
 
+| Elements   |
+| ---------- |
+| Fire       |
+| Air        |
+| Energy     |
+| Metal      |
+| Life       |
+| Abjuration |
+| Divine     |
+| Order      |
+
 ## Home Plane
+[[Elysium|Blessed Fields of Elysium]]
 
 ## Champions
 
@@ -84,6 +103,17 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ## Myths
 
+### The Reason for Summer
+![[The Reason For the Seasons#Summer ( Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG) Pelor 's Ritual)]]
+
+### Helping [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)|Moradin]]'s forge
+![[Pyrosphere#Creation]]
+
+### Creation of [[Solis]]
+![[Solis#Creation]]
+
+### The creation of the Leonin
+![[The Creation (CR)#The Creation of The Leonin]]
 
 
 for the god above can you create:

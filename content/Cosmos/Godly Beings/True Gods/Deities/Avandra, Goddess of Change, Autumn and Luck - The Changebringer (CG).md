@@ -29,7 +29,7 @@ aliases:
 
 | Culture                  | Name        | Title                   | Pronouns       | Group                                                                             |
 | ------------------------ | ----------- | ----------------------- | -------------- | --------------------------------------------------------------------------------- |
-| Aerian (Human) Generic   | Avandra     | The Changebringer       | She/Her        | The [[Harmonious Gods]]                                                           |
+| Alonian (Human) Generic   | Avandra     | The Changebringer       | She/Her        | The [[Harmonious Gods]]                                                           |
 | Asteni (Human) Italian   | Fortuna     | The Misstress of chance | She/Her        | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
 | Dal (Human) Hispanic     | Esperanza   | The Hopebringer         | She/Her        | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Gluck-stein | The Everchanging        | He/She/They/It | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
@@ -63,7 +63,7 @@ The Capricious Hand of Fate: Avandra, Goddess of Chance
 
 ## Avatars
 
-### Aerian (Human) Generic
+### Alonian (Human) Generic
 > Avandra is usually depicted as a dark-skinned young woman with short silver hair (sometimes light brown hair that changes into a road behind her, symbolic of the many possible roads ahead)
 
 ![[Avandra avatar.png|400]]

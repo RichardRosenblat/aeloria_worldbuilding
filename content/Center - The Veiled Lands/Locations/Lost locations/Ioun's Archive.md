@@ -17,7 +17,7 @@ aliases:
 
 | Culture                  | Library Name                                                           | Meaning of Name                                                                                                                        |
 | ------------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Aerian (Human) Generic   | [[Ioun, Goddess of Knowledge - The Enlightened (N)\|Ioun]]'s Archive   | [[Ioun, Goddess of Knowledge - The Enlightened (N)\|Ioun]]'s Archive                                                                   |
+| Alonian (Human) Generic   | [[Ioun, Goddess of Knowledge - The Enlightened (N)\|Ioun]]'s Archive   | [[Ioun, Goddess of Knowledge - The Enlightened (N)\|Ioun]]'s Archive                                                                   |
 | Asteni (Human) Italian   | Sapientia Domus                                                        | House of Wisdom                                                                                                                        |
 | Dal (Human) Hispanic     | Biblioteca de Sabiduría                                                | Library of Wisdom                                                                                                                      |
 | Duir (Dwarven) German    | Weisheitsbibliothek                                                    | Wisdom Library                                                                                                                         |

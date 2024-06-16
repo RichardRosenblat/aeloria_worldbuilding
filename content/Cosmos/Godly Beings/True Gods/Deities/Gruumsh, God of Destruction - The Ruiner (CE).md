@@ -29,7 +29,7 @@ aliases:
 
 | Culture                  | Name        | Title                         | Pronouns    | Group                                                      |
 | ------------------------ | ----------- | ----------------------------- | ----------- | ---------------------------------------------------------- |
-| Aerian (Human) Generic   | Gruumsh     | The Ruiner                    | He/Him      | The [[Defiant Gods]]                                       |
+| Alonian (Human) Generic   | Gruumsh     | The Ruiner                    | He/Him      | The [[Defiant Gods]]                                       |
 | Asteni (Human) Italian   | Vesanus     | The Master of Carnage         | He/Him      | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
 | Dal (Human) Hispanic     | Destrus     | The Harbinger of Annihilation | He/Him      | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
 | Duir (Dwarven) German    | Zerstorungs | The One Eyed                  | He/Him      | [[Defiant Gods\|Die Gegner]] (The opposers)                |
@@ -62,7 +62,7 @@ Triangular eye with bony protrusions
 Single, unblinking eye that bleeds
 
 ## Avatars
-### Aerian (Human) Generic
+### Alonian (Human) Generic
 > They depict him as a hulking behemoth of an orc with his missing eye, lacking a pair since [[The Great War (GW)|the Great War]], has shifted and now central to the face, bearing close resemblance to a cyclops
 ![[Gruumsh appearance.png|500]]
 
@@ -120,9 +120,9 @@ Single, unblinking eye that bleeds
 [[The Abyss|The Infinite Layers of the Abyss]]
 ## Champions
 
-|Previous Champions|
-| ---- |
-|[[Makora| General Makora, The Unstoppable Butcher]]|
+| Previous Champions |
+| ------------------ |
+| [[Makora \| General Makora, The Unstoppable Butcher]] |
 
 
 ## Holidays

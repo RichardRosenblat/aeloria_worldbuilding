@@ -22,7 +22,7 @@ The City of Light is known to have many names, these are some of them:
 
 | Culture                  | City Name                                                                      |
 | ------------------------ | ------------------------------------------------------------------------------ |
-| Aerian (Human) Generic   | The City of Light                                                              |
+| Alonian (Human) Generic   | The City of Light                                                              |
 | Asteni (Human) Italian   | Novaroma                                                                       |
 | Dal (Human) Hispanic     | Prospera                                                                       |
 | Duir (Dwarven) German    | Eisenburg                                                                      |
@@ -52,7 +52,7 @@ Aelor is renowned for its dedication to knowledge and enlightenment, with schola
 ### Architectural Style: 
 Aelor's architectural style is unique, being the starting point of many other cities, cultures and civilizations. It contains unique and lost trends while presenting a mix of styles still present in the world. The cityscape is a testament to the innovative spirit of its founders, harmonizing diverse aesthetics into a cohesive whole.
 
-The grand marble structures of Aelor bear the mark of Aerian inspiration, with soaring spires reminiscent of Camelot's legendary castles. Yet, the elegant archways and intricate mosaics echo the grandeur of Asteni architecture, evoking the majesty of imperial palaces. Dal influences add a vibrant flair to the city's streets, with colorful facades, brick roads and ornate tilework adorning every corner, painted murals and frescoes depicting scenes of daily life and mythological tales.
+The grand marble structures of Aelor bear the mark of Alonian inspiration, with soaring spires reminiscent of Camelot's legendary castles. Yet, the elegant archways and intricate mosaics echo the grandeur of Asteni architecture, evoking the majesty of imperial palaces. Dal influences add a vibrant flair to the city's streets, with colorful facades, brick roads and ornate tilework adorning every corner, painted murals and frescoes depicting scenes of daily life and mythological tales.
 
 Duir and Dwelmer craftsmanship imbue Aelor's buildings with a sturdy resilience, combining the robustness of dwarven strongholds with the meticulous detail of Dwarven art in the windows of the homes of Aelor. Elven elegance intertwines with Eldar motifs, infusing the parks of the city with ethereal beauty and natural motifs reminiscent of ancient forests.
 

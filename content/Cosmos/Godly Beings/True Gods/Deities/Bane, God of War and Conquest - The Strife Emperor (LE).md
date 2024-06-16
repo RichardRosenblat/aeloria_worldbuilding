@@ -29,7 +29,7 @@ aliases:
 
 | Culture                  | Name         | Title                   | Pronouns | Group                                                      |
 | ------------------------ | ------------ | ----------------------- | -------- | ---------------------------------------------------------- |
-| Aerian (Human) Generic   | Bane         | The Strife Emperor      | He/Him   | The [[Defiant Gods]]                                       |
+| Alonian (Human) Generic   | Bane         | The Strife Emperor      | He/Him   | The [[Defiant Gods]]                                       |
 | Asteni (Human) Italian   | Bellium      | The Warlord of Chaos    | He/They  | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
 | Dal (Human) Hispanic     | Guerra       | The Emperor of Conflict | He/Him   | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
 | Duir (Dwarven) German    | Kriegs-furst | The Iron Fist           | He/Him   | [[Defiant Gods\|Die Gegner]] (The opposers)                |
@@ -62,7 +62,7 @@ The Annihilator: Bane, God of Total Victory
 *Claw with three talons pointing down*
 
 ## Avatars
-### Aerian (Human) Generic
+### Alonian (Human) Generic
 > A dark reflection of the honorable warrior, the Strife Emperor is often depicted as a brutish man clad in jagged black armor. Heads dangle from his belt and unblinking, piercing yellow eyes peer through the shadow that obscures his helmeted face. His followers usually depict him as belonging to their own species, out of a sense of superiority.
 ![[Bane Appearance.png|400]]
 

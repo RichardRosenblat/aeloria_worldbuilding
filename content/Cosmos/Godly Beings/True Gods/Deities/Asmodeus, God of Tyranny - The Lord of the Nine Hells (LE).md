@@ -29,7 +29,7 @@ aliases:
 
 | Culture                  | Name      | Title                          | Pronouns | Group                                                      |
 | ------------------------ | --------- | ------------------------------ | -------- | ---------------------------------------------------------- |
-| Aerian (Human) Generic   | Asmodeus  | The Lord of [[the Nine Hells]] | He/Him   | The [[Defiant Gods]]                                       |
+| Alonian (Human) Generic   | Asmodeus  | The Lord of [[the Nine Hells]] | He/Him   | The [[Defiant Gods]]                                       |
 | Asteni (Human) Italian   | Tiranno   | The Hellish King               | He/Him   | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
 | Dal (Human) Hispanic     | Dablo     | The Lord of Infernal Dominion  | He/Him   | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
 | Duir (Dwarven) German    | Tyrann    | The Lord of Lies               | He/Him   | [[Defiant Gods\|Die Gegner]] (The opposers)                |
@@ -62,7 +62,7 @@ _Three triangles in a tight formation_
 _Crown of spiked onyx and curved horns_
 
 ## Avatars
-### Aerian (Human) Generic
+### Alonian (Human) Generic
 > Asmodeus is depicted in many tomes and murals as a handsome humanoid with long, black hair with two curling horns rising from his brow. His appearance changes to match the most beautiful face the viewer has seen.
 
 ![[Asmodeus Avatar.png]]

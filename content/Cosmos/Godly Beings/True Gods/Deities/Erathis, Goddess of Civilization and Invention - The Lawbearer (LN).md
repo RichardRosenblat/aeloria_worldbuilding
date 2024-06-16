@@ -29,7 +29,7 @@ aliases:
 
 | Culture                  | Name         | Title                          | Pronouns | Group                                                                             |
 | ------------------------ | ------------ | ------------------------------ | -------- | --------------------------------------------------------------------------------- |
-| Aerian (Human) Generic   | Erathis      | The Lawbearer                  | She/Her  | The [[Harmonious Gods]]                                                           |
+| Alonian (Human) Generic   | Erathis      | The Lawbearer                  | She/Her  | The [[Harmonious Gods]]                                                           |
 | Asteni (Human) Italian   | Civitas      | The Inventrix                  | She/Her  | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
 | Dal (Human) Hispanic     | Civilis      | The Mother of Progress         | She/Her  | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Zivilisation | The Builder of Strongholds     | He/Him   | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
@@ -62,7 +62,7 @@ Upper half of a clockwork gear
 
 
 ## Avatars
-### Aerian (Human) Generic
+### Alonian (Human) Generic
 > The Lawbearer is shown as a hooded, armored woman sitting atop a throne or a throne of pillars, her face obscured or expressionless. She is often depicted with light brown skin and a strong but lithe body
 ![[Erathis Appearance.png|400]]
 

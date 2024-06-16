@@ -29,7 +29,7 @@ aliases:
 
 | Culture                  | Name        | Title                 | Pronouns | Group                                                                             |
 | ------------------------ | ----------- | --------------------- | -------- | --------------------------------------------------------------------------------- |
-| Aerian (Human) Generic   | Bahamut     | The Platinum Dragon   | He/Him   | The [[Harmonious Gods]]                                                           |
+| Alonian (Human) Generic   | Bahamut     | The Platinum Dragon   | He/Him   | The [[Harmonious Gods]]                                                           |
 | Asteni (Human) Italian   | Iustitia    | The Fair One          | She/Her  | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
 | Dal (Human) Hispanic     | Balduino    | The Noble Protector   | He/Him   | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Edel-herz   | The Lord of Virtue    | He/Him   | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
@@ -61,7 +61,7 @@ _Dragon's head, in profile, facing left_
 _Silver dragon's head in profile_
 ## Avatars
 
-### Aerian (Human) Generic
+### Alonian (Human) Generic
 > Bahamut appears as a gargantuan true dragon of immense wingspan and vibrant platinum scales, although with a combination of features unlike any other, and surrounded by a shiny iridescent aura.
 ![[Bahamut avatar.png]]
 

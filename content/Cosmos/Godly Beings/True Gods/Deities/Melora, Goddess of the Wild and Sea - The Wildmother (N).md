@@ -42,7 +42,7 @@ Guiding us through the stream." - Poem written in prayer to the Wildmother
 
 | Culture                  | Name          | Title                        | Pronouns    | Group                                                                             |
 | ------------------------ | ------------- | :--------------------------- | ----------- | --------------------------------------------------------------------------------- |
-| Aerian (Human) Generic   | Melora        | The Wildmother               | She/Her     | The [[Harmonious Gods]]                                                           |
+| Alonian (Human) Generic   | Melora        | The Wildmother               | She/Her     | The [[Harmonious Gods]]                                                           |
 | Asteni (Human) Italian   | Nettuno       | The King of the Seas         | He/Him      | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
 | Dal (Human) Hispanic     | Oceana        | The Mistress of the Deep     | She/Her     | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Natur-huterin | The Eldertree                | He/Him      | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
@@ -70,7 +70,7 @@ _Wreath of grass and grain affixed to a crook_
 ![[melora symbol 2.png|400]]
 _Wavelike swirl_
 ## Avatars
-### Aerian (Human) Generic
+### Alonian (Human) Generic
 > Melora is depicted as a beautiful woman with olive or deep brown skin with a strong, full figured body, and she is nearly fully enveloped by wild tangle of hair, leaves, and vines.
 ![[melora appearance.png|400]]
 

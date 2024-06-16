@@ -29,7 +29,7 @@ tags:
 
 | Culture                  | Name       | Title                    | Pronouns  | Group                                                                             |
 | ------------------------ | ---------- | ------------------------ | --------- | --------------------------------------------------------------------------------- |
-| Aerian (Human) Generic   | Kord       | The Stormlord            | He/Him    | The [[Harmonious Gods]]                                                           |
+| Alonian (Human) Generic   | Kord       | The Stormlord            | He/Him    | The [[Harmonious Gods]]                                                           |
 | Asteni (Human) Italian   | Hercules   | The Mighty Protector     | He/Him    | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
 | Dal (Human) Hispanic     | Valoro     | The Stormwarden          | He/Him    | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Stark-hand | The Thunderguardian      | He/Her    | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
@@ -60,7 +60,7 @@ The Deity of Warriors: Kord, God of Battle
 *Sword with a lightning bolt cross guard*
 
 ## Avatars
-### Aerian (Human) Generic
+### Alonian (Human) Generic
 > Kord is represented as a human-like man, barrel-chested and with massive muscles. He wears iron bracers around his wrists. His beard is thick and sometimes it goes down to the middle of his chest. In one hand he carries a long, thick shortsword or a lightning bolt. His legs and midsection are clothed in furs and leathers
 ![[Kord appearance 1.png|400]]
 ![[Kord appearance 2.png|400]]

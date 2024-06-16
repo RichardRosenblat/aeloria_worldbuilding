@@ -4,7 +4,7 @@
 
 | Culture | Name | Title | Pronouns | Group |
 | ---- | ---- | ---- | ---- | ---- |
-| Aerian (Human) Generic |  |  |  |  |
+| Alonian (Human) Generic |  |  |  |  |
 | Asteni (Human) Italian |  |  |  |  |
 | Dal (Human) Hispanic|  |  |  |  |
 | Duir (Dwarven) German |  |  |  |  |
@@ -22,7 +22,7 @@
 ## Symbols
 
 ## Avatars
-### Aerian (Human) Generic
+### Alonian (Human) Generic
 
 
 ## Religious Practices

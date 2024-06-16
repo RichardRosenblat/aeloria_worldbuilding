@@ -29,7 +29,7 @@ aliases:
 
 | Culture                  | Name               | Title                    | Pronouns | Group                                                                             |
 | ------------------------ | ------------------ | :----------------------- | -------- | --------------------------------------------------------------------------------- |
-| Aerian (Human) Generic   | Corellon           | The Spellfather          | He/They  | The [[Harmonious Gods]]                                                           |
+| Alonian (Human) Generic   | Corellon           | The Spellfather          | He/They  | The [[Harmonious Gods]]                                                           |
 | Asteni (Human) Italian   | Arcano             | The Weave                | He/It    | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
 | Dal (Human) Hispanic     | Artez              | The Lord of Spells       | He/It    | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Kuns-meister       | The Master Artisan       | He/They  | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
@@ -60,7 +60,7 @@ _Two crested moons facing each other atop a four-pointed star_
 ![[Corellon symbol 2.png|300]]
 _Eight-pointed star_
 ## Avatars
-### Aerian (Human) Generic
+### Alonian (Human) Generic
 > 	Corellon is commonly depicted as an impossibly graceful and beautiful elven being. They are androgynous and alluring, with long golden hair.
 ![[Corellon Appearance.png|400]]
 ## Religious Practices

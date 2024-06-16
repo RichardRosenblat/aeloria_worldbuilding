@@ -72,7 +72,7 @@ tags:
 	1. [ ] Crown of dominion
 	2. [ ] https://youtu.be/U-LNI8JZYtE?si=lELf2yYZ0wVaV1-4
 33. [ ] Create Cultures and expand on it
-34. [ ] Change Aerian culture name
+34. [ ] Change Alonian culture name
 35. [ ] Create Kingdoms
 36. [ ] Create story of cultural erasure and signs of forgotten cultural detritus
 ## These tasks can be done after the capaign starts

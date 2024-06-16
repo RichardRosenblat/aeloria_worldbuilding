@@ -32,7 +32,7 @@ Yet I alone see your true potential—the power you could wield, the intricate w
 
 | Culture                  | Name      | Title                  | Pronouns    | Group                                                      |
 | :----------------------- | --------- | ---------------------- | ----------- | ---------------------------------------------------------- |
-| Aerian (Human) Generic   | Lolth     | The Spider Queen       | She/Her     | The [[Defiant Gods]]                                       |
+| Alonian (Human) Generic   | Lolth     | The Spider Queen       | She/Her     | The [[Defiant Gods]]                                       |
 | Asteni (Human) Italian   | Tejedora  | The Weaver of Lies     | She/It      | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
 | Dal (Human) Hispanic     | Aracnia   | The Deceiver of Silk   | She/Her     | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
 | Duir (Dwarven) German    | Weberin   | The Ensnaring Web      | She/They/It | [[Defiant Gods\|Die Gegner]] (The opposers)                |
@@ -63,7 +63,7 @@ The Queen Weaver: Lolth, Goddess of Trickery
 _Eight-pointed star with a web motif_
 
 ## Avatars
-### Aerian (Human) Generic
+### Alonian (Human) Generic
 > She is depicted as a darkly alluring woman of dark purple skin and silver hair, with a lower body of a terrifying monstrous spider. A common symbol for her is that of a jeweled spider.
 > In the Abyss, she is depicted as a drider-like entity, with four arms, multiple legs and spine appendages, long white hair, spider-like face and several red eyes in her body
 > In elven cultures she is mostly depicted as a monstrous and colossal spider 

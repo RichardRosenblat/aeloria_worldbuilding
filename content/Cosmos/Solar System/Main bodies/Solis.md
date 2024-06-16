@@ -10,16 +10,16 @@ aliases:
 Solis is a radiant star situated at the heart of the [[solar system]], emitting warm and comforting light. Despite its immense brilliance, it lacks the essential conditions for sustaining life.
 ## Name
 
-Solis earned its name in the ancient tongues of the [[Aeloria]], where it once signified "Shine" and "Glow." As the ages unfolded, this word transitioned from Solis to Sol, eventually evolving into the familiar term that refers to it, the Sun. While widely known as Solis across the Veiled Lands, various cultures also refer to it as the sun god, Pelor.
+Solis earned its name in the ancient tongues of the [[Aeloria]], where it once signified "Shine" and "Glow." As the ages unfolded, this word transitioned from Solis to Sol, eventually evolving into the familiar term that refers to it, the Sun. While widely known as Solis across the Veiled Lands, various cultures also refer to it as the sun god, [[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)|Pelor]].
 
 ## Myths
 
 ### Creation
 
-Before the sun, the world was a void veiled in darkness, glimpsed dim light from scattered elemental forces. Pelor, in his wisdom, envisioned a beacon of hope against evil. After contemplation, he realized that this light required a [[True Gods|True God]]'s [[Divine Spark]].
+Before the sun, the world was a void veiled in darkness, glimpsed dim light from scattered elemental forces. [[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)|Pelor]], in his wisdom, envisioned a beacon of hope against evil. After contemplation, he realized that this light required a [[True Gods|True God]]'s [[Divine Spark]].
 
-Faced with the dilemma of sacrificing an innocent comrade, Pelor, in a divine act, he decided to do the unthinkable. Using his flaming scythe, he made the unparalleled sacrifice—separating his head from his body.
-Pelor's selfless act touched the other gods, who sang a mournful song. Yet, Pelor's story continued. The [[Over-Deities]] granted a unique grace—they returned his [[divine spark]] to the world so that he could endure. With fiery grace, Pelor's body rekindled, a radiant light replacing his head. Pelor's resurrection doubled the sun's glow, rejoicing in the grand narrative of [[Aeloria]]. His sacrifice, a tale of hope and compassion, became etched in the cosmic tapestry.
+Faced with the dilemma of sacrificing an innocent comrade, [[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)|Pelor]], in a divine act, he decided to do the unthinkable. Using his flaming scythe, he made the unparalleled sacrifice—separating his head from his body.
+[[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)|Pelor]]'s selfless act touched the other gods, who sang a mournful song. Yet, [[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)|Pelor]]'s story continued. The [[Over-Deities]] granted a unique grace—they returned his [[divine spark]] to the world so that he could endure. With fiery grace, [[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)|Pelor]]'s body rekindled, a radiant light replacing his head. [[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)|Pelor]]'s resurrection doubled the sun's glow, rejoicing in the grand narrative of [[Aeloria]]. His sacrifice, a tale of hope and compassion, became etched in the cosmic tapestry.
 
 ## Physical Characteristics
 

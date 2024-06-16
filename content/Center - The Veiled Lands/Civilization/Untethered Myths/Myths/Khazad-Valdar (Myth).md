@@ -27,7 +27,7 @@ The myth of Khazad-Valdar is known by many cultures across the Veiled Lands, alt
 
 | Culture                   | City Name                                                                                | Meaning               |
 | ------------------------- | ---------------------------------------------------------------------------------------- | --------------------- |
-| Aerian (Human) Generic    | Throrhold                                                                                | Thror Fortress        |
+| Alonian (Human) Generic    | Throrhold                                                                                | Thror Fortress        |
 | Asteni (Human) Italian    | Valdis Magna                                                                             | Great Valor           |
 | Dal (Human) Hispanic      | Montaña Perdida                                                                          | Lost montain          |
 | Duir (Dwarven) German     | Bergkönigheim                                                                            | Mountain King's Home  |

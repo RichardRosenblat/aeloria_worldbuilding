@@ -53,7 +53,7 @@ To aid them in their divine task, they birthed a pantheon of [[True Gods]]:
 - **[[Kord, God of Strength and Storms - The Stormlord (CN)|Kord]]**
 - **[[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]]**
 - **[[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)|Moradin]]**
-- **Pelor**
+- **[[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)|Pelor]]**
 - **[[Nerull, God of Death, Fate, and Winter - The winterlord (LN)|Nerull]]**
 - **Sehanine**
 - **[[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]**

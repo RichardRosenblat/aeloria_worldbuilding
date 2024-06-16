@@ -30,7 +30,7 @@ aliases:
 
 |Culture|Name|Title|Pronouns|Group|
 |---|---|---|---|---|
-|Aerian (Human) Generic|Kryela|The Undoing|She/Her|[[over-deities\|The Dyad]]|
+|Alonian (Human) Generic|Kryela|The Undoing|She/Her|[[over-deities\|The Dyad]]|
 |Asteni (Human) Italian|Morsius|The Broken Tower |He/Him|[[over-deities\|Il Doppio (The double)]]|
 |Dal (Human) Castillian|Devoradora|The End|She/Her|[[over-deities\|La Dualidad (The duality)]]|
 |Duir (Dwarven) German|Dunkelruf|The Endless Shadow |He/Him|[[over-deities\|Die Machtigen (The empowered)]]|
@@ -66,7 +66,7 @@ _A ring of thorns when mentioned with [[Aena, goddess of kindness, creation and 
 _When connected with [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]]_
     
 ## Avatars
-### Aerian (Human) Generic
+### Alonian (Human) Generic
 > Kryela is often depicted as a woman with white hair and dark gowns that often merge with the darkness
 
 ![[Kryela appearance 1.png]]
