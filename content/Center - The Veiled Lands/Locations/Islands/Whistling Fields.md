@@ -4,6 +4,7 @@ tags:
   - "#location"
 ---
 ![[whistiling fields.png|500]]
+_[Image Source](https://www.researchgate.net/figure/Michael-Brill-Safdar-Abidi-Landscape-of-Thorns_fig5_339102696)_
   
 - # Whistling Fields: A Mysterious Expanse of Desolation
 

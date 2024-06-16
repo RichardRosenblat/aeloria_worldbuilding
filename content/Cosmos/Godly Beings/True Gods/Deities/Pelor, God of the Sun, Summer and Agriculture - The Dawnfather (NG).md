@@ -51,15 +51,17 @@ The Guardian of Dawn: Pelor, God of Light
 
 ## Symbols
 
-![[Pelor symbol.png|400]]
+![[Pelor symbol.png|400]][^1]
 _Circle with six outwardly radiating points_
 
-![[pelor symbol 2.png|400]]
+![[pelor symbol 2.png|400]][^2]
 _Bright, eight-pointed Sun_
+
+
 ## Avatars
 ### Alonian (Human) Generic
 > Pelor wears a white cloak over an intricate golden plate armor. Where a head would be, instead, there is a burning star. In between the plates of his armor, is possible to see a material similar to the night sky.
-![[Pelor Apperance.png|400]]
+![[Pelor Apperance.png|400]][^2]
 
 ## Cleric Domains
 | Domains |
@@ -131,3 +133,7 @@ now can you generate political structures associated with them
 now can you generate a list of 8 blessings the god can bestow upon their followers as they gain favor with this god in dnd terms
 now can you generate a list of 8 curses the god's follower can bestow upon their enemies as they gain favor with this god in dnd terms
 now can you generate a list of elements that could be associated with them
+
+
+[^1]: [Pinterest](https://www.pinterest.com/pin/538109855474736808/)
+[^2]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Pelor) 

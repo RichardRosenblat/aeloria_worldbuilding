@@ -42,3 +42,4 @@ When activated, the mechanism inside the cube comes to life, emitting a soft tic
             
 ## Images:
   ![[cube 1.png]]![[cube 2.png]]![[cube 3.png]]
+  _All images made using ai_

@@ -64,15 +64,15 @@ The Spirit of the Elements: Melora, Goddess of the Elements
 - _Embrace and respect that which you cannot control in this world. Exist in harmony with it_
 
 ## Symbols
-![[Melora symbol.png|300]]
+![[Melora symbol.png|300]][^1]
 _Wreath of grass and grain affixed to a crook_
 
-![[melora symbol 2.png|400]]
+![[melora symbol 2.png|400]][^2]
 _Wavelike swirl_
 ## Avatars
 ### Alonian (Human) Generic
 > Melora is depicted as a beautiful woman with olive or deep brown skin with a strong, full figured body, and she is nearly fully enveloped by wild tangle of hair, leaves, and vines.
-![[melora appearance.png|400]]
+![[melora appearance.png|400]][^1]
 
 ## Cleric Domains
 | Domains |
@@ -276,3 +276,6 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ### The Creation of [[Yggdrasil's Morphblade]]
 ![[Yggdrasil's Morphblade#History]]
 
+
+[^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Melora)
+[^2]: [Pinterest](https://br.pinterest.com/pin/630785491544583659/)

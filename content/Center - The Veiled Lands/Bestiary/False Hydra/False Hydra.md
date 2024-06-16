@@ -31,6 +31,7 @@ A false hydra will always inexorably eat itself to death. The only question is w
 
 ## Appearance
 ![[false hydra appearance.png]]
+[_Google Images_](https://www.myminifactory.com/fr/prints/3d-print-the-false-hydra-60073)
 
 ## Statblocks
 

@@ -160,7 +160,7 @@ Each class brings its own unique approach to interacting with the weave, reflect
 
 
 # Energies
-![[Energies hierarchy.png]]
+![[Energies hierarchy.png]] _Image made by me_
 ## Metadynamic Energies: Foundations of Existence in [[Aeloria]]
 
 ### Overview:

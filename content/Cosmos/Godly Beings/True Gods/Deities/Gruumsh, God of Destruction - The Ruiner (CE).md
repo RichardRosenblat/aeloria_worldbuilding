@@ -55,16 +55,16 @@ The Frenzied Beast: Gruumsh, God of Savagery
 
 ## Symbols
 
-![[Gruumsh symbol.png|400]]
+![[Gruumsh symbol.png|400]][^2]
 Triangular eye with bony protrusions
 
-![[Gruumsh symbol 2.png|200]]
+![[Gruumsh symbol 2.png|200]][^1]
 Single, unblinking eye that bleeds
 
 ## Avatars
 ### Alonian (Human) Generic
 > They depict him as a hulking behemoth of an orc with his missing eye, lacking a pair since [[The Great War (GW)|the Great War]], has shifted and now central to the face, bearing close resemblance to a cyclops
-![[Gruumsh appearance.png|500]]
+![[Gruumsh appearance.png|500]][^1]
 
 ## Cleric Domains
 | Domains |
@@ -204,3 +204,5 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ### The wound of Guumsh
 ![[The Great War (GW)#The Wound of Gruumsh, God of Destruction - The Ruiner (CE) Gruumsh]]
 
+[^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Gruumsh)
+[^2]: [Pinterest](https://www.pinterest.com/pin/590464201119797413/)

@@ -56,13 +56,13 @@ aliases:
 
 ## Symbols
 
-![[Kryela Symbol Tower.png|400]]
+![[Kryela Symbol Tower.png|400]][^2]
 _A crumbling tower when mentioned by herself_
 
-![[Kryela symbol Thorns.png]]
+![[Kryela symbol Thorns.png]][^3]
 _A ring of thorns when mentioned with [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]]_
 
-![[OverDeities Symbol.png|400]]
+![[OverDeities Symbol.png|400]][^4]
 _When connected with [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]]_
     
 ## Avatars
@@ -72,7 +72,7 @@ _When connected with [[Aena, goddess of kindness, creation and order - The Archi
 ![[Kryela appearance 1.png]]
 *The art above is made using ai*
 
-![[Kryela appearance 2.png]]
+![[Kryela appearance 2.png]][^1]
         
 
 ## Religious Practices
@@ -134,3 +134,8 @@ Since Kryela is a [[Over-Deities|Over-Deity]], she never had any confirmed Champ
 ## Myths
 
 ![[Over-Deities#Cosmic dreamers stories]]
+
+[^1]: [pinterest](https://br.pinterest.com/pin/272819689919608473/)
+[^2]: [pinterest](https://www.pinterest.com/pin/609745237030888309/)
+[^3]: [Google Images](https://stock.adobe.com/br/images/crown-of-thorns-black-silhouette-icon-vector-illustration-isolated-on-white-background/362357524)
+[^4]: Edited from these images [Thorns](https://stock.adobe.com/br/images/crown-of-thorns-black-silhouette-icon-vector-illustration-isolated-on-white-background/362357524) and [Triqueta](https://publicdomainvectors.org/pt/vetorial-gratis/S%C3%ADmbolos-da-Trindade/53521.html)

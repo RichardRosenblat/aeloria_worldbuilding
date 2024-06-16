@@ -55,15 +55,15 @@ The Winged Executor: Bahamut, God of Law
 
 ## Symbols
 
-![[Bahamut Symbol dragon left.png|400]]
+![[Bahamut Symbol dragon left.png|400]][^1]
 _Dragon's head, in profile, facing left_
-![[Bahamut Dragon right.png|400]]
+![[Bahamut Dragon right.png|400]][^2]
 _Silver dragon's head in profile_
 ## Avatars
 
 ### Alonian (Human) Generic
 > Bahamut appears as a gargantuan true dragon of immense wingspan and vibrant platinum scales, although with a combination of features unlike any other, and surrounded by a shiny iridescent aura.
-![[Bahamut avatar.png]]
+![[Bahamut avatar.png]][^1]
 
 ## Cleric Domains
 | Domains |
@@ -229,3 +229,7 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ### The attack during [[The Great War (GW)|The Great War]] against [[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]
 ![[The Great War (GW)#The Wound of Gruumsh, God of Destruction - The Ruiner (CE) Gruumsh]]
+
+
+[^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Bahamut)
+[^2]: [Pinterest](https://br.pinterest.com/pin/573927546253642265/)

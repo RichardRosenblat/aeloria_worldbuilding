@@ -55,16 +55,16 @@ The Guardian of Tradition: Moradin, God of Ancestry
 
 ## Symbols
 
-![[Moradin Symbol.png|400]]
+![[Moradin Symbol.png|200]][^1]
 _Hammer with ends carved in the likeness of dwarven heads_
 
-![[moradin symbol 2.png|400]]
+![[moradin symbol 2.png|200]][^2]
 _Flaming anvil_
 
 ## Avatars
 ### Alonian (Human) Generic
 > By his worshipers he is depicted as a faceless, stout dwarf-like being of immense strength, hunched over, clasping within his massive hands a flaming heart
-![[Moradin Appearance.png|400]]
+![[Moradin Appearance.png|400]][^1]
 
 ## Cleric Domains
 | Domains |
@@ -232,11 +232,5 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ![[Pyrosphere#Creation]]
 
-for the god above can you create:
-
-now can you generate religious practices and rituals done by their followers 
-now can you generate cultural norms of cultures that worship them
-now can you generate political structures associated with them
-now can you generate a list of 8 blessings the god can bestow upon their followers as they gain favor with this god in dnd terms
-now can you generate a list of 8 curses the god's follower can bestow upon their enemies as they gain favor with this god in dnd terms
-now can you generate a list of elements that could be associated with them
+[^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Moradin)
+[^2]: [Pinterest](https://br.pinterest.com/pin/774759942115891085/)

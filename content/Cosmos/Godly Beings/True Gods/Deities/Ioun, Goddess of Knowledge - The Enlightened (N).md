@@ -51,19 +51,18 @@ The Scholar Muse: Ioun, Goddess of Wisdom
 
 ## Symbols
 
-![[Ioun Symbol.png|300]]
+![[Ioun Symbol.png|300]][^1]
 Pair of open eyes crowned with a third open eye
 
-![[Ioun Symbol 2.png|400]]
+![[Ioun Symbol 2.png|400]][^2]
 Crook shaped like a stylized eye
 
 ## Avatars
 ### Alonian (Human) Generic
-> Ioun's appears as an young woman with long, wavy silver hair. Sleek eyes with green irises and a third floating eye with yellow sclera, and a green iris surrounded by a red ring. She wears white robes that tumble out from her form in tendrils of parchment
-![[Ioun appearance.png|400]]
-_art by https://www.youtube.com/@user-lp4sk2fk9j_
+> Ioun appears as a young woman with long, light-colored hair and sleek green eyes with slit pupils. Above her head floats a third eye, featuring a yellow sclera and a green iris, encircled by a red ring. She wears a white cloak and robes that tumble out from her form in tendrils of parchment
+![[Ioun appearance.png|400]][^3]
 
-![[Ioun appearance 2.png|400]]
+![[Ioun appearance 2.png|400]][^4]
 
 ## Cleric Domains
 | Domains |
@@ -191,3 +190,8 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ### [[Ioun's Archive]] is Destroyed
 
 ![[Ioun's Archive#The Tragic Demise]]
+
+[^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Ioun)
+[^2]: [Pinterest](https://www.pinterest.com/pin/818881144727227400/)
+[^3]: [Youtube](https://www.youtube.com/watch?v=XyITiejkJ-Y) 
+[^4]: [Reddit](https://www.reddit.com/r/ImaginaryCharacters/comments/lhvfge/ioun_the_knowing_mistress_by_jade/)

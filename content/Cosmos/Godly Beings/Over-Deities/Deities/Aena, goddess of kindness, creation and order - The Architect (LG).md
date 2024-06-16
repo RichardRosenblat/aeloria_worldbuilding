@@ -56,13 +56,13 @@ aliases:
 
 ## Symbols
 
-![[Aena Symbol Lotus.png|400]]
+![[Aena Symbol Lotus.png|400]][^2]
 *Lotus flower when mentioned by herself*
 
-![[Aena Symbol Triquetra.png|400]]
+![[Aena Symbol Triquetra.png|400]][^3]
 *Triquetra  when mentioned with [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]*
 
-![[OverDeities Symbol.png|400]]
+![[OverDeities Symbol.png|400]][^4]
 *When connected with [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]*
 
 ## Avatars
@@ -70,7 +70,7 @@ aliases:
 > Aena is often represented as a female figure with golden white hair and gowns adorned with gold and blue
 > 
 
-![[Aena Appearance Old.png]]
+![[Aena Appearance Old.png]][^1]
 
 ![[Aena Appearance 1.png]]
 *The art above is made using ai*
@@ -134,3 +134,9 @@ Since Aena is a [[Over-Deities|Over-Deity]], she never had any confirmed Champio
 ## Myths
 
 ![[Over-Deities#Cosmic dreamers stories]]
+
+
+[^1]: [Google Images](https://joyreactor.com/post/3204822)
+[^2]: [Google Images](https://pt.vecteezy.com/arte-vetorial/26221697-lotus-icone-vetor-simbolo-projeto-ilustracao)
+[^3]: [Google Images](https://publicdomainvectors.org/pt/vetorial-gratis/S%C3%ADmbolos-da-Trindade/53521.html)
+[^4]: Edited from these images [Thorns](https://stock.adobe.com/br/images/crown-of-thorns-black-silhouette-icon-vector-illustration-isolated-on-white-background/362357524) and [Triqueta](https://publicdomainvectors.org/pt/vetorial-gratis/S%C3%ADmbolos-da-Trindade/53521.html)

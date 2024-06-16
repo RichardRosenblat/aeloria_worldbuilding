@@ -55,17 +55,17 @@ aliases:
 
 ## Symbols
 
-![[Asmodeus Symbol Triangles.png|200]]
+![[Asmodeus Symbol Triangles.png|200]][^2]
 _Three triangles in a tight formation_
 
-![[Asmodeus Symbol Horns.png|200]]
+![[Asmodeus Symbol Horns.png|200]][^1]
 _Crown of spiked onyx and curved horns_
 
 ## Avatars
 ### Alonian (Human) Generic
 > Asmodeus is depicted in many tomes and murals as a handsome humanoid with long, black hair with two curling horns rising from his brow. His appearance changes to match the most beautiful face the viewer has seen.
 
-![[Asmodeus Avatar.png]]
+![[Asmodeus Avatar.png]][^1]
 
 ## Cleric Domains
 | Domains |
@@ -214,3 +214,6 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ### [[The Cursed Blood of The Tieflings]]
   
 ![[The Cursed Blood of The Tieflings#The Myth]]
+
+[^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Asmodeus)
+[^2]: [Pinterest](https://www.pinterest.com/pin/374291419028969880/)

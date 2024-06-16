@@ -55,10 +55,10 @@ The Capricious Hand of Fate: Avandra, Goddess of Chance
 
 ## Symbols
 
-![[Avandra symbol coin.png|200]]
+![[Avandra symbol coin.png|200]][^1]
 *Woman's profile embossed on a gold coin or pendant*
 
-![[Avandra symbol lines.png|200]]
+![[Avandra symbol lines.png|200]][^2]
 *Three stacked wavy lines*
 
 ## Avatars
@@ -66,7 +66,7 @@ The Capricious Hand of Fate: Avandra, Goddess of Chance
 ### Alonian (Human) Generic
 > Avandra is usually depicted as a dark-skinned young woman with short silver hair (sometimes light brown hair that changes into a road behind her, symbolic of the many possible roads ahead)
 
-![[Avandra avatar.png|400]]
+![[Avandra avatar.png|400]][^1]
 
 ## Cleric Domains
 | Domains |
@@ -228,3 +228,6 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ### The Reason of Autumn 
 
 ![[The Reason For the Seasons#Fall ( Avandra, Goddess of Change and Luck - The Changebringer (CG) Avandra 's Ritual)]]
+
+[^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Avandra)
+[^2]: [Pinterest](https://pt.pinterest.com/pin/630785491544583415/?amp_client_id=CLIENT_ID%28_%29&amp_url=https%3A%2F%2Fwww.pinterest.pt%2Famp%2Fpin%2F630785491544583415%2F&mweb_unauth_id=%7B%7Bdefault.session%7D%7D&open_share=t)

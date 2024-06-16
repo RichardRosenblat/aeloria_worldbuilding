@@ -54,17 +54,17 @@ The Guardian of Knowledge: Erathis, Goddess of Wisdom
 
 ## Symbols
 
-![[Erathis Symbol.png|400]]
+![[Erathis Symbol.png|400]][^1]
 Double-headed axe inset with a pattern of scales
 
-![[Erathis symbol 2.png|400]]
+![[Erathis symbol 2.png|400]][^2]
 Upper half of a clockwork gear
 
 
 ## Avatars
 ### Alonian (Human) Generic
 > The Lawbearer is shown as a hooded, armored woman sitting atop a throne or a throne of pillars, her face obscured or expressionless. She is often depicted with light brown skin and a strong but lithe body
-![[Erathis Appearance.png|400]]
+![[Erathis Appearance.png|400]][^1]
 
 ## Cleric Domains
 | Domains |
@@ -195,3 +195,6 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ### The Creation of the First cities
 ![[The Calm Age (CA)#The First Cities]]
+
+[^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Erathis)
+[^2]: [Pinterest](https://www.pinterest.com/pin/69313281741876198/)
