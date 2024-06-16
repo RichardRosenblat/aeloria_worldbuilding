@@ -70,6 +70,12 @@ _Eight-pointed star with a web motif_
 ![[Lolth appearance.png|400]]
 ![[lolth appearance 2.png|400]]
 
+## Cleric Domains
+| Domains |
+| ------- |
+| Knowledge|
+|Trickery|
+
 ## Religious Practices
 
 The worshippers of Lolth perform a series of rituals and practices to connect with their goddess, these are some examples of such:

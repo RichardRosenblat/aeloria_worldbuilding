@@ -64,6 +64,14 @@ Crook shaped like a stylized eye
 _art by https://www.youtube.com/@user-lp4sk2fk9j_
 
 ![[Ioun appearance 2.png|400]]
+
+## Cleric Domains
+| Domains |
+| ------- |
+| Arcana   |
+| Knowledge |
+| Twilight     |
+
 ## Religious Practices
 
 1. **Daily Devotionals**: Followers of Ioun typically begin their day with a period of quiet reflection and meditation, focusing on seeking knowledge and wisdom for the day ahead. This may involve reading from sacred texts, contemplating on philosophical questions, or simply quiet introspection.

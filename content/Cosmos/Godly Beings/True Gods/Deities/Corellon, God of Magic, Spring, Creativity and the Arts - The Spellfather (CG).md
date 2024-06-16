@@ -63,6 +63,14 @@ _Eight-pointed star_
 ### Alonian (Human) Generic
 > 	Corellon is commonly depicted as an impossibly graceful and beautiful elven being. They are androgynous and alluring, with long golden hair.
 ![[Corellon Appearance.png|400]]
+
+## Cleric Domains
+| Domains |
+| ------- |
+| Arcana|
+| Light|
+| Nature |
+
 ## Religious Practices
 
 1. **The Artful Meditation:**

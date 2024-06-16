@@ -67,6 +67,13 @@ _Crown of spiked onyx and curved horns_
 
 ![[Asmodeus Avatar.png]]
 
+## Cleric Domains
+| Domains |
+| ------- |
+| Order   |
+| Trickery |
+| War     |
+
 ## Religious Practices
 
 1. **Domination Ceremonies:**

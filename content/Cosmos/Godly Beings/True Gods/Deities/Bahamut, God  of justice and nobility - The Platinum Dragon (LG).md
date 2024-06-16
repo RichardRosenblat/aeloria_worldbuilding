@@ -65,6 +65,13 @@ _Silver dragon's head in profile_
 > Bahamut appears as a gargantuan true dragon of immense wingspan and vibrant platinum scales, although with a combination of features unlike any other, and surrounded by a shiny iridescent aura.
 ![[Bahamut avatar.png]]
 
+## Cleric Domains
+| Domains |
+| ------- |
+| Life    |
+| Order   |
+| War     |
+
 ## Religious Practices
 
 1. **Morning Vigilance:**

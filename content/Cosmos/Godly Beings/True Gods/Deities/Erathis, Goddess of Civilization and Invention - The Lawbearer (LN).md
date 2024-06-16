@@ -66,6 +66,13 @@ Upper half of a clockwork gear
 > The Lawbearer is shown as a hooded, armored woman sitting atop a throne or a throne of pillars, her face obscured or expressionless. She is often depicted with light brown skin and a strong but lithe body
 ![[Erathis Appearance.png|400]]
 
+## Cleric Domains
+| Domains |
+| ------- |
+| Civilization |
+| Law         |
+| Peace       |
+
 ## Religious Practices
 
 1. **Founding Rituals:** When establishing a new settlement or city, followers of Erathis perform elaborate founding rituals. These ceremonies often involve blessings from clerics or devout worshippers, the laying of foundation stones with sacred inscriptions, and communal pledges to uphold the principles of civilization and progress.

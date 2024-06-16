@@ -66,6 +66,13 @@ Single, unblinking eye that bleeds
 > They depict him as a hulking behemoth of an orc with his missing eye, lacking a pair since [[The Great War (GW)|the Great War]], has shifted and now central to the face, bearing close resemblance to a cyclops
 ![[Gruumsh appearance.png|500]]
 
+## Cleric Domains
+| Domains |
+| ------- |
+| Death   |
+| Tempest |
+| War     |
+
 ## Religious Practices
 
 1. **Blood Offering:** Followers of Gruumsh often perform blood sacrifices as offerings to appease their god. These sacrifices can range from animals to enemies captured in battle. The blood is spilled upon altars ornamented with the one eye dedicated to Gruumsh, symbolizing the destruction and chaos he represents.

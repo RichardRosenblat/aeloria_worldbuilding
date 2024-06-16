@@ -68,6 +68,12 @@ The Capricious Hand of Fate: Avandra, Goddess of Chance
 
 ![[Avandra avatar.png|400]]
 
+## Cleric Domains
+| Domains |
+| ------- |
+| Nature  |
+| Trickery|
+
 ## Religious Practices
 
 1. **Fortune's Tale Gathering:**

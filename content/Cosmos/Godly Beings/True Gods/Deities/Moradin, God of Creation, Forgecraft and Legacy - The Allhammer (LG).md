@@ -66,6 +66,13 @@ _Flaming anvil_
 > By his worshipers he is depicted as a faceless, stout dwarf-like being of immense strength, hunched over, clasping within his massive hands a flaming heart
 ![[Moradin Appearance.png|400]]
 
+## Cleric Domains
+| Domains |
+| ------- |
+| Forge   |
+| Knowledge |
+| War     |
+
 ## Religious Practices
 
 Moradin's followers are known for their dedication to craftsmanship, tradition, and community. They engage in a variety of religious practices and rituals to honor the Allhammer and seek his guidance and blessings. Some of the most common practices include:

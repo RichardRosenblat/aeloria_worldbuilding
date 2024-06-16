@@ -24,6 +24,10 @@
 ## Avatars
 ### Alonian (Human) Generic
 
+## Cleric Domains
+| Domains |
+| ------- |
+|         |
 
 ## Religious Practices
 

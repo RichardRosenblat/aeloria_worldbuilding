@@ -66,6 +66,13 @@ The Annihilator: Bane, God of Total Victory
 > A dark reflection of the honorable warrior, the Strife Emperor is often depicted as a brutish man clad in jagged black armor. Heads dangle from his belt and unblinking, piercing yellow eyes peer through the shadow that obscures his helmeted face. His followers usually depict him as belonging to their own species, out of a sense of superiority.
 ![[Bane Appearance.png|400]]
 
+## Cleric Domains
+| Domains |
+| ------- |
+| Forge   |
+| Order   |
+| War     |
+
 ## Religious Practices
 
 Followers of Bane, the Strife Emperor, engage in elaborate religious practices and rituals to honor their deity. Here are some of the key religious practices performed by Bane's devoted followers:

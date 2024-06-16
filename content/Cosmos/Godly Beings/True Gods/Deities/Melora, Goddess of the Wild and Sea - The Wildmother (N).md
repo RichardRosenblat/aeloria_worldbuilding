@@ -74,6 +74,12 @@ _Wavelike swirl_
 > Melora is depicted as a beautiful woman with olive or deep brown skin with a strong, full figured body, and she is nearly fully enveloped by wild tangle of hair, leaves, and vines.
 ![[melora appearance.png|400]]
 
+## Cleric Domains
+| Domains |
+| ------- |
+| Life   |
+| Nature |
+| Tempest     |
 
 ## Religious Practices
 

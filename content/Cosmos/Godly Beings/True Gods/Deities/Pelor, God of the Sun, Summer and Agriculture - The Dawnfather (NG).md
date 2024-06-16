@@ -61,6 +61,13 @@ _Bright, eight-pointed Sun_
 > Pelor wears a white cloak over an intricate golden plate armor. Where a head would be, instead, there is a burning star. In between the plates of his armor, is possible to see a material similar to the night sky.
 ![[Pelor Apperance.png|400]]
 
+## Cleric Domains
+| Domains |
+| ------- |
+| Healing   |
+| Light |
+| Nature     |
+
 ## Religious Practices
 
 ## Cultural Norms
