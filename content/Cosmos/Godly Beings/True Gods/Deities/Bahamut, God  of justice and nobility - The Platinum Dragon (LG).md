@@ -74,8 +74,8 @@ _Silver dragon's head in profile_
 
 ## Religious Practices
 
-1. **Morning Vigilance:**
-    - Followers start their day with a brief meditation or prayer at dawn, seeking Bahamut's guidance for the day ahead.
+1. **Evening Vigilance:**
+    - Followers usually pray at dusk, as the sun sets, to symbolize the end of the day and the beginning of Bahamut's watchful protection over the night. Their prayers often focus on seeking guidance, strength, and the courage to uphold justice during their ventures in the dark.
     - They often face east when praying, where the [[Celestra]] first appears during [[Days of The Week|Flaregloom]]. Most rigorous followers make it a routine to pray whenever the planet is first visible in the sky.
 2. **The Rite of Silver Offering:**
     - On special occasions, followers offer platinum or silver items engraved with Bahamut's symbol to symbolize their commitment to justice.
