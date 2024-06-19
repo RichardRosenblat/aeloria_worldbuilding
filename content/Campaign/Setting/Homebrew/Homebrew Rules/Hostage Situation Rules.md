@@ -1,11 +1,22 @@
+---
+tags:
+  - homebrew
+  - rule
+---
 # Hostage Situations
+
+"Now, now, let's not do anything rash. You wouldn't want to see your friend come to harm, would you?" - Bandit Leader holding the party's rogue hostage
+
+"Hostage situations" are a common trope in many stories and adventures, where a character is held captive by an enemy or NPC. This can create tense and dramatic moments, as the characters must navigate a delicate situation to save the hostage without causing harm. The following rules provide guidelines for handling dramatic hostage situations in your D&D campaign.
 
 When an character is holding another character, enemy or NPC hostage, the following rules apply:
 
 1. **Taking Hostages**: Characters can attempt to take hostages during combat or other situations. This typically involves grappling the target and making a successful check to restrain them. If successful the hostage taker can define a readied action to execute as described below in the "Hostage Taker's Actions" section.
 
 2. **Attacking the Hostage Taker**: Characters can attempt to attack the enemy holding the hostage. However, if the attack roll misses by 3 or more, the attack instead hits the hostage. This rule emphasizes the risk involved in such a precarious situation.
-   - **Example**: If the enemy's Armor Class (AC) is 15 and the attacker rolls a total of 12 or lower, the attack hits the hostage.
+   - **Pulling the Hostage**: If the attacker is in melee range, they can attempt to pull the hostage away from the hostage taker. This requires a successful contested Strength check against the hostage taker's Strength check. If successful, the hostage is moved 5 feet away from the hostage taker.
+   - **Hostage AC**: If the attack hits the hostage, the hostage's Armor Class (AC) is used to determine if the attack deals damage. If the attack roll is smaller than the hostage's AC, the attack misses the hostage either by being deflected or simply missing the target.
+   - **Example**: If the enemy's Armor Class (AC) is 15 and the attacker rolls a total of 12 or lower, the attack hits the hostage instead. In this case, if the hostage's AC is 10, the attack would hit the hostage. If the hostage's AC is 13, the attack would miss the hostage.
 
 3. **Hostage Taker's Actions**:
    - **Holding the Hostage**: Besides the rules described here, the rules for grappling and restraining a creature apply to the hostage taker (the grappler) and the hostage (the grappled creature). 

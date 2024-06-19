@@ -5,6 +5,8 @@ tags:
 ---
 # Levels Beyond 20th: Expanding Your Multiclassing Journey
 
+"It would be a waste of time to just sit around and wait for the end of the world. There was still so much to learn." - [[Merlin of The Stars]]
+
 In this advanced rule for characters who have already reached level 20, players can continue to evolve their characters by further developing their multiclass abilities. This rule allows players to level up each of their multiclass options until all classes reach level 20. However, a single class cannot exceed level 20, avoiding the need to create new class features beyond level 20.
 
 ## Unlocking Levels Beyond 20th:

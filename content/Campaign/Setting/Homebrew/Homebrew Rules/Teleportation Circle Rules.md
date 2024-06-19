@@ -5,6 +5,8 @@ tags:
 ---
 # Teleportation Circle Rules
 
+"Always check the sigils before you step through. You never know where you might end up. I once ended up in the middle of a dragon's lair because I didn't double-check the symbols." - Thaldrin, the wizard of daring escapes
+
 Teleportation Circles are a form of magical transportation that allows individuals to travel instantaneously between two locations. These circles are created through a complex ritual, and the process of establishing a permanent circle demands unwavering commitment from the caster. The following rules outline the mechanics and limitations of Teleportation Circles within the world of [[Aeloria]]
 
 - **Geometric Precision:** The Teleportation Circle must maintain a perfect geometric configuration at all times, with all points aligned in a straight line, forming a two-dimensional plane. Any deviation from this precise arrangement, whether through folding or misalignment, renders the circle forever ruined.

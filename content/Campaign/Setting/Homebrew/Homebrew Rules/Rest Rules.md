@@ -5,6 +5,8 @@ tags:
 ---
 # Homebrew Rule: Rations Required for Long Rests
 
+"By the gods, I could eat a dragon and an owlbear right now! Tell me you have some rations left." - Gur, the half-orc barbarian, after a long day of adventuring
+
 ## Overview
 
 In this homebrew rule, characters must consume 1 day of rations each in order to take a long rest. This rule introduces a layer of resource management, emphasizing the importance of preparation and survival skills during adventures.

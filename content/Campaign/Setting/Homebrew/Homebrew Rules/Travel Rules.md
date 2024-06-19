@@ -5,6 +5,8 @@ tags:
 ---
 # Travel Rules: Expanding on The Standard Rules for Exploring
 
+"Hell yeah! I love a good shopping spree before a long journey. I'm going to the buy some maps and some new weapons, and maybe a new cape! Meet me at the gate in uuh... 3 hours?" - Nala of Nasalin, the warrior running to the nearby magic shop
+
 ## Introduction
 Traveling through the wilderness can be a significant part of an adventure, requiring time, resources, and careful planning. The following rules provide guidelines for tracking travel time, rations, water, and encounters during overland travel. These rules are designed to enhance the exploration aspect of the game and provide additional challenges and opportunities for the party as they journey through the world.
 

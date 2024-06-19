@@ -5,6 +5,8 @@ tags:
 ---
 # Variant Rule: Critical Momentum
 
+"Fortune favors the bold, but misfortune favors the stupid." - Old saying
+
 In the ever-shifting tapestry of fate, the balance of fortune and misfortune is a delicate dance. In this variant rule, the natural extremes—rolling a natural 1 or a natural 20—echoes through the fabric of reality, potentially amplifying their effects to legendary or catastrophic proportions.
 
 When a player rolls a natural 1 or a natural 20 on a d20 roll, the tale takes an unexpected turn. They can pick to roll another d20. If the result matches the initial roll, the critical momentum builds, enhancing the outcome further. The player continues to roll additional d20s. However, if they roll a different number or accumulate three identical rolls, the surge of fortune or misfortune reaches its zenith and they do not roll any more d20s.

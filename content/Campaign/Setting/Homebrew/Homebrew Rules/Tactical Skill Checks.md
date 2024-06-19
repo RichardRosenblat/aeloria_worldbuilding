@@ -5,6 +5,8 @@ tags:
 ---
 # Homebrew Rule: Tactical Skill Checks
 
+"Fall you fish-faced foul fiend from fetid fathoms of festering filth!" - Tybur, the alliterative bard, before pulling a rope tied to the night hag's ankle
+
 In addition to their regular actions during combat, characters can now perform tactical skill checks. These checks can be made before or after their action on their turn, provided they have not used their action to perform another task that requires full focus or concentration. Tactical skill checks allow characters to use their skills in creative ways to gain an advantage in combat or to gather information about their surroundings. The Dungeon Master determines the difficulty of the check and the potential consequences of success or failure.
 
 ## Mechanics

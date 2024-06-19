@@ -4,8 +4,12 @@ tags:
   - rule
 ---
 This rule is from **Tal'Dorei Campaign Setting Reborn**
+
+"Please, Vyxan, the pain of your absence is sharp and haunting. Come back to us, my love. I'm unsure how to survive in this world without you, I'm unsure how to be me without you." - Lady Lavore Pendleton, speaking to her fallen wife.
+
 # Resurrection Rules 
 Character death often becomes no more than a minor inconvenience in some campaigns. Once an adventuring party reaches a certain level, the spells available to return fallen comrades from the afterlife—including *revivify*, *raise dead*, and *resurrection*—make death no more than a temporary setback, potentially undermining one of the most significant elements of danger and threat in the campaign story. 
+
 ## Fading Spirits  
 This house rule is used in the Critical Role livestream to increase the emotional stakes of bringing a beloved friend back from the dead. It also adds the ever-increasing threat of losing a friend permanently to the game, even with the aid of miraculous magic.
 

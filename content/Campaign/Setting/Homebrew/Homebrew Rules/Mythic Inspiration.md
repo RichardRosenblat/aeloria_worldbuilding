@@ -5,6 +5,8 @@ tags:
 ---
 # Mythic Inspiration
 
+"Asking a random deep question to the most unsuspecting person in the room can lead to the most interesting conversations, or the most awkward silences." - Embra, explaining why she asked the kid about the socio-political implications of the local festival
+
 In your adventures throughout the world of [[Aeloria]], you may uncover secrets, delve into ancient ruins, or seek knowledge of the realm's rich history. As you interact with the world and delve deeper into its mysteries, you may be rewarded with Mythic Inspiration.
 
 ## Acquiring Mythic Inspiration: 
