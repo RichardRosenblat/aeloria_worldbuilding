@@ -88,6 +88,12 @@ Texts in letters or books
 | [[Saturnii's Spectacular Studies and Swashbuckling Sojourns]] |
 | [[The three mighty champions of Aena]]                        |
 | [[Variant Zero - The heroes of the realm]]                    |
+| [[The Divine Mythos (Book)]]                                  |
+
+| Research                        |
+| ------------------------------- |
+| [[Case Study Of The Staff Of Etherealness]] |
+| [[Arcane Theory]]               |
 
 | Letters                 |
 | ----------------------- |

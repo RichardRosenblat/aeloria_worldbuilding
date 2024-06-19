@@ -5,6 +5,8 @@ tags:
 ---
 # City Name: Zenith
 
+The city of Zenith lies deep within the [[Underdark]], hidden from the light of the surface world. 106 kilometers (66 miles) below the surface, 90 kilometers (56 miles) below the [[Underdark|Lowerdark]] threshold (16 kilometers, 10 miles below surface) beneath the Meridian expanse, 43 km (27 miles) north from the puntal peninsula.
+
 ## Atmosphere:
 
 ### Dominant Emotion
