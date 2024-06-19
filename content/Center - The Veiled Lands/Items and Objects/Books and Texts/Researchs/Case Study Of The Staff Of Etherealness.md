@@ -111,31 +111,46 @@ The wand of etherealness discovered in the Lowerdark is a unique magical item, t
 **Physical Characteristics:**
 - The wand is made of finely carved ivory, adorned with runes of an unknown language. (Copies of the runes are transcribed in dead magic paper and annexed in the end of the research paper).
 - The handle is wrapped in parchment and leather, with a small cage at the tip of the rod containing a single glowing flame that seems impervious to touch or placement in water.
+- More detailed illustrations of the wand can be found at the end of the research paper.
 
 **Magical Properties:**
 - The wand is capable of casting the Etherealness spell on the attuned person once a day, with the effect lasting 10 minutes. The wand regains its ability during dawn and requires attunement to be used.
 - The wand emits a faint, irregular flow of magic, indicating its ancient and unstable nature.
 - When using the wand, the user may experience inconsistencies in its magical properties, such as partial or failed activation. Around 10% of the time, the wand will not activate at all. Around 30% of the time, the wand will activate partially, causing the user to become ethereal for a shorter duration than intended.
 
-With the 
+With the results of our analyses, we have determined the following:
+- The wand of etherealness is approximately 12,000 years old, predating the gods' account of magical history by 1,000 years.
+- The wand's magical properties exhibit inconsistencies in usage, likely due to its age and location of discovery.
+- The runes on the wand belong to an ancient language far removed from any known dialects, suggesting a lost civilization or culture.
+- The original creators of the wand were a group of wizards who used it in a war that caused the city of Zenith to suffer a great cataclysm.
+- The cataclysm created the void in which the wand was lost, leading to its discovery in the Lowerdark.
+- After the cataclysm, the wizards perished.
 
-- Detailed description of the wand:
-  - Physical characteristics.
-  - Magical properties and inconsistencies in usage.
-- Dating results indicating the wand is 12,000 years old.
-- Contradictions with the established timeline of magic's history.
+## Discussion:
+Our findings present a significant discrepancy in the established timeline of magical history as provided by the gods and temple records. The wand of etherealness, with its age of 12,000 years, challenges the gods' account of magical events, particularly the Reform that occurred 11,000 years ago. The implications of this discrepancy are profound and raise several questions regarding the nature of magic and the gods' knowledge.
 
-**Discussion:**
-- Analysis of the potential reasons for the discrepancy:
-  - Gods' misinformation or lack of knowledge.
-  - Possibility of the item originating from another dimension.
-  - Implications of the findings on the understanding of magical history.
-- Consideration of the gods' dismissive responses.
+The main question that arises from our research is the origin of the wand of etherealness and how it survived the Reform that destroyed all existing spells and magic items. Several potential reasons for this discrepancy can be considered:
 
-**Conclusion:**
-- Summary of findings and their significance.
-- Potential directions for further research.
-- Implications for the broader field of magical studies.
+1. The wand of etherealness originated from another dimension or timeline.
+   This possibility suggests that the wand was brought to our dimension from another reality, where the laws of magic are different or unaffected by the Reform. This would explain the wand's age and magical properties, as well as its unknown language and origin. However, this possibility is unlikely, as our dimension is locked by the barrier created by the over-deities, the greater limit, preventing the passage of objects or beings between dimensions. Regarding the timeline possibility, the wand could have been sent back or forward in time, but the Divine Accord prevents the gods from altering the past or future, and if the wand was created and sent to the future before the creation of the divine accord, it would appear older that 12,000 years, which is not the case.
+2. The gods are actively misleading mortals about the true history of magic.
+   This possibility raises questions about the gods' motivations and the nature of their relationship with mortals. If the gods are intentionally withholding information or providing false accounts of magical history, it calls into question the reliability of their teachings and the extent of their knowledge. Some reasons of why the gods would lie could be:
+   - To maintain control over mortals by controlling the flow of information.
+   - To protect mortals from the dangers of ancient magic.
+   - To prevent the resurgence of ancient powers that could threaten the divine order.
+   - To maintain the stability of the weave and prevent uncontrolled growth of magic.
+   - To avoid revealing their own limitations or mistakes.
+   - To prevent mortals from seeking forbidden knowledge or challenging divine authority.
+   The gods' motivations for misleading mortals are unclear, but the existence of the wand of etherealness suggests that there may be more to the history of magic than the gods have revealed. 
+   Although, this possibility is unlikely as it goes against the nature of some gods, such as Ioun, the goddess of knowledge, who values truth and wisdom above all else.
+3. The gods genuinely believe in the accuracy of their teachings, despite evidence to the contrary.
+   This possibility suggests that the gods are unaware of the true history of magic and are operating under a false understanding, possibly due to the limitations of their divine knowledge or the influence of external forces, possibly the over-deities. This would imply that the gods are not infallible and may be subject to the same errors and misconceptions as mortals. 
+   When considered, this possibility seems the most likely, as the gods are still bound by the divine accord and the limitations of their domains, and the over-deities are known to have a greater understanding of the universe than the gods so perhaps they are the ones that can provide the true history of magic.
+
+## Conclusion:
+In conclusion, the wand of etherealness discovered in the Lowerdark presents a significant anomaly in the timeline of magical history. Through a series of rigorous analyses, we have determined that the wand is approximately 12,000 years old, predating the gods' account of magical events by 1,000 years. This discrepancy raises questions about the nature of magic, the gods' knowledge, and the origins of the wand. Further research is needed to explore these questions and uncover the truth behind this mysterious artifact.
+Ramifications of this discovery are far-reaching and may have implications for the broader field of magical studies. The continuous search of older artifacts and the development of new dating techniques may reveal more discrepancies in the established timeline of magical history, leading to a reevaluation of our understanding of magic and its origins.
+Studies in regards to the nature and knowledge of the gods can also explain better the reasons behind the discrepancy and help understand the true history of magic.
 
 **Appendices:**
 - Transcripts of the runes.
@@ -143,20 +158,3 @@ With the
 - Arcanoglyphs for the spells used.
 - Interview transcripts with elemental spirits.
 - Validation studies of methods in Merlin’s library.
-
-
-This case study format allows Merlin's research to be presented comprehensively, addressing the specific anomaly in the historical timeline and exploring the implications of this significant discovery.
-
-
-
-So merlin studied a lot of topics related to magic
-One of those topics was the actual age of the universe 
-Dueing his explorations he found a magic item, older than any other, through his scientific and magical instruments he was able to date this magic item to 12 thousand years ago 
-But such thing goes against what the gods, the ones mostly responsible with tellings us our distant past, say. According to many temples and Merlin's own contact with the gods that he compiled into a single timeline, the god of magic, corellon, was reformed by the over-deities 11 thousand years ago, such event is also known for destroying all existing spells and magic items that previously existed as the laws of magic were rewritten to avoid uncontrolled growth
-When inquired the gods seemed to dismiss all evidence as impossible or some human error
-So merlin concluded that either, the gods are lying (which he doubts since it goes against the nature of some gods) or the gods truly believe that to be true even if proven otherwise by evidence, or the item came from another dimension (which would hardly be the case since our current dimension is locked by a barrier made by the over deities)
-The gods merlin personally contacted were corellon and ioun, the temples he researched were from each of the 20 true gods from within the veiled lands and two temples for each of the two over-deities
-The item merlin encountered was an wand of etherealness, it seems to be made of finely carved ivory, adorned with runes of an unknown language (copies of the rune have been transcripted in dead magic paper and annexed in the end of the research) and wrapped in parchment and leather on the handle, a small cage at the tip of the rod seems to contain a single glowing flame that seems impervious to touch or placement in water. (Ilustrations of the wand are as follow added in between the pages)
-The methods used were: spell identify (the arcanoglyph is in the annex of the research paper), magical radiation dating of the object and the location it was encountered, spell legend lore (arcanoglyph in annex), Flow sphere reading, arcane spectrograms, elemental distilation and ether dating, all these techniques (the ones that are not spells) were developed by merlin's crew of scholars and proved effective in previous studies found in his library inside the royal palace of Camelot, room 208, bookshelf 7, shelf 3, books 1 to 15. Elementals spirits of divination were also employed to validate the calibraton of mechanical instruments and validity of spells used, their interviews can be found at the end of the research paper.
-The location the spell was found is in the void of the currently deepest city in the underdark, zenith, found more than 90 kilometers below the lowerdark threshold beneath the meridan expanse sea.
-The item was capable of being attuned but its usage seemed to work partially or not at all at times, probably by its age and location it was encountered being saturated with magical power
