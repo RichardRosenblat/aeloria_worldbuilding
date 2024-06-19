@@ -29,14 +29,14 @@ aliases:
 
 | Culture                  | Name        | Title                 | Pronouns | Group                                                                             |
 | ------------------------ | ----------- | --------------------- | -------- | --------------------------------------------------------------------------------- |
-| Alonian (Human) Generic   | Bahamut     | The Platinum Dragon   | He/Him   | The [[Harmonious Gods]]                                                           |
-| Asteni (Human) Italian   | Iustitia    | The Fair One          | She/Her  | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Human) Hispanic     | Balduino    | The Noble Protector   | He/Him   | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Alonian (Tallman) Generic   | Bahamut     | The Platinum Dragon   | He/Him   | The [[Harmonious Gods]]                                                           |
+| Asteni (Tallman) Italian   | Iustitia    | The Fair One          | She/Her  | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
+| Dal (Tallman) Hispanic     | Balduino    | The Noble Protector   | He/Him   | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Edel-herz   | The Lord of Virtue    | He/Him   | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
 | Dwelmer (Dwarven) Nordic | Tyrgrim     | The Unwavering Dragon | He/Him   | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
 | Eldar (Elven) Elven      | Thranduil   | The Wise Knight       | He/Him   | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese | Bishamonten | The Queen Of Justice  | She/Her  | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
-| Mularir (Human) Greek    | Ananke      | The First Amazon      | She/Her  | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
+| Mularir (Tallman) Greek    | Ananke      | The First Amazon      | She/Her  | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
 | Yotunn (Giant) Giant     | Harok       | The Noble Guardian    | He/Him   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 
@@ -61,7 +61,7 @@ _Dragon's head, in profile, facing left_
 _Silver dragon's head in profile_
 ## Avatars
 
-### Alonian (Human) Generic
+### Alonian (Tallman) Generic
 > Bahamut appears as a gargantuan true dragon of immense wingspan and vibrant platinum scales, although with a combination of features unlike any other, and surrounded by a shiny iridescent aura.
 ![[Bahamut avatar.png]][^1]
 

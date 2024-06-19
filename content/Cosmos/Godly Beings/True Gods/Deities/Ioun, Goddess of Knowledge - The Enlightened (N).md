@@ -29,14 +29,14 @@ aliases:
 
 | Culture                  | Name          | Title                | Pronouns | Group                                                                             |
 | ------------------------ | ------------- | -------------------- | -------- | --------------------------------------------------------------------------------- |
-| Alonian (Human) Generic   | Ioun          | The Enlightened      | She/Her  | The [[Harmonious Gods]]                                                           |
-| Asteni (Human) Italian   | Minerva       | The Oracle of Wisdom | She/Her  | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Human) Hispanic     | Savio         | The Wise One         | He/Him   | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Alonian (Tallman) Generic   | Ioun          | The Enlightened      | She/Her  | The [[Harmonious Gods]]                                                           |
+| Asteni (Tallman) Italian   | Minerva       | The Oracle of Wisdom | She/Her  | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
+| Dal (Tallman) Hispanic     | Savio         | The Wise One         | He/Him   | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Wissen-shuter | The Keeper of Wisdom | He/Him   | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
 | Dwelmer (Dwarven) Nordic | Mimir         | The Rememberer       | He/Him   | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
 | Eldar (Elven) Elven      | Elrond        | The Loremaster       | He/Him   | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese | Chie          | The Wisdom Oracle    | He/Him   | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
-| Mularir (Human) Greek    | Athena        | The Great Mentor     | She/Her  | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
+| Mularir (Tallman) Greek    | Athena        | The Great Mentor     | She/Her  | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
 | Yotunn (Giant) Giant     | Yrgorim       | The All-Knowing      | She/Her  | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 ## Extra Titles
@@ -58,7 +58,7 @@ Pair of open eyes crowned with a third open eye
 Crook shaped like a stylized eye
 
 ## Avatars
-### Alonian (Human) Generic
+### Alonian (Tallman) Generic
 > Ioun appears as a young woman with long, light-colored hair and sleek green eyes with slit pupils. Above her head floats a third eye, featuring a yellow sclera and a green iris, encircled by a red ring. She wears a white cloak and robes that tumble out from her form in tendrils of parchment
 ![[Ioun appearance.png|400]][^3]
 

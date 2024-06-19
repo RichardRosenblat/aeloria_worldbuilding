@@ -28,15 +28,15 @@ Witnessing the celestial dance of new gods ascending and mortals claiming divine
 
 ### Divine Wisdom Unveiled
 
-In their timeless gaze, [[Over-Deities|the twin goddesses]] discerned the miracles and recklessness interwoven in the actions of their divine offspring. Recognizing the inevitability of change and the intrinsic value of growth, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] saw the emergence of Raven Queen and Vecna as unique threads in the grand tapestry of the divine pantheon.
+In their timeless gaze, [[Over-Deities|the twin goddesses]] discerned the miracles and recklessness interwoven in the actions of their divine offspring. Recognizing the inevitability of change and the intrinsic value of growth, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] saw the emergence of [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]] and Vecna as unique threads in the grand tapestry of the divine pantheon.
 
 ### Embracing Uniqueness
 
-Despite harboring reservations, [[Over-Deities|the twin goddesses]] understood the distinct roles Raven Queen and Vecna played. Raven Queen embodied the essence of death, bringing a necessary aspect to the cosmic order. Vecna, with his dark nature, held secrets that contributed to the intricate design of the cosmic tapestry.
+Despite harboring reservations, [[Over-Deities|the twin goddesses]] understood the distinct roles [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]] and Vecna played. [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]] embodied the essence of death, bringing a necessary aspect to the cosmic order. Vecna, with his dark nature, held secrets that contributed to the intricate design of the cosmic tapestry.
 
 ## Concerns of Mortal Ascensions
 
-While acknowledging the unique positions of Raven Queen and Vecna, [[Over-Deities|the twin goddesses]] harbored deep concerns regarding the mortal rituals that had facilitated their ascension. Fearing that unchecked mortal godhood could disrupt the delicate balance they had tirelessly maintained, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] decided to take decisive action.
+While acknowledging the unique positions of [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]] and Vecna, [[Over-Deities|the twin goddesses]] harbored deep concerns regarding the mortal rituals that had facilitated their ascension. Fearing that unchecked mortal godhood could disrupt the delicate balance they had tirelessly maintained, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] decided to take decisive action.
 
 ### Guardians of Cosmic Balance
 

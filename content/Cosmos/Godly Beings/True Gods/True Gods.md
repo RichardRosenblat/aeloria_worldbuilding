@@ -75,7 +75,7 @@ In the past, godly beings were capable of becoming True gods, by killing gods an
 | [[Melora, Goddess of the Wild and Sea - The Wildmother (N)]]                       | Life, Nature, Tempest           |
 | [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)]]           | Forge, Knowledge, War           |
 | [[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)]]            | Healing, Light, Nature          |
-| [[Raven Queen, Goddess of Death Crow - The Matron of Death (LN)]]                  | Death, Grave, Twilight          |
+| [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)]]                  | Death, Grave, Twilight          |
 | [[Sehanine, Goddess of the Moon - The Moonweaver (CG)]]                            | Arcana, Moon, Twilight          |
 | [[Tharizdun, God of Madness - The Chained Oblivion (CE)]]                          | Death, Grave, Trickery          |
 | [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)]]       | Trickery, War                   |

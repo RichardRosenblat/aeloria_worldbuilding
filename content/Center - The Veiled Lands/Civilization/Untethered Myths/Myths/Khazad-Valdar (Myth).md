@@ -27,14 +27,14 @@ The myth of Khazad-Valdar is known by many cultures across the Veiled Lands, alt
 
 | Culture                   | City Name                                                                                | Meaning               |
 | ------------------------- | ---------------------------------------------------------------------------------------- | --------------------- |
-| Alonian (Human) Generic    | Throrhold                                                                                | Thror Fortress        |
-| Asteni (Human) Italian    | Valdis Magna                                                                             | Great Valor           |
-| Dal (Human) Hispanic      | Montaña Perdida                                                                          | Lost montain          |
+| Alonian (Tallman) Generic    | Throrhold                                                                                | Thror Fortress        |
+| Asteni (Tallman) Italian    | Valdis Magna                                                                             | Great Valor           |
+| Dal (Tallman) Hispanic      | Montaña Perdida                                                                          | Lost montain          |
 | Duir (Dwarven) German     | Bergkönigheim                                                                            | Mountain King's Home  |
 | Dwelmer (Dwarven) Nordic  | Skaldheim                                                                                | Home of the Poet      |
 | Eldar (Elven) Elven       | Thalendôr                                                                                | Fortress land         |
 | Eldarin (Elven) Japanese  | Ichizoku-shiro                                                                           | Clan's Castle         |
-| Mularir (Human) Greek     | [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)\|Pantropos]] Polis | City of [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)\|Pantropos]]     |
+| Mularir (Tallman) Greek     | [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)\|Pantropos]] Polis | City of [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)\|Pantropos]]     |
 | Yotunn (Giant) Giant      | Jotunhollr                                                                               | Jotun's hall          |
 
 ## The Myth:

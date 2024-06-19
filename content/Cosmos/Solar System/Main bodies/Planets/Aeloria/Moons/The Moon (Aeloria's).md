@@ -24,7 +24,7 @@ Tales recount the genesis of the Moon, crafted by the delicate hands of Sehanine
 
 As time unfolded its ephemeral tapestry, Sehanine resolved to fill the celestial emptiness with a luminous presence. She embarked on a quest to discover the means to adorn the heavens. Her journey began by tethering 42 sparrows to strings, achieving the perfect equilibrium—neither too few to carry her aloft nor too many to burden the innocent avians.
 
-With the sparrows as her ethereal chariot, Sehanine ascended into the night sky. As she gazed downward, a panorama of mortal life unfolded beneath her. Humans reveled in wonder, innocence, and joy. The leaves of trees danced in the nocturnal breeze, and the lights of fireflies sparkled in exuberant celebration, casting their glow upon tranquil lakes.
+With the sparrows as her ethereal chariot, Sehanine ascended into the night sky. As she gazed downward, a panorama of mortal life unfolded beneath her. Tallmen reveled in wonder, innocence, and joy. The leaves of trees danced in the nocturnal breeze, and the lights of fireflies sparkled in exuberant celebration, casting their glow upon tranquil lakes.
 
 "How beautiful," Sehanine smiled, her voice a gentle caress upon the night. "This world given by our mothers and tended by my siblings truly is a wondrous place."
 

@@ -73,11 +73,11 @@ Celestra, lacks traditional oceans. Instead, the planet's unique features focus 
 
 #### Description
 
-[[Merlin]]'s ruins in Celestra are a hidden treasure among the swirling clouds. Tethered between floating islands and the infernal core, these ruins contain forgotten knowledge of temperature-altering magic, echoing with the whispers of ancient mysteries.
+[[Merlin of The Stars|Melin]]'s ruins in Celestra are a hidden treasure among the swirling clouds. Tethered between floating islands and the infernal core, these ruins contain forgotten knowledge of temperature-altering magic, echoing with the whispers of ancient mysteries.
 
 #### Purpose
 
-The ruins served as a sacred observatory for studying air-based magic and harnessing the magical properties emanating from the core. [[Merlin]]'s scholars sought the wisdom contained within these ancient structures, delving into the secrets of Celestra's unique magical essence.
+The ruins served as a sacred observatory for studying air-based magic and harnessing the magical properties emanating from the core. [[Merlin of The Stars|Melin]]'s scholars sought the wisdom contained within these ancient structures, delving into the secrets of Celestra's unique magical essence.
 
 ### Atmosphere
 
@@ -97,8 +97,8 @@ The breathable atmosphere at the highest points plays a crucial role in sustaini
 
 ### Existence
 
-Celestra is under the watchful gaze of an artificial satellite known as the Celestial Sentinel. Crafted by the skilled hands of [[Merlin]], this satellite serves as a guardian, protecting the planet from external threats and monitoring the fluctuating energy levels emanating from the core.
+Celestra is under the watchful gaze of an artificial satellite known as the Celestial Sentinel. Crafted by the skilled hands of [[Merlin of The Stars|Melin]], this satellite serves as a guardian, protecting the planet from external threats and monitoring the fluctuating energy levels emanating from the core.
 
 ### Description
 
-The Celestial Sentinel, [[Merlin]]'s ingenious creation, fulfills a dual role on Celestra. Primarily designed as a guardian, it watches over the celestial planet, ensuring its safety from potential threats. Additionally, the satellite serves as a vital tool for monitoring the unpredictable energy levels emanating from the planet's molten core. Beyond its protective duties, the Celestial Sentinel plays a crucial role in conducting magical experiments, unraveling the mysteries that lie within Celestra's unique magical essence.
+The Celestial Sentinel, [[Merlin of The Stars|Melin]]'s ingenious creation, fulfills a dual role on Celestra. Primarily designed as a guardian, it watches over the celestial planet, ensuring its safety from potential threats. Additionally, the satellite serves as a vital tool for monitoring the unpredictable energy levels emanating from the planet's molten core. Beyond its protective duties, the Celestial Sentinel plays a crucial role in conducting magical experiments, unraveling the mysteries that lie within Celestra's unique magical essence.

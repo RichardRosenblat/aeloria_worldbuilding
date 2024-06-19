@@ -60,5 +60,5 @@ These are the Harmonious Gods
 | [[Melora, Goddess of the Wild and Sea - The Wildmother (N)]]           |
 | [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)]]                      |
 | [[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)]]        |
-| [[Raven Queen, Goddess of Death Crow - The Matron of Death (LN)]]     |
+| [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)]]     |
 | [[Sehanine, Goddess of the Moon - The Moonweaver (CG)]]                |

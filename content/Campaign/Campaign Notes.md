@@ -62,15 +62,15 @@ Muhammad Sumbul The bravest soldier of all time
 
 ## Ideas of stuff to do
 
-- Witch encounter offering human food
+- Witch encounter offering tallman food
 - Villain encounter in ball playing libertango
-- Dwarf warrior protecting village for his human wife, he cant tell other people more because he couldn't make justice of her beauty 
+- Dwarf warrior protecting village for his tallman wife, he cant tell other people more because he couldn't make justice of her beauty 
 	- actually he forgot her face since it's been so many years
 - Asteni woman singing Cara MIa
 	- Man from her hometown, she was a free spirit
-- [[Merlin]] creates at least these 2 spells,
-	- [[Merlin]]’s Divine Audience (talk to [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]), causes stars to change colors
-	- [[Merlin]]'s Transcendent Transformation (fuses with the [[Setting Info|Principles]]), becomes the Witch song image
+- [[Merlin of The Stars|Melin]] creates at least these 2 spells,
+	- [[Merlin of The Stars|Melin]]’s Divine Audience (talk to [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]), causes stars to change colors
+	- [[Merlin of The Stars|Melin]]'s Transcendent Transformation (fuses with the [[Setting Info|Principles]]), becomes the Witch song image
 ## Quest ideas
 - Quest of clearing a goblin cave (with the scroll)
 - Quest with studying a stasis bubble

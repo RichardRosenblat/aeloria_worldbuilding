@@ -42,14 +42,14 @@ Guiding us through the stream." - Poem written in prayer to the Wildmother
 
 | Culture                  | Name          | Title                        | Pronouns    | Group                                                                             |
 | ------------------------ | ------------- | :--------------------------- | ----------- | --------------------------------------------------------------------------------- |
-| Alonian (Human) Generic   | Melora        | The Wildmother               | She/Her     | The [[Harmonious Gods]]                                                           |
-| Asteni (Human) Italian   | Nettuno       | The King of the Seas         | He/Him      | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Human) Hispanic     | Oceana        | The Mistress of the Deep     | She/Her     | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Alonian (Tallman) Generic   | Melora        | The Wildmother               | She/Her     | The [[Harmonious Gods]]                                                           |
+| Asteni (Tallman) Italian   | Nettuno       | The King of the Seas         | He/Him      | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
+| Dal (Tallman) Hispanic     | Oceana        | The Mistress of the Deep     | She/Her     | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Natur-huterin | The Eldertree                | He/Him      | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
 | Dwelmer (Dwarven) Nordic | Njordr        | The Wildkeeper               | He/Him      | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
 | Eldar (Elven) Elven      | Silvannon     | The Rooted King              | He/They     | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese | Sakurahime    | The Everbloom                | She/Her     | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
-| Mularir (Human) Greek    | Physis        | The Enchantress of the Coast | She/Her     | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
+| Mularir (Tallman) Greek    | Physis        | The Enchantress of the Coast | She/Her     | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
 | Yotunn (Giant) Giant     | Jordrota      | The Beast in the Woods       | Him/They/It | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 
@@ -70,7 +70,7 @@ _Wreath of grass and grain affixed to a crook_
 ![[melora symbol 2.png|400]][^2]
 _Wavelike swirl_
 ## Avatars
-### Alonian (Human) Generic
+### Alonian (Tallman) Generic
 > Melora is depicted as a beautiful woman with olive or deep brown skin with a strong, full figured body, and she is nearly fully enveloped by wild tangle of hair, leaves, and vines.
 ![[melora appearance.png|400]][^1]
 

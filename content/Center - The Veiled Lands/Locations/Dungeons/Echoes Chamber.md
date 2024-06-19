@@ -19,7 +19,7 @@ This peculiar characteristic has long fascinated scholars and adventurers alike,
 
 ## Unraveling the Anomaly
 
-At the heart of the Echoes Chamber lies a small platform, positioned between two gateways leading into the [[Shadowfell]] and [[Feywild]]. These gateways grant a unique perspective, offering distorted reflections of beings present in the chamber. Elves may see a Drow in their [[Shadowfell]] counterpart or an Eladrin in the [[Feywild]] reflection, while humans see a [[Shadowborn]] in the [[Shadowfell]] reflection or a [[Lightborn]] in the [[Feywild]] counterpart, and so on with each species seeing their counterpart.
+At the heart of the Echoes Chamber lies a small platform, positioned between two gateways leading into the [[Shadowfell]] and [[Feywild]]. These gateways grant a unique perspective, offering distorted reflections of beings present in the chamber. Elves may see a Drow in their [[Shadowfell]] counterpart or an Eladrin in the [[Feywild]] reflection, while tallmen see a [[Shadowborn]] in the [[Shadowfell]] reflection or a [[Lightborn]] in the [[Feywild]] counterpart, and so on with each species seeing their counterpart.
 
 ## The Art of Reflection
 

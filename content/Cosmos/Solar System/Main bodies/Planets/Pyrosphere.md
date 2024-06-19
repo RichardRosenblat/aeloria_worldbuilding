@@ -56,7 +56,7 @@ Pyrosphere lacks oceans, and its landscape is dominated by molten lava flows and
 
 ### Description
 
-Within Pyrosphere's volcanic caves, ancient ruins attributed to [[Merlin]] are discovered. These ruins harness the planet's energy for powerful magical rituals.
+Within Pyrosphere's volcanic caves, ancient ruins attributed to [[Merlin of The Stars|Melin]] are discovered. These ruins harness the planet's energy for powerful magical rituals.
 
 ### Purpose
 
@@ -66,7 +66,7 @@ The ruins on Pyrosphere serve the dual purpose of safeguarding secrets related t
 
 ### Type
 
-Pyrosphere's atmosphere is thick and toxic, making it unsuitable for human habitation.
+Pyrosphere's atmosphere is thick and toxic, making it unsuitable for tallman habitation.
 
 ### Breathability
 
@@ -80,10 +80,10 @@ The thick and toxic atmosphere surrounding Pyrosphere contributes to the planet'
 
 ### Existence
 
-Pyrosphere is accompanied by an artificial satellite, known as the Flame Orb, which was created by [[Merlin]].
+Pyrosphere is accompanied by an artificial satellite, known as the Flame Orb, which was created by [[Merlin of The Stars|Melin]].
 
 ### Description
 
-The Flame Orb, [[Merlin]]'s creation, serves as a monitoring device for volcanic activity on Pyrosphere. Additionally, it plays a role in conducting magical experiments on the planet.
+The Flame Orb, [[Merlin of The Stars|Melin]]'s creation, serves as a monitoring device for volcanic activity on Pyrosphere. Additionally, it plays a role in conducting magical experiments on the planet.
 
 

@@ -39,7 +39,7 @@ Solis does not harbor oceans, with its surface dominated by the intense heat and
 
 ### Description
 
-The ruins on Solis are remnants of celestial observatories built by the legendary [[Merlin]]. These observatories float around Solis's artificial satellite, diligently studying the sun's energy and harnessing its power for magical rituals.
+The ruins on Solis are remnants of celestial observatories built by the legendary [[Merlin of The Stars|Melin]]. These observatories float around Solis's artificial satellite, diligently studying the sun's energy and harnessing its power for magical rituals.
 
 ### Purpose
 
@@ -63,7 +63,7 @@ Solis is orbited by a artificial satellite called "Solar beacon"
 
 ### Description
 
-Solis is accompanied by an artificial satellite known as the Solar Beacon. This creation, attributed to the legendary [[Merlin]], serves a crucial role in amplifying and concentrating the sun's energy for various magical studies and applications. The Solar Beacon stands as a testament to the intersection of magical prowess and celestial exploration on Solis.
+Solis is accompanied by an artificial satellite known as the Solar Beacon. This creation, attributed to the legendary [[Merlin of The Stars|Melin]], serves a crucial role in amplifying and concentrating the sun's energy for various magical studies and applications. The Solar Beacon stands as a testament to the intersection of magical prowess and celestial exploration on Solis.
 
 
 ![[Solar System#Celestial bodies]]

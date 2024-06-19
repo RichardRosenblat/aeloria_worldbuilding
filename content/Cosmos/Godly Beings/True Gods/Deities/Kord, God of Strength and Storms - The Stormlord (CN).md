@@ -29,14 +29,14 @@ tags:
 
 | Culture                  | Name       | Title                    | Pronouns  | Group                                                                             |
 | ------------------------ | ---------- | ------------------------ | --------- | --------------------------------------------------------------------------------- |
-| Alonian (Human) Generic   | Kord       | The Stormlord            | He/Him    | The [[Harmonious Gods]]                                                           |
-| Asteni (Human) Italian   | Hercules   | The Mighty Protector     | He/Him    | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Human) Hispanic     | Valoro     | The Stormwarden          | He/Him    | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Alonian (Tallman) Generic   | Kord       | The Stormlord            | He/Him    | The [[Harmonious Gods]]                                                           |
+| Asteni (Tallman) Italian   | Hercules   | The Mighty Protector     | He/Him    | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
+| Dal (Tallman) Hispanic     | Valoro     | The Stormwarden          | He/Him    | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Stark-hand | The Thunderguardian      | He/Her    | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
 | Dwelmer (Dwarven) Nordic | Thorin     | The Lightning Master     | He/Him    | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
 | Eldar (Elven) Elven      | Glorfindel | The Lightning Guardian   | They/Them | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese | Raijin     | The Thunderous Protector | He/Him    | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
-| Mularir (Human) Greek    | Kratos     | The Mighty Guardian      | He/Him    | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
+| Mularir (Tallman) Greek    | Kratos     | The Mighty Guardian      | He/Him    | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
 | Yotunn (Giant) Giant     | Hrungnir   | The Thunderous Titan     | He/Him    | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 
@@ -60,8 +60,8 @@ The Deity of Warriors: Kord, God of Battle
 *Sword with a lightning bolt cross guard*
 
 ## Avatars
-### Alonian (Human) Generic
-> Kord is represented as a human-like man, barrel-chested and with massive muscles. He wears iron bracers around his wrists. His beard is thick and sometimes it goes down to the middle of his chest. In one hand he carries a long, thick shortsword or a lightning bolt. His legs and midsection are clothed in furs and leathers
+### Alonian (Tallman) Generic
+> Kord is represented as a tallman-like man, barrel-chested and with massive muscles. He wears iron bracers around his wrists. His beard is thick and sometimes it goes down to the middle of his chest. In one hand he carries a long, thick shortsword or a lightning bolt. His legs and midsection are clothed in furs and leathers
 ![[Kord appearance 1.png|400]][^1]
 ![[Kord appearance 2.png|400]][^1]
 

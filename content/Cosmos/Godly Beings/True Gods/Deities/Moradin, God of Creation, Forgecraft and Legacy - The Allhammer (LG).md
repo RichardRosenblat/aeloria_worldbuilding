@@ -29,14 +29,14 @@ aliases:
 
 | Culture                  | Name         | Title                  | Pronouns  | Group                                                                             |
 | ------------------------ | ------------ | ---------------------- | --------- | --------------------------------------------------------------------------------- |
-| Alonian (Human) Generic   | Moradin      | The Allhammer          | He/Him    | The [[Harmonious Gods]]                                                           |
-| Asteni (Human) Italian   | Vesuvius     | The Shipwright         | He/Him    | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Human) Hispanic     | Creaciónica  | The Hearthkeeper       | She/Her   | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Alonian (Tallman) Generic   | Moradin      | The Allhammer          | He/Him    | The [[Harmonious Gods]]                                                           |
+| Asteni (Tallman) Italian   | Vesuvius     | The Shipwright         | He/Him    | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
+| Dal (Tallman) Hispanic     | Creaciónica  | The Hearthkeeper       | She/Her   | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Runenschmied | The Runesmith          | He/Him    | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
 | Dwelmer (Dwarven) Nordic | Durinn       | The Earthshaper        | He/Him    | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
 | Eldar (Elven) Elven      | Aulë         | The Master Forger      | They/Them | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese | Kagutsuchi   | The Dreamshaper        | She/Her   | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
-| Mularir (Human) Greek    | Pantropos    | The Eternal Craftsman  | He/Him    | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
+| Mularir (Tallman) Greek    | Pantropos    | The Eternal Craftsman  | He/Him    | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
 | Yotunn (Giant) Giant     | Verkandr     | The Stoneforge Creator | He/Him    | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 
@@ -62,7 +62,7 @@ _Hammer with ends carved in the likeness of dwarven heads_
 _Flaming anvil_
 
 ## Avatars
-### Alonian (Human) Generic
+### Alonian (Tallman) Generic
 > By his worshipers he is depicted as a faceless, stout dwarf-like being of immense strength, hunched over, clasping within his massive hands a flaming heart
 ![[Moradin Appearance.png|400]][^1]
 

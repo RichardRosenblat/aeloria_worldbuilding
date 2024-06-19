@@ -3,9 +3,9 @@ tags:
   - spell
   - setting
 ---
-*"Ahh, the 'Water Saw,' a relic of my earlier experimentation. It's effective, no doubt, particularly against those relentless zombie hordes. However, its indiscriminate nature leaves much to be desired. I must confess, it's a bit embarrassing to showcase such a crude creation to my students, especially one responsible for more than a few lost fingers."* - [[Merlin]] when interviewed about the spell
+*"Ahh, the 'Water Saw,' a relic of my earlier experimentation. It's effective, no doubt, particularly against those relentless zombie hordes. However, its indiscriminate nature leaves much to be desired. I must confess, it's a bit embarrassing to showcase such a crude creation to my students, especially one responsible for more than a few lost fingers."* - [[Merlin of The Stars|Melin]] when interviewed about the spell
 
-# [[Merlin]]'s Water Saw
+# [[Merlin of The Stars|Melin]]'s Water Saw
 
 *5th-level evocation*
 

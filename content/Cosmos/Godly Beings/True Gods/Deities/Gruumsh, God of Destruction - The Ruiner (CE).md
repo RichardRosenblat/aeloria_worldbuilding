@@ -29,14 +29,14 @@ aliases:
 
 | Culture                  | Name        | Title                         | Pronouns    | Group                                                      |
 | ------------------------ | ----------- | ----------------------------- | ----------- | ---------------------------------------------------------- |
-| Alonian (Human) Generic   | Gruumsh     | The Ruiner                    | He/Him      | The [[Defiant Gods]]                                       |
-| Asteni (Human) Italian   | Vesanus     | The Master of Carnage         | He/Him      | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
-| Dal (Human) Hispanic     | Destrus     | The Harbinger of Annihilation | He/Him      | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
+| Alonian (Tallman) Generic   | Gruumsh     | The Ruiner                    | He/Him      | The [[Defiant Gods]]                                       |
+| Asteni (Tallman) Italian   | Vesanus     | The Master of Carnage         | He/Him      | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
+| Dal (Tallman) Hispanic     | Destrus     | The Harbinger of Annihilation | He/Him      | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
 | Duir (Dwarven) German    | Zerstorungs | The One Eyed                  | He/Him      | [[Defiant Gods\|Die Gegner]] (The opposers)                |
 | Dwelmer (Dwarven) Nordic | Fenrir      | The Devourer of Realms        | He/Him      | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
 | Eldar (Elven) Elven      | Xyrsylvar   | The Fey Eater                 | He/They/It  | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
 | Eldarin (Elven) Japanese | Kurai       | The Annihilator of Worlds     | He/Her/It   | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
-| Mularir (Human) Greek    | Aporia      | The Lord of Ruin              | He/Her/They | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
+| Mularir (Tallman) Greek    | Aporia      | The Lord of Ruin              | He/Her/They | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
 | Yotunn (Giant) Giant     | Ragndyr     | The Maelstrom Of Fury         | He/Him      | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 
@@ -62,7 +62,7 @@ Triangular eye with bony protrusions
 Single, unblinking eye that bleeds
 
 ## Avatars
-### Alonian (Human) Generic
+### Alonian (Tallman) Generic
 > They depict him as a hulking behemoth of an orc with his missing eye, lacking a pair since [[The Great War (GW)|the Great War]], has shifted and now central to the face, bearing close resemblance to a cyclops
 ![[Gruumsh appearance.png|500]][^1]
 

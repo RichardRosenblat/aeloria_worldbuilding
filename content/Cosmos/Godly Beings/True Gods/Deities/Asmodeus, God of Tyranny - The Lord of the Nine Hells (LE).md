@@ -29,14 +29,14 @@ aliases:
 
 | Culture                  | Name      | Title                          | Pronouns | Group                                                      |
 | ------------------------ | --------- | ------------------------------ | -------- | ---------------------------------------------------------- |
-| Alonian (Human) Generic   | Asmodeus  | The Lord of [[the Nine Hells]] | He/Him   | The [[Defiant Gods]]                                       |
-| Asteni (Human) Italian   | Tiranno   | The Hellish King               | He/Him   | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
-| Dal (Human) Hispanic     | Dablo     | The Lord of Infernal Dominion  | He/Him   | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
+| Alonian (Tallman) Generic   | Asmodeus  | The Lord of [[the Nine Hells]] | He/Him   | The [[Defiant Gods]]                                       |
+| Asteni (Tallman) Italian   | Tiranno   | The Hellish King               | He/Him   | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
+| Dal (Tallman) Hispanic     | Dablo     | The Lord of Infernal Dominion  | He/Him   | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
 | Duir (Dwarven) German    | Tyrann    | The Lord of Lies               | He/Him   | [[Defiant Gods\|Die Gegner]] (The opposers)                |
 | Dwelmer (Dwarven) Nordic | Mordgrim  | The Tyrant of the Depths       | He/Him   | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
 | Eldar (Elven) Elven      | Morgoth   | The Dark Lord                  | He/Him   | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
 | Eldarin (Elven) Japanese | Izanami   | The Dark Empress of Shadows    | She/They | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
-| Mularir (Human) Greek    | Phobos    | The Styx Commander             | He/Him   | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
+| Mularir (Tallman) Greek    | Phobos    | The Styx Commander             | He/Him   | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
 | Yotunn (Giant) Giant     | Frostkald | The Frostlord of Domination    | He/Him   | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 
@@ -62,7 +62,7 @@ _Three triangles in a tight formation_
 _Crown of spiked onyx and curved horns_
 
 ## Avatars
-### Alonian (Human) Generic
+### Alonian (Tallman) Generic
 > Asmodeus is depicted in many tomes and murals as a handsome humanoid with long, black hair with two curling horns rising from his brow. His appearance changes to match the most beautiful face the viewer has seen.
 
 ![[Asmodeus Avatar.png]][^1]

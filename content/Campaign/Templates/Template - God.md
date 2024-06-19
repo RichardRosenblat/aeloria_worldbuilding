@@ -4,14 +4,14 @@
 
 | Culture | Name | Title | Pronouns | Group |
 | ---- | ---- | ---- | ---- | ---- |
-| Alonian (Human) Generic |  |  |  |  |
-| Asteni (Human) Italian |  |  |  |  |
-| Dal (Human) Hispanic|  |  |  |  |
+| Alonian (Tallman) Generic |  |  |  |  |
+| Asteni (Tallman) Italian |  |  |  |  |
+| Dal (Tallman) Hispanic|  |  |  |  |
 | Duir (Dwarven) German |  |  |  |  |
 | Dwelmer (Dwarven) Nordic |  |  |  |  |
 | Eldar (Elven) Elven |  |  |  |  |
 | Eldarin (Elven) Japanese |  |  |  |  |
-| Mularir (Human) Greek |  |  |  |  |
+| Mularir (Tallman) Greek |  |  |  |  |
 | Yotunn (Giant) Giant |  |  |  |  |
 
 
@@ -22,7 +22,7 @@
 ## Symbols
 
 ## Avatars
-### Alonian (Human) Generic
+### Alonian (Tallman) Generic
 
 ## Cleric Domains
 | Domains |

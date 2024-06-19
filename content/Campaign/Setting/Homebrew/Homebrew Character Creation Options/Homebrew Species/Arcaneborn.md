@@ -63,7 +63,7 @@ Each subspecies of the Arcaneborn is associated with a specific school of magic,
 Medium
 
 **Age:**
-Arcaneborn have a similar lifespan to humans, reaching maturity in their late teens and living up to around 70 years.
+Arcaneborn have a similar lifespan to tallmen, reaching maturity in their late teens and living up to around 70 years.
 
 **Speed:**
 30 feet

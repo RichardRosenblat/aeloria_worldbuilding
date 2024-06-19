@@ -29,14 +29,14 @@ aliases:
 
 | Culture                | Name       | Title               | Pronouns | Group                   |
 |------------------------|------------|---------------------|----------|-------------------------|
-| Alonian (Human) Generic | Aena       | The Architect       | She/Her  | [[Over-Deities\|The Dyad                ]]|
-| Asteni (Human) Italian  | Caelia     | The Divine Artisan  | She/Them | [[Over-Deities\|Il Doppio (The double)  ]]|
-| Dal (Human) Hispanic | Luminara   | The Luminary        | She/Her  | [[Over-Deities\|La Dualidad (The duality)]]|
+| Alonian (Tallman) Generic | Aena       | The Architect       | She/Her  | [[Over-Deities\|The Dyad                ]]|
+| Asteni (Tallman) Italian  | Caelia     | The Divine Artisan  | She/Them | [[Over-Deities\|Il Doppio (The double)  ]]|
+| Dal (Tallman) Hispanic | Luminara   | The Luminary        | She/Her  | [[Over-Deities\|La Dualidad (The duality)]]|
 | Duir (Dwarven) German   | Eisenheim  | The Ironforged       | She/Him  | [[Over-Deities\|Die Machtigen (The empowered)]]|
 | Dwelmer (Dwarven) Nordic | Hrothgar | The Forgefather      | He/HIm   | [[Over-Deities\|Tvískapt (Twin Creators)]]|
 | Eldar (Elven) Elven     | Aelara     | The Weavekeeper      | She/Her  | [[Over-Deities\|Iluvatar (Parents of all)]]|
 | Eldarin (Elven) Japanese| Hikari     | The Illuminator      | She/Her  | [[Over-Deities\|Nikami(Two gods)        ]]|
-| Mularir (Human) Greek   | Themis     | The Divine Architect | She/Her  | [[Over-Deities\|Exousíes (The powers)   ]]|
+| Mularir (Tallman) Greek   | Themis     | The Divine Architect | She/Her  | [[Over-Deities\|Exousíes (The powers)   ]]|
 | Yotunn (Giant) Giant    | Jotunheim  | The Mountainfather   | He/Them  | [[Over-Deities\|Hinn Oflugi (The powerful)]]|
 
 
@@ -66,7 +66,7 @@ aliases:
 *When connected with [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]*
 
 ## Avatars
-### Alonian (Human) Generic
+### Alonian (Tallman) Generic
 > Aena is often represented as a female figure with golden white hair and gowns adorned with gold and blue
 > 
 

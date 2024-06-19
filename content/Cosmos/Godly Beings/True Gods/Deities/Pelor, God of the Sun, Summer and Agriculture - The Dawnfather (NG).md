@@ -27,14 +27,14 @@ tags:
 
 | Culture                  | Name            | Title               | Pronouns | Group                                                                             |
 | ------------------------ | :-------------- | ------------------- | :------- | --------------------------------------------------------------------------------- |
-| Alonian (Human) Generic  | Pelor           | The Dawnfather      | He/Him   | The [[Harmonious Gods]]                                                           |
-| Asteni (Human) Italian   | Apollo          | The Sunbringer      | He/They  | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Human) Hispanic     | Soleo           | The Radiant One     | He/They  | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Alonian (Tallman) Generic  | Pelor           | The Dawnfather      | He/Him   | The [[Harmonious Gods]]                                                           |
+| Asteni (Tallman) Italian   | Apollo          | The Sunbringer      | He/They  | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
+| Dal (Tallman) Hispanic     | Soleo           | The Radiant One     | He/They  | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Sonnen-splender | The Golden Lord     | He/Him   | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
 | Dwelmer (Dwarven) Nordic | Solbjorn        | The Sunforged       | He/Him   | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
 | Eldar (Elven) Elven      | Earendil        | The Radiant Star    | She/Her  | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese | Amaterasu       | The Harvest Empress | She/Her  | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
-| Mularir (Human) Greek    | Helios          | The Shining Master  | He/Him   | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
+| Mularir (Tallman) Greek    | Helios          | The Shining Master  | He/Him   | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
 | Yotunn (Giant) Giant     | Solskin         | The Everlight       | He/She   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 
@@ -59,7 +59,7 @@ _Bright, eight-pointed Sun_
 
 
 ## Avatars
-### Alonian (Human) Generic
+### Alonian (Tallman) Generic
 > Pelor wears a white cloak over an intricate golden plate armor. Where a head would be, instead, there is a burning star. In between the plates of his armor, is possible to see a material similar to the night sky.
 ![[Pelor Apperance.png|400]][^2]
 

@@ -17,14 +17,14 @@ aliases:
 
 | Culture                  | Library Name                                                           | Meaning of Name                                                                                                                        |
 | ------------------------ | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
-| Alonian (Human) Generic   | [[Ioun, Goddess of Knowledge - The Enlightened (N)\|Ioun]]'s Archive   | [[Ioun, Goddess of Knowledge - The Enlightened (N)\|Ioun]]'s Archive                                                                   |
-| Asteni (Human) Italian   | Sapientia Domus                                                        | House of Wisdom                                                                                                                        |
-| Dal (Human) Hispanic     | Biblioteca de Sabiduría                                                | Library of Wisdom                                                                                                                      |
+| Alonian (Tallman) Generic   | [[Ioun, Goddess of Knowledge - The Enlightened (N)\|Ioun]]'s Archive   | [[Ioun, Goddess of Knowledge - The Enlightened (N)\|Ioun]]'s Archive                                                                   |
+| Asteni (Tallman) Italian   | Sapientia Domus                                                        | House of Wisdom                                                                                                                        |
+| Dal (Tallman) Hispanic     | Biblioteca de Sabiduría                                                | Library of Wisdom                                                                                                                      |
 | Duir (Dwarven) German    | Weisheitsbibliothek                                                    | Wisdom Library                                                                                                                         |
 | Dwelmer (Dwarven) Nordic | Visdomens Hall                                                         | Wisdom's Hall                                                                                                                          |
 | Eldar (Elven) Elven      | Vilya'Shalar                                                           | Wisdom's Haven                                                                                                                         |
 | Eldarin (Elven) Japanese | [[Ioun, Goddess of Knowledge - The Enlightened (N)\|Chie]] no Toshokan | Wisdom/[[Ioun, Goddess of Knowledge - The Enlightened (N)\|Ioun]]'s/[[Ioun, Goddess of Knowledge - The Enlightened (N)\|Chie]] Library |
-| Mularir (Human) Greek    | Gnosis Parthenon                                                       | Temple of Knowledge                                                                                                                    |
+| Mularir (Tallman) Greek    | Gnosis Parthenon                                                       | Temple of Knowledge                                                                                                                    |
 | Yotunn (Giant) Giant     | Skrymslaskrifheim                                                      | The Realm of Written Knowledge                                                                                                         |
 
 # Past Glory: [[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]'s Archive - The Sanctuary of Knowledg

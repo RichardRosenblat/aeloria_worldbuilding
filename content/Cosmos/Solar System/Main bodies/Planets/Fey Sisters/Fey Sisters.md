@@ -53,10 +53,10 @@ A total of four moons gracefully orbit the Fey Sisters, flowing between the two 
 | [[Eclipse (Moon)]]  | No    | Dark with magma cracks    | None                  |
 
 ## Artificial Satellite
-In the vast expanse of the Fey Sisters' binary system, a remarkable creation known as Gaia's Eyes orbits diligently. Crafted by the legendary [[Merlin]], this artificial satellite serves as a sentinel, keeping a watchful gaze upon the planets and their intricate ecosystems.
+In the vast expanse of the Fey Sisters' binary system, a remarkable creation known as Gaia's Eyes orbits diligently. Crafted by the legendary [[Merlin of The Stars|Melin]], this artificial satellite serves as a sentinel, keeping a watchful gaze upon the planets and their intricate ecosystems.
 
 ### Exists
 Gaia's Eyes exists as a testament to the ingenuity of magical craftsmanship, a technological marvel in the realm of high fantasy.
 
 ### Description
-This artificial satellite, born from the skillful hands of [[Merlin]], is a technological masterpiece. Gaia's Eyes is intricately designed to monitor and analyze the delicate balance of the planets' ecosystems, as well as the natural energy flows that course through the realms of [[Verdantia]] and [[Gelana]]. Its purpose extends beyond mere surveillance, acting as a guardian of the cosmic forces that shape the continuity and change within this fantastical binary system.
+This artificial satellite, born from the skillful hands of [[Merlin of The Stars|Melin]], is a technological masterpiece. Gaia's Eyes is intricately designed to monitor and analyze the delicate balance of the planets' ecosystems, as well as the natural energy flows that course through the realms of [[Verdantia]] and [[Gelana]]. Its purpose extends beyond mere surveillance, acting as a guardian of the cosmic forces that shape the continuity and change within this fantastical binary system.

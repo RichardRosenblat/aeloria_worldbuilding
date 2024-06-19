@@ -30,14 +30,14 @@ aliases:
 
 |Culture|Name|Title|Pronouns|Group|
 |---|---|---|---|---|
-|Alonian (Human) Generic|Kryela|The Undoing|She/Her|[[over-deities\|The Dyad]]|
-|Asteni (Human) Italian|Morsius|The Broken Tower |He/Him|[[over-deities\|Il Doppio (The double)]]|
-|Dal (Human) Castillian|Devoradora|The End|She/Her|[[over-deities\|La Dualidad (The duality)]]|
+|Alonian (Tallman) Generic|Kryela|The Undoing|She/Her|[[over-deities\|The Dyad]]|
+|Asteni (Tallman) Italian|Morsius|The Broken Tower |He/Him|[[over-deities\|Il Doppio (The double)]]|
+|Dal (Tallman) Castillian|Devoradora|The End|She/Her|[[over-deities\|La Dualidad (The duality)]]|
 |Duir (Dwarven) German|Dunkelruf|The Endless Shadow |He/Him|[[over-deities\|Die Machtigen (The empowered)]]|
 |Dwelmer (Dwarven) Nordic|Kroll|The Obsidian Schism|He/They|[[over-deities\|Tvískapt (Twin Creators)]]|
 |Eldar (Elven) Elven|Maegon|The Final Calamity|He/Him|[[over-deities\|Iluvatar (Parents of all)]]|
 |Eldarin (Elven) Japanese|Yami|The Shadowcaster|He/Him|[[over-deities\|Nikami(Two gods)]]|
-|Mularir (Human) Greek|Typhon|The Ebon Tempest|He/They|[[over-deities\|Exousíes (The powers)]]|
+|Mularir (Tallman) Greek|Typhon|The Ebon Tempest|He/They|[[over-deities\|Exousíes (The powers)]]|
 |Yotunn (Giant) Giant|Sardland|The Typhoon Lord|He/Him|[[over-deities\|Hinn Oflugi (The powerful)]]|
 
 ## Extra Titles
@@ -66,7 +66,7 @@ _A ring of thorns when mentioned with [[Aena, goddess of kindness, creation and 
 _When connected with [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]]_
     
 ## Avatars
-### Alonian (Human) Generic
+### Alonian (Tallman) Generic
 > Kryela is often depicted as a woman with white hair and dark gowns that often merge with the darkness
 
 ![[Kryela appearance 1.png]]

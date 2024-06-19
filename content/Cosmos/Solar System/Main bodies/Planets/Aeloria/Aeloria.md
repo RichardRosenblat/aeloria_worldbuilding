@@ -89,11 +89,11 @@ Aeloria is accompanied by a single moon, a celestial companion that influences t
 
 ### Description
 
-Scattered across Aeloria's diverse landscapes are the remnants of ancient ruins created by the legendary wizard [[Merlin]] more than 550 years ago. These ruins serve as a testament to [[Merlin]]'s exploration and magical prowess.
+Scattered across Aeloria's diverse landscapes are the remnants of ancient ruins created by the legendary wizard [[Merlin of The Stars|Melin]] more than 550 years ago. These ruins serve as a testament to [[Merlin of The Stars|Melin]]'s exploration and magical prowess.
 
 ### Purpose
 
-[[Merlin]]'s ruins on Aeloria hold secrets of ancient magic, providing a unique opportunity for intrepid adventurers to unravel powerful artifacts and delve into the mysteries of the past.
+[[Merlin of The Stars|Melin]]'s ruins on Aeloria hold secrets of ancient magic, providing a unique opportunity for intrepid adventurers to unravel powerful artifacts and delve into the mysteries of the past.
 
 ## Atmosphere
 

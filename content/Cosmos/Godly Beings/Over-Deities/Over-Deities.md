@@ -85,7 +85,7 @@ Beholding the presence of over-deities, be by communing with their raw essence o
 | 9   | "It's hunting us. It knows what we're afraid of."                      |
 | 10  | "There are footsteps in the house when no one's home."                 |
 | 11  | "In strange eons even death may die"                                   |
-| 12  | "It's not human. It just wears the skin."                              |
+| 12  | "It is not a tallmen, it is not even a humanoid. It just wears the skin."                              |
 | 13  | "Don't be scared. It can't hurt you."                                  |
 | 14  | "Whispers from the attic never ceased."                                |
 | 15  | "The old well hid more than water."                                    |

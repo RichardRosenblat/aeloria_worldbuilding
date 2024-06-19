@@ -36,7 +36,7 @@ The oceans surrounding Gelana are freshwater, providing a distinct aquatic envir
 
 ### Description
 
-[[Merlin]]'s ruins on Gelana are concealed among blooming fields, blending seamlessly with the natural beauty and magical essence of the planet.
+[[Merlin of The Stars|Melin]]'s ruins on Gelana are concealed among blooming fields, blending seamlessly with the natural beauty and magical essence of the planet.
 
 ### Purpose
 

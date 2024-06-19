@@ -32,14 +32,14 @@ Yet I alone see your true potential—the power you could wield, the intricate w
 
 | Culture                  | Name      | Title                  | Pronouns    | Group                                                      |
 | :----------------------- | --------- | ---------------------- | ----------- | ---------------------------------------------------------- |
-| Alonian (Human) Generic   | Lolth     | The Spider Queen       | She/Her     | The [[Defiant Gods]]                                       |
-| Asteni (Human) Italian   | Tejedora  | The Weaver of Lies     | She/It      | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
-| Dal (Human) Hispanic     | Aracnia   | The Deceiver of Silk   | She/Her     | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
+| Alonian (Tallman) Generic   | Lolth     | The Spider Queen       | She/Her     | The [[Defiant Gods]]                                       |
+| Asteni (Tallman) Italian   | Tejedora  | The Weaver of Lies     | She/It      | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
+| Dal (Tallman) Hispanic     | Aracnia   | The Deceiver of Silk   | She/Her     | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
 | Duir (Dwarven) German    | Weberin   | The Ensnaring Web      | She/They/It | [[Defiant Gods\|Die Gegner]] (The opposers)                |
 | Dwelmer (Dwarven) Nordic | Arachna   | The Eight-Legged Ruler | She/They/It | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
 | Eldar (Elven) Elven      | Ungoliant | The Demon Spider       | She/They/It | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
 | Eldarin (Elven) Japanese | Jorogumo  | The First Drow         | She/Her     | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
-| Mularir (Human) Greek    | Arachne   | The Schemer in Silk    | She/Her     | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
+| Mularir (Tallman) Greek    | Arachne   | The Schemer in Silk    | She/Her     | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
 | Yotunn (Giant) Giant     | Arakna    | The Great Spider       | She/They/It | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 
@@ -63,7 +63,7 @@ The Queen Weaver: Lolth, Goddess of Trickery
 _Eight-pointed star with a web motif_
 
 ## Avatars
-### Alonian (Human) Generic
+### Alonian (Tallman) Generic
 > She is depicted as a darkly alluring woman of dark purple skin and silver hair, with a lower body of a terrifying monstrous spider. A common symbol for her is that of a jeweled spider.
 > In the Abyss, she is depicted as a drider-like entity, with four arms, multiple legs and spine appendages, long white hair, spider-like face and several red eyes in her body
 > In elven cultures she is mostly depicted as a monstrous and colossal spider 
@@ -108,7 +108,7 @@ Cultures that worship Lolth exhibit a number of distinctive cultural norms and p
 
 4. **Dark Beauty and Elegance**: Despite their penchant for cruelty and deceit, cultures that worship Lolth often exhibit a fascination with dark beauty and elegance. Adornments such as intricate spider silk garments, jeweled spider motifs, and elaborate face paint are commonly worn as symbols of status and devotion to the Spider Queen. Physical attractiveness is prized, with individuals striving to embody the allure and allure of Lolth herself.
 
-5. **Subjugation of Other Races**: Cultures that venerate Lolth typically view themselves as superior to other species, particularly those who dwell on the surface world. Humans, elves, and other surface-dwelling species are often regarded as inferior beings fit only for exploitation. Drow societies may engage in raids and conquests to inprision captives and expand their territories, further reinforcing their dominance over lesser species.
+5. **Subjugation of Other Races**: Cultures that venerate Lolth typically view themselves as superior to other species, particularly those who dwell on the surface world. Tallmen, elves, and other surface-dwelling species are often regarded as inferior beings fit only for exploitation. Drow societies may engage in raids and conquests to inprision captives and expand their territories, further reinforcing their dominance over lesser species.
 
 6. **Spider Symbolism and Taboos**: Spider symbolism permeates every aspect of life within cultures that worship Lolth, with spiders revered as sacred creatures and symbols of the Spider Queen's divine presence. Images of spiders adorn temples, artwork, and religious artifacts, serving as reminders of Lolth's dominion over the [[Underdark]]. Conversely, certain taboos and superstitions surround spiders, with killing or harming a spider seen as a sacrilegious act punishable by severe consequences.
 

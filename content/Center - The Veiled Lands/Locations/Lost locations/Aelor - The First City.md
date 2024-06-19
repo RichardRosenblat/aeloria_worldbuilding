@@ -22,14 +22,14 @@ The City of Light is known to have many names, these are some of them:
 
 | Culture                  | City Name                                                                      |
 | ------------------------ | ------------------------------------------------------------------------------ |
-| Alonian (Human) Generic   | The City of Light                                                              |
-| Asteni (Human) Italian   | Novaroma                                                                       |
-| Dal (Human) Hispanic     | Prospera                                                                       |
+| Alonian (Tallman) Generic   | The City of Light                                                              |
+| Asteni (Tallman) Italian   | Novaroma                                                                       |
+| Dal (Tallman) Hispanic     | Prospera                                                                       |
 | Duir (Dwarven) German    | Eisenburg                                                                      |
 | Dwelmer (Dwarven) Nordic | Skoldheim                                                                      |
 | Eldar (Elven) Elven      | Valinor                                                                        |
 | Eldarin (Elven) Japanese | Sakurashima                                                                    |
-| Mularir (Human) Greek    | [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)\|Polis]] |
+| Mularir (Tallman) Greek    | [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)\|Polis]] |
 | Yotunn (Giant) Giant     | Jotunheimr                                                                     |
 
 # Past Glory: Aelor - The City Of Light
@@ -84,7 +84,7 @@ Aelor's economy is driven by a thriving market of artisans, enchanters, and scho
 ### Social Hierarchy:
 While Aelor values meritocracy and egalitarianism, there exists a subtle hierarchy based on individuals' contributions to the city's cultural and intellectual advancement. Scholars, artisans, and civic leaders hold considerable influence, while laborers and artisans are respected for their essential roles in sustaining the city's infrastructure.
 ### Species Relations:
-Aelor is a melting pot of diverse cultures and species, with humans, elves, dwarves, and gnomes living and working side by side in harmony. The city's inhabitants share a common dedication to knowledge and progress, overlooking differences to create a vibrant and inclusive community. The city's temples and shrines welcome worshippers of all faiths, fostering a spirit of unity and cooperation among its diverse populace.
+Aelor is a melting pot of diverse cultures and species, with tallmen, elves, dwarves, and gnomes living and working side by side in harmony. The city's inhabitants share a common dedication to knowledge and progress, overlooking differences to create a vibrant and inclusive community. The city's temples and shrines welcome worshippers of all faiths, fostering a spirit of unity and cooperation among its diverse populace.
 
 ## Geographical Points of Interest:
 

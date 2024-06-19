@@ -46,7 +46,7 @@ the [[Astronomical objects|Nebulae]] Essentiae bear names infused with the echoe
 
 ## Myths
 
-In the timeless epoch before the existence of living beings—before the graceful fish swam in the crystalline waters, before the vibrant plants adorned the landscapes, and before the majestic deer, elves, dwarfs, and humans walked the lands—all the [[True Gods]] of [[Aeloria]] convened for a grand celebration. This jubilant gathering marked their joyous accomplishments in creating [[Aeloria]] and the heavens that adorned the cosmic realm.
+In the timeless epoch before the existence of living beings—before the graceful fish swam in the crystalline waters, before the vibrant plants adorned the landscapes, and before the majestic deer, elves, dwarfs, and tallmen walked the lands—all the [[True Gods]] of [[Aeloria]] convened for a grand celebration. This jubilant gathering marked their joyous accomplishments in creating [[Aeloria]] and the heavens that adorned the cosmic realm.
 
 As the [[True Gods]] reveled in their festivities, enchanted by the mirthful atmosphere, an unexpected guest sought to join their revelry—the cosmos itself. Intrigued by the gods' creative endeavors, the cosmos yearned to partake in their jubilation. The gods, in their benevolence, welcomed the cosmos into their midst, inviting it to engage in games, to dance, and to share in the nectar of celebration. Throughout these joyous moments, the cosmos listened intently to the desires of the gods, who harbored the wish to breathe life into their cosmic creation.
 

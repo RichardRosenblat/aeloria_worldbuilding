@@ -29,14 +29,14 @@ aliases:
 
 | Culture                  | Name               | Title                    | Pronouns | Group                                                                             |
 | ------------------------ | ------------------ | :----------------------- | -------- | --------------------------------------------------------------------------------- |
-| Alonian (Human) Generic   | Corellon           | The Spellfather          | He/They  | The [[Harmonious Gods]]                                                           |
-| Asteni (Human) Italian   | Arcano             | The Weave                | He/It    | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Human) Hispanic     | Artez              | The Lord of Spells       | He/It    | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Alonian (Tallman) Generic   | Corellon           | The Spellfather          | He/They  | The [[Harmonious Gods]]                                                           |
+| Asteni (Tallman) Italian   | Arcano             | The Weave                | He/It    | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
+| Dal (Tallman) Hispanic     | Artez              | The Lord of Spells       | He/It    | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Kuns-meister       | The Master Artisan       | He/They  | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
 | Dwelmer (Dwarven) Nordic | Svartalf           | The Runekeeper           | He/They  | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
 | Eldar (Elven) Elven      | Corellon Larethian | The Enchanter of Stars   | He/They  | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese | Inari              | The Patron of Creativity | He/They  | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
-| Mularir (Human) Greek    | Muse               | The Matron of the Arts   | She/Her  | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
+| Mularir (Tallman) Greek    | Muse               | The Matron of the Arts   | She/Her  | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
 | Yotunn (Giant) Giant     | Bergur             | The Runic Wonder         | He/They  | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 
@@ -60,7 +60,7 @@ _Two crested moons facing each other atop a four-pointed star_
 ![[Corellon symbol 2.png|300]][^2]
 _Eight-pointed star_
 ## Avatars
-### Alonian (Human) Generic
+### Alonian (Tallman) Generic
 > 	Corellon is commonly depicted as an impossibly graceful and beautiful elven being. They are androgynous and alluring, with long golden hair.
 ![[Corellon Appearance.png|400]][^1]
 

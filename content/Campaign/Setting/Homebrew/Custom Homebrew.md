@@ -26,6 +26,7 @@ Happy adventuring and stay curious!
 | [[Levels Beyond 20th]]         |
 | [[Travel Rules]]               |
 | [[Tactical Skill Checks]]      |
+| [[Hostage Situation Rules]]    |
 
 ## Homebrew Character Options
 

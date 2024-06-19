@@ -70,7 +70,7 @@ Miden's surface unfolds as an extensive desert, punctuated by small areas of sno
 
 ### Man-Made Structures
 
-The moon's surface is adorned with numerous structures, hinting at the presence of intelligent beings. These structures stand as a unique anomaly in the [[solar system]], diverging from the [[Aeloria|Aelorian]] creations attributed to [[Merlin]]. The fascination with exploring Miden arises from the mysterious origins of these structures, and it remains unclear whether the creators are descendants of [[Aeloria|Aelorian]] ancestors or an entirely distinct species. The fate of the builders, whether still present on Miden or alive, remains an enigma.
+The moon's surface is adorned with numerous structures, hinting at the presence of intelligent beings. These structures stand as a unique anomaly in the [[solar system]], diverging from the [[Aeloria|Aelorian]] creations attributed to [[Merlin of The Stars|Melin]]. The fascination with exploring Miden arises from the mysterious origins of these structures, and it remains unclear whether the creators are descendants of [[Aeloria|Aelorian]] ancestors or an entirely distinct species. The fate of the builders, whether still present on Miden or alive, remains an enigma.
 
 ### Ruins and Technological Marvels
 
