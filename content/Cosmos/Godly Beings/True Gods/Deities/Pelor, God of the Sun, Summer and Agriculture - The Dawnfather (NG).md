@@ -21,6 +21,9 @@ aliases:
 tags:
   - true_god
 ---
+
+"Be the sun in their darkest night, the warmth in their coldest winter, no matter where the darkness dwells, you will follow, burning it with the might of the unyielding sun." - Inscription on "Amanecer", a sword of Tiago Xerxes, a paladin of Pelor
+
 # Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)
 
 ## Culture Names
