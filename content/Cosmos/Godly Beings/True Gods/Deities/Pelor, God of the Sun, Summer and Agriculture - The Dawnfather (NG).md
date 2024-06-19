@@ -72,6 +72,8 @@ _Bright, eight-pointed Sun_
 
 ## Religious Practices
 
+Some followers of Pelor engage in daily rituals and practices to honor the Dawnfather and seek his guidance and blessings. These practices are often tied to the sun's movements and the cycles of nature, reflecting Pelor's domains of light, summer, and agriculture. Here are some common religious practices among Pelor's worshippers:
+
 1. **Sunrise Prayer:** Followers of Pelor begin each day with a prayer at dawn, facing the rising sun. They offer thanks for the light and guidance of Pelor, asking for his blessings throughout the day. This prayer is often accompanied by the lighting of a small candle or oil lamp to symbolize the light of Pelor.
 
 2. **Solar Meditation:** At noon, when the sun is at its zenith, followers engage in a brief period of meditation, soaking in the sunlight. This practice is believed to recharge their spirits and strengthen their connection to Pelor. It's a time for silent reflection and inner peace. Some followers also extend this meditation to include long periods of sunbathing in contemplation, expressing pride in their sun-kissed skin as a sign of Pelor's favor.
@@ -96,6 +98,7 @@ _Bright, eight-pointed Sun_
 
 ## Cultural Norms
 
+Pelor's followers are known for their commitment to justice, compassion, and the light of the sun. They embody these values in their daily lives and interactions with others, striving to bring warmth, healing, and renewal to those in need. Here are some cultural norms and practices commonly observed among Pelor's worshippers:
 
 1. **Emphasis on Justice and Compassion:** Pelor's followers are known for their commitment to justice and compassion. They strive to uphold fairness and kindness in their interactions with others, reflecting Pelor's own sense of righteousness and mercy.
 
@@ -117,8 +120,9 @@ _Bright, eight-pointed Sun_
 
 10. **Traditions of Protection and Vigilance:** Followers take seriously their role as protectors against evil and darkness. They may organize community patrols, watchtowers, or ceremonial vigils to guard against threats, inspired by Pelor's command to deliver light where darkness dwells.
 
-
 ## Political Structures
+
+Pelor is often associated with themes of justice, light, and community welfare, influencing the political structures of societies that revere him. These structures may reflect Pelor's teachings and values, emphasizing fairness, compassion, and the well-being of all beings under the sun's light. Here are some political structures commonly found in Pelor-worshipping societies:
 
 1. **Theocracy:** In some societies, particularly those where Pelor is the predominant deity, the political structure may be a theocracy. Theocracy refers to a government where religious leaders hold significant influence or direct governance, often guided by interpretations of Pelor's teachings and commandments.
 
@@ -163,13 +167,63 @@ _Bright, eight-pointed Sun_
 
 ## Blessings
 
-A follower of (God) can gain favor with their deity by (doing what?). As they embody the principles of (what?), (God) may bestow the following blessings upon them:
+A follower of Pelor can gain favor with their deity by embodying the principles of justice, compassion, and light. As they uphold these values in their daily lives and actions, Pelor may bestow the following blessings upon them:
+
+1. **Radiant Smite**
+   - Once per long rest, the follower can channel Pelor's divine light into their weapon, adding 2d8 radiant damage to their next melee attack. This attack also has a chance to blind the target for 1d4 rounds (DC 15 Constitution saving throw).
+
+2. **Sunburst Shield**
+   - Once per long rest, the follower can summon a radiant shield that grants +3 AC and reflects 1d6 radiant damage to any creature that hits the follower with a melee attack. The shield lasts for 1 minute.
+
+3. **Healing Light**
+   - Once per short rest, the follower can invoke Pelor's healing light, restoring 3d10 hit points to share between themselves and an ally within 30 feet. Additionally, whenever a creature recieves healing from the follower, they gain a +1 bonus to their next attack roll or saving throw.
+
+4. **Blazing Strike**
+   - Once per long rest, the follower can call down a beam of sunlight on 1 target within 60 feet. The target must make a DC 15 Dexterity saving throw, taking 4d10 radiant damage on a failed save, or half as much damage on a successful one. The amount of targets increases by 1 for every 5 levels the follower has.
+
+1. **Sunlit Resilience**
+   - The follower gains resistance to radiant damage and advantage on saving throws against being blinded or frightened.
+
+2. **Harvest’s Bounty**
+   - The follower's presence blesses the land around them. Any foraging made within 30 feet of the follower gain a +2 bonus, and the food found is doubled in quantity.
+
+3. **Radiant Aura**
+   - The follower can emit a faint, warm light in a 10-foot radius, providing dim light at will. Allies within this aura gain a +1 bonus to saving throws against fear and charm effects.
+
+4. **Sun’s Favor**
+   - The follower gains a +3 bonus to all Intelligence, Wisdom and Charisma ability checks and saving throws while in natural sunlight. This bonus increases to +4 when dealing with matters of justice, compassion, or agriculture.
 
 ## Curses
 
-(God)'s followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with (God), they may gain access to the following curses to unleash upon their foes:
+Pelor's followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with Pelor, they may gain access to the following curses to unleash upon their foes:
 
 The follower must cast *Bestow Curse* to invoke their available curses:
+
+
+1. **Curse of Blinding Light**:
+   - The target is blinded whenever they are in the presence of the follower. In addition, the target takes 1d4 radiant damage at the start of each of their turns while in line of sight of the follower.
+
+2. **Curse of Withered Growth**:
+   - The target's ability to heal is severely hindered. They cannot regain hit points from any source of healing (magical or non-magical).
+
+3. **Curse of Eternal Vigil**:
+   - The target cannot benefit from long rests. Instead, whenever they try to rest, their mind is burned with searing light, causing 2d8 radiant damage preventing restful sleep, gaining 1 level of exhaustion every 24 hours.
+
+4. **Curse of Burning Hunger**:
+   - The target suffers from an insatiable hunger. They must consume four times the normal amount of food each day or suffer 1 level of exhaustion.
+
+5. **Curse of Fading Radiance**:
+   - The target has disadvantage on all Constitution, Intelligence, Wisdom and Charisma-based ability checks and saving throws as their inner light dims. Additionally the target receives a 1d6 penalty on those ability scores.
+
+6. **Curse of Sunburned Flesh**:
+   - The target's skin becomes hypersensitive to sunlight, causing them to take 4d8 radiant damage for each hour they are exposed to it. This damage cannot be reduced or avoided by any means.
+
+7. **Curse of Fruitless Effort**:
+   - The target's efforts to create, build, or grow anything are thwarted. Any task requiring an ability check automatically fails if the roll is 10 or lower.
+
+8. **Curse of the Waning Sun**:
+   - The target is surrounded by an aura of dim light in a 5-foot radius. The target cannot benefit from invisibility or stealth, and creatures attacking the target have advantage on attack rolls against them.
+
 
 ## Myths
 
@@ -184,12 +238,6 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ### The creation of the Leonin
 ![[The Creation (CR)#The Creation of The Leonin]]
-
-
-for the god above can you create:
-
-now can you generate a list of 8 curses the god's follower can bestow upon their enemies as they gain favor with this god in dnd terms
-now can you generate a list of elements that could be associated with them
 
 
 [^1]: [Pinterest](https://www.pinterest.com/pin/538109855474736808/)
