@@ -27,6 +27,7 @@ Happy adventuring and stay curious!
 | [[Travel Rules]]               |
 | [[Tactical Skill Checks]]      |
 | [[Hostage Situation Rules]]    |
+| [[After Death Encounter]]      |
 
 ## Homebrew Character Options
 
@@ -34,13 +35,13 @@ Happy adventuring and stay curious!
 
 ## Homebrew Spells
 
-| Spells                  | Level   |
-| ----------------------- | ------- |
-| [[Danger-sense]]        | 2       |
-| [[Merlin's Water Saw]]  | 5       |
-| [[Cleanse Stain]]       | Cantrip |
-| [[Pan's Ease]]          | Cantrip |
-| [[Housekeeper's Touch]] | Cantrip |
+| Spells                  | Level     |
+| ----------------------- | --------- |
+| [[Pan's Ease]]          | 0-Cantrip |
+| [[Housekeeper's Touch]] | 0-Cantrip |
+| [[Cleanse Stain]]       | 0-Cantrip |
+| [[Danger-sense]]        | 2         |
+| [[Merlin's Water Saw]]  | 5         |
 
 ## Homebrew Feats
 

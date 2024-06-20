@@ -21,7 +21,7 @@ No
 - The item is activated by placing hands around the bowl and concentrating on an image of an object.
 
 ## Effects:
-- If one attempts to remove the matter from the bowl, it becomes unstable and starts shifting and changing. If not returned to the bowl within 1 minute, the matter will explode, dealing 10d10 force damage to everything within a 50-foot radius and any traces of it will evaporate.
+- If one attempts to remove the matter from the bowl, it becomes unstable and starts shifting and changing. If not returned to the bowl within 1 minute, the matter will explode, dealing 18d10 force damage to everything within a 50-foot radius and any traces of it will evaporate.
 
 If matter is removed from the bowl, roll a d20 each round to determine the transformation of the matter until it is returned to the bowl or explodes.
 

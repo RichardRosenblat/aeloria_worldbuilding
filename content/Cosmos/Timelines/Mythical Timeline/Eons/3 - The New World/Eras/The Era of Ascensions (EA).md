@@ -28,9 +28,9 @@ In the aftermath of the great celestial conflict and the subsequent healing of [
 
 ### [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]]'s Ascension
 
-A great mortal sorceress, driven by an insatiable thirst for power and guided by the whispers of the wild magic, conducted a profound ritual. In a daring act, she aspired to reach godhood, aiming to reshape the domain of death itself. In this ambitious endeavor, she took the life of [[Nerull, God of Death, Fate, and Winter - The winterlord (LN)|Nerull]], the existing god of death, snuffing out his [[divine spark]] to fuel her own, and assumed the divine mantle.
+A great mortal sorceress, driven motives and means often varied by each culture that tells the tale, conducted a profound ritual. In a daring act, she aspired to reach godhood, aiming to reshape the domain of death itself. In this ambitious endeavor, she took the life of [[Nerull, God of Fate and Winter - The Winterlord (LN)|Nerull]], the existing god of death, snuffing out his [[divine spark]] to fuel her own, and assumed the divine mantle.
 
-- **[[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)]]**, the newly ascended [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]] took control of the realm of death, introducing a sense of order and balance to the transition between life and the afterlife.
+- **[[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)]]**, the newly ascended [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]] took control of the realm of death and winter, introducing a sense of order and balance to the transition between life and the afterlife.
 
 ### Vecna's Dark Ascent
 Inspired by the audacious act of the [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]], a great archlich sought to harness the chaotic magic that permeated the healing world. Employing a ritual reminiscent of the one performed by the [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]], although more refined, this archlich aimed to ascend to godhood and embrace the mantle of secrets and deceit.

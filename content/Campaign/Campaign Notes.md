@@ -32,9 +32,9 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 4. "what do you think it means to be saved"
 5. "What happened?" - "Nothing that wasn't my fault"
 6. "Something is different"
-7. "Well I dont know, but i know one thing. Governments are only excuses to subjulgate others to the will of the dominant socio-economic ethnic group, as they control the resources they choose who gets to be punished. So anyways do you want to go to the tavern?"
-8. "I dont think so, but i do think that the growing control of those that have the power over the means of production is a threat to the autonomy of the people. As value that is created by the working force is not rewarded to them. Instead only garantees enough for them to survive and work more. It's like slavery but with extra steps. So anywho, how's your day going?"
-9. "You know, that reminds me that sometimes, violence is the necessary. Sometimes the only path to redemption for the sins of ignorance is to face the fundamental truth of blood and fire. As they meet the primordial within their heartbeat, the opressors might have a chance to understand the pain they caused and atone for their sins. Also have you seen the new play at the theater?"
+7. "Well I don't know, but i know one thing. Governments are only excuses to subjugate others to the will of the dominant socio-economic ethnic group, as they control the resources they choose who gets to be punished. So anyways do you want to go to the tavern?"
+8. "I don't think so, but i do think that the growing control of those that have the power over the means of production is a threat to the autonomy of the people. As value that is created by the working force is not rewarded to them. Instead only guarantees enough for them to survive and work more. It's like slavery but with extra steps. So anyhow, how's your day going?"
+9. "You know, that reminds me that sometimes, violence is the necessary. Sometimes the only path to redemption for the sins of ignorance is to face the fundamental truth of blood and fire. As they meet the primordial within their heartbeat, the oppressors might have a chance to understand the pain they caused and atone for their sins. Also have you seen the new play at the theater?"
 10. "You think we're equals? I had to battle struggles you've never imagined. I became this while fearing the night, disguising myself as a man just to travel safely. Our similarities end when you learned to fight your enemies, while I had to fight both enemies and so-called comrades who left me with scars that will never heal. I survived because I was cursed to live as I am among those I swore to protect, only to be seen as their enemy."
 11. "The universe is and we are"
 12. "We do not have much connection, you and I. Still this encounter feels special, I hope you do not mind if I think of you as a friend" 
@@ -51,6 +51,47 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 23. As the hag's gaze pierces through the darkness, her voice resonates with an otherworldly chill. "You feel it, don't you? The knot tightening around your throat, the sharp claws of dread digging into your chest, the icy tendrils slithering down your spine? That's the sensation of being forsaken, of standing alone in the void, unnoticed by the gods. Even your soul quivers, knowing that no divine intervention will come to your aid. You're trapped in a blind spot, unseen by the greater powers." Her words hang heavy in the air, suffocating the very essence of hope. "And yet, you cling to your righteous desires, your noble quest to save your friends. But can you be certain that your gods will forgive such a pact with a creature like me? Your actions may be seen as a grievous offense, a betrayal of everything they hold dear. Will they not turn their backs on you? And this dread that gnaws at your spirit, it will not dissipate once you leave this place. It will cling to you like a curse, haunting your every step until the day you finally rest in your grave, a constant reminder of the darkness that lurks within your soul."
 24. "In this life, we traverse like a canoe upon deep waters. Our passage ripples the surface briefly, yet the depths remain undisturbed. With time, the surface quiets once more, leaving no trace of our journey."
 25. Isabelle-"Such is the reason thine footwear is rugged." Elena-"Such is the reason thine mother is deceased." Isabelle-"..." Elena-"Deceased as The Nine Hells." Isabelle-"...Gods above." Elena-"Pray tell, what manner of footwear hath she? In her grave?" Isabelle-"..." Elena-"Such is why thine greatmother lacketh knees, and she cannot petition the Lord, wench. How now? She cannot skip as the Elven." Isabelle-"Dismount my carriage!" Elena-"Such is why thy babe, hath a glass eye, and when she weepeth, thou must polish it with lye, wench."  Isabelle-"Dismount at once!" Elena-"I'll exit thine carriage. Flank!"
+26. "You are a coward wearing the facade of a revolutionary."
+27. "What is better - to be born good, or to overcome your evil nature through great effort?"
+28. "I will face god and walk backwards into hell."
+29. "The man who sleeps on the floor cannot fall out of bed."
+30. "The man who sleeps with a machete is a fool every night but one."
+31. "For every person who dreams up a butter knife, there is a person who dreams up a poisoned dagger."
+32. "Only the truly dead have seen the end of war."
+33. "Does the archer fear his bow? Or does he kiss each arrow goodbye as it marries the wind?"
+34. "These feelings can eat away at you, chip away the parts of you that you once held dear and defined you. You remember a time where you felt more complete, had stronger relationships and felt more loved."
+35. "To be tall is not a virtue, to be short is not a sin."
+36. "Power comes in a response to a need, not desire. You have to create that need."
+37. "You can't kill me in a way that matters."
+38. "Do what you must, I have already won."
+39. "Stand in the ashes of a trillion dead souls and ask the ghosts if honor matters. The silence is your answer."
+40. "Darkness without light is an abyss. Light without darkness is blinding. You cannot have a coin with only one side."
+41. "When they burned Ioun's Archive, the crowd revelled in horrible disbelief. They understood that there was something older than wisdom, and it was fire, and something truer than words, and it was ashes, and something more eternal than knowledge, and it was death."
+42. "I can no longer be a liberator for people who refuse to see their chains."
+43. "You could sooner divert a river from its corse than deny my nature."
+44. "Violence for violence is the rule of beasts."
+45. "The only universal langue is blood and flames, we all have spoken this language and felt the fear of words older than our desires."
+46. "The fire of extravagance can never burn simplicity."
+47. "A mind unprepared for freedom will shatter like glass when shown cosmos without restriction."
+48. "I have been cursed by my hubris, and my work will never be finished."
+49. "I would rather die standing than live kneeling."
+50. "For even the most banal of deaths can be made tragic by a broken heart."
+51. "To love someone is to torn around. To love someone is to look at them."
+52. "There's no cheerful someonvedy waiting for you at that alter. There is no meaning your alphabet soup. There is a right to obey."
+53. "The foulest insults you hurl with intent to wound will calmly settle at the earth beneath my feet, and the venom you spit will bring all the pain of a warm summer breeze. You are less than you can concieve, while I carry on, brmmming with joy distilled from detatchment."
+54. "They jukked the best of us, so they are stuck with the worst of us."
+55. "There is no truer hatred than the way men love."
+56. "Would you spit in the face of the god's designs by referring to a mountain as a hill?"
+57. "If i lay one brick down at a time who are you to tell me I'm not building a house?"
+58. "True love graec you with its presence and you turned its intimacy into a joke to be shared with the world."
+59. "To enter is to be forgiven of the greatest sin, to leave is to repeat it. Would you dwell in this garden, or would you forsake it, for man deserveth not his paradise lost?"
+60. "She was wild, crazy, ravenous and beautiful. But we simple mortal men who have lived know better than to chase things that are not meant to be caught nor tamed."
+61. "I live outside of the gods' sight and by consequence outside of their love."
+62. "This is war. War does not determine who is right, only who is left."
+63. "I'm a man dying of thirst watching another man drown."
+64. "You are naught but a nail dreaming itself a hammer."
+65. "Each inch of our lands are littered with the ruins of empires that dared to dream of eternity and deemed themselves endless. "
+66. "You walk upon bones of those who thought they could tame the wild, and yet dare to repeat their sins?"
 
 ## Names For Outsiders
 Ya'qub Qamar Ad-din Dibiazah The greatest Sultan in his time
@@ -71,6 +112,27 @@ Muhammad Sumbul The bravest soldier of all time
 - [[Merlin of The Stars|Melin]] creates at least these 2 spells,
 	- [[Merlin of The Stars|Melin]]’s Divine Audience (talk to [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]), causes stars to change colors
 	- [[Merlin of The Stars|Melin]]'s Transcendent Transformation (fuses with the [[Setting Info|Principles]]), becomes the Witch song image
+- Archwizard battle: They summon portable holes with 4 simulacrum, by crushing a sapphire,triggering Drawmij's Instant Summons, their simulacrum then cast wish
+  - The wishes are:
+    - **Simulacrum #1 of Wizard A**: "I wish that Wizard B's and their simulacrums wishes to be nullified and rendered ineffective for the next hour."
+    - **Simulacrum #1 Wizard B**: "I wish that Wizard B and their simulacrums wishes to be nullified and rendered ineffective for the next hour."
+    - **Simulacrum #2 of Wizard A**: "I wish that all harmful magical effects and conditions affecting Wizard A and their allies are immediately redirected in a manner that renders them immune to all harmful magic for the next hour by redirecting the harmful effects to Wizard B and their simulacrums as if they were the intended targets and had vulnerabilities to all forms of magic."
+    - **Simulacrum #2 Wizard B**: "I wish that all harmful magical effects and conditions affecting Wizard B and their allies are immediately redirected in a manner that renders them immune to all harmful magic for the next hour by redirecting the harmful effects to Wizard B and their simulacrums as if they were the intended targets and had vulnerabilities to all forms of magic."
+    - **Simulacrum #3 of Wizard A**: "I wish that Wizard B and their simulacrums' spellcasting abilities to have the exact opposite effect for the next hour."
+    - **Simulacrum #3 Wizard B**: "I wish that Wizard A and their simulacrums' spellcasting abilities to have the exact opposite effect for the next hour."
+    - **Simulacrum #4 of Wizard A**: "I wish that Wizard A and their allies receive full knowledge of all magical spells and abilities possessed by Wizard B and their simulacrums."
+    - **Simulacrum #4 Wizard B**: "I wish that all knowledge about Wizard B and their abilities are completely shielded from any form of magical detection or scrying for the next hour."
+  - In latin they are
+    - **Simulacrum #1 of Wizard A**: "Volo ut vota Magi B et simulacrorum eius nullo modo sint et efficiantur inefficacia per horam."
+    - **Simulacrum #1 of Wizard B**: "Volo ut vota Magi A et simulacrorum eius nullo modo sint et efficiantur inefficacia per horam."
+    - **Simulacrum #2 of Wizard A**: "Volo ut omnes noxiae magicae effectus et condiciones Magi A et sociorum eius statim redirigantur modo tali, ut eos immunes ad omnes noxias magias reddant per horam, redirigendo noxios effectus ad Magum B et simulacra eius tamquam illi essent praedefiniti et haberent vulnerabilitates ad omnes formas magiae."
+    - **Simulacrum #2 of Wizard B**: "Volo ut omnes noxiae magicae effectus et condiciones Magi B et sociorum eius statim redirigantur modo tali, ut eos immunes ad omnes noxias magias reddant per horam, redirigendo noxios effectus ad Magum A et simulacra eius tamquam illi essent praedefiniti et haberent vulnerabilitates ad omnes formas magiae."
+    - **Simulacrum #3 of Wizard A**: "Volo ut facultates Magi B et simulacrorum eius ad incantandum habeant exactum contrarium effectum per horam."
+    - **Simulacrum #3 of Wizard B**: "Volo ut facultates Magi A et simulacrorum eius ad incantandum habeant exactum contrarium effectum per horam."
+    - **Simulacrum #4 of Wizard A**: "Volo ut Magus A et socii eius plenam cognitionem omnium magicarum incantationum et facultatum quas Magus B et simulacra eius possident accipiant."
+    - **Simulacrum #4 of Wizard B**: "Volo ut omnis cognitio de Mago B et facultatibus eius omnino tegatur ab omni forma magicae detectionis vel scrutationis per horam."
+
+ 
 ## Quest ideas
 - Quest of clearing a goblin cave (with the scroll)
 - Quest with studying a stasis bubble

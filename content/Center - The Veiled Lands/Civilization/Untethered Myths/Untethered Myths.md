@@ -76,3 +76,4 @@ These are some of the untethered myths of [[Aeloria]]:
 | [[The Cursed Blood of The Tieflings]]                   |
 | [[The Remaking of the Night Sky By Melora And Avandra]] |
 | [[The Reason For the Seasons]]                          |
+| [[The Raven Queen's Duty to the Departed]]              |

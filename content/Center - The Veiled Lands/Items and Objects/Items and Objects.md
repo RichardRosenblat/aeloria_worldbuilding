@@ -41,6 +41,7 @@ Just plain items that are interesting and can be useful without breaking campaig
 | [[Potion Of Flos]]           |
 | [[Remembrance Mirror]]       |
 | [[Orb of Throwing]]          |
+| [[Heightened Portable Hole]] |
 
 # Funny
 Goof items for gags and laughs

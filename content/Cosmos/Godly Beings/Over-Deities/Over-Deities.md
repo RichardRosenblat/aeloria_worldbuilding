@@ -19,6 +19,8 @@ tags:
 ---
 # Over-Deities in [[Aeloria]]
 
+"Darkness without light is an abyss. Light without darkness is blinding. You cannot have a coin with only one side." - High priestess Alynn, when asked about Aena and Kryela.
+
 ## Introduction to Over-Deities
 
 In the expansive realm of [[Aeloria]], over-deities stand as cosmic entities that transcend the hierarchy of [[True Gods]], possessing power beyond mortal and divine comprehension. These beings, also known as over-powers, exist outside the conventional cosmology and are venerated by other deities, demonstrating an unparalleled influence on the very fabric of existence.

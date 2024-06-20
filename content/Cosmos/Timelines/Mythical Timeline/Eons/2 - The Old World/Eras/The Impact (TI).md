@@ -49,7 +49,7 @@ The [[True Gods]], chastened by the presence of [[Aena, goddess of kindness, cre
 10. [[Melora, Goddess of the Wild and Sea - The Wildmother (N)]]
 11. [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)]]
 12. [[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)]]
-13. [[Nerull, God of Death, Fate, and Winter - The winterlord (LN)]]
+13. [[Nerull, God of Fate and Winter - The Winterlord (LN)]]
 14. [[Sehanine, Goddess of the Moon - The Moonweaver (CG)]]
 15. [[Gruumsh, God of Destruction - The Ruiner (CE)]]
 16. [[Tharizdun, God of Madness - The Chained Oblivion (CE)]]

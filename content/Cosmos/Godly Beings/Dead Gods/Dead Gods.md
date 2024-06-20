@@ -35,10 +35,10 @@ Yet, even in death, the cycle of divine existence holds a glimmer of hope. Power
 
 Here is a list of gods that met their end one way or another.
 
-| Gods                                                             |
-| ---------------------------------------------------------------- |
-| [[Ethedok]]                                                      |
-| [[Vordo]]                                                        |
-| [[He Who Was]]                                                   |
-| [[Nerull, God of Death, Fate, and Winter - The winterlord (LN)]] |
+| Gods                                                      |
+| --------------------------------------------------------- |
+| [[Ethedok]]                                               |
+| [[Vordo]]                                                 |
+| [[He Who Was]]                                            |
+| [[Nerull, God of Fate and Winter - The Winterlord (LN)]] |
 

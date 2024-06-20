@@ -54,7 +54,7 @@ To aid them in their divine task, they birthed a pantheon of [[True Gods]]:
 - **[[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]]**
 - **[[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)|Moradin]]**
 - **[[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)|Pelor]]**
-- **[[Nerull, God of Death, Fate, and Winter - The winterlord (LN)|Nerull]]**
+- **[[Nerull, God of Fate and Winter - The Winterlord (LN)|Nerull]]**
 - **Sehanine**
 - **[[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]**
 - **Tharizdun**
