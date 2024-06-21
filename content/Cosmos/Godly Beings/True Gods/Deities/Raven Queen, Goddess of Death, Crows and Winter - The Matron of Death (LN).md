@@ -57,14 +57,17 @@ Lawful Neutral
 ## Symbols
 
 ![[raven queen symbol.png|300]][^1]
+
 _White, humanoid mask framed in black feathers_
 
 ![[raven queen symbol 2.png|300]][^2]
+
 _Raven's head, in profile, facing left_
 
 ## Avatars
 ### Alonian (Tallman) Generic
 > She is described as a tall and slender woman, with flowing black hair and pale, porcelain skin. She almost always wears a blank, porcelain mask
+
 ![[Raven Queen Appearance.png|400]][^3]
 
 ## Cleric Domains
