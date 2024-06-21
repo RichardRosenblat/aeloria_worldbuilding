@@ -39,7 +39,6 @@ aliases:
 | Mularir (Tallman) Greek    | Pantropos    | The Eternal Craftsman  | He/Him    | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
 | Yotunn (Giant) Giant     | Verkandr     | The Stoneforge Creator | He/Him    | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
-
 ## Extra Titles
 
 The Father of the Forge: Moradin, God of Creation
@@ -54,6 +53,7 @@ The Guardian of Tradition: Moradin, God of Ancestry
 - _Legacy is paramount. To create something that lasts is to change the world for the better._
 
 ## Alignment
+
 Lawful Good
 
 ## Symbols
@@ -155,6 +155,7 @@ Cultures that worship Moradin often have unique political structures that reflec
 
 
 ## Elemental Affinities
+
 | Elements      |
 | ------------- |
 | Earth         |

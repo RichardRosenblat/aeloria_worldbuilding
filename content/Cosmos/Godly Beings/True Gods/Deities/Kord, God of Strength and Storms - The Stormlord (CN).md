@@ -44,6 +44,7 @@ In the tempest of life, be the eye of the storm, unyielding, calm and resolute i
 
 
 ## Extra Titles
+
 The Stormbringer: Kord, God of Thunder 
 The Champion of Strength: Kord, God of Might 
 The Lord of Elements: Kord, God of Storms 
@@ -56,6 +57,7 @@ The Deity of Warriors: Kord, God of Battle
 - *The glory of the Stormlord lives through your own glory on the battlefield.*
 
 ## Alignment
+
 Chaotic Neutral
 
 ## Symbols
@@ -69,6 +71,7 @@ Chaotic Neutral
 *Sword with a lightning bolt cross guard*
 
 ## Avatars
+
 ### Alonian (Tallman) Generic
 > Kord is represented as a tallman-like man, barrel-chested and with massive muscles. He wears iron bracers around his wrists. His beard is thick and sometimes it goes down to the middle of his chest. In one hand he carries a long, thick shortsword or a lightning bolt. His legs and midsection are clothed in furs and leathers
 
@@ -77,6 +80,7 @@ Chaotic Neutral
 ![[Kord appearance 2.png|400]][^1]
 
 ## Cleric Domains
+
 | Domains |
 | ------- |
 | Tempest |
@@ -202,7 +206,6 @@ A follower of Kord, the Stormlord, can gain favor with their deity by demonstrat
 8. **Storm's Vigor:**
    - The follower gains the ability to cast *Thunderwave* at will, as a 1st-level spell. This reflects Kord’s gift of elemental power, enabling the follower to unleash a thunderous force to repel enemies and assert dominance on the battlefield. Your spellcasting ability for this spell is Wisdom or Strength.
 
-
 ## Curses
 
 Kord's followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with Kord, they may gain access to the following curses to unleash upon their foes:
@@ -233,12 +236,14 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 8. **Divine Rejection:**
    - The target is cursed to fail their next saving throw automatically and take 3d6 psychic damage. Any damage that causes more than 15 damage to them causes them to fall unconsious. This curse reflects Kord’s divine judgment, punishing the enemy for their transgressions against the Stormlord.
 
-
 ## Myths
+
 ### Creating [[Celestra]]
+
 ![[Celestra#Celestra Creation]]
 
 ### Creating [[Tormentia]]
+
 ![[Tormentia#Tormentia's Creation]]
 
 ### Creating the Giants

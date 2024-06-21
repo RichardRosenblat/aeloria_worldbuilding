@@ -53,6 +53,7 @@ The Annihilator: Bane, God of Total Victory
 - *To kill is life’s greatest pleasure, and perfecting the art of slaughter is life’s greatest pursuit.*
 
 ## Alignment
+
 Lawful Evil
 
 ## Symbols
@@ -67,12 +68,14 @@ Lawful Evil
 *Claw with three talons pointing down*
 
 ## Avatars
+
 ### Alonian (Tallman) Generic
 > A dark reflection of the honorable warrior, the Strife Emperor is often depicted as a brutish man clad in jagged black armor. Heads dangle from his belt and unblinking, piercing yellow eyes peer through the shadow that obscures his helmeted face. His followers usually depict him as belonging to their own species, out of a sense of superiority.
 
 ![[Bane Appearance.png|400]][^1]
 
 ## Cleric Domains
+
 | Domains |
 | ------- |
 | Forge   |
@@ -82,11 +85,6 @@ Lawful Evil
 ## Religious Practices
 
 Followers of Bane, the Strife Emperor, engage in elaborate religious practices and rituals to honor their deity. Here are some of the key religious practices performed by Bane's devoted followers:
-
-  
-Real: Sure, let's delve into the religious practices and rituals of the followers of Bane, the Strife Emperor in your campaign:
-
-**Religious Practices and Rituals of the Cult of Bane:**
 
 1. **Blood Offering Ceremonies:**
     - Followers regularly engage in rituals where they offer the blood of defeated enemies to Bane. The act symbolizes the triumph of chaos and conquest over order.

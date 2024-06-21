@@ -41,17 +41,20 @@ tags:
 
 
 ## Extra Titles
+
 The Radiant: Pelor, God of the Sun 
 The King of Harvest: Pelor, God of Agriculture 
 The Dawn Lord: Pelor, God of Renewal 
 The Guardian of Dawn: Pelor, God of Light
 
 ## Commandments
+
 - _Be ever vigilant for evil. People are quick to forget the lessons of the past._
 - _Help relieve the suffering of the innocent._
 - _Deliver the light of the Dawnfather where darkness dwells, and do so with kindness, compassion, and mercy._
 
 ## Alignment
+
 Neutral Good
 
 ## Symbols
@@ -66,12 +69,14 @@ _Bright, eight-pointed Sun_
 
 
 ## Avatars
+
 ### Alonian (Tallman) Generic
 > Pelor wears a white cloak over an intricate golden plate armor. Where a head would be, instead, there is a burning star. In between the plates of his armor, is possible to see a material similar to the night sky.
 
 ![[Pelor Apperance.png|400]][^2]
 
 ## Cleric Domains
+
 | Domains |
 | ------- |
 | Healing   |
@@ -207,7 +212,6 @@ Pelor's followers can invoke their deity's wrath upon their enemies by cursing t
 
 The follower must cast *Bestow Curse* to invoke their available curses:
 
-
 1. **Curse of Blinding Light**:
    - The target is blinded whenever they are in the presence of the follower. In addition, the target takes 1d4 radiant damage at the start of each of their turns while in line of sight of the follower.
 
@@ -232,19 +236,22 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 8. **Curse of the Waning Sun**:
    - The target is surrounded by an aura of dim light in a 5-foot radius. The target cannot benefit from invisibility or stealth, and creatures attacking the target have advantage on attack rolls against them.
 
-
 ## Myths
 
 ### The Reason for Summer
+
 ![[The Reason For the Seasons#Summer ( Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG) Pelor 's Ritual)]]
 
-### Helping [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)|Moradin]]'s forge
+### Helping [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)|Moradin]]'s Before the Creation of his Forge
+
 ![[Pyrosphere#Creation]]
 
 ### Creation of [[Solis]]
+
 ![[Solis#Creation]]
 
 ### The creation of the Leonin
+
 ![[The Creation (CR)#The Creation of The Leonin]]
 
 

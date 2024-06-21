@@ -40,17 +40,20 @@ aliases:
 | Yotunn (Giant) Giant     | Yrgorim       | The All-Knowing      | She/Her  | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 ## Extra Titles
+
 The Divine Librarian: Ioun, Goddess of Learning
 The Keeper of Truth: Ioun, Goddess of Knowledge
 The Eternal Oracle: Ioun, Goddess of Prophecy
 The Scholar Muse: Ioun, Goddess of Wisdom
 
 ## Commandments
+
 - _Unmask those who would destroy The Enlightened. Learn their secrets and unveil them to the world._
 - _Uphold and teach the importance of reason, perception, and truth in guiding one’s emotions and path._
 - _Condemn those who lie without moral cause, for The Whispered one gains power when their followers obscure the truth. Never stoop to the level of selfish liars._
 
 ## Alignment
+
 Neutral
 
 ## Symbols
@@ -64,6 +67,7 @@ Pair of open eyes crowned with a third open eye
 Crook shaped like a stylized eye
 
 ## Avatars
+
 ### Alonian (Tallman) Generic
 > Ioun appears as a young woman with long, light-colored hair and sleek green eyes with slit pupils. Above her head floats a third eye, featuring a yellow sclera and a green iris, encircled by a red ring. She wears a white cloak and robes that tumble out from her form in tendrils of parchment
  
@@ -72,6 +76,7 @@ Crook shaped like a stylized eye
 ![[Ioun appearance 2.png|400]][^4]
 
 ## Cleric Domains
+
 | Domains |
 | ------- |
 | Arcana   |
@@ -79,6 +84,8 @@ Crook shaped like a stylized eye
 | Twilight     |
 
 ## Religious Practices
+
+Many followers of Ioun are scholars, sages, and seekers of knowledge who dedicate their lives to the pursuit of wisdom and enlightenment. They engage in a variety of practices and rituals to deepen their understanding of the world and to honor the goddess of knowledge. Some of the key religious practices associated with the worship of Ioun include:
 
 1. **Daily Devotionals**: Followers of Ioun typically begin their day with a period of quiet reflection and meditation, focusing on seeking knowledge and wisdom for the day ahead. This may involve reading from sacred texts, contemplating on philosophical questions, or simply quiet introspection.
 2. **Library Visitation**: One of the central practices for devotees of Ioun is regular visits to libraries, archives, or places of learning. These visits are seen as acts of reverence towards the pursuit of knowledge and understanding. During these visits, followers may engage in study, research, or discussions with fellow seekers of knowledge.
@@ -91,6 +98,8 @@ Crook shaped like a stylized eye
 
 ## Cultural Norms
 
+Cultures that revere Ioun as a deity of knowledge and wisdom often exhibit certain cultural norms and values that reflect the teachings of the goddess. These norms shape the behavior, beliefs, and practices of individuals within these societies, fostering a deep appreciation for learning, truth, and intellectual pursuits. Some of the key cultural norms associated with the worship of Ioun include:
+
 1. **Emphasis on Education**: Societies that revere Ioun place a high value on education and intellectual pursuits. Learning is considered a lifelong journey, and both formal and informal education are encouraged from a young age. Libraries, schools, and centers of learning are often well-funded and revered as sacred spaces.
 2. **Respect for Scholars and Sages**: Scholars, sages, and those who dedicate themselves to the pursuit of knowledge are highly respected and honored in societies influenced by Ioun's teachings. Their wisdom and expertise are sought after in matters of governance, decision-making, and problem-solving.
 3. **Commitment to Truth and Integrity**: Honesty, integrity, and a commitment to seeking truth are fundamental values in cultures that worship Ioun. Deception, manipulation, and falsehoods are frowned upon, as they go against the principles of knowledge and wisdom espoused by the goddess.
@@ -101,6 +110,8 @@ Crook shaped like a stylized eye
 9. **Dissemination of Knowledge**: Cultures that worship Ioun are dedicated to the dissemination of knowledge in all possible ways. Festivals celebrating the sharing of knowledge, forums for debates and discussions, and public classes are common occurrences in such societies. These events provide opportunities for individuals to exchange ideas, learn from one another, and contribute to the collective pool of knowledge. Whether through storytelling, lectures, or interactive workshops, the sharing of knowledge is seen as a sacred duty and a means of fostering enlightenment and understanding among all members of society.
 
 ## Political Structures
+
+Societies that revere Ioun as a deity of knowledge and wisdom often incorporate her teachings and principles into their political structures and governance systems. These societies prioritize reason, intellect, and the pursuit of truth in their decision-making processes, seeking to create a society that values knowledge, wisdom, and enlightenment. Some of the key political structures associated with the worship of Ioun include:
 
 1. **Conclave of Minds**: The Conclave of Minds is a unique form of governance where decisions are made through collaborative voting sessions facilitated by magic. Through the use of arcane rituals, the thoughts and desires of the populace are temporarily united into a single hivemind as way to honor the immense knowledge of Ioun, allowing for collective decision-making on matters of governance. During these sessions, citizens are connected telepathically, enabling them to think as one being that carries all their memories and thoughts. The hivemind deliberates on proposals, weighing the input of every individual before reaching a consensus decision. This decentralized approach to governance ensures that the wisdom and knowledge of the entire community are taken into account, fostering unity and cooperation among its members.
 2. **Council of Scholars**: A Council of Scholars serves as the governing body in societies influenced by Ioun's teachings. Comprised of esteemed scholars, sages, and experts in various fields of knowledge, this council deliberates on matters of governance, policy-making, and societal advancement. Decisions are made based on careful analysis, reasoned debate, and consideration of the long-term implications for the welfare of the populace.
@@ -133,7 +144,6 @@ Crook shaped like a stylized eye
 
 A follower of Ioun can gain favor with their deity by seeking knowledge, advancing their understanding, and sharing wisdom with others. As they embody the principles of reason, perception, and truth, Ioun may bestow the following blessings upon them:
 
-
 1. **Divine Insight**: 
    - Once per day, the follower can invoke Ioun's guidance to gain advantage on an ability check, saving throw, or attack roll, reflecting the goddess's gift of foresight and wisdom.
 2. **Augury**: 
@@ -158,7 +168,6 @@ Ioun's followers can invoke their deity's wrath upon their enemies by cursing th
 
 The follower must cast *Bestow Curse* to invoke their available curses:
 
-
 1. **Cursed Ignorance**: 
    - The target's mind becomes clouded, causing disadvantage on Wisdom and Intelligence-based ability checks and saving throws.
 2. **Fog of Confusion**: 
@@ -180,6 +189,7 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ## Myths
 
 ### [[Ioun's Archive]]
+
 ![[Ioun's Archive#Creation of the Library]]
 
 ### The Creation of the Kenku

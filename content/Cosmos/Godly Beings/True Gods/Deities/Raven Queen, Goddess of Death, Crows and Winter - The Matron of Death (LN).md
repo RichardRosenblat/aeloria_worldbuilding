@@ -40,6 +40,7 @@ aliases:
 | Yotunn (Giant) Giant     | Hela          | The Gatekeeper of the Afterlife | She/Her      | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 ## Extra Titles
+
 The Winter Queen: Raven Queen, Goddess of Winter
 The Guardian of the Veil: Raven Queen, Goddess of the Afterlife
 The Matron of Crows: Raven Queen, Goddess of Birds
@@ -52,6 +53,7 @@ The Lady of Grief: Raven Queen, Goddess of Sorrow
 - *Undeath is an atrocity. Death is too good a punishment for those who pervert the rightful transition of the soul.*
 
 ## Alignment
+
 Lawful Neutral
 
 ## Symbols
@@ -126,7 +128,6 @@ The followers of the Raven Queen adhere to a set of cultural norms and tradition
 
 12. **Art and Literature Reflecting Mortality:** Artistic expressions often explore themes of life, death, and the afterlife. Poetry, music, and visual arts frequently depict the journey of the soul and the balance between life and death.
 
-
 ## Political Structures
 
 The societies that worship the Raven Queen often have unique political structures that reflect their beliefs in death, winter, and the afterlife. These structures are designed to ensure the proper transition of souls, maintain the natural order of life and death, and uphold the goddess's commandments.
@@ -146,7 +147,6 @@ The societies that worship the Raven Queen often have unique political structure
 7.  **Hierophants of Winter - Seasonal Leaders:** During the harsh winter months, specially appointed leaders known as Hierophants of Winter take charge. These individuals are chosen for their spiritual strength and knowledge of winter survival, guiding the community through the most challenging season with rituals and practical leadership.
 
 9.  **Pilgrimage Officials - Organizers of Sacred Journeys:** A group of officials is responsible for organizing and overseeing pilgrimages to sacred sites, particularly graveyards and places of historical significance. These officials ensure that such journeys are conducted with the utmost respect and in accordance with religious traditions.
-
 
 ## Elemental Affinities
 
@@ -192,7 +192,6 @@ A follower of the Raven Queen can gain favor with their deity by performing fune
 
 8. **Winter’s Embrace:** The follower can cast *Finger of Death* or *Otiluke's Freezing Sphere* once per long rest without expending a spell slot. These spell is cast at a level equal to the highest level spell slot they can cast. This blessing embodies the chilling power of winter bestowed by the Raven Queen.
 
-
 ## Curses
 
 Raven Queen's followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with Raven Queen, they may gain access to the following curses to unleash upon their foes:
@@ -215,7 +214,6 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 8. **Curse of the Grave:** The target is unable to regain hit points from any source for the duration of the curse. Any time they try to regain by magical means, they take the same amount as necrotic damage. This curse prevents them from finding solace or healing, ensuring their suffering continues.
 
-
 ## Myths
 
 ### The Reason For Winter
@@ -233,6 +231,7 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ![[The Reform (RF)#Divine Reflection]]
 
 ### [[The Raven Queen's Duty to the Departed]]
+
 ![[After Death Encounter]]
 ![[The Raven Queen's Duty to the Departed#The Myth]]
 

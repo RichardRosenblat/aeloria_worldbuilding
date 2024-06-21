@@ -39,7 +39,6 @@ aliases:
 | Mularir (Tallman) Greek    | Aporia      | The Lord of Ruin              | He/Her/They | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
 | Yotunn (Giant) Giant     | Ragndyr     | The Maelstrom Of Fury         | He/Him      | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
-
 ## Extra Titles
 
 The Unstoppable Force: Gruumsh, God of Chaos
@@ -54,6 +53,7 @@ The Frenzied Beast: Gruumsh, God of Savagery
 - _There are no emotions but fury and joy. The rest are weakness._
 
 ## Alignment
+
 Chaotic Evil
 
 ## Symbols
@@ -67,12 +67,14 @@ Triangular eye with bony protrusions
 Single, unblinking eye that bleeds
 
 ## Avatars
+
 ### Alonian (Tallman) Generic
 > They depict him as a hulking behemoth of an orc with his missing eye, lacking a pair since [[The Great War (GW)|the Great War]], has shifted and now central to the face, bearing close resemblance to a cyclops
 
 ![[Gruumsh appearance.png|500]][^1]
 
 ## Cleric Domains
+
 | Domains |
 | ------- |
 | Death   |
@@ -80,6 +82,8 @@ Single, unblinking eye that bleeds
 | War     |
 
 ## Religious Practices
+
+Gruumsh, the One-Eyed God, is revered by his followers as the embodiment of destruction, chaos, and savagery. His worshipers seek to emulate his ferocity and power, embracing conflict and conquest as sacred rites. The religious practices associated with Gruumsh are characterized by bloodshed, ritual combat, and displays of strength, reflecting the god's domains of war and destruction. Devotees of Gruumsh engage in a variety of rituals and ceremonies to honor their deity and seek his favor in battle. These practices serve to reinforce the values of strength, aggression, and dominance that are central to the faith of Gruumsh.
 
 1. **Blood Offering:** Followers of Gruumsh often perform blood sacrifices as offerings to appease their god. These sacrifices can range from animals to enemies captured in battle. The blood is spilled upon altars ornamented with the one eye dedicated to Gruumsh, symbolizing the destruction and chaos he represents.
 2. **Warrior Ceremonies:** Ritualistic combat and displays of strength are common among the faithful of Gruumsh. Warriors may engage in duels to prove their worthiness or participate in larger battles dedicated to their god. These ceremonies serve to honor Gruumsh through acts of violence and conquest.
@@ -92,6 +96,8 @@ Single, unblinking eye that bleeds
 
 ## Cultural Norms
 
+Those that worship Gruumsh are often characterized by their fierce and aggressive nature, rarely creating civilizations that last long. They are often nomadic or warlike, constantly seeking to expand their territory and prove their strength through conquest. The following cultural norms are commonly associated with societies that revere Gruumsh:
+
 1. **Strength and Might:** The societies that worship Gruumsh often value physical strength and martial prowess above all else. Warriors are highly esteemed, and acts of bravery and conquest are celebrated. Weakness is viewed with disdain, and individuals are expected to constantly strive to prove their worth through feats of strength and dominance.
 2. **Hierarchy of Power:** Within these societies, there is typically a strong hierarchical structure based on strength and dominance. Those who demonstrate exceptional prowess in battle or leadership often rise to positions of authority and respect. Leadership is often centralized around a strong ruler or warlord who embodies the ideals of Gruumsh.
 3. **Conflict and Conquest:** Warfare and conflict are integral parts of the culture, seen as opportunities to honor Gruumsh through acts of battle and conquest. Battles are fought not only for territorial expansion but also as religious rites to appease their god and demonstrate their devotion.
@@ -102,6 +108,8 @@ Single, unblinking eye that bleeds
 8. **Death in Fervor:** Followers of Gruumsh view death with fervor, interpreting it as a sign of strength and divine favor. It is seen either as the purging of weak blood from their ranks, strengthening the group, or as the ultimate achievement where the fallen warrior reaches their peak and ascends to join Gruumsh in battle eternal. Fallen comrades are honored not only for their individual valor but also for the contribution their death makes to the strength and unity of the group. Rituals surrounding their passing emphasize this belief, celebrating their transition to a higher plane of existence where they continue to serve their god in eternal conflict.
 
 ## Political Structures
+
+The few societies that worship Gruumsh are often characterized by their militaristic and aggressive nature, with political structures that reflect their devotion to the god of destruction and chaos. These societies are typically organized around principles of strength, dominance, and conquest, with leaders chosen based on their ability to lead in battle and secure victories for their people. The following political structures are commonly associated with cultures that revere Gruumsh:
 
 1. **Warlordism:** Many societies devoted to Gruumsh are structured around a system of warlordism, where power is concentrated in the hands of a dominant leader or warlord who has proven their martial prowess and ability to lead in battle. The warlord holds absolute authority and commands the loyalty of their followers through strength and fear.
 2. **Militaristic Hierarchies:** Political structures often mirror military hierarchies, with positions of power and authority determined by an individual's rank and combat prowess. Leaders are typically chosen based on their ability to lead troops into battle and secure victories for their people, with the strongest and most skilled warriors rising to positions of leadership.
@@ -130,7 +138,9 @@ Single, unblinking eye that bleeds
 | Chaos      |
 
 ## Home Plane
+
 [[The Abyss|The Infinite Layers of the Abyss]]
+
 ## Champions
 
 | Previous Champions |
@@ -205,9 +215,11 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ## Myths
 
 ### Creation of Orcs
+
 ![[The Creation (CR)#The Creation of Orcs]]
 
 ### The wound of Guumsh
+
 ![[The Great War (GW)#The Wound of Gruumsh, God of Destruction - The Ruiner (CE) Gruumsh]]
 
 [^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Gruumsh)

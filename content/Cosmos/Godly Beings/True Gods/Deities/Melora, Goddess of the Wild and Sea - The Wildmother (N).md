@@ -52,14 +52,15 @@ Guiding us through the stream." - Poem written in prayer to the Wildmother
 | Mularir (Tallman) Greek    | Physis        | The Enchantress of the Coast | She/Her     | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
 | Yotunn (Giant) Giant     | Jordrota      | The Beast in the Woods       | Him/They/It | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
-
 ## Extra Titles
+
 The Lady of Nature: Melora, Goddess of Nature
 The Protector of the Sea: Melora, Goddess of the Oceans
 The Wild Beauty: Melora, Goddess of the Hunt
 The Spirit of the Elements: Melora, Goddess of the Elements
 
 ## Commandments
+
 - _Protect the untamed wilderness from exploitation and destruction._
 - _Slay abominations and other mockeries of nature._
 - _Embrace and respect that which you cannot control in this world. Exist in harmony with it_
@@ -82,6 +83,7 @@ _Wavelike swirl_
 ![[melora appearance.png|400]][^1]
 
 ## Cleric Domains
+
 | Domains |
 | ------- |
 | Life   |
@@ -177,6 +179,7 @@ Culture that worship Melora rarely have centralized political structures, instea
 13. **Inter-Tribal Councils**: For larger regions, inter-tribal councils are formed to address issues that affect multiple communities, such as regional environmental policies, inter-tribal trade, and collective security.
 
 ## Elemental Affinities
+
 |    Elements   |
 | ------------- |
 | Water         |
@@ -222,7 +225,6 @@ A follower of Melora can gain favor with the Wildmother by protecting the untame
 
 8. **Blessing of the Elemental Conduit**: The follower gains resistance to fire, cold, lightning, radiant, acid and poison damage. Once during a long rest, the follower choose to become immune to one of these damage types for 1 minute and any damage they deal with a weapon attack or spell has 1d6 additional damage of the chosen type. This damage increases to 2d6 at 5th level, 3d6 at 11th level, and 4d6 at 17th level.
 
-
 ## Curses
 
 Melora's followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with Melora, they may gain access to the following curses to unleash upon their foes:
@@ -242,7 +244,6 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 6. **Curse of Decay**: The target must succeed on a Constitution saving throw or be afflicted with rapid decay. The target takes 2d6 necrotic damage, and non-magical food and drink within 10 feet of the target spoil instantly. For the duration of the curse, the target has disadvantage on all saving throws, attack rolls, and ability checks. When they take more than 15 damage from a single source, they must succeed on a Constitution saving throw or loose a body part and have their constitution score reduced by 1d4.
 
 8. **Curse of the Wildfire**: Any natural surface that the target touches ignites in flames, dealing 1d6 fire damage to the target at the start of their turn until they leave the surface and use an action to put out the fire. Non-magical flames within 10 feet of the target bend towards them. Adittionally, any natural surface becomes difficult terrain for the target, and they become unnable to go through bushes, trees, or other natural obstacles.
-
 
 ## Myths
 

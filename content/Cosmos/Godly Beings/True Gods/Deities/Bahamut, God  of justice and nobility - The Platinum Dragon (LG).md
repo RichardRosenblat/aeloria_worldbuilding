@@ -39,7 +39,6 @@ aliases:
 | Mularir (Tallman) Greek    | Ananke      | The First Amazon      | She/Her  | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
 | Yotunn (Giant) Giant     | Harok       | The Noble Guardian    | He/Him   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
-
 ## Extra Titles
 
 The Dragon King of Justice: Bahamut, God of Righteousness 
@@ -53,7 +52,8 @@ The Winged Executor: Bahamut, God of Law
 - _Smite evil wherever it is found, yet show compassion to those who have strayed from righteousness._
 - _Defend the weak, bring freedom to the persecuted, and protect the ideals of justice and order._
 
-## Alignment
+## Alignmen
+t
 Lawful Good
 
 ## Symbols
@@ -70,9 +70,11 @@ _Silver dragon's head in profile_
 
 ### Alonian (Tallman) Generic
 > Bahamut appears as a gargantuan true dragon of immense wingspan and vibrant platinum scales, although with a combination of features unlike any other, and surrounded by a shiny iridescent aura.
+
 ![[Bahamut avatar.png]][^1]
 
 ## Cleric Domains
+
 | Domains |
 | ------- |
 | Life    |
@@ -80,6 +82,8 @@ _Silver dragon's head in profile_
 | War     |
 
 ## Religious Practices
+
+The followers of Bahamut engage in a variety of religious practices to honor their deity and uphold the principles of justice and nobility. These practices are deeply rooted in the teachings of Bahamut and serve to strengthen the bond between the faithful and their god. Some of the key religious practices include:
 
 1. **Evening Vigilance:**
     - Followers usually pray at dusk, as the sun sets, to symbolize the end of the day and the beginning of Bahamut's watchful protection over the night. Their prayers often focus on seeking guidance, strength, and the courage to uphold justice during their ventures in the dark.
@@ -103,6 +107,8 @@ _Silver dragon's head in profile_
     - Pilgrims undertake these journeys to seek clarity, guidance, or to show their unwavering commitment to justice and smithing evil along their path.
 
 ## Cultural Norms
+
+The followers of Bahamut adhere to a set of cultural norms that reflect their devotion to justice, nobility, and the teachings of their deity. These norms are deeply ingrained in their societies and serve as a guide for their daily lives and interactions. Some of the key cultural norms include:
 
 1. **Honor in Truth:**
     - Followers place a high value on honesty and integrity. Lying is considered a grave offense, and individuals are expected to uphold the principles of truthfulness in their interactions.
@@ -128,6 +134,9 @@ _Silver dragon's head in profile_
     - Followers of Bahamut believe in the honor of actively seeking out and confronting evil forces. Warriors and champions are revered for their commitment to smiting evil wherever it arises, with initiatives and quests to eradicate darkness seen as noble endeavors. Within these cultures, individuals who dedicate themselves to such pursuits are held in high esteem, and acts of heroism and valor in the face of evil are celebrated.
 
 ## Political Structures
+
+The followers of Bahamut have established various political structures that reflect their devotion to justice, nobility, and the teachings of their deity. These structures are designed to uphold the principles of righteousness and order, ensuring that the values of Bahamut are reflected in the governance of their societies. Some of the key political structures include:
+
 1. **Theocracy of Truth:**
     - In some regions, the political structure is a theocracy dedicated to Bahamut. The highest authority is a religious leader known as the "Platinum Hierarch," who is believed to be divinely chosen to interpret Bahamut's will. The government is heavily influenced by the teachings of the faith, and decisions are made in alignment with the principles of justice and truth.
 2. **Council of Draconic Elders:**
@@ -171,7 +180,6 @@ _Silver dragon's head in profile_
 ## Blessings
 
 A follower of Bahamut can gain favor with their deity by engaging in acts of justice, behaving honorably, and upholding the principles of nobility. As they embody the principles of justice and righteousness, Bahamut may bestow the following blessings upon them:
-
 
 1. **Dragon's Vigilance**: 
      - Followers gain enhanced perception and vigilance, granting advantage on Wisdom (Perception) checks and the ability to sense the presence of fiends, aberrations and undead within 60 feet. 

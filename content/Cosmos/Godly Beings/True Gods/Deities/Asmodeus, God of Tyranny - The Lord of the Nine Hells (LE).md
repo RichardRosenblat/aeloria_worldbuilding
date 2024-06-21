@@ -39,7 +39,6 @@ aliases:
 | Mularir (Tallman) Greek    | Phobos    | The Styx Commander             | He/Him   | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
 | Yotunn (Giant) Giant     | Frostkald | The Frostlord of Domination    | He/Him   | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
-
 ## Extra Titles
 
 - Lord of the Iron Throne: Asmodeus, God of Tyranny
@@ -54,6 +53,7 @@ aliases:
 - _As you ascend to power, do not pity or show mercy to those you climb over to get there. The weak do not warrant your compassion—compassion itself is a weakness._
 
 ## Alignment
+
 Lawful Evil
 
 ## Symbols
@@ -67,12 +67,14 @@ _Three triangles in a tight formation_
 _Crown of spiked onyx and curved horns_
 
 ## Avatars
+
 ### Alonian (Tallman) Generic
 > Asmodeus is depicted in many tomes and murals as a handsome humanoid with long, black hair with two curling horns rising from his brow. His appearance changes to match the most beautiful face the viewer has seen.
 
 ![[Asmodeus Avatar.png]][^1]
 
 ## Cleric Domains
+
 | Domains |
 | ------- |
 | Order   |
@@ -80,6 +82,8 @@ _Crown of spiked onyx and curved horns_
 | War     |
 
 ## Religious Practices
+
+The followers of Asmodeus engage in a variety of religious practices that reflect the deity's domains of tyranny, domination, and deception. These practices are designed to reinforce the principles of power and control that Asmodeus embodies, as well as to demonstrate the followers' loyalty and devotion to their god. Some of the key religious practices of Asmodeus's followers include:
 
 1. **Domination Ceremonies:**
     - Followers engage in rituals that symbolize the act of asserting dominance and power. This may include displays of subjugation, creation of chains or the conquering of literal or symbolic adversaries.
@@ -99,6 +103,8 @@ _Crown of spiked onyx and curved horns_
     - Asmodeus is often depicted as exceptionally beautiful. Worshipers engage in rituals to emulate and enhance their own physical beauty, believing that by doing so, they align themselves more closely with the aesthetics of their god.
 
 ## Cultural Norms
+
+The cultures influenced by Asmodeus's teachings are characterized by a focus on power, dominance, and control. These norms reflect the deity's domains of tyranny and oppression, shaping the behavior and values of those who follow his teachings. Some of the key cultural norms associated with Asmodeus's influence include:
 
 1. **Hierarchy of Power:**
     - In societies influenced by Asmodeus worship, a strict hierarchy prevails. Power and authority are highly valued, and individuals are judged based on their ability to dominate and assert control over others.
@@ -122,6 +128,8 @@ _Crown of spiked onyx and curved horns_
     - Cultures engage in competitive rituals and challenges to determine status and favor in the eyes of Asmodeus. These competitions may range from intellectual debates to physical contests, all emphasizing the importance of proving one's worthiness.
 
 ## Political Structures
+
+The political structures influenced by Asmodeus's teachings reflect the deity's domains of tyranny, domination, and deception. These structures are characterized by a focus on power, control, and manipulation, with rulers and leaders often emulating the principles of the God of Tyranny. Some of the key political structures associated with Asmodeus's influence include:
 
 1. **Authoritarian Theocracy:**
     - A society led by a divine ruler who claims to embody the will of Asmodeus. Theocracy dominates political and religious institutions, with the ruler believed to be divinely chosen and guided by the principles of tyranny.
@@ -168,8 +176,8 @@ _Crown of spiked onyx and curved horns_
 |  |
 
 ## Blessings
-A follower of Asmodeus can gain favor with their deity by performing acts of cruelty, domination, and subjugation in his name. As they embody the principles of tyranny and oppression, Asmodeus may bestow the following blessings upon them:
 
+A follower of Asmodeus can gain favor with their deity by performing acts of cruelty, domination, and subjugation in his name. As they embody the principles of tyranny and oppression, Asmodeus may bestow the following blessings upon them:
 
 1. **Infernal Resilience:**
      - Asmodeus grants his followers enhanced resilience against fire and infernal energies. They gain resistance to fire damage and advantage on saving throws against spells and effects originating from infernal sources.
@@ -189,6 +197,7 @@ A follower of Asmodeus can gain favor with their deity by performing acts of cru
      - Followers blessed by Asmodeus gain the ability to imbue their attacks with infernal energy. Once per turn, when they hit a creature with a melee weapon attack, they can deal additional necrotic or fire damage equal to 1d6 + their proficiency bonus.
 
 ## Curses
+
 Asmodeus's followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with Asmodeus, they may gain access to the following curses to unleash upon their foes:
 
 The follower must cast *Bestow Curse* to invoke their available curses:

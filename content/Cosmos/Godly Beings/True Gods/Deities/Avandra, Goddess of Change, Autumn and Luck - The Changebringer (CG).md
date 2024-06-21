@@ -39,7 +39,6 @@ aliases:
 | Mularir (Tallman) Greek    | Tyche       | The Bestower of Fortune | She/They       | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
 | Yotunn (Giant) Giant     | Ymirin      | The Shifter of Luck     | She/They       | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
-
 ## Extra Titles
 
 Goddess of Wind and Fortune: Avandra, Lady of Change 
@@ -54,6 +53,7 @@ The Capricious Hand of Fate: Avandra, Goddess of Chance
 - _Rise up against tyranny. Fight for the freedom of yourself and others when you can, and inspire others to fight when you cannot._
 
 ## Alignment
+
 Chaotic Good
 
 ## Symbols
@@ -74,12 +74,15 @@ Chaotic Good
 ![[Avandra avatar.png|400]][^1]
 
 ## Cleric Domains
+
 | Domains |
 | ------- |
 | Nature  |
 | Trickery|
 
 ## Religious Practices
+
+The followers of Avandra engage in various rituals and practices to honor the goddess of change and luck. These practices are designed to embrace the ever-changing nature of existence and seek Avandra's blessings in their endeavors.
 
 1. **Fortune's Tale Gathering:**
     - Followers gather regularly to share stories of bold actions they took and the good luck omens they witnessed in the past. These narratives serve as symbolic representations of the goddess protecting them, reinforcing the belief that one's fate is in their own hands.
@@ -99,6 +102,8 @@ Chaotic Good
     - The Songweaver, one of Avandra's cultural names, is honored through musical rituals. Followers sing hopeful songs that inspire courage and optimism, reinforcing the belief that change can lead to a brighter future.
 
 ## Cultural Norms
+
+The followers of Avandra embody a set of cultural norms and values that reflect the goddess's domains of change, luck, and freedom. These norms shape their societies, guiding their interactions, beliefs, and practices.
 
 1. **Embrace of Diversity:**
    - Followers of Avandra value diversity and individuality. Cultures that worship her encourage acceptance of people from different backgrounds, beliefs, and lifestyles, seeing the beauty in the myriad paths of life.
@@ -122,6 +127,8 @@ Chaotic Good
     - Embracing a nomadic lifestyle is emphasized in these societies. Instead of fixed settlements, communities move in harmony with the ever-changing landscapes. This mobile way of life is seen as a reflection of the interconnectedness of all living things and a commitment to adaptability.
 
 ## Political Structures
+
+The political structures influenced by Avandra's teachings reflect the goddess's domains of change, luck, and freedom. These structures are designed to embrace adaptability, encourage bold decision-making, and promote collective action against tyranny.
 
 1. **Adaptive Councils:**
     - Governance is carried out by councils comprised of representatives who rotate periodically. This adaptive approach ensures that various voices and perspectives contribute to decision-making, reflecting the principle of embracing change.

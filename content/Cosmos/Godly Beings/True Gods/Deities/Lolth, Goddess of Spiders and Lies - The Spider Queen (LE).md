@@ -42,14 +42,15 @@ Yet I alone see your true potential—the power you could wield, the intricate w
 | Mularir (Tallman) Greek    | Arachne   | The Schemer in Silk    | She/Her     | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
 | Yotunn (Giant) Giant     | Arakna    | The Great Spider       | She/They/It | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
-
 ## Extra Titles
+
 The Spider Queen: Lolth, Goddess of Spiders 
 The Lady of Deception: Lolth, Goddess of Lies 
 The Matriarch of Darkness: Lolth, Goddess of Betrayal
 The Queen Weaver: Lolth, Goddess of Trickery
 
 ## Commandments
+
 - _It is better to be loved than feared, but you may certainly try to be both._
 - _Misdirection, slander, and shadowed steps have more function than direct conflict._
 - _Death to the elves who live under the sun, and death to all their allies!_
@@ -59,6 +60,7 @@ The Queen Weaver: Lolth, Goddess of Trickery
 Lawful Evil
 
 ## Symbols
+
 ![[lolth symbol.png|300]][^1]
 
 *Jeweled Spider*
@@ -68,6 +70,7 @@ Lawful Evil
 _Eight-pointed star with a web motif_
 
 ## Avatars
+
 ### Alonian (Tallman) Generic
 > She is depicted as a darkly alluring woman of dark purple skin and silver hair, with a lower body of a terrifying monstrous spider. A common symbol for her is that of a jeweled spider.
 > In the Abyss, she is depicted as a drider-like entity, with four arms, multiple legs and spine appendages, long white hair, spider-like face and several red eyes in her body
@@ -78,6 +81,7 @@ _Eight-pointed star with a web motif_
 ![[lolth appearance 2.png|400]][^1]
 
 ## Cleric Domains
+
 | Domains |
 | ------- |
 | Knowledge|
@@ -222,6 +226,7 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ![[The Creation (CR)#The Creation of Drows]]
 
 ### Battle against [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]]
+
 ![[The Great War (GW)#Corellon, God of Magic and the Arts - The Spellfather (CG) Corellon 's retribution against Lolth, Goddess of Spiders and Lies - The Spider Queen (LE) Lolth]]
 
 [^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Lolth)

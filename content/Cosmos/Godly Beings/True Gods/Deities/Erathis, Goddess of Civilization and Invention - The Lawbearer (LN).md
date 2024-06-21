@@ -39,7 +39,6 @@ aliases:
 | Mularir (Tallman) Greek    | Polis        | The First City                 | They/It  | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
 | Yotunn (Giant) Giant     | Thrudheim    | The Builder of The Great Halls | He/Him   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
-
 ## Extra Titles
 
 The Mother of Civilization: Erathis, Goddess of Progress 
@@ -66,14 +65,15 @@ Double-headed axe inset with a pattern of scales
 
 Upper half of a clockwork gear
 
-
 ## Avatars
+
 ### Alonian (Tallman) Generic
 > The Lawbearer is shown as a hooded, armored woman sitting atop a throne or a throne of pillars, her face obscured or expressionless. She is often depicted with light brown skin and a strong but lithe body
 
 ![[Erathis Appearance.png|400]][^1]
 
 ## Cleric Domains
+
 | Domains |
 | ------- |
 | Civilization |
@@ -81,6 +81,8 @@ Upper half of a clockwork gear
 | Peace       |
 
 ## Religious Practices
+
+The worship of Erathis is characterized by a reverence for civilization, innovation, and order. Her followers seek to create and maintain harmonious societies, uphold the rule of law, and promote progress and development. Through rituals, ceremonies, and communal practices, devotees of Erathis honor the goddess's teachings and strive to embody the values of civilization and invention. 
 
 1. **Founding Rituals:** When establishing a new settlement or city, followers of Erathis perform elaborate founding rituals. These ceremonies often involve blessings from clerics or devout worshippers, the laying of foundation stones with sacred inscriptions, and communal pledges to uphold the principles of civilization and progress.
 2. **City Planning Ceremonies:** Regular ceremonies are conducted to plan and organize the expansion of existing cities or the construction of new infrastructure within urban areas. These rituals involve community leaders, architects, and engineers seeking divine guidance from Erathis to ensure efficient and harmonious development.
@@ -94,6 +96,8 @@ Upper half of a clockwork gear
 
 ## Cultural Norms
 
+The worship of Erathis influences the cultural norms and values of societies that revere her, shaping their beliefs, practices, and social structures. Devotees of the Lawbearer embody the ideals of civilization, innovation, and order in their daily lives, seeking to create harmonious and prosperous communities guided by the goddess's teachings. The following cultural norms are commonly associated with Erathis's worship:
+
 1. **Collective Endeavors:** Communities that worship Erathis prioritize collaboration and cooperation in all aspects of life. Individuals are expected to contribute to the greater good of society, whether through communal projects, economic initiatives, or civic engagement.
 2. **Urban Development:** Cultures influenced by the worship of Erathis place a high value on urbanization and city planning. They view the establishment and expansion of cities as symbols of progress and civilization, and urban development is often guided by religious principles emphasizing order, efficiency, and innovation.
 3. **Innovation and Creativity:** Invention and innovation are celebrated as divine gifts bestowed by Erathis. Cultures that worship her encourage the pursuit of knowledge, invention, and technological advancement. Artisans, engineers, and scholars are revered for their contributions to society's development.
@@ -106,6 +110,8 @@ Upper half of a clockwork gear
 
 ## Political Structures
 
+The worship of Erathis often shapes the political structures and governance systems of societies that revere her, influencing their organizational principles, decision-making processes, and social institutions. Political structures associated with Erathis reflect her domains of civilization, innovation, and order, embodying the goddess's teachings and values. The following political structures are commonly found in societies that worship Erathis:
+
 1. **Democratic City-States:** Inspired by the principles of community collaboration and collective decision-making, political structures associated with Erathis often manifest as democratic city-states. In these societies, power is decentralized, and governance is based on direct or representative democracy. Citizens actively participate in decision-making processes, electing leaders, and shaping policies through consensus-building and civic engagement.
 2. **Meritocratic Councils:** Some societies influenced by Erathis adopt meritocratic political structures, where individuals are appointed to leadership positions based on their skills, knowledge, and contributions to society. Meritocratic councils composed of experts, scholars, and community leaders oversee different aspects of governance, ensuring that decisions are informed by expertise and experience.
 3. **Technocratic Administrations:** In societies that prioritize innovation and progress, technocratic administrations may emerge as political structures associated with Erathis. These administrations are led by technocrats—individuals with expertise in fields such as science, engineering, and economics—who utilize evidence-based approaches to governance and policymaking. Technocratic governments focus on promoting technological advancement, infrastructure development, and societal progress.
@@ -116,6 +122,7 @@ Upper half of a clockwork gear
 8. **Anarcho-Syndicalist Collectives:** Within Erathis-influenced societies, Anarcho-syndicalist collectives emerge as decentralized, worker-controlled political structures. These collectives, aligned with Erathis's principles of community collaboration and personal autonomy, emphasize democratic decision-making and cooperative ownership. Workers organize into syndicates or unions to collectively manage production and distribution, ensuring economic equality and grassroots empowerment through direct action and mutual aid.
 
 ## Elemental Affinities
+
 | Elements      |
 | ------------- |
 | Order         |
@@ -126,6 +133,7 @@ Upper half of a clockwork gear
 | Mind          |
 | Transmutation |
 | Abjuration    |
+
 ## Home Plane
 
 [[Arcadia]]
@@ -139,7 +147,6 @@ Upper half of a clockwork gear
 |  |
 
 ## Blessings
-
 
 A follower of Erathis can gain favor with their deity by upholding the principles of civilization, innovation, and order. As they embody the values of progress, community, and urban development, Erathis may bestow the following blessings upon them:
 
@@ -200,7 +207,12 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ## Myths
 
+### The Creation of the Gnomes
+
+![[The Creation (CR)#The Creation of Gnomes]]
+
 ### The Creation of the First cities
+
 ![[The Calm Age (CA)#The First Cities]]
 
 [^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Erathis)

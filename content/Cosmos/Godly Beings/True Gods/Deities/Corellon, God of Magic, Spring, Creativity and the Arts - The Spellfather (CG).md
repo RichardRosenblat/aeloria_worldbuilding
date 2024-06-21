@@ -54,6 +54,7 @@ The Elven Protector: Corellon, God of the Feyfolk
 - _Combat the followers of [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|the Spider Queen]] wherever they may be._
 
 ## Alignment
+
 Chaotic Good
 
 ## Symbols
@@ -67,6 +68,7 @@ _Two crested moons facing each other atop a four-pointed star_
 _Eight-pointed star_
 
 ## Avatars
+
 ### Alonian (Tallman) Generic
 > 	Corellon is commonly depicted as an impossibly graceful and beautiful elven being. They are androgynous and alluring, with long golden hair.
 
@@ -74,6 +76,7 @@ _Eight-pointed star_
 ![[Corellon Appearance.png|400]][^1]
 
 ## Cleric Domains
+
 | Domains |
 | ------- |
 | Arcana|
@@ -215,33 +218,42 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ## Myths
 
 ### The attack during [[The Great War (GW)|The Great War]] against [[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]
+
 ![[The Great War (GW)#The Wound of Gruumsh, God of Destruction - The Ruiner (CE) Gruumsh]]
 
 
 ### The [[Ainulindalë]]: Creation of the fey and elvenkind
+
 ![[The Creation (CR)#The Fey and the Elves]]
 ![[Ainulindalë#The Ainulindalë Song of the True Gods Gods]]
 ![[The Creation (CR)#The Creation of Drows]]
 
 ### The Creation of the Satyrs with [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]]
+
 ![[The Creation (CR)#The Creation of The Satyr]]
 
 ### [[Corellon's Grace]]
+
 ![[Corellon's Grace#Myths]]
 
 ### The creation of the [[Fey Sisters]]
+
 ![[Fey Sisters#Myths]]
 
 ### The Reformation of The god of Magic
+
 ![[The Reform (RF)#Reshaping Corellon, God of Magic and the Arts - The Spellfather (CG) Corellon 's Essence]]
 
 ### Helping in [[Tormentia]]
+
 ![[Tormentia#^8b998b]]
 
 ### Battle against [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|Lolth]]
+
 ![[The Great War (GW)#Corellon, God of Magic and the Arts - The Spellfather (CG) Corellon 's retribution against Lolth, Goddess of Spiders and Lies - The Spider Queen (LE) Lolth]]
 
 ### The reason for the Spring
+
 ![[The Reason For the Seasons#Spring ( Corellon, God of Magic and the Arts - The Spellfather (CG) Corellon 's Ritual)]]
 
 
