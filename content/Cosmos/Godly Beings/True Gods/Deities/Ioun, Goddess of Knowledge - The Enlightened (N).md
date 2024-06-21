@@ -44,10 +44,14 @@ The Divine Librarian: Ioun, Goddess of Learning
 The Keeper of Truth: Ioun, Goddess of Knowledge
 The Eternal Oracle: Ioun, Goddess of Prophecy
 The Scholar Muse: Ioun, Goddess of Wisdom
+
 ## Commandments
 - _Unmask those who would destroy The Enlightened. Learn their secrets and unveil them to the world._
 - _Uphold and teach the importance of reason, perception, and truth in guiding one’s emotions and path._
 - _Condemn those who lie without moral cause, for The Whispered one gains power when their followers obscure the truth. Never stoop to the level of selfish liars._
+
+## Alignment
+Neutral
 
 ## Symbols
 

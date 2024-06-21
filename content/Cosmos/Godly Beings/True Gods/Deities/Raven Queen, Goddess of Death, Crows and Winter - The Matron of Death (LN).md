@@ -23,6 +23,8 @@ aliases:
 ---
 # Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)
 
+"All things, great and small, must meet death's embrace. Not as an end, but as the transition to what lies beyond. There is much to fear, but not death." - Inscription on a shield blessed by the Raven Queen
+
 ## Culture Names
 
 | Culture                  | Name          | Title                           | Pronouns     | Group                                                                             |
@@ -46,8 +48,11 @@ The Lady of Grief: Raven Queen, Goddess of Sorrow
 ## Commandments
 
 - *Death is the natural end of life. Grieve the fallen, but do not pity them. Exult in the time that they were granted.*
-- *The path of Fate is sacrosanct. Those who pridefully cast off destiny must be punished.*
+- *The path of life and its closure in death are sacrosanct. Those who pridefully stray from this path must be punished.*
 - *Undeath is an atrocity. Death is too good a punishment for those who pervert the rightful transition of the soul.*
+
+## Alignment
+Lawful Neutral
 
 ## Symbols
 
@@ -72,6 +77,8 @@ _Raven's head, in profile, facing left_
 
 ## Religious Practices
 
+The followers of the Raven Queen engage in a variety of religious practices to honor their goddess and ensure the proper transition of souls to the afterlife. These practices reflect the deity's domains of death and winter, emphasizing the natural cycle of life and the importance of accepting mortality.
+
 1. **Funeral Rites and Last Rites:** Followers of the Raven Queen are meticulous in ensuring proper rites for the deceased. Funerals involve ceremonies where prayers are offered to guide the soul to the afterlife. Last rites include the symbolic placing of a black feather on the body to signify the Raven Queen's presence and acceptance of the departed soul.
 
 2. **Offerings of Black Feathers and White Masks:** Devotees offer black feathers (symbolizing crows and the Raven Queen's connection to birds) and small, blank white masks (representing the faceless nature of death and transition) at altars or sacred places.
@@ -80,7 +87,7 @@ _Raven's head, in profile, facing left_
 
 4. **Veilwatching:** On nights when the veil between the living and the dead is believed to be thinnest, followers gather to meditate or keep vigil. They seek visions or messages from departed loved ones and prepare themselves for insights from the afterlife.
 
-5. **Prayers for Guidance in the Transition:** Before major life transitions or when faced with death, followers recite prayers seeking the Raven Queen's guidance and blessing. These prayers emphasize acceptance of fate and the natural cycle of life and death.
+5. **Prayers for Guidance in the Transition:** Before major life transitions or when faced with death, followers recite prayers seeking the Raven Queen's guidance and blessing. These prayers emphasize acceptance of the natural cycle of life and death.
 
 6. **Harvest of Souls Festival:** During this festival, held at the end of the harvest season, followers celebrate the gathering of souls by the Raven Queen. Offerings of harvested crops are made alongside prayers for a bountiful afterlife for the departed.
 
@@ -89,6 +96,8 @@ _Raven's head, in profile, facing left_
 8. **Veilreaching:** This extreme ritual is performed by the most devout followers of the Raven Queen. It involves a near-death experience or journey to the brink of death, this rituals can be perfomed in many different ways, from fasting to meditation to bloodletting. The goal is to experience a glimpse of the afterlife and return with insights or messages from the goddess.
 
 ## Cultural Norms
+
+The followers of the Raven Queen adhere to a set of cultural norms and traditions that reflect their beliefs in death, winter, and the afterlife. These norms shape their daily lives, social interactions, and spiritual practices, fostering a deep connection to the natural cycle of life and the goddess herself.
 
 1. **Reverence for the Elderly and the Dead:** Elders and ancestors are cared for and respected, their wisdom and experiences are seen as valuable guides for the living. The dead are honored through regular commemorations, and their graves are meticulously maintained.
 
@@ -117,13 +126,15 @@ _Raven's head, in profile, facing left_
 
 ## Political Structures
 
+The societies that worship the Raven Queen often have unique political structures that reflect their beliefs in death, winter, and the afterlife. These structures are designed to ensure the proper transition of souls, maintain the natural order of life and death, and uphold the goddess's commandments.
+
 1. **Thanatocracy - Rule by the Death-Priests:** Societies worshiping the Raven Queen often have a ruling class composed of death-priests or clerics who are believed to have a special connection with the goddess. These leaders are responsible for interpreting omens, performing rituals, and ensuring the community’s adherence to the Raven Queen's commandments.
 
 2. **Gravekeepers’ Guild - Protectors of the Sacred:** A powerful guild of gravekeepers oversees the maintenance and sanctity of burial sites. This guild not only ensures the proper care of the dead but also holds sway in political decisions, especially those concerning community rituals and festivals.
 
-3. **The Veilwatchers - Guardians of the Afterlife:** An elite group known as the Veilwatchers is dedicated to protecting the veil between the living and the dead. They serve as both spiritual guides and law enforcers, ensuring that the natural order of life and death is respected. Their influence extends to political matters, particularly those involving justice and fate.
+3. **The Veilwatchers - Guardians of the Afterlife:** An elite group known as the Veilwatchers is dedicated to protecting the veil between the living and the dead. They serve as both spiritual guides and law enforcers, ensuring that the natural order of life and death is respected. Their influence extends to political matters, particularly those involving law and death.
 
-4. **Necropolitan Magistrates - Judges of the Dead:** A cadre of judges known as Necropolitan Magistrates presides over legal matters, particularly those involving disputes over inheritance, burial rites, and crimes against the sanctity of death. Their rulings are influenced by the Raven Queen’s commandments and the principle of fate.
+4. **Necropolitan Magistrates - Judges of the Dead:** A cadre of judges known as Necropolitan Magistrates presides over legal matters, particularly those involving disputes over inheritance, burial rites, and crimes against the sanctity of death. Their rulings are influenced by the Raven Queen’s commandments and principles.
 
 5. **The Silent Conclave - Secretive Advisors:** An inner circle of trusted advisors, known as the Silent Conclave, counsels the primary rulers. They are characterized by their deep commitment to meditation and silent reflection, believed to receive direct insights from the Raven Queen during their solitary vigils.
 

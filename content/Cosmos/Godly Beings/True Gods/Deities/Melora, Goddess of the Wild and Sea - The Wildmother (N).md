@@ -58,10 +58,14 @@ The Lady of Nature: Melora, Goddess of Nature
 The Protector of the Sea: Melora, Goddess of the Oceans
 The Wild Beauty: Melora, Goddess of the Hunt
 The Spirit of the Elements: Melora, Goddess of the Elements
+
 ## Commandments
 - _Protect the untamed wilderness from exploitation and destruction._
 - _Slay abominations and other mockeries of nature._
 - _Embrace and respect that which you cannot control in this world. Exist in harmony with it_
+
+## Alignment
+Neutral
 
 ## Symbols
 ![[Melora symbol.png|300]][^1]

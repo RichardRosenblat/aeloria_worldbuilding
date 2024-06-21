@@ -19,6 +19,8 @@
 
 ## Commandments
 
+## Alignment
+
 ## Symbols
 
 ## Avatars

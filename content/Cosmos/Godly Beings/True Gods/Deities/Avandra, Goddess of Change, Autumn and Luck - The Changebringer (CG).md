@@ -53,6 +53,9 @@ The Capricious Hand of Fate: Avandra, Goddess of Chance
 - _Change is inevitable. The righteous can ensure that such change is for the better._
 - _Rise up against tyranny. Fight for the freedom of yourself and others when you can, and inspire others to fight when you cannot._
 
+## Alignment
+Chaotic Good
+
 ## Symbols
 
 ![[Avandra symbol coin.png|200]][^1]

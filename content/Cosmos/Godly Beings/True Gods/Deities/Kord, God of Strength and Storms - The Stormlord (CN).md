@@ -48,11 +48,15 @@ The Stormbringer: Kord, God of Thunder
 The Champion of Strength: Kord, God of Might 
 The Lord of Elements: Kord, God of Storms 
 The Deity of Warriors: Kord, God of Battle
+
 ## Commandments
 
 - *Bravery above all. There is no glory in cowardice.*
 - *Strength is the path to greatness, but greatness is the responsible use of strength.*
 - *The glory of the Stormlord lives through your own glory on the battlefield.*
+
+## Alignment
+Chaotic Neutral
 
 ## Symbols
 

@@ -53,6 +53,9 @@ The Winged Executor: Bahamut, God of Law
 - _Smite evil wherever it is found, yet show compassion to those who have strayed from righteousness._
 - _Defend the weak, bring freedom to the persecuted, and protect the ideals of justice and order._
 
+## Alignment
+Lawful Good
+
 ## Symbols
 
 ![[Bahamut Symbol dragon left.png|400]][^1]

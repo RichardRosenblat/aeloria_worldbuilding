@@ -53,6 +53,9 @@ The Frenzied Beast: Gruumsh, God of Savagery
 - _The weak exist to be crushed by the strong. Be the strong._
 - _There are no emotions but fury and joy. The rest are weakness._
 
+## Alignment
+Chaotic Evil
+
 ## Symbols
 
 ![[Gruumsh symbol.png|400]][^2]

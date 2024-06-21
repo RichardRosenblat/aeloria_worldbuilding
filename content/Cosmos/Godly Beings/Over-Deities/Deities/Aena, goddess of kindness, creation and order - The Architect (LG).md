@@ -54,6 +54,10 @@ aliases:
 3. *"Respect the enduring past and be the gentle hand guiding subtle transformations into the future. In the grand story of existence, you are the enduring, ever-changing narrator, weaving the threads of history in a harmonious tapestry."*
 4. *"Wisely wield the elemental forces, for they offer glimpses into the world's wonders. Seek affinity with the elements, for they reveal insights that enable you to nurture and protect the beauty of our shared world."*
 
+## Alignment
+
+Lawful Good
+
 ## Symbols
 
 ![[Aena Symbol Lotus.png|400]][^2]

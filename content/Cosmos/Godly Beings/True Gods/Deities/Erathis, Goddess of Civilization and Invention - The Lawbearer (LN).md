@@ -46,11 +46,15 @@ The Mother of Civilization: Erathis, Goddess of Progress
 The Creator of Wonders: Erathis, Goddess of Invention 
 The Engineer of Society: Erathis, Goddess of Order 
 The Guardian of Knowledge: Erathis, Goddess of Wisdom
+
 ## Commandments
 
 - _Utilize the company and aid of others. The efforts of the individual often pale against the capabilities of community._
 - _Strive to tame the wilds in the name of civilization, and defend the points of light and order against the chaos of darkness._
 - _Uphold and revere the spirit of invention. Create new settlements, build where inspiration strikes, and expand the edicts of the Lawbearer._
+
+## Alignment
+Lawful Neutral
 
 ## Symbols
 

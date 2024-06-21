@@ -21,10 +21,9 @@ aliases:
 tags:
   - true_god
 ---
+# Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)
 
 "Be the sun in their darkest night, the warmth in their coldest winter, no matter where the darkness dwells, you will follow, burning it with the might of the unyielding sun." - Inscription on "Amanecer", a sword of Tiago Xerxes, a paladin of Pelor
-
-# Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)
 
 ## Culture Names
 
@@ -51,6 +50,9 @@ The Guardian of Dawn: Pelor, God of Light
 - _Be ever vigilant for evil. People are quick to forget the lessons of the past._
 - _Help relieve the suffering of the innocent._
 - _Deliver the light of the Dawnfather where darkness dwells, and do so with kindness, compassion, and mercy._
+
+## Alignment
+Neutral Good
 
 ## Symbols
 

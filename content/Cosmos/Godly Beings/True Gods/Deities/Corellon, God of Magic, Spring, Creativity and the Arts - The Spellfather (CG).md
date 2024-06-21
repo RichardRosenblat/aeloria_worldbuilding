@@ -53,6 +53,9 @@ The Elven Protector: Corellon, God of the Feyfolk
 - _Follow the echoes of lost magic, forgotten sites, and ancient art, for within these lie the_ Spellfather's first works.
 - _Combat the followers of [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|the Spider Queen]] wherever they may be._
 
+## Alignment
+Chaotic Good
+
 ## Symbols
 ![[Corellon Symbol.png|400]][^1]
 _Two crested moons facing each other atop a four-pointed star_

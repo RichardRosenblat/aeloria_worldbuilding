@@ -53,6 +53,9 @@ aliases:
 - _Repay cruelty done unto you with further evil. If others show you kindness, exploit it._
 - _As you ascend to power, do not pity or show mercy to those you climb over to get there. The weak do not warrant your compassion—compassion itself is a weakness._
 
+## Alignment
+Lawful Evil
+
 ## Symbols
 
 ![[Asmodeus Symbol Triangles.png|200]][^2]

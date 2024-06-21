@@ -52,6 +52,9 @@ The Annihilator: Bane, God of Total Victory
 - *Disorder and rebellion are to be punished severely.*
 - *To kill is life’s greatest pleasure, and perfecting the art of slaughter is life’s greatest pursuit.*
 
+## Alignment
+Lawful Evil
+
 ## Symbols
 
 

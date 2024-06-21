@@ -53,6 +53,9 @@ The Guardian of Tradition: Moradin, God of Ancestry
 - _Uphold and promote loyalty; loyalty to your clan, and loyalty to your people._
 - _Legacy is paramount. To create something that lasts is to change the world for the better._
 
+## Alignment
+Lawful Good
+
 ## Symbols
 
 ![[Moradin Symbol.png|200]][^1]

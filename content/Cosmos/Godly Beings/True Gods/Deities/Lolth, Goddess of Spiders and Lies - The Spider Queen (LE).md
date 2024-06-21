@@ -54,6 +54,9 @@ The Queen Weaver: Lolth, Goddess of Trickery
 - _Misdirection, slander, and shadowed steps have more function than direct conflict._
 - _Death to the elves who live under the sun, and death to all their allies!_
 
+## Alignment
+
+Lawful Evil
 
 ## Symbols
 ![[lolth symbol.png|300]][^1]
