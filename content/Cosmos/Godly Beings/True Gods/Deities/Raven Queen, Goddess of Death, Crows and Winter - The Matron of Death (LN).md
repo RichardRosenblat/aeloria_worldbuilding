@@ -160,19 +160,49 @@ _Raven's head, in profile, facing left_
 
 ## Blessings
 
-A follower of (God) can gain favor with their deity by (doing what?). As they embody the principles of (what?), (God) may bestow the following blessings upon them:
+A follower of the Raven Queen can gain favor with their deity by performing funeral rites, guiding souls to the afterlife, and honoring the natural cycle of life and death. As they embody the principles of death, acceptance of mortality, and reverence for the deceased, the Raven Queen may bestow the following blessings upon them:
+
+1. **Blessing of the Shroud:** The follower gains the ability to cast *Pass Without Trace* once per day without expending a spell slot or requiring concentration, lasting 10 minutes. This reflects the Raven Queen's ability to move unseen through the shadows of death.
+
+2. **Eyes of the Crow:** The follower gains darkvision up to 60 feet. If they already have darkvision, its range extends by an additional 30 feet. This blessing allows them to see through darkness as crows do.
+
+3. **Veil of Winter:** The follower can cast *Investiture of Ice* once per long rest without expending a spell slot or requiring concentration, lasting the full 10 minutes. This blessing grants them the power of winter to protect themselves.
+
+4. **Grave's Call:** The follower can cast *Abi-Dalzim's Horrid Wilting* once per long rest without expending a spell slot. This blessing channels the power of death to wither their enemies.
+
+5. **Grave's Resilience:** The follower gains immunity to necrotic damage. This blessing offers protection from the forces that pervert the natural order of life and death.
+
+6. **Cloak of Feathers:** The follower can use their reaction to cast *Feather Fall* at will on themselves and *fly* once per long rest without expending a spell slot. This blessing symbolizes the protection of the Raven Queen’s crows.
+
+7. **Soul's Passage:** The follower can cast *Gentle Repose* at will without using a spell slot. This ensures that the dead are preserved properly until they can be given their final rites.
+
+8. **Winter’s Embrace:** The follower can cast *Finger of Death* or *Otiluke's Freezing Sphere* once per long rest without expending a spell slot. These spell is cast at a level equal to the highest level spell slot they can cast. This blessing embodies the chilling power of winter bestowed by the Raven Queen.
+
 
 ## Curses
 
-(God)'s followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with (God), they may gain access to the following curses to unleash upon their foes:
+Raven Queen's followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with Raven Queen, they may gain access to the following curses to unleash upon their foes:
 
 The follower must cast *Bestow Curse* to invoke their available curses:
 
+1. **Curse of the Eternal Night:** The target is blinded and deafened for the duration of the curse, any other sense they have is also impaired revealing only darkness. This curse plunges them into a never-ending night, where they are forever lost in darkness.
+
+2. **Curse of Withering:** The target's Strength and Constitution score is reduced by 4 (to a minimum of 1) for the duration of the curse. This curse saps the target's physical vitality, leaving them weak and frail.
+
+3. **Curse of the Frigid Heart:** The target takes an additional 2d8 cold damage whenever they take damage from any source for the duration of the curse. The chilling touch of the Raven Queen lingers on them, sapping their warmth and vitality.
+
+4. **Curse of the Fading Breath:** The target takes double damage from necrotic damage and any damage caused by the follower of the Raven Queen for the duration of the curse. This curse weakens their life force and hastens their demise.
+
+5. **Curse of the Doomed:** The target automatically fails their first two death saving throws each time they are reduced to 0 hit points for the duration of the curse. This curse marks them for a swift passage to the afterlife.
+
+6. **Curse of the Haunted:** The target is constantly haunted by illusory visions and whispers from the dead, giving them disadvantage on all Intelligence, Wisdom and Charisma checks and saving throws for the duration of the curse.
+
+7. **Curse of the Frozen Veins:** The target's speed is reduced by half, and they have disadvantage on Strenght, Dexterity and Constituition checks, attacks and saving throws for the duration of the curse. This curse fills their veins with a freezing cold, making movement difficult and sluggish.
+
+8. **Curse of the Grave:** The target is unable to regain hit points from any source for the duration of the curse. Any time they try to regain by magical means, they take the same amount as necrotic damage. This curse prevents them from finding solace or healing, ensuring their suffering continues.
+
+
 ## Myths
-
-### [[The Raven Queen's Duty to the Departed]]
-
-![[The Raven Queen's Duty to the Departed#The Myth]]
 
 ### The Reason For Winter
 
@@ -188,9 +218,10 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ![[The Reform (RF)#Divine Reflection]]
 
-for the god above can you create:
+### [[The Raven Queen's Duty to the Departed]]
+![[After Death Encounter]]
+![[The Raven Queen's Duty to the Departed#The Myth]]
 
-now can you generate a list of 8 curses the god's follower can bestow upon their enemies as they gain favor with this god in dnd terms
 
 [^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/The_Raven_Queen)
 [^2]: [Pinterest](https://br.pinterest.com/pin/AUGvSfUE0pTIKfz5m8TN07ctam7UGBbCW3IJgGxX3xhrLAnSUOh92WA/)

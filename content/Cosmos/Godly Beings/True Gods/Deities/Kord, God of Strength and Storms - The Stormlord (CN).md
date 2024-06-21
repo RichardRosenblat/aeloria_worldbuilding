@@ -23,7 +23,10 @@ tags:
 ---
 # Kord, God of Strength and Storms - The Stormlord (CN)
 
-"Kord teaches that true strength is forged in the crucible of adversity. It is not the absence of fear that defines a warrior, but the ability to face fear head-on and emerge victorious. Embrace your challenges, for in overcoming them, you become a storm as strong and unyielding as the giants themselves. Let the thunder of your heart guide you, and the lightning of your spirit illuminate your path. In the tempest of life, be the eye of the storm, unyielding, calm and resolute in your purpose." - Teachings passed down by followers of Kord
+"Kord teaches that true strength is forged in the crucible of adversity. It is not the absence of fear that defines a warrior, but the ability to face fear head-on and emerge victorious. 
+Embrace your challenges, for in overcoming them, you become a storm as strong and unyielding as the giants themselves. 
+Let the thunder of your heart guide you, and the lightning of your spirit illuminate your path. 
+In the tempest of life, be the eye of the storm, unyielding, calm and resolute in your purpose." - Teachings passed down by followers of Kord
 
 ## Culture Names
 
