@@ -57,14 +57,20 @@ The Elven Protector: Corellon, God of the Feyfolk
 Chaotic Good
 
 ## Symbols
+
 ![[Corellon Symbol.png|400]][^1]
+
 _Two crested moons facing each other atop a four-pointed star_
 
 ![[Corellon symbol 2.png|300]][^2]
+
 _Eight-pointed star_
+
 ## Avatars
 ### Alonian (Tallman) Generic
 > 	Corellon is commonly depicted as an impossibly graceful and beautiful elven being. They are androgynous and alluring, with long golden hair.
+
+
 ![[Corellon Appearance.png|400]][^1]
 
 ## Cleric Domains

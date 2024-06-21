@@ -59,9 +59,11 @@ Chaotic Good
 ## Symbols
 
 ![[Avandra symbol coin.png|200]][^1]
+
 *Woman's profile embossed on a gold coin or pendant*
 
 ![[Avandra symbol lines.png|200]][^2]
+
 *Three stacked wavy lines*
 
 ## Avatars

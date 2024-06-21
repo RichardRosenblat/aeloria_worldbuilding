@@ -59,14 +59,17 @@ Chaotic Evil
 ## Symbols
 
 ![[Gruumsh symbol.png|400]][^2]
+
 Triangular eye with bony protrusions
 
 ![[Gruumsh symbol 2.png|200]][^1]
+
 Single, unblinking eye that bleeds
 
 ## Avatars
 ### Alonian (Tallman) Generic
 > They depict him as a hulking behemoth of an orc with his missing eye, lacking a pair since [[The Great War (GW)|the Great War]], has shifted and now central to the face, bearing close resemblance to a cyclops
+
 ![[Gruumsh appearance.png|500]][^1]
 
 ## Cleric Domains

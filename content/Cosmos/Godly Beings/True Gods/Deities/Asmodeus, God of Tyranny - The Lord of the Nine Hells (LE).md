@@ -59,9 +59,11 @@ Lawful Evil
 ## Symbols
 
 ![[Asmodeus Symbol Triangles.png|200]][^2]
+
 _Three triangles in a tight formation_
 
 ![[Asmodeus Symbol Horns.png|200]][^1]
+
 _Crown of spiked onyx and curved horns_
 
 ## Avatars

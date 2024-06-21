@@ -69,13 +69,16 @@ Neutral
 
 ## Symbols
 ![[Melora symbol.png|300]][^1]
+
 _Wreath of grass and grain affixed to a crook_
 
 ![[melora symbol 2.png|400]][^2]
+
 _Wavelike swirl_
 ## Avatars
 ### Alonian (Tallman) Generic
 > Melora is depicted as a beautiful woman with olive or deep brown skin with a strong, full figured body, and she is nearly fully enveloped by wild tangle of hair, leaves, and vines.
+
 ![[melora appearance.png|400]][^1]
 
 ## Cleric Domains

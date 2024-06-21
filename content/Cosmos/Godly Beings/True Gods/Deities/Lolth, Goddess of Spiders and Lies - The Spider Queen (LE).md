@@ -60,9 +60,11 @@ Lawful Evil
 
 ## Symbols
 ![[lolth symbol.png|300]][^1]
+
 *Jeweled Spider*
 
 ![[lolth symbol 2.png|400]][^2]
+
 _Eight-pointed star with a web motif_
 
 ## Avatars
@@ -70,7 +72,9 @@ _Eight-pointed star with a web motif_
 > She is depicted as a darkly alluring woman of dark purple skin and silver hair, with a lower body of a terrifying monstrous spider. A common symbol for her is that of a jeweled spider.
 > In the Abyss, she is depicted as a drider-like entity, with four arms, multiple legs and spine appendages, long white hair, spider-like face and several red eyes in her body
 > In elven cultures she is mostly depicted as a monstrous and colossal spider 
+
 ![[Lolth appearance.png|400]][^2]
+
 ![[lolth appearance 2.png|400]][^1]
 
 ## Cleric Domains

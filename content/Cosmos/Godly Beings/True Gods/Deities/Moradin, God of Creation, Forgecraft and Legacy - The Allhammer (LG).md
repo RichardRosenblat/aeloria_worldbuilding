@@ -59,14 +59,17 @@ Lawful Good
 ## Symbols
 
 ![[Moradin Symbol.png|200]][^1]
+
 _Hammer with ends carved in the likeness of dwarven heads_
 
 ![[moradin symbol 2.png|200]][^2]
+
 _Flaming anvil_
 
 ## Avatars
 ### Alonian (Tallman) Generic
 > By his worshipers he is depicted as a faceless, stout dwarf-like being of immense strength, hunched over, clasping within his massive hands a flaming heart
+
 ![[Moradin Appearance.png|400]][^1]
 
 ## Cleric Domains

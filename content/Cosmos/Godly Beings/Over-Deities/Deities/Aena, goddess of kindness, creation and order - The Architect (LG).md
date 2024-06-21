@@ -61,12 +61,15 @@ Lawful Good
 ## Symbols
 
 ![[Aena Symbol Lotus.png|400]][^2]
+
 *Lotus flower when mentioned by herself*
 
 ![[Aena Symbol Triquetra.png|400]][^3]
+
 *Triquetra  when mentioned with [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]*
 
 ![[OverDeities Symbol.png|400]][^4]
+
 *When connected with [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]*
 
 ## Avatars
@@ -77,6 +80,7 @@ Lawful Good
 ![[Aena Appearance Old.png]][^1]
 
 ![[Aena Appearance 1.png]]
+
 *The art above is made using ai*
 
 ## Religious Practices

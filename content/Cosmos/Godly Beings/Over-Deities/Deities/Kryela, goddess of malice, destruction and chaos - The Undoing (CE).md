@@ -60,12 +60,15 @@ Chaotic Evil
 ## Symbols
 
 ![[Kryela Symbol Tower.png|400]][^2]
+
 _A crumbling tower when mentioned by herself_
 
 ![[Kryela symbol Thorns.png]][^3]
+
 _A ring of thorns when mentioned with [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]]_
 
 ![[OverDeities Symbol.png|400]][^4]
+
 _When connected with [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]]_
     
 ## Avatars
@@ -73,6 +76,7 @@ _When connected with [[Aena, goddess of kindness, creation and order - The Archi
 > Kryela is often depicted as a woman with white hair and dark gowns that often merge with the darkness
 
 ![[Kryela appearance 1.png]]
+
 *The art above is made using ai*
 
 ![[Kryela appearance 2.png]][^1]

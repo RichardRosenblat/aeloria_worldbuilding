@@ -61,15 +61,19 @@ Chaotic Neutral
 ## Symbols
 
 ![[kord symbol.png|400]][^1]
+
 *A shield with four bolts of lightning radiating from the center*
 
 ![[kord symbol 2.png|400]][^2]
+
 *Sword with a lightning bolt cross guard*
 
 ## Avatars
 ### Alonian (Tallman) Generic
 > Kord is represented as a tallman-like man, barrel-chested and with massive muscles. He wears iron bracers around his wrists. His beard is thick and sometimes it goes down to the middle of his chest. In one hand he carries a long, thick shortsword or a lightning bolt. His legs and midsection are clothed in furs and leathers
+
 ![[Kord appearance 1.png|400]][^1]
+
 ![[Kord appearance 2.png|400]][^1]
 
 ## Cleric Domains

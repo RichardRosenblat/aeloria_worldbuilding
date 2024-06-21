@@ -59,15 +59,18 @@ Lawful Neutral
 ## Symbols
 
 ![[Erathis Symbol.png|400]][^1]
+
 Double-headed axe inset with a pattern of scales
 
 ![[Erathis symbol 2.png|400]][^2]
+
 Upper half of a clockwork gear
 
 
 ## Avatars
 ### Alonian (Tallman) Generic
 > The Lawbearer is shown as a hooded, armored woman sitting atop a throne or a throne of pillars, her face obscured or expressionless. She is often depicted with light brown skin and a strong but lithe body
+
 ![[Erathis Appearance.png|400]][^1]
 
 ## Cleric Domains

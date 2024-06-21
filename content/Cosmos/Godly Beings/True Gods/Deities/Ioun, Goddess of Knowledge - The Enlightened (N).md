@@ -56,14 +56,17 @@ Neutral
 ## Symbols
 
 ![[Ioun Symbol.png|300]][^1]
+
 Pair of open eyes crowned with a third open eye
 
 ![[Ioun Symbol 2.png|400]][^2]
+
 Crook shaped like a stylized eye
 
 ## Avatars
 ### Alonian (Tallman) Generic
 > Ioun appears as a young woman with long, light-colored hair and sleek green eyes with slit pupils. Above her head floats a third eye, featuring a yellow sclera and a green iris, encircled by a red ring. She wears a white cloak and robes that tumble out from her form in tendrils of parchment
+ 
 ![[Ioun appearance.png|400]][^3]
 
 ![[Ioun appearance 2.png|400]][^4]

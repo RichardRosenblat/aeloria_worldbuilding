@@ -57,15 +57,18 @@ Neutral Good
 ## Symbols
 
 ![[Pelor symbol.png|400]][^1]
+
 _Circle with six outwardly radiating points_
 
 ![[pelor symbol 2.png|400]][^2]
+
 _Bright, eight-pointed Sun_
 
 
 ## Avatars
 ### Alonian (Tallman) Generic
 > Pelor wears a white cloak over an intricate golden plate armor. Where a head would be, instead, there is a burning star. In between the plates of his armor, is possible to see a material similar to the night sky.
+
 ![[Pelor Apperance.png|400]][^2]
 
 ## Cleric Domains

@@ -59,9 +59,13 @@ Lawful Good
 ## Symbols
 
 ![[Bahamut Symbol dragon left.png|400]][^1]
+
 _Dragon's head, in profile, facing left_
+
 ![[Bahamut Dragon right.png|400]][^2]
+
 _Silver dragon's head in profile_
+
 ## Avatars
 
 ### Alonian (Tallman) Generic
