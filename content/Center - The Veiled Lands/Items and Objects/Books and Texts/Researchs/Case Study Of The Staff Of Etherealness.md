@@ -5,7 +5,7 @@ tags:
 ---
 # Case Study Of The Wand Of Etherealness: Contradictions in the Timeline of Magical History
 Research written by: Archmage [[Merlin of The Stars]] *et al.*
-Date: 05 of Midsummer, 4th Era. (F.f.g: 10 years after [[Arthur Pendragon|King Arthur Pendragon]] coronation ceremony)
+Date: 05 of Midsummer, 4th Era. (F.f.g: 10 years after [[Arthur Pendragon Of Camelot|King Arthur Pendragon]] coronation ceremony)
 
 ## Abstract:
 During explorations of the [[Underdark|Lowerdark]], We unearthed a wand of etherealness that defies the established timeline of magical history. Through a series of rigorous analyses, including magical radiation dating and elemental divination, we have determined that the wand is approximately 12,000 years old, contradicting the gods' account of magical events. This case study presents our findings, methodologies, and implications for the understanding of magical history.

@@ -16,7 +16,7 @@ The celestial body is simply known as "Moon," a humble yet profound designation 
 ## Myth
 ### Equatorial canyon
 
-Tales speak of the might of King [[Arthur Pendragon]], that during one of his experiments with the powerful sword, Excalibur, he was able to slice the moon itself, cutting it in two with the magical sword. The Equatorial canyon of the Moon would be the proof of this
+Tales speak of the might of King [[Arthur Pendragon Of Camelot]], that during one of his experiments with the powerful sword, Excalibur, he was able to slice the moon itself, cutting it in two with the magical sword. The Equatorial canyon of the Moon would be the proof of this
 
 ### Creation
 
