@@ -5,6 +5,8 @@ tags:
 ---
 # Cleanse Stain
 
+"This definitely saved the druid, or rather the entire party, from a lot of embarrassment. I mean, who wants to go to a party with person covered in mud head to toe?" - Sliverin Oneriver, The wizard of the Trupe of Rubies 
+
 *Transmutation cantrip*
 
 **Classes:** Sorcerer, Wizard, Bard 

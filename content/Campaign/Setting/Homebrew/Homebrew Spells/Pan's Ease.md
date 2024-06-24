@@ -1,7 +1,11 @@
-
-"Honestly, I don't know how I ever cooked without it. It's like the pan does all the work for you!" - Pan, the culinary wizard
-
+---
+tags:
+  - spell
+  - setting
+---
 # Pan's Ease
+
+*"Honestly, I don't know how I ever cooked without it. It's like the pan does all the work for you!" - Pan, the culinary wizard*
 
 *Cantrip Transmutation*
 
