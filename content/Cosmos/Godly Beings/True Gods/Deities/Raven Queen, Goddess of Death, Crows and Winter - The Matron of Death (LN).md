@@ -52,6 +52,19 @@ The Lady of Grief: Raven Queen, Goddess of Sorrow
 - *The path of life and its closure in death are sacrosanct. Those who pridefully stray from this path must be punished.*
 - *Undeath is an atrocity. Death is too good a punishment for those who pervert the rightful transition of the soul.*
 
+## Portfolio
+
+1. **Death**: The Raven Queen rules over the domain of death, guiding souls to their final rest and maintaining the balance between life and afterlife.
+2. **Grief**: She embodies the sorrow and mourning felt by those who have lost loved ones, offering solace and understanding to those who grieve.
+3. **Sorrow**: The Raven Queen understands the depths of sorrow and emotional pain, comforting those who are burdened by loss and tragedy.
+4. **Omens**: She controls the realm of omens and signs, where ravens and crows deliver messages and warnings from the beyond.
+5. **Cemeteries**: The Raven Queen watches over cemeteries and burial grounds, where the departed find peace in their eternal slumber.
+6. **Funerals**: She presides over funerary rites and rituals, ensuring that the souls of the deceased are honored and remembered with dignity.
+7. **Masks**: The Raven Queen is associated with masks and porcelain faces, symbolizing the faceless nature of death and the transition to the afterlife.
+8. **Ravens/Crows**: These birds are her messengers and agents, serving as harbingers of death and guides for lost souls seeking the afterlife.
+9. **Loss**: The Raven Queen understands the pain of loss in all its forms, teaching mortals to accept the inevitability of death and find strength in their memories.
+10. **Winter**: She governs the season of winter, where life retreats and the world rests under a blanket of snow, symbolizing both the end of life and the promise of rebirth.
+
 ## Alignment
 
 Lawful Neutral

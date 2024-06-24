@@ -65,7 +65,21 @@ The Spirit of the Elements: Melora, Goddess of the Elements
 - _Slay abominations and other mockeries of nature._
 - _Embrace and respect that which you cannot control in this world. Exist in harmony with it_
 
+## Porfolio
+
+1. **Wild**: Melora embodies the untamed wilderness, advocating for the preservation and harmony of natural ecosystems and the creatures within them.
+2. **Love**: She represents the nurturing and unconditional love found in the natural world, as well as the multifaceted relationships between living beings.
+3. **Nature**: Melora is the essence of nature itself, encompassing the cycles of life, growth, and renewal that sustain the world.
+4. **Flora**: She is the guardian of plant life, promoting the growth and diversity of flora that nourishes and sustains the creatures of the wild.
+5. **Fauna**: Melora watches over the myriad creatures of the world, from the smallest insects to the largest beasts, ensuring their survival and balance within the ecosystem.
+6. **Hunt**: She governs the primal hunt, guiding predators and hunters in their pursuit of sustenance and survival, respecting the natural order of predator and prey.
+7. **Nurture**: Melora encourages nurturing and caretaking, inspiring individuals to protect and steward the land and its inhabitants with compassion and wisdom.
+8. **Waves**: She rules over the ebb and flow of the oceans and seas, where life teems beneath the surface and the tides shape the shores.
+9. **Sea**: Melora is revered by sailors and coastal communities, offering guidance and protection on their voyages and livelihoods upon the sea.
+10. **Balance**: She embodies the delicate balance of nature and the interconnectedness of all living beings, promoting harmony and respect for the world's diverse ecosystems.
+
 ## Alignment
+
 Neutral
 
 ## Symbols

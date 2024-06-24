@@ -52,7 +52,21 @@ The Guardian of Knowledge: Erathis, Goddess of Wisdom
 - _Strive to tame the wilds in the name of civilization, and defend the points of light and order against the chaos of darkness._
 - _Uphold and revere the spirit of invention. Create new settlements, build where inspiration strikes, and expand the edicts of the Lawbearer._
 
+## Portfolio
+
+1. **Civilization**: Erathis promotes the advancement of civilization, encouraging the establishment of cities, laws, and organized societies.
+2. **Gnomes**: She is the patron deity of gnomes, guiding them in their pursuits of knowledge, innovation, and technological advancement.
+3. **Cities**: Erathis oversees the growth and prosperity of cities, ensuring they thrive as centers of culture, trade, and governance.
+4. **Progress**: She inspires progress and innovation, urging mortals to push boundaries and seek new discoveries in science, magic, and industry.
+5. **Invention**: Erathis blesses inventors and craftsmen, granting them inspiration and ingenuity to create tools, machines, and advancements that benefit society.
+6. **Society**: As the embodiment of social order, she promotes harmony and cooperation among individuals and communities, fostering a sense of unity and common purpose.
+7. **Culture**: Erathis influences the development of art, literature, and music, encouraging the expression of creativity and the preservation of cultural heritage.
+8. **Law**: She advocates for justice through the rule of law, ensuring fairness and equality in the treatment of all individuals within civilized societies.
+9. **Archtecture**: Erathis influences urban planning and architecture, guiding the design and development of cities to optimize efficiency and livability.
+10. **Prosperity**: She blesses communities with prosperity and abundance, fostering economic growth, trade, and cultural exchange among diverse populations.
+
 ## Alignment
+
 Lawful Neutral
 
 ## Symbols

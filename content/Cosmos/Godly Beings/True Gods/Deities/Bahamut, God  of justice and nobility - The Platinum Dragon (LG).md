@@ -52,8 +52,21 @@ The Winged Executor: Bahamut, God of Law
 - _Smite evil wherever it is found, yet show compassion to those who have strayed from righteousness._
 - _Defend the weak, bring freedom to the persecuted, and protect the ideals of justice and order._
 
-## Alignmen
-t
+## Portfolio
+
+1. **Justice**: Bahamut embodies unwavering justice, ensuring that the guilty are punished and the innocent are protected under the law.
+2. **Righteousness**: He upholds moral integrity and virtuous conduct, inspiring his followers to act with honor and compassion.
+3. **Honor**: Bahamut champions honor in all aspects of life, encouraging individuals to uphold their word and commitments.
+4. **Valor**: He inspires bravery and courage in the face of adversity, empowering his followers to confront evil and defend the weak.
+5. **Mercy**: Bahamut balances justice with mercy, showing compassion to those who have strayed from the path of righteousness and offering them a chance at redemption.
+6. **Metallic Dragons**: He is the patron deity of metallic dragons, guiding them with wisdom and strength in their duties as guardians and protectors.
+7. **Nobility**: Bahamut values nobility of spirit and noble deeds, honoring those who serve selflessly for the greater good.
+8. **Protection**: He safeguards the innocent from harm, especially against the tyranny and cruelty of evil beings.
+9. **Judgment**: Bahamut acts as the ultimate judge, weighing the deeds of mortals and creatures alike to determine their worthiness.
+10. **Knights**: He is the patron of knights and warriors who uphold the ideals of chivalry, honor, and justice in their quests.
+
+## Alignment
+
 Lawful Good
 
 ## Symbols

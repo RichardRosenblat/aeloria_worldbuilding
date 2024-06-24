@@ -52,6 +52,19 @@ The Annihilator: Bane, God of Total Victory
 - *Disorder and rebellion are to be punished severely.*
 - *To kill is life’s greatest pleasure, and perfecting the art of slaughter is life’s greatest pursuit.*
 
+## Portfolio
+
+1. **War**: Bane embodies the relentless pursuit of conflict and the art of warfare, reveling in the chaos and destruction of battle.
+2. **Captivity**: He is the god of subjugation and dominance, advocating for the control of weaker beings.
+3. **Subjugation**: Bane thrives on the subjugation of weaker foes, enforcing dominance and control over conquered lands and peoples.
+4. **Annihilation**: He is the harbinger of destruction and annihilation, advocating for the complete eradication of enemies and obstacles.
+5. **Battle**: Bane encourages and blesses those who seek glory and power through martial prowess and decisive combat.
+6. **Strife**: He stokes the flames of discord and conflict, sowing seeds of distrust and betrayal among allies and enemies alike.
+7. **Warlords**: Bane is revered by warlords and military strategists, guiding them with tactical brilliance and ruthless determination.
+8. **Conquest**: His followers aspire to expand their territories and influence, driven by a hunger for conquest and supremacy.
+9. **Fear**: Bane instills fear in the hearts of his enemies, using intimidation and terror as tools to assert his dominance.
+10. **Armies**: He commands vast armies of warriors and soldiers, leading them to victory in the name of conquest.
+
 ## Alignment
 
 Lawful Evil

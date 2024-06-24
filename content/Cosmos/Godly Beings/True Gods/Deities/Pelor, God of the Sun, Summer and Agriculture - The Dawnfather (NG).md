@@ -53,6 +53,19 @@ The Guardian of Dawn: Pelor, God of Light
 - _Help relieve the suffering of the innocent._
 - _Deliver the light of the Dawnfather where darkness dwells, and do so with kindness, compassion, and mercy._
 
+## Portfolio
+
+1. **Sun**: Pelor is the embodiment of the sun's life-giving warmth and light, providing sustenance and energy to all living beings.
+2. **Renewal**: He oversees the cycle of renewal and rebirth, guiding the world through seasons of growth and decay with the promise of new beginnings.
+3. **Fertility**: Pelor blesses the land with fertility, ensuring bountiful harvests and abundance in nature's bounty for those who honor the cycles of planting and sowing.
+4. **Sowing**: He inspires farmers and cultivators, guiding them in the art of sowing seeds and nurturing crops to fruition.
+5. **Harvest**: Pelor presides over the harvest season, where the fruits of labor are reaped and shared among communities, celebrating the rewards of hard work and dedication.
+6. **Work**: He values honest labor and diligence, encouraging mortals to contribute to the prosperity and well-being of their communities through their skills and efforts.
+7. **Heat**: Pelor controls the radiant heat of the sun, which warms the earth and sustains life, fostering growth and vitality in all living things.
+8. **Light**: He is the beacon of light in the darkness, guiding travelers and adventurers with his divine radiance and dispelling shadows with his unwavering brightness.
+9. **Summer**: Pelor blesses the summer season, where life flourishes under the sun's nurturing rays, bringing joy and vitality to the world.
+10. **Agriculture**: He is the patron of agriculture, guiding farmers and agriculturalists in the cultivation of crops and the husbandry of livestock, ensuring prosperity and sustenance for all.
+
 ## Alignment
 
 Neutral Good

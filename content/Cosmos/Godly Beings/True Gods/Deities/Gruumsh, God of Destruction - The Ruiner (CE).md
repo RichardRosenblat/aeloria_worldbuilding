@@ -52,6 +52,19 @@ The Frenzied Beast: Gruumsh, God of Savagery
 - _The weak exist to be crushed by the strong. Be the strong._
 - _There are no emotions but fury and joy. The rest are weakness._
 
+## Porfolio
+
+1. **Destruction**: Gruumsh embodies the primal force of destruction, reveling in chaos and the dismantling of order.
+2. **Force**: He represents raw physical power and brute force, empowering his followers to crush their enemies and dominate through sheer strength.
+3. **Wrath**: Gruumsh embodies unbridled rage and fury, fueling the orcish berserkers and warriors in their relentless pursuit of conquest and vengeance.
+4. **Demons**: He commands legions of demons and fiends, using them as instruments of destruction and chaos to sow discord and devastation across the realms.
+5. **Savagery**: Gruumsh encourages savage and brutal tactics in warfare, advocating for ruthless aggression and relentless pursuit of victory.
+6. **Carnage**: He revels in the bloodshed and carnage of battle, delighting in the chaos and destruction wrought by his followers in his name.
+7. **Orcs**: Gruumsh is the chief deity of orcs, shaping their culture and identity as fierce warriors and raiders, instilling them with a thirst for dominance and conquest.
+8. **Anger**: He embodies the primal emotion of anger, teaching his followers to channel their rage into focused aggression and relentless pursuit of their goals.
+9. **Pillage**: Gruumsh encourages his followers to pillage and plunder, seizing what they desire through force and violence, asserting their dominance over weaker foes.
+10. **Blood**: He demands blood sacrifices and offerings from his followers, symbolizing their dedication to his cause and their willingness to spill blood in his name.
+
 ## Alignment
 
 Chaotic Evil

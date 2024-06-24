@@ -69,6 +69,7 @@ for the god above can you create:
 
 now can you generate religious practices and rituals done by their followers 
 now can you generate cultural norms of cultures that worship them
+now can you generate a portfolio of things they are associated with them, a deity's portfolio refers to the specific aspects of existence or domains over which a deity has influence, power, and responsibility. 
 now can you generate political structures associated with them
 now can you generate a list of 8 blessings the god can bestow upon their followers as they gain favor with this god in dnd terms
 now can you generate a list of 8 curses the god's follower can bestow upon their enemies as they gain favor with this god in dnd terms

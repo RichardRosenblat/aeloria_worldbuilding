@@ -56,6 +56,19 @@ The Deity of Warriors: Kord, God of Battle
 - *Strength is the path to greatness, but greatness is the responsible use of strength.*
 - *The glory of the Stormlord lives through your own glory on the battlefield.*
 
+## Portfolio
+
+1. **Strength**: Kord embodies physical prowess and strength, inspiring athletes, warriors, and adventurers to push their limits and achieve greatness.
+2. **Thunder**: He commands the booming thunderclaps that echo through the skies, symbolizing his raw power and presence in the realm of storms.
+3. **Might**: Kord is the patron of might and physical dominance, encouraging his followers to embrace their inner strength and courage in the face of challenges.
+4. **Warriors**: He champions warriors and fighters, guiding them in the art of combat and honoring those who excel in battle.
+5. **Giants**: Kord is revered by giants as their creator, who see him as a symbol of colossal strength and resilience, embodying their primal connection to the forces of nature.
+6. **Lightning**: He controls the crackling bolts of lightning that tear across the heavens, symbolizing sudden bursts of inspiration and decisive action.
+7. **Battle**: Kord revels in the heat of battle, where courage and valor are tested, and warriors prove their mettle against formidable foes.
+8. **Bravery**: He inspires bravery and fearlessness, urging his followers to face adversity with unwavering determination and boldness.
+9. **Glory**: Kord celebrates feats of heroism and daring deeds, granting his favor to those who seek to etch their names in the annals of legend.
+10. **Storms**: As the Stormlord, he commands storms and tempests, unleashing their fury upon the world to remind mortals of the untamed forces of nature.
+
 ## Alignment
 
 Chaotic Neutral

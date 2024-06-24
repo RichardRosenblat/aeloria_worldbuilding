@@ -27,17 +27,17 @@ aliases:
 
 ## Culture Names
 
-| Culture                  | Name      | Title                          | Pronouns | Group                                                      |
-| ------------------------ | --------- | ------------------------------ | -------- | ---------------------------------------------------------- |
-| Alonian (Tallman) Generic   | Asmodeus  | The Lord of [[the Nine Hells]] | He/Him   | The [[Defiant Gods]]                                       |
-| Asteni (Tallman) Italian   | Tiranno   | The Hellish King               | He/Him   | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
-| Dal (Tallman) Hispanic     | Dablo     | The Lord of Infernal Dominion  | He/Him   | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
-| Duir (Dwarven) German    | Tyrann    | The Lord of Lies               | He/Him   | [[Defiant Gods\|Die Gegner]] (The opposers)                |
-| Dwelmer (Dwarven) Nordic | Mordgrim  | The Tyrant of the Depths       | He/Him   | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
-| Eldar (Elven) Elven      | Morgoth   | The Dark Lord                  | He/Him   | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
-| Eldarin (Elven) Japanese | Izanami   | The Dark Empress of Shadows    | She/They | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
-| Mularir (Tallman) Greek    | Phobos    | The Styx Commander             | He/Him   | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
-| Yotunn (Giant) Giant     | Frostkald | The Frostlord of Domination    | He/Him   | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
+| Culture                   | Name      | Title                          | Pronouns | Group                                                      |
+| ------------------------- | --------- | ------------------------------ | -------- | ---------------------------------------------------------- |
+| Alonian (Tallman) Generic | Asmodeus  | The Lord of [[the Nine Hells]] | He/Him   | The [[Defiant Gods]]                                       |
+| Asteni (Tallman) Italian  | Tiranno   | The Hellish King               | He/Him   | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
+| Dal (Tallman) Hispanic    | Dablo     | The Lord of Infernal Dominion  | He/Him   | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
+| Duir (Dwarven) German     | Tyrann    | The Lord of Lies               | He/Him   | [[Defiant Gods\|Die Gegner]] (The opposers)                |
+| Dwelmer (Dwarven) Nordic  | Mordgrim  | The Tyrant of the Depths       | He/Him   | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
+| Eldar (Elven) Elven       | Morgoth   | The Dark Lord                  | He/Him   | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
+| Eldarin (Elven) Japanese  | Izanami   | The Dark Empress of Shadows    | She/They | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
+| Mularir (Tallman) Greek   | Phobos    | The Styx Commander             | He/Him   | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
+| Yotunn (Giant) Giant      | Frostkald | The Frostlord of Domination    | He/Him   | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 ## Extra Titles
 
@@ -51,6 +51,19 @@ aliases:
 - _Assert dominance and power over others. Show your strength of will in the image of your Lord._
 - _Repay cruelty done unto you with further evil. If others show you kindness, exploit it._
 - _As you ascend to power, do not pity or show mercy to those you climb over to get there. The weak do not warrant your compassion—compassion itself is a weakness._
+
+## Portfolio
+
+1. **Tyranny**: Asmodeus embodies the ruthless imposition of authority and control over others, enforcing order through fear and manipulation.
+2. **Oppression**: He revels in the subjugation and exploitation of the weak and vulnerable, maintaining power through systematic suppression.
+3. **Deception**: As the master of lies and deceit, Asmodeus thrives on falsehoods and treachery, weaving intricate webs of misinformation to achieve his ends.
+4. **Domination**: His influence extends over those who seek power and dominion, offering them dark pacts and promises of supremacy in exchange for loyalty.
+5. **Betrayal**: Asmodeus fosters distrust and discord among allies, encouraging betrayal as a means to weaken adversaries and assert control.
+6. **Tieflings**: He is the progenitor of tieflings, shaping their infernal heritage, offering them deals and power in return for servitude.
+7. **Contract**s: As the ultimate arbiter of contracts, he governs agreements made with and by fiends and mortals alike, ensuring terms are upheld through diabolical means.
+8. **Devils**: He commands the legions of devils that inhabit [[the Nine Hells]], using them as instruments of his will to enforce his dominion over the infernal realm.
+9. **Corruption**: Asmodeus corrupts noble ideals and virtues, twisting them into tools of oppression and control for his own nefarious purposes.
+10. **Schemes**: He plots and schemes endlessly to expand his influence and power, manipulating mortals and immortals alike in his grand design for domination.
 
 ## Alignment
 

@@ -52,6 +52,19 @@ The Scholar Muse: Ioun, Goddess of Wisdom
 - _Uphold and teach the importance of reason, perception, and truth in guiding one’s emotions and path._
 - _Condemn those who lie without moral cause, for The Whispered one gains power when their followers obscure the truth. Never stoop to the level of selfish liars._
 
+## Portfolio
+
+1. **Knowledge**: Ioun embodies the pursuit and accumulation of knowledge, encouraging mortals to seek truth and understanding in all forms of learning.
+2. **Learning**: She promotes the value of education and continuous learning, fostering intellectual growth and curiosity among scholars, sages, and seekers of wisdom.
+3. **Prophecy**: Ioun is the mistress of prophecy, offering glimpses of future events to those who are worthy, guiding them with foresight and insight.
+4. **Wisdom**: She embodies divine wisdom, guiding mortals to make sound judgments and decisions based on knowledge and experience.
+5. **Stories**: Ioun cherishes stories and narratives, preserving histories and myths to ensure that the lessons and experiences of the past are not forgotten.
+6. **Libraries**: As the patron of schools and libraries, she inspires the establishment of institutions of learning and intellectual discourse, nurturing the minds of scholars and students.
+7. **History**: Ioun is the keeper of history, chronicling the events and deeds of mortals and deities alike, preserving the tapestry of existence for future generations.
+8. **Kenku**: She is revered by the kenku, guiding these avian folk in their pursuit of knowledge and creativity, encouraging them to express themselves through stories and art.
+9. **Exploration**: Ioun encourages mortals to explore the world around them, to seek out new knowledge and experiences, and to expand their understanding of the universe.
+10. **Curiosity**: She encourages curiosity and exploration, inspiring mortals to question, investigate, and discover the mysteries of the world around them.
+
 ## Alignment
 
 Neutral

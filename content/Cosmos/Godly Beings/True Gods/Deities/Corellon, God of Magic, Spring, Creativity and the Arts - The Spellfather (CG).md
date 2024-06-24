@@ -53,6 +53,19 @@ The Elven Protector: Corellon, God of the Feyfolk
 - _Follow the echoes of lost magic, forgotten sites, and ancient art, for within these lie the_ Spellfather's first works.
 - _Combat the followers of [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|the Spider Queen]] wherever they may be._
 
+## Portfolio
+
+1. **Magic**: Corellon embodies the essence of arcane power and mastery, guiding wizards, sorcerers, and magic-users in their pursuit of expression through spells.
+2. **Spring**: They are the patron of springtime, where nature awakens and life flourishes, symbolizing renewal, growth, and the beauty of the natural world.
+3. **Creativity**: Corellon inspires creativity and innovation in all forms of artistic expression, encouraging artists to create beauty and wonder.
+4. **Inspiration**: They are the muse of inspiration, whispering ideas and insights to artists, poets, and musicians, sparking their imaginations.
+5. **Wonder**: Corellon embodies the sense of wonder and enchantment that infuses the world, encouraging mortals to explore the mysteries of magic and the arts.
+6. **Elven**: As the patron deity of elves, Corellon having created them, they guide the elven people in their pursuit of beauty, magic, and harmony with nature.
+7. **Feyfolk**: They are revered by the fey creatures of the world, nurturing their bond with nature and magic, and protecting their realms from dark forces.
+8. **The Arts**: Corellon champions the arts in all its forms, from music and dance to painting and sculpture, celebrating the beauty and diversity of creative expression.
+9. **Weave**: They are the guardian of the Weave, the fabric of magic that binds the universe together, ensuring its balance and harmony.
+10. **Feywild**: Corellon is closely associated with the [[Feywild]], the realm of the fey, where their influence shapes the landscape and inhabitants of this mystical domain.
+
 ## Alignment
 
 Chaotic Good

@@ -52,6 +52,19 @@ The Guardian of Tradition: Moradin, God of Ancestry
 - _Uphold and promote loyalty; loyalty to your clan, and loyalty to your people._
 - _Legacy is paramount. To create something that lasts is to change the world for the better._
 
+## Portfolio
+
+1. **Creation**: Moradin is the divine craftsman, shaping the materials of the world and all its wonders with his skilled hands and unwavering determination.
+2. **Dwarves**: He is the father and protector of the dwarven race, guiding them with wisdom and strength to uphold their traditions and honor their ancestors.
+3. **Mountains**: Moradin rules over the majestic mountains, where dwarven strongholds are carved into the rock and mineral wealth lies waiting to be unearthed.
+4. **Stonecraft**: He is the master of stonecraft, teaching dwarves the art of stonemasonry and architecture, creating durable structures that withstand the ages.
+5. **Mining**: Moradin blesses miners and prospectors, guiding them to rich veins of ore and precious gems that fuel dwarven industry and craftsmanship.
+6. **Stoicism**: He instills in his followers the virtues of stoicism, resilience, and determination, urging them to face adversity with unwavering resolve and unyielding courage.
+7. **Magma**: Moradin commands the fiery magma deep within the earth, harnessing its heat and power for smithing and forging mighty weapons and armor.
+8. **Hearth**: He presides over the hearth and home, where dwarven families gather to share warmth, stories, and the bonds of kinship.
+9. **Forgecraft**: Moradin inspires the art of forgecraft, where skilled dwarven smiths create weapons, armor, and artifacts of unparalleled quality and craftsmanship.
+10. **Legacy**: He values honor, duty, and the preservation of dwarven traditions, ensuring that each generation upholds the legacy of their ancestors with pride and resilience.
+
 ## Alignment
 
 Lawful Good

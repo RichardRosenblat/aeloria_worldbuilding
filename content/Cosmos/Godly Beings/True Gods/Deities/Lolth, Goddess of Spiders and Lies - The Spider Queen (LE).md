@@ -55,6 +55,19 @@ The Queen Weaver: Lolth, Goddess of Trickery
 - _Misdirection, slander, and shadowed steps have more function than direct conflict._
 - _Death to the elves who live under the sun, and death to all their allies!_
 
+## Portfolio
+
+1. **Spiders**: Lolth is the mistress of spiders, commanding legions of arachnids and granting them her divine favor to weave intricate webs and ensnare prey.
+2. **Deception**: She embodies cunning and deceit, teaching her followers the art of manipulation and treachery to achieve their ambitions.
+3. **Darkness**: Lolth rules over the darkness, shrouding her realm and the hearts of her followers in shadow, where secrets and malice thrive.
+4. **Control**: Lolth revels in taking control of others, specially against their desires, puppeteering others to achieve their goals she is the matriach of leaders that aim to seize every part of their domains.
+5. **Drow**: Lolth is the matron deity of the drow, guiding their matriarchal society with an iron fist, where ambition and ruthlessness are rewarded.
+6. **Silk**: She is the patron of silk and weaving, inspiring drow artisans to create luxurious fabrics that symbolize both beauty and the entanglement of deception.
+7. **Webs**: Lolth's domain includes the intricate webs that symbolize both physical traps and the complex schemes of her followers.
+8. **Excess**: She revels in indulgence and excess, encouraging her worshipers to embrace hedonism and pleasure as a path to power and dominance.
+9. **Debauchery**: Lolth embodies debauchery and decadence, where desires are indulged without restraint, leading to moral decay and spiritual corruption.
+10. **Lies**: She is the mistress of lies and falsehoods, weaving a web of deception that ensnares mortals and immortals alike, manipulating truth to serve her inscrutable agenda.
+
 ## Alignment
 
 Lawful Evil

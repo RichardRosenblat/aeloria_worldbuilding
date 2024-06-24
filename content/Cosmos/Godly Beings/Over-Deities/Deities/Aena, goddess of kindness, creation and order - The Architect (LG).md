@@ -56,7 +56,51 @@ aliases:
 
 ## Portfolio
 
-All that Kryela does not include in her portfolio.
+As an Over-Deity, Aena's portfolio is vast and by definition, beyond understanding, the only certain definition for it would be "All that is not included in the portfolios of Kryela". Although the following list is not exhaustive, it provides a glimpse into the aspects of existence that Aena governs:
+
+1. **Creation**
+2. **Kindness**
+3. **Order**
+4. **Beauty**
+5. **Light**
+6. **Life**
+7. **Expansion**
+8. **Warmth**
+9. **Healing**
+10. **Unity**
+11. **Stability**
+12. **Hope**
+13. **Harmony**
+14. **Generosity**
+15. **Wisdom**
+16. **Protection**
+17. **Nurture**
+18. **Purity**
+19. **Justice**
+20. **Empowerment**
+21. **Creativity**
+22. **Renewal**
+23. **Gratitude**
+24. **Fertility**
+25. **Diplomacy**
+26. **Purpose**
+27. **Compassion**
+28. **Perseverance**
+29. **Education**
+30. **Tradition**
+31. **Serenity**
+32. **Faith**
+33. **Integrity**
+34. **Charity**
+35. **Respect**
+36. **Progress**
+37. **Community**
+38. **Leadership**
+39. **Innovation**
+40. **Discipline**
+41. **Trust**
+42. **Selflessness**
+43. **Spirituality**
 
 ## Alignment
 

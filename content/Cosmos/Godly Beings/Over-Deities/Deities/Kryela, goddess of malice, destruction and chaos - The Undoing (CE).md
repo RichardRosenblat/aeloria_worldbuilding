@@ -56,7 +56,51 @@ aliases:
 
 ## Portfolio
 
-All that Aena does not include in her portfolio.
+As an Over-Deity, Kryela's portfolio is vast and by definition, beyond understanding, the only certain definition for it would be "All that is not included in the portfolios of Aena". Although the following list is not exhaustive, it provides a glimpse into the aspects of existence that Aena governs:
+
+1. **Destruction**   
+1. **Malice**
+2. **Chaos**
+3. **Repulsion**
+4. **Darkness**
+5. **Death**
+6. **Contraction**
+7. **Cold**
+8. **Wounding**
+9.  **Discord**
+10. **Instability**
+11. **Despair**
+12. **Chaos**
+13. **Greed**
+14. **Ignorance**
+15. **Risk**
+16. **Neglect**
+17. **Impurity**
+18. **Inequity**
+19. **Weakness**
+20. **Theft**
+21. **Monotony**
+22. **Entitlement**
+23. **Blight**
+24. **Aggrecion**
+25. **Cruelty**
+26. **Selfisness**
+27. **Inconsistency**
+28. **Unawareness**
+29. **Progress**
+30. **Havoc**
+31. **Cynicism**
+32. **Dishonor**
+33. **Hoarding**
+34. **Contempt**
+35. **Stagnation**
+36. **Self**
+37. **Subordination**
+38. **Regression**
+39. **Rebellion**
+40. **Suspicion**
+41. **Indulgence**
+42. **Materialism**
 
 ## Alignment
 

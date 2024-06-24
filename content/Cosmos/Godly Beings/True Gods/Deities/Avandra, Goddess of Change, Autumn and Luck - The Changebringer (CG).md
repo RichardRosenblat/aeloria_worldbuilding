@@ -52,6 +52,19 @@ The Capricious Hand of Fate: Avandra, Goddess of Chance
 - _Change is inevitable. The righteous can ensure that such change is for the better._
 - _Rise up against tyranny. Fight for the freedom of yourself and others when you can, and inspire others to fight when you cannot._
 
+## Portfolio
+
+1. **Change**: Avandra embodies the ever-shifting nature of existence, embracing the fluidity of life's paths and the inevitability of transformation.
+2. **Autumn**: She presides over the season of autumn, where change is most visibly manifested through the cycle of life, death, and renewal.
+3. **Wind**: Avandra commands the gentle breezes and tempestuous gales, symbolizing the unseen forces of change that shape the world.
+4. **Transformations**: She inspires and oversees personal growth, encouraging individuals to embrace change and evolve into their true potential.
+5. **Halflings**: Avandra is the matron deity of halflings, guiding them with her blessings of luck and adaptability in their journeys across the realms.
+6. **Chance**: As the mistress of chance, she influences luck and fortune, tipping the scales in favor of those who embrace change and take risks.
+7. **Luck**: Avandra's touch can turn the tide of fate, bestowing fortune upon adventurers and seekers of new beginnings.
+8. **Actuation**: She inspires action and initiative, urging her followers to seize opportunities and shape their destinies through bold decisions.
+9. **Bets and Wagers**: Avandra oversees games of chance, bets, and wagers, infusing them with her divine influence and the promise of unexpected outcomes.
+10. **Adventure**: The goddess of change encourages her followers to embark on daring quests, explore the unknown, and seek out new horizons.
+
 ## Alignment
 
 Chaotic Good
