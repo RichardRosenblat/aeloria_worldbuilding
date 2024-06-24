@@ -7,11 +7,11 @@ tags:
 
 *Transmutation cantrip*
 
-**Classes:** Sorcerer, Wizard, Bard
+**Classes:** Sorcerer, Wizard, Bard 
 **Casting Time:** 1 action  
 **Range:** Touch  
-**Components:** V, S
-**Duration:** Instantaneous
+**Components:** V, S 
+**Duration:** Instantaneous 
 
 ## Description:
 When you cast this cantrip, you touch a stain on a piece of clothing or a surface within reach. The stain beneath your fingers is broken down, becoming easy to wipe away with a cloth or rinse with water. This spell does not harm the material or the color of the clothing or surface, and it works on organic and inorganic stains alike.

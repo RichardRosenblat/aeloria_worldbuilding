@@ -12,8 +12,8 @@ tags:
 **Classes:** Wizard, Ranger, Sorcerer  
 **Casting Time:** 1 action  
 **Range:** Self  
-**Components:** V, S, M (A spider's web between two small sticks)
-**Duration:** 1 minute (Concentration)
+**Components:** V, S, M (A spider's web between two small sticks) 
+**Duration:** 1 minute (Concentration) 
 
 ## Description:
 You call upon the primal instincts ingrained within you, heightening your senses to detect imminent danger. Upon casting this spell, a tingling sensation akin to a surge of electricity races down your spine, alerting you to potential threats.

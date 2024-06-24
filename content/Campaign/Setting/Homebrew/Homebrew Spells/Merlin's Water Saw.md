@@ -9,7 +9,7 @@ tags:
 
 *5th-level evocation*
 
-**Classes:** Wizard, Sorcerer, Druid
+**Classes:** Wizard, Sorcerer, Druid 
 **Casting Time:** 1 action  
 **Range:** Self  
 **Components:** S, M (a pint of water, which the spell consumes)  

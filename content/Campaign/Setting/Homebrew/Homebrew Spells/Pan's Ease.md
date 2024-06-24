@@ -8,8 +8,8 @@
 **Classes:** Bard, Sorcerer, Wizard  
 **Casting Time:** 1 action  
 **Range:** Touch  
-**Components:** V, S, M (a pinch of salt)  
-**Duration:** 1 hour
+**Components:** V, S, M (a pinch of salt)   
+**Duration:** 1 hour 
 
 ## Description:
 This cantrip allows the caster to enchant a cooking surface, such as a pan, making it magically resistant to food sticking. For the duration of the spell, any food cooked on the enchanted surface will not adhere to it, ensuring smooth cooking and easy cleaning. The enchanted surface appears to shimmer slightly with a faint, magical glow when the spell is active.
