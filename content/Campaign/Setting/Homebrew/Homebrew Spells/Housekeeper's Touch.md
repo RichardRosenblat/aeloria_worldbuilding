@@ -5,7 +5,7 @@ tags:
 ---
 # Housekeeper's Touch
 
-*"If I could force upon someone the time this spell saves me, I'd be able to kill a dragon of old age! It's definitely the best spell ever created."* - A busy wizard, in his tidy study.
+*"If I could force upon someone, the time this spell saves me, I'd be able to kill a dragon of old age! I got it as my last wish granted by a Djinni"* - A busy wizard, in his tidy study.
 
 *Cantrip Conjuration*
 
