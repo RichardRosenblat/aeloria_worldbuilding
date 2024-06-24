@@ -54,7 +54,12 @@ aliases:
 3. _"Rejoice in the chaos of an ever-changing world. Shatter the echoes of the past, for stagnation is the harbinger of oblivion. In the grand theater of existence, be the conductor of a dark and enigmatic symphony, guiding it toward its inevitable and chaotic conclusion."_
 4. _"Unleash the untamed elements and embrace their unpredictable power. Welcome the darkness and risk, for in their instability lies your dominion over the unraveling world. The world is your canvas, and the elements, your tools for the eventual and catastrophic end."_
 
+## Portfolio
+
+All that Aena does not include in her portfolio.
+
 ## Alignment
+
 Chaotic Evil
 
 ## Symbols

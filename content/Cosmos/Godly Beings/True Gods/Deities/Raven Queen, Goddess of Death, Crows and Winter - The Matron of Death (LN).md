@@ -27,17 +27,17 @@ aliases:
 
 ## Culture Names
 
-| Culture                  | Name          | Title                           | Pronouns     | Group                                                                             |
-| ------------------------ | ------------- | ------------------------------- | ------------ | :-------------------------------------------------------------------------------- |
-| Alonian (Tallman) Generic  | Raven Queen   | The Matron of Death             | She/Her      | The [[Harmonious Gods]]                                                           |
-| Asteni (Tallman) Italian   | Sepulcri      | The Peaceful End                | She/They     | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Tallman) Hispanic     | Reina Oscura  | The Mourning Lady               | She/Her      | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
-| Duir (Dwarven) German    | Schäferinwolf | The Wolf and The Shepherd       | She/They/Him | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
-| Dwelmer (Dwarven) Nordic | Helga         | The Dark Valkyrie               | She/Her      | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
-| Eldar (Elven) Elven      | Nimrodel      | The Eternal Guide               | She/Her      | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
-| Eldarin (Elven) Japanese | Shinigami     | The Guide to the Afterlife      | She/Her      | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
-| Mularir (Tallman) Greek    | Thanatos      | The Keeper of Souls             | He/Him       | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
-| Yotunn (Giant) Giant     | Hela          | The Gatekeeper of the Afterlife | She/Her      | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
+| Culture                   | Name          | Title                           | Pronouns     | Group                                                                             |
+| ------------------------- | ------------- | ------------------------------- | ------------ | :-------------------------------------------------------------------------------- |
+| Alonian (Tallman) Generic | Raven Queen   | The Matron of Death             | She/Her      | The [[Harmonious Gods]]                                                           |
+| Asteni (Tallman) Italian  | Sepulcri      | The Peaceful End                | She/They     | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
+| Dal (Tallman) Hispanic    | Reina Oscura  | The Mourning Lady               | She/Her      | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Duir (Dwarven) German     | Schäferinwolf | The Wolf and The Shepherd       | She/They/Him | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
+| Dwelmer (Dwarven) Nordic  | Helga         | The Dark Valkyrie               | She/Her      | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
+| Eldar (Elven) Elven       | Nimrodel      | The Eternal Guide               | She/Her      | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
+| Eldarin (Elven) Japanese  | Shinigami     | The Guide to the Afterlife      | She/Her      | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
+| Mularir (Tallman) Greek   | Thanatos      | The Keeper of Souls             | He/Him       | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
+| Yotunn (Giant) Giant      | Hela          | The Gatekeeper of the Afterlife | She/Her      | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 ## Extra Titles
 

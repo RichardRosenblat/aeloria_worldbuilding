@@ -55,7 +55,7 @@ To aid them in their divine task, they birthed a pantheon of [[True Gods]]:
 - **[[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)|Moradin]]**
 - **[[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)|Pelor]]**
 - **[[Nerull, God of Fate and Winter - The Winterlord (LN)|Nerull]]**
-- **Sehanine**
+- **[[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]]**
 - **[[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]**
 - **Tharizdun**
 - **Torog**

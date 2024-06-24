@@ -263,7 +263,7 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ### [[The Remaking of the Night Sky By Melora And Avandra]]
 ![[The Remaking of the Night Sky By Melora And Avandra#The Myth]]
 
-### The Creation of Firbolg with Sehanine
+### The Creation of Firbolg with [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]]
 ![[The Creation (CR)#The Creation of The Firbolgs]]
 
 ### The Creation of Satyr with [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|Corellon]]
