@@ -29,6 +29,7 @@
 ### Alonian (Tallman) Generic
 
 ## Cleric Domains
+
 | Domains |
 | ------- |
 |         |

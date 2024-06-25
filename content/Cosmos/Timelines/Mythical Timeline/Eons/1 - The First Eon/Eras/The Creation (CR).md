@@ -11,7 +11,7 @@ aliases:
 # The Creation (CR) 
 
 > [!tldr] This is an Era
-> This **Era** of the [[Mythical Timeline]] spans between **1 Billion years ago** and **100 Thousand years ago** lasting: **999.9 Million years**
+> This **Era** of the Mythical Timeline spans between **1 Billion years ago** and **100 Thousand years ago** lasting: **999.9 Million years**
 ```
 <span 
 	  class='ob-timelines' 
@@ -160,6 +160,10 @@ Her heart filled with unease, [[Melora, Goddess of the Wild and Sea - The Wildmo
 ### The Creation of Lizardfolk
 
 Zehir, the cloaked serpent, the god of darkness and poison, saw the world and the creatures that inhabited it, he saw the beasts roaming aimlessly and the humanoids suffering for trivial emotions, he undertood them to be weak, those beings were not able to survive the world he saw and thus failures, they were either plagued with uneficient emotions or incapable of aiming for true greatness. So he decided to create his own kind of creature, he lurked in the forests and gathered the most promissing creatures made by [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]], the goddess of nature, to the eyes of the cloaked serpent, the cold-blooded creatures, lizards, snakes and other reptiles were the ones that pleased him the most, although they lacked sentience, they could lurk in the shadows, strike with poison and precision and survive the harshest of environments. So he created a powerful concoction of venom, darkness and cold-blooded creatures, and from it, the lizardfolk were born, unbothered by emotions and capable of surviving the harshest of environments, they would be the perfect creatures to survive the world he saw. But the lizardfolk were not as Zehir expected, they lacked the desire for power and greatness, they were content with their lot in life and saw no need on planing more than the next hunt. Zehir was displeased, he cursed the lizardfolk to never be able to rise above their current state, to never be able to aim for greatness, and to always be content with their lot in life. The lizardfolk accepted their curse and embraced their nature, they saw no need for power or greatness, they were content with what they were, and they would survive the world as they were, they would be the perfect creatures to survive the world Zehir saw.
+
+### [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]] creating the Plasmoids
+
+During the creation of the world, after [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]] crafted the moon, she gazed upon the land and its inhabitants. She desired creatures capable of adapting and evolving, embodying the fluidity and changeability of the moon itself. She gathered moonlight in her hands, combined it with the first dew of each season, and infused it with her laughter. From this blend, she created the plasmoids, beings without fixed forms, able to shift their shapes and colors at will, as varied as moonlight. Upon finishing her creation, [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]] entrusted the plasmoids with a mission: to explore every corner of the world, seeking beauty and wonder in all things. She encouraged them to adapt and change to understand the reality around them, form beautiful relationships, and forge deep connections. She urged them to embrace their emotions and dreams, for they were children of the moon. Thus, the plasmoids embarked on their journey, exploring the world in every direction, always reaching high and dreaming even higher, fulfilling their purpose.
 
 ### The Creation of Tallmen
 
