@@ -96,7 +96,7 @@ The Morphblade has a maximum of 10 charges when dormant, 15 charges when awakene
 None.
 
 ## History:
-Yggdrasil's Morphblade was created by [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melor, the Wildmothera]], from a branch of Yggdrasil, the World Tree. It was made to aid her chosen champions during [[The Great War (GW)|The Great War]], before being lost to time during [[The Impact (TI)|The Impact]]. It is said that it was last seen in the hands of the powerful archdruid Ivo, who used it to inspire the druids of the world during the druidic revolution. After Ivo became Yggdrasil itself, it is believed that the Morhpblade became a branch of the World Tree, awaiting the next worthy wielder.
+Yggdrasil's Morphblade was created by [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melor, the Wildmothera]], from a branch of Yggdrasil, the World Tree. It was made to aid her chosen champions during [[The Great War (GW)|The Great War]], before being lost to time during [[The Impact (TI)|The Impact]]. It is said that it was last seen in the hands of the powerful archdruid [[Ivo of The Druids|Ivo]], who used it to inspire the druids of the world during the druidic revolution. After [[Ivo of The Druids|Ivo]] became Yggdrasil itself, it is believed that the Morhpblade became a branch of the World Tree, awaiting the next worthy wielder.
 
 ## Additional:
 The Morphblade's dynamic nature and versatile forms make it a legendary weapon that can adapt to any situation. It is a symbol of [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|the Wildmother]]'s power and a testament to the adaptability of nature itself.

@@ -44,7 +44,7 @@ aliases:
 The Lady of Moonlight: Sehanine, Goddess of the Moon
 The Matron of Illusions: Sehanine, Goddess of Dreams
 The Mirror Trickster: Sehanine, Goddess of Tricks
-The Mistress of Secrets: Sehanine, Goddess of Mysteries
+The Mistress of Sleep: Sehanine, Goddess of Rest and The Night
 
 ## Commandments
 
@@ -128,7 +128,7 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ### The Story of Galadria
 
-![[Galadria (Moon)#Name]]
+![[Galadria (Myth)#The Myth]]
 
 ### The Creation of [[The Moon (Aeloria's)|The Moon]]
 
