@@ -10,9 +10,11 @@ Galadria is a moon of [[Tormentia]] with enchanting bioluminescent flora that ca
 
 ## Name
 
-Galadria, the moon's name, carries a profound and enchanting history rooted in elven legend. According to ancient tales, the moon draws its name from the captivating story of Galadria, a beautiful elven woman. This ethereal being was once tragically kidnapped and imprisoned, her radiance dimmed by the shackles of captivity. In her darkest hour, she struck a desperate bargain with [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|The Moonweaver]], the goddess presiding over the moon. In exchange for her devotion and service, [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|The Moonweaver]] granted her freedom. Through years of unwavering dedication, the elven woman earned a celestial sanctuary—a home in the skies above, where she could wander freely in a world that would never succumb to darkness.
+Galadria, the moon's name, carries a profound and enchanting history rooted in elven legend. According to ancient tales, the moon draws its name from the captivating story of Galadria, a beloved elven woman known for her beauty and grace. Her life was marked by tragic events that ultimately led to her transformation into a symbol of resilience and celestial connection.
 
-The name Galadria thus encapsulates not only the moon's physical beauty but also the echoes of a resilient spirit that found liberation through divine intervention. It serves as a testament to the enduring power of hope and the transformative influence of celestial beings in the lives of those touched by their magic.
+![[Galadria (Myth)#The Myth]]
+
+The name Galadria, bestowed upon the moon, thus symbolizes more than just its physical beauty in the night sky. It represents the enduring spirit of an elven woman who overcame darkness through divine intervention, embodying the transformative power of hope and celestial influence in the lives of those who look to the heavens above.
 
 ## Description
 

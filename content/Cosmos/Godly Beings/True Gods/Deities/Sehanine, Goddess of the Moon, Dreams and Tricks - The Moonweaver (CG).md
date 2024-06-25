@@ -9,7 +9,7 @@ aliases:
   - Hrimfaxi
   - Sehanine Ithilgalad
   - Tsukiyomi
-  - Sendrene
+  - Nyx
   - The Norns
   - The Moonweaver
   - The Little Princess
@@ -17,8 +17,8 @@ aliases:
   - The Moonshaper
   - The Lunar Steed
   - The Silver Lady
-  - The Mirror Man
-  - The Moonshaper
+  - The Mirror Sentinel
+  - The Ebon Veil
   - The Lake, Moon and Mirror
   - Tsukuyomi
 ---
@@ -34,8 +34,8 @@ aliases:
 | Duir (Dwarven) German     | Mond-gottin         | The Moonshaper            | She/Them    | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
 | Dwelmer (Dwarven) Nordic  | Hrimfaxi            | The Lunar Steed           | Him/They/It | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
 | Eldar (Elven) Elven       | Sehanine Ithilgalad | The Silver Lady           | She/Them    | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
-| Eldarin (Elven) Japanese  | Tsukiyomi/Tsukuyomi | The Mirror Man            | He/Them     | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
-| Mularir (Tallman) Greek   | Sendrene            | The Moonshaper            | She/Them    | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
+| Eldarin (Elven) Japanese  | Tsukiyomi/Tsukuyomi | The Mirror Sentinel       | He/She/Them     | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
+| Mularir (Tallman) Greek   | Nyx            | The Ebon Veil           | She/Them    | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
 | Yotunn (Giant) Giant      | The Norns           | The Lake, Moon and Mirror | They/Them   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 

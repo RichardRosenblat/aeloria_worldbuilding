@@ -1,4 +1,4 @@
-# Ioun's Archive
+# [[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]'s Archive
 
 ## Scales:
 - **Spread:** Commonly Known.
@@ -9,7 +9,7 @@
 
 ## Cultural Variations:
 
-The Archive of Ioun is a myth known throughout the Veiled Lands, with variations in the details and interpretations of the tale. With the main difference being the name of the god that created the archive and the name of the archive itself. Some cultures view the archive as a place of knowledge and wisdom, a place where the gods themselves would go to learn and to teach. Others see the archive as a place of power and secrets, a place where only the most powerful and wise can enter. Despite these differences, the core of the myth remains consistent across the Veiled Lands, serving as a tragic tale of the past of the Kenku.
+The Archive of [[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]] is a myth known throughout the Veiled Lands, with variations in the details and interpretations of the tale. With the main difference being the name of the god that created the archive and the name of the archive itself. Some cultures view the archive as a place of knowledge and wisdom, a place where the gods themselves would go to learn and to teach. Others see the archive as a place of power and secrets, a place where only the most powerful and wise can enter. Despite these differences, the core of the myth remains consistent across the Veiled Lands, serving as a tragic tale of the past of the Kenku.
 
 ![[Ioun's Archive#Different Names]]
 
