@@ -54,7 +54,7 @@ This unlikely alliance marked a pivotal moment in the divine chronicles, as [[Tr
 
 ## The Birth of Dragons
 
-In the midst of the uneasy truce that bridged the chasm between the "[[Defiant Gods]]" and the "[[Harmonious Gods|Harmonious Deities]]", a remarkable collaboration unfolded. [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]] and Tiamat, two formidable [[True Gods]] with disparate motives, united their divine powers to give birth to a new order: the dragons. These majestic beings were bestowed with immense power and a profound purpose, becoming the guardians of cosmic harmony.
+In the midst of the uneasy truce that bridged the chasm between the "[[Defiant Gods]]" and the "[[Harmonious Gods|Harmonious Deities]]", a remarkable collaboration unfolded. [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]] and Tiamat, two formidable [[True Gods]] with disparate motives, united their divine powers to mold the elemental forces and essences of reality give birth to a new order: the dragons. These majestic beings were bestowed with immense power and a profound purpose, becoming the guardians of cosmic harmony.
 
 ### Tiamat's Chromatic Dragons: Elemental Fury Unleashed
 
