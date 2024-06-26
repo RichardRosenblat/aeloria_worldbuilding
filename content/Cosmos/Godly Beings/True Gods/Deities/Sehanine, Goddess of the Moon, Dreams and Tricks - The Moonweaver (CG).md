@@ -114,6 +114,33 @@ Chaotic Good
 
 ## Cultural Norms
 
+
+
+1. **Value of Dreams:** Dreams are considered sacred and significant. People regularly share and interpret dreams in both informal and formal settings. Dream journals are common and encouraged for personal reflection. Many believe that through dreams one can gain a better understanding of themselves and the world around them.
+
+2. **Nocturnal Activities:** Many important activities, including festivals, markets, and ceremonies, are held at night or under moonlight to honor Sehanine’s domain over the night and the moon. Nighttime is seen as a time of magic, mystery, and connection to the divine. People often stay up late to engage in creative pursuits, meditation, or social gatherings.
+
+3. **Celebration of Wonder:** Those in cultures that worship Sehanine are encouraged to find joy and wonder in the world around them. Creativity, curiosity, and a sense of awe are valued traits, and followers are encouraged to explore their imaginations and embrace the unknown. Art, music, comfort and storytelling are highly regarded, and festivals often include performances and displays of creativity.
+
+4. **Emphasis on Rest and Renewal:** Adequate rest and relaxation are seen as essential. Naps, meditation, and retreats are common and encouraged to align with Sehanine’s aspect of rest and renewal. Worshippers are encouraged to take breaks and prioritize self-care to maintain balance and well-being.
+
+5. **Embracing Illusions and Playfulness:** Illusions, playful tricks, and harmless pranks are part of social interactions. Festivals often include games and performances involving illusions and sleight of hand. Followers are encouraged to embrace the unexpected and find joy in the playful aspects of life.
+
+6. **Lakeside Gatherings:** Communities gather by lakes or bodies of water for important rituals, social events, and peaceful reflection to connect with Sehanine’s association with lakes and water. Bathing, swimming, and boating are common activities, and offerings are made to honor the goddess. Meetings by the water are seen as sacred and conducive to spiritual connection, weddings and other ceremonies are often held by the water.
+
+7. **Personal Reflection:** Regular periods of introspection and self-reflection are encouraged. Mirrors and reflective surfaces are commonly used for meditation to promote self-awareness and spiritual growth, honoring Sehanine’s aspect of self-reflection. Followers are encouraged to seek clarity and insight through contemplation and meditation.
+
+8. **Inclusive Festivals:** Festivals are inclusive and welcoming, encouraging participation from all members of society, regardless of status or age to create a sense of unity and shared joy, many festivals include activities for children, the elderly, and those with disabilities. The community comes together to celebrate Sehanine’s influence and foster a sense of belonging and connection.
+
+9.  **Respect for the Night:** The night is treated with reverence. Noise and light pollution are minimized to preserve the natural beauty and tranquility of the night sky. Stargazing, moonlit walks, and other nighttime activities are common, fostering a sense of peace and connection with the cosmos. People are encouraged to appreciate the beauty and mystery of the night.
+
+10. **Child-Centric Traditions:** Special attention is given to children, with dedicated stories, games, and rituals to inspire wonder and creativity to nurture the next generation with the values of creativity, imagination, and a sense of wonder.
+
+11. **Comfort in silence, darkness and community:** Along with moments of revelry and celebration, worshippers also find comfort in silence, darkness and community. Quiet contemplations where all sounds are muffled other than the rustling of leaves or the gentle lapping of water are common. The darkness is seen as a place of rest and renewal, where one can find solace, rest and peace. Community is seen as a place of support and connection, where one can find strength and solace in the presence of others.
+
+12. **Disguises and Masks:** Wearing disguises and masks is common during certain celebrations and ritualst to explore different identities, points of view and creativity. Worshippers are encounraged to explode their own identities and embrace the unknown and by extension, the divine and themselves.
+
+
 ## Political Structures
 
 ## Elemental Affinities
@@ -178,8 +205,6 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 for the god above can you create:
 
-now can you generate religious practices and rituals done by their followers 
-now can you generate cultural norms of cultures that worship them
 now can you generate political structures associated with them
 now can you generate a list of 8 blessings the god can bestow upon their followers as they gain favor with this god in dnd terms
 now can you generate a list of 8 curses the god's follower can bestow upon their enemies as they gain favor with this god in dnd terms
