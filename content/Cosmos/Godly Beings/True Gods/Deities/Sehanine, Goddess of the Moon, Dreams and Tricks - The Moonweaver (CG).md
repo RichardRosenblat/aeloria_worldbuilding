@@ -27,15 +27,15 @@ aliases:
 ## Culture Names
 
 | Culture                   | Name                | Title                     | Pronouns    | Group                                                                             |
-| ------------------------- | ------------------- | ------------------------- |:----------- | --------------------------------------------------------------------------------- |
+| ------------------------- | ------------------- | ------------------------- | :---------- | --------------------------------------------------------------------------------- |
 | Alonian (Tallman) Generic | Sehanine            | The Moonweaver            | She/Them    | The [[Harmonious Gods]]                                                           |
 | Asteni (Tallman) Italian  | Luna                | The Little Princess       | She/Her     | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
 | Dal (Tallman) Hispanic    | Selune              | The Moonlight Weaver      | She/Her     | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German     | Mond-gottin         | The Moonshaper            | She/Them    | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
 | Dwelmer (Dwarven) Nordic  | Hrimfaxi            | The Lunar Steed           | Him/They/It | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
 | Eldar (Elven) Elven       | Sehanine Ithilgalad | The Silver Lady           | She/Them    | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
-| Eldarin (Elven) Japanese  | Tsukiyomi/Tsukuyomi | The Mirror Sentinel       | He/She/Them     | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
-| Mularir (Tallman) Greek   | Nyx            | The Ebon Veil           | She/Them    | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
+| Eldarin (Elven) Japanese  | Tsukiyomi/Tsukuyomi | The Mirror Sentinel       | He/She/Them | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
+| Mularir (Tallman) Greek   | Nyx                 | The Ebon Veil             | She/Them    | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
 | Yotunn (Giant) Giant      | The Norns           | The Lake, Moon and Mirror | They/Them   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 
@@ -53,6 +53,17 @@ The Mistress of Sleep: Sehanine, Goddess of Rest and The Night
 - *Embrace each emotion passionately, for within the depths of joy and sorrow lies the canvas of life's most vivid experiences.*
 
 ## Portfolio
+
+1. **Moon:** Sehanine governs the moon, its phases, and its celestial dance. She oversees the moon's waxing and waning, ensuring it illuminates the night sky with its ethereal glow. The moon serves as a symbol of her divine presence and guidance.
+2. **Dreams:** As the goddess of dreams, Sehanine inspires the nocturnal visions of mortals, weaving intricate and meaningful dreams. She aids in the exploration of the subconscious, revealing hidden truths and fostering creativity and introspection.
+3. **Rest:** Sehanine presides over rest and sleep, granting peaceful slumber to those who seek solace in the night. She soothes the weary and watches over the dreams of the sleeping, ensuring they awaken refreshed and rejuvenated.
+4. **Illusions:** Illusions are Sehanine's realm, where she manipulates perceptions and crafts mirages. She revels in the creation of visual wonders and playful tricks, teaching the value of seeing beyond the surface and embracing the unknown.
+5. **Night:** The night is Sehanine's canvas, a time when her influence is most potent. She watches over the darkness, ensuring it remains a time of mystery, reflection, and beauty. Her presence brings comfort and wonder to those who wander under the stars.
+6. **Wonder:** Sehanine embodies the sense of wonder that arises from the unknown and the magical. She encourages curiosity and the pursuit of beauty in the simplest of things, urging her followers to find joy in the world's marvels.
+7. **Mirrors:** Mirrors hold a special place in Sehanine's domain. They are portals to alternate perspectives and reflections of hidden truths. She uses mirrors to reveal deeper aspects of the self and the world, guiding her followers in their quests for understanding.
+8. **Lakes:** Lakes, with their tranquil and reflective surfaces, are sacred to Sehanine. She often appears in the reflections of lakes, using their still waters to communicate with her followers. Lakes symbolize clarity, serenity, and the connection between the earthly and the divine.
+9. **Children:** Sehanine has a particular affinity for children, seeing in them the purest expressions of wonder and innocence. She watches over them, inspiring their dreams and protecting their spirits, nurturing their growth and potential.
+10. **Tricks:** Tricks and playful mischief are Sehanine's tools to teach and amuse. She delights in clever pranks and the joy they bring, using them to impart lessons and foster resilience and humor in the face of life's challenges.
 
 ## Alignment
 
@@ -96,7 +107,27 @@ Chaotic Good
 
 ## Elemental Affinities
 
+| Elements |
+| -------- |
+|Water|
+|Air|
+|Electricity|
+|Cold|
+|Energy|
+|Life|
+|Transmutation|
+|Divination|
+|Mind|
+|Gravity|
+|Void|
+|Darkness|
+|Chaos|
+|Order|
+|Creation|
+
 ## Home Plane
+
+[[Arborea|Olympian Glades of Arborea]]
 
 ## Champions
 
@@ -118,7 +149,7 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ## Myths
 
-### The Creation of Firbolgs
+### The Creation of Firbolgs with [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]]
 
 ![[The Creation (CR)#The Creation of The Firbolgs]]
 
