@@ -62,7 +62,7 @@ The Mistress of Sleep: Sehanine, Goddess of Rest and The Night
 6. **Wonder:** Sehanine embodies the sense of wonder that arises from the unknown and the magical. She encourages curiosity and the pursuit of beauty in the simplest of things, urging her followers to find joy in the world's marvels.
 7. **Mirrors:** Mirrors hold a special place in Sehanine's domain. They are portals to alternate perspectives and reflections of hidden truths. She uses mirrors to reveal deeper aspects of the self and the world, guiding her followers in their quests for understanding.
 8. **Lakes:** Lakes, with their tranquil and reflective surfaces, are sacred to Sehanine. She often appears in the reflections of lakes, using their still waters to communicate with her followers. Lakes symbolize clarity, serenity, and the connection between the earthly and the divine.
-9. **Children:** Sehanine has a particular affinity for children, seeing in them the purest expressions of wonder and innocence. She watches over them, inspiring their dreams and protecting their spirits, nurturing their growth and potential.
+9. **Children:** Sehanine has a particular affinity for the young, seeing in them the purest expressions of wonder and innocence. She watches over them, inspiring their dreams and protecting their spirits, nurturing their growth and potential.
 10. **Tricks:** Tricks and playful mischief are Sehanine's tools to teach and amuse. She delights in clever pranks and the joy they bring, using them to impart lessons and foster resilience and humor in the face of life's challenges.
 
 ## Alignment
@@ -100,6 +100,17 @@ Chaotic Good
 | Twilight|
 
 ## Religious Practices
+
+1. **Moonlit Vigils:** Followers gather under the light of the full moon for meditative vigils. They reflect on Sehanine's guidance and seek clarity and inspiration in the moon's glow, often sharing stories of dreams and inspirations.
+2. **Dreamweaving Ceremonies:** Rituals where participants share dreams and interpret their meanings together. Sehanine's presence is invoked to guide dreamers in understanding their subconscious messages and finding wisdom in their visions.
+3. **Mirror Reflection Rites:** Use of mirrors in rituals to reflect on one's inner self and seek clarity. Participants gaze into mirrors, seeking insights and revelations from Sehanine's guidance, often accompanied by prayers or affirmations.
+4. **Nighttime Celebrations:** Festivals held during the lunar cycles, especially on full moons. Followers gather to celebrate Sehanine's influence over the night, engaging in music, dance, and storytelling under the stars. Moonlit feasts and offerings are made to honor the goddess.
+5. **Lakeside Offerings:** Offerings of flowers, crystals, or incense made at lakes or bodies of water. Pranks and tricks are often made during such offerings, reflecting Sehanine's playful nature and fostering a sense of joy and spontaneity among followers.
+6. **Trickster's Play:** Playful and mischievous activities during festivals and gatherings. Followers engage in lighthearted pranks, riddles, and games to honor Sehanine's love of tricks and humor, fostering camaraderie and laughter among participants. The participants are encouraged to craft elaborate pranks and illusions to entertain and challenge each other.
+7. **Bonfire Camps:** Gatherings around bonfires in the wilderness, where followers share stories, songs, and dreams by spending the night together. Activities like firefly catching, stargazing, and moonlit walks are common, fostering a sense of community and connection with nature.
+8. **Restful Retreats:** Retreats in serene natural settings, focused on rest, meditation, and rejuvenation. Worshipers seek Sehanine's guidance in finding peace and balance, engaging in activities like meditation, dream jornaling and nature walks to connect with the goddess's tranquil energy.
+9.  **Children's Moonlight Stories:** Sharing tales and myths of Sehanine with children, often under moonlight. These stories emphasize the importance of dreams, wonder, and the beauty of the night, inspiring young followers to embrace their creativity and curiosity.
+10. **Annual Reflection Day:** A day of introspection and self-reflection, where followers review their past year's experiences and set intentions for the future. Usually done during the full moon of Autumn, this practice encourages followers to seek growth and renewal through Sehanine's guidance.
 
 ## Cultural Norms
 
@@ -169,7 +180,6 @@ for the god above can you create:
 
 now can you generate religious practices and rituals done by their followers 
 now can you generate cultural norms of cultures that worship them
-now can you generate a portfolio of things they are associated with them, a deity's portfolio refers to the specific aspects of existence or domains over which a deity has influence, power, and responsibility. 
 now can you generate political structures associated with them
 now can you generate a list of 8 blessings the god can bestow upon their followers as they gain favor with this god in dnd terms
 now can you generate a list of 8 curses the god's follower can bestow upon their enemies as they gain favor with this god in dnd terms
