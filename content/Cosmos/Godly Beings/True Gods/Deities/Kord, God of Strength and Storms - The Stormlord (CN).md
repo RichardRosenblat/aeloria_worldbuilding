@@ -251,11 +251,11 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ## Myths
 
-### Creating [[Celestra]]
+### Creating [[Celestra]] for [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]]
 
 ![[Celestra#Celestra Creation]]
 
-### Creating [[Tormentia]]
+### Creating [[Tormentia]] for [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat]]
 
 ![[Tormentia#Tormentia's Creation]]
 

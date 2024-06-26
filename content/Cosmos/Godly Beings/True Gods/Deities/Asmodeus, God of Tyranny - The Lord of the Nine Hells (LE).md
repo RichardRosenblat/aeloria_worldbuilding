@@ -242,5 +242,13 @@ The follower must cast *Bestow Curse* to invoke their available curses:
   
 ![[The Cursed Blood of The Tieflings#The Myth]]
 
+## Battle with [[Avandra, Goddess of Change, Autumn and Luck - The Changebringer (CG)|Avandra]]
+
+![[The Great War (GW)#Battle Between Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE) Asmodeus and Avandra, Goddess of Change, Autumn and Luck - The Changebringer (CG) Avandra]]
+
+## Battle with [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)|Erathis]]
+
+![[The Great War (GW)#The Siege of Aelor - The First City Aelor and the Pact between Erathis, Goddess of Civilization and Invention - The Lawbearer (LN) Erathis and Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE) Asmodeus]]
+
 [^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Asmodeus)
 [^2]: [Pinterest](https://www.pinterest.com/pin/374291419028969880/)

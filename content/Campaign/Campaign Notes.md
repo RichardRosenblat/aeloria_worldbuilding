@@ -112,25 +112,25 @@ Muhammad Sumbul The bravest soldier of all time
 - [[Merlin of The Stars|Melin]] creates at least these 2 spells,
 	- [[Merlin of The Stars|Melin]]’s Divine Audience (talk to [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]), causes stars to change colors
 	- [[Merlin of The Stars|Melin]]'s Transcendent Transformation (fuses with the [[Setting Info|Principles]]), becomes the Witch song image
-- Archwizard battle: They summon portable holes with 4 simulacrum, by crushing a sapphire,triggering Drawmij's Instant Summons, their simulacrum then cast wish
+- Archwizard battle: They summon portable holes with 4 *simulacrum*, by crushing a sapphire, triggering *Drawmij's Instant Summons* or triggering *contingency*, their *simulacrum* then cast *wish*
   - The wishes are:
-    - **Simulacrum #1 of Wizard A**: "I wish that Wizard B's and their simulacrums wishes to be nullified and rendered ineffective for the next hour."
-    - **Simulacrum #1 Wizard B**: "I wish that Wizard B and their simulacrums wishes to be nullified and rendered ineffective for the next hour."
-    - **Simulacrum #2 of Wizard A**: "I wish that all harmful magical effects and conditions affecting Wizard A and their allies are immediately redirected in a manner that renders them immune to all harmful magic for the next hour by redirecting the harmful effects to Wizard B and their simulacrums as if they were the intended targets and had vulnerabilities to all forms of magic."
-    - **Simulacrum #2 Wizard B**: "I wish that all harmful magical effects and conditions affecting Wizard B and their allies are immediately redirected in a manner that renders them immune to all harmful magic for the next hour by redirecting the harmful effects to Wizard B and their simulacrums as if they were the intended targets and had vulnerabilities to all forms of magic."
-    - **Simulacrum #3 of Wizard A**: "I wish that Wizard B and their simulacrums' spellcasting abilities to have the exact opposite effect for the next hour."
-    - **Simulacrum #3 Wizard B**: "I wish that Wizard A and their simulacrums' spellcasting abilities to have the exact opposite effect for the next hour."
-    - **Simulacrum #4 of Wizard A**: "I wish that Wizard A and their allies receive full knowledge of all magical spells and abilities possessed by Wizard B and their simulacrums."
-    - **Simulacrum #4 Wizard B**: "I wish that all knowledge about Wizard B and their abilities are completely shielded from any form of magical detection or scrying for the next hour."
-  - In latin they are
-    - **Simulacrum #1 of Wizard A**: "Volo ut vota Magi B et simulacrorum eius nullo modo sint et efficiantur inefficacia per horam."
-    - **Simulacrum #1 of Wizard B**: "Volo ut vota Magi A et simulacrorum eius nullo modo sint et efficiantur inefficacia per horam."
-    - **Simulacrum #2 of Wizard A**: "Volo ut omnes noxiae magicae effectus et condiciones Magi A et sociorum eius statim redirigantur modo tali, ut eos immunes ad omnes noxias magias reddant per horam, redirigendo noxios effectus ad Magum B et simulacra eius tamquam illi essent praedefiniti et haberent vulnerabilitates ad omnes formas magiae."
-    - **Simulacrum #2 of Wizard B**: "Volo ut omnes noxiae magicae effectus et condiciones Magi B et sociorum eius statim redirigantur modo tali, ut eos immunes ad omnes noxias magias reddant per horam, redirigendo noxios effectus ad Magum A et simulacra eius tamquam illi essent praedefiniti et haberent vulnerabilitates ad omnes formas magiae."
-    - **Simulacrum #3 of Wizard A**: "Volo ut facultates Magi B et simulacrorum eius ad incantandum habeant exactum contrarium effectum per horam."
-    - **Simulacrum #3 of Wizard B**: "Volo ut facultates Magi A et simulacrorum eius ad incantandum habeant exactum contrarium effectum per horam."
-    - **Simulacrum #4 of Wizard A**: "Volo ut Magus A et socii eius plenam cognitionem omnium magicarum incantationum et facultatum quas Magus B et simulacra eius possident accipiant."
-    - **Simulacrum #4 of Wizard B**: "Volo ut omnis cognitio de Mago B et facultatibus eius omnino tegatur ab omni forma magicae detectionis vel scrutationis per horam."
+    - **Simulacrum #1 of (Wizard A)**: "I wish that (Wizard B)'s and their simulacrums wishes to be nullified and rendered ineffective for the next hour."
+    - **Simulacrum #1 (Wizard B)**: "I wish that (Wizard A) and their simulacrums wishes to be nullified and rendered ineffective for the next hour."
+    - **Simulacrum #2 of (Wizard A)**: "I wish that all harmful magical effects and conditions affecting (Wizard A) and their allies are immediately redirected in a manner that renders them immune to all harmful magic for the next hour by redirecting the harmful effects to (Wizard B) and their simulacrums as if they were the intended targets and had vulnerabilities to all forms of magic."
+    - **Simulacrum #2 (Wizard B)**: "I wish that all harmful magical effects and conditions affecting (Wizard B) and their allies are immediately redirected in a manner that renders them immune to all harmful magic for the next hour by redirecting the harmful effects to (Wizard B) and their simulacrums as if they were the intended targets and had vulnerabilities to all forms of magic."
+    - **Simulacrum #3 of (Wizard A)**: "I wish that (Wizard B) and their simulacrums' spellcasting abilities to have the exact opposite effect for the next hour."
+    - **Simulacrum #3 (Wizard B)**: "I wish that (Wizard A) and their simulacrums' spellcasting abilities to have the exact opposite effect for the next hour."
+    - **Simulacrum #4 of (Wizard A)**: "I wish that (Wizard A) and their allies receive full knowledge of all magical spells and abilities possessed by (Wizard B) and their simulacrums."
+    - **Simulacrum #4 (Wizard B)**: "I wish that all knowledge about (Wizard B) and their abilities are completely shielded from any form of magical detection or scrying for the next hour."
+  - In magic language they are
+    - **Simulacrum #1 of (Wizard A)**: "Malir lo usque ad lova minadum (Wizard B) kur simulacrum opinum fisca ochetus burida manerit olocarche."
+    - **Simulacrum #1 of (Wizard B)**: "Malir lo suvir ad lova minadum (Wizard A) kur simulacrum opinum vori ochetus verita non format."
+    - **Simulacrum #2 of (Wizard A)**: "Malir arcan lour vercuit kur beatus folert (Wizard A) kur anomina crudus serepinus por fonti seguintur ver qui arcanus operni retirtas (Wizard B) aquerita kur simulacrums cherque mund salvi aquerti kor lat minun vulnera arcanus formatus."
+    - **Simulacrum #2 of (Wizard B)**: "Malir arcan lour vercuit kur beatus folert (Wizard B) kur anomina crudus serepinus por fonti seguintur ver qui arcanus operni retirtas (Wizard B) aquerita kur simulacrums cherque mund salvi aquerti kor lat minun vulnera arcanus formatus."
+    - **Simulacrum #3 of (Wizard A)**: "Malir (Wizard B) kur simulacrum arcanum opet milum etea oponum inota puer retirtas."
+    - **Simulacrum #3 of (Wizard B)**: "Malir (Wizard A) kur simulacrum arcanum opet milum etea oponum inota puer retirtas."
+    - **Simulacrum #4 of (Wizard A)**: "Malir (Wizard A) kur anima dolor foruta opet arcanum loquer a murat oretis (Wizard B) kur simulacrums."
+    - **Simulacrum #4 of (Wizard B)**: "Malir cum (Wizard B) lapertus protetus arcanum locatis ob servis tolia aenum etea."
 
  
 ## Quest ideas
@@ -253,3 +253,43 @@ The haunting song crescendos, drowning out the terrified screams, and you find y
 Suddenly, you awaken in unfamiliar surroundings—a dimly lit room with the scent of aged wood and stale ale. Three days have passed, and the details of the harrowing encounter in Eldor's market escape your memory like elusive shadows in the daylight. The town holds its secrets, and the eerie song lingers in your subconscious, leaving you with a haunting sense of unease.
 
 
+## Random scene i thought of
+
+### Meeting the Raven Queen
+As you awaken, you find yourself lying on soft grass. You can't recall how you arrived here, only that the battle against the Archlich Zalphar looms faintly in your memory. The sound of the wind, the grass tickling your skin, and the scent of flowers envelop your senses, providing a serene contrast to the chaos you remember. Opening your eyes, they take a moment to adjust, showing a colorful sky above, painted in shades of orange, pink, and purple by the setting sun. Sitting up, you take in the beautiful meadow around you, with tall grass and vibrant flowers swaying gently in the breeze. A calm lake reflects the sky, surrounded by rolling hills and trees.
+
+Looking down, you notice your garments, your usual comfortable clothes—a simple shirt and pants. In your hand there is the warmth of a small silver locket. Opening it, you see a delicate painting of you and your lost fiance laughing together, a memory of happier times. It's warmth feels like Amanda's hand holding yours, something you've missed dearly since her passing, the feeling comforting you in this unfamiliar place.
+
+Distracted by the locket, you almost don't notice the presence next to you. A beautiful woman stands silently, her hands behind her back, looking out at the horizon. Her short black hair and almost pale skin contrast with her dark clothes, adorned with raven tattoos on her arms. Her black irises and pearl piercings, along with a black choker featuring a raven skull, make her appearance both striking and enigmatic.
+
+As you finally notice her, she crouches to meet your eyes. "I'm sorry to disturb your thoughts," she says gently. "That's a beautiful locket."
+
+You clutch the locket a bit tighter. "It belonged to my lover, Amanda...she is no longer with us." you say, your voice tinged with emotion before facing the figure. "I'm sorry, who are you?"
+
+She smiles softly. "I know who you are, Rayos. Do you remember me?"
+
+A sudden realization washes over you. Memories from your a few second after your birth flood back, you in the arms of your mother, and you recall this figure behind her, watching over you wearing a porcelain mask, the goddess of death that visits all mortals only twice, once at birth and once at death. "You...you're the Raven Queen," you whisper, understanding dawning on you. Then, the final moments of the battle come rushing back—the disintegrate spell, you stepping in front of your friends to protect them, the searing pain, and then...nothing. "I died, didn't I?"
+
+She nods, her expression one of deep empathy. "Yes, you did. You died protecting your friends. It was a brave and noble act. You have earned your rest and now it is time to move on."
+
+A mix of relief and sadness fills you. "The battle... did we win?" you ask, your voice barely above a whisper
+
+Her head tilts slightly. "Your friends are fighting on. They are strong and resourceful. They will remember you and honor your sacrifice."
+
+Remembering your friends, you feel a pang of guilt for leaving them behind. "Can I go back? To help them finish it?" you ask, a glimmer of hope in your eyes.
+
+The Raven Queen's eyes, filled with a timeless sadness, meet yours. "I'm afraid your time in the living world has ended. This is the only thing I cannot change. Is there anything else you wish to ask or do?"
+
+A thought springs to your mind. "Will I meet my lover in the afterlife?" you ask, your voice wavering with hope.
+
+A soft smile graces her lips. "Yes, you will. She is waiting for you. She has been waiting for you since the day you parted."
+
+You feel a wave of immense relief wash over you. Clutching the locket tightly, you close your eyes and ask "May I ask one more thing? May you take care of my friends, help them find another sorcerer to help them destroy the eye of Vecna?"
+
+The Raven Queen eyebrows raise slightly and her smile turns into a small chuckle as if you asked her the most obvious thing. "Of course, Rayos. I will watch over them and guide them in their journey. You have my word."
+
+You nod, feeling a sense of peace and closure. "Thank you. I am ready to see Amanda again."
+
+The Raven Queen extends her hand, helping you to your feet. The meadow around you seems to glow with a soft light as you prepare to move on. "Follow me," she says, her voice comforting and familiar, like that of a long-lost friend.
+
+With one last look at the serene meadow, you see your friends in the distance, fighting valiantly against the Archlich Zalphar. You smile, knowing they will be okay. Turning back to the Raven Queen, she now has her porcelain mask on, her eyes hidden behind it. You take her hand and step forward, following the Matron of Death into the next phase of your existence, knowing that peace and reunion await you.

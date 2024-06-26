@@ -245,14 +245,17 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ![[The Creation (CR)#The Creation of Halflings]]
 
-
-### [[The Remaking of the Night Sky By Melora And Avandra]]
+### The Remaking of the Night Sky By [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|Melora]] And Avandra
 
 ![[The Remaking of the Night Sky By Melora And Avandra#The Myth]]
 
+## Battle with [[Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE)|Asmodeus]]
+
+![[The Great War (GW)#Battle Between Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE) Asmodeus and Avandra, Goddess of Change, Autumn and Luck - The Changebringer (CG) Avandra]]
+
 ### The Reason of Autumn 
 
-![[The Reason For the Seasons#Fall ( Avandra, Goddess of Change and Luck - The Changebringer (CG) Avandra 's Ritual)]]
+![[The Reason For the Seasons#Fall ( Avandra, Goddess of Change, Autumn and Luck - The Changebringer (CG) Avandra 's Ritual)]]
 
 [^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Avandra)
 [^2]: [Pinterest](https://pt.pinterest.com/pin/630785491544583415/?amp_client_id=CLIENT_ID%28_%29&amp_url=https%3A%2F%2Fwww.pinterest.pt%2Famp%2Fpin%2F630785491544583415%2F&mweb_unauth_id=%7B%7Bdefault.session%7D%7D&open_share=t)

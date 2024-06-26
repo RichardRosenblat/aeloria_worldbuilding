@@ -67,7 +67,7 @@ For more information on the myth and lore of why this happens you can read the m
 | 2             | A masked humanoid, with shepherding staff and a cloak of raven feathers followed by a dark wolf.|
 | 3             | She looks like the deceased but wears a mask.                                 |
 | 4             | She appears as a loved one of the deceased.                                   |
-| 5             | A simple but beautiful human with gentle features.                            |
+| 5             | A simple but beautiful human with gentle features, yet within their beauty their eyes show an incredible sadness beneath it. So young yet somehow so very old. |
 | 6             | Another person of the same race as the deceased, exuding calm and grace.      |
 
 ## 6. The Raven Queen’s Demeanor
@@ -109,7 +109,7 @@ For more information on the myth and lore of why this happens you can read the m
 |:--------------|:--------------------------------------------------------------------------------------|
 | 1             | She asks if they have any final wishes.                                                |
 | 2             | She inquires if they enjoyed their life or have any regrets.                           |
-| 3             | She asks if they want to do anything before moving to the afterlife.                   |
+| 3             | She asks if they want to do anything before moving to the afterlife, such as a prayer or a question they want to ask her.                 |
 | 4             | She asks about their happiest memory.                                                  |
 | 5             | She asks if there’s anyone they need to forgive or be forgiven by.                     |
 | 6             | She does not ask anything but listens if they wish to speak.                           |

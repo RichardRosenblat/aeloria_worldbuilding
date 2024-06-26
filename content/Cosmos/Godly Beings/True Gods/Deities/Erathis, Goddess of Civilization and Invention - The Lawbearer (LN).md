@@ -221,13 +221,18 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ## Myths
 
-### The Creation of the Gnomes
+### The Creation of the Gnomes with [[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]
 
 ![[The Creation (CR)#The Creation of Gnomes]]
 
 ### The Creation of the First cities
 
 ![[The Calm Age (CA)#The First Cities]]
+
+## Battle with [[Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE)|Asmodeus]]
+
+![[The Great War (GW)#The Siege of Aelor - The First City Aelor and the Pact between Erathis, Goddess of Civilization and Invention - The Lawbearer (LN) Erathis and Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE) Asmodeus]]
+
 
 [^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Erathis)
 [^2]: [Pinterest](https://www.pinterest.com/pin/69313281741876198/)

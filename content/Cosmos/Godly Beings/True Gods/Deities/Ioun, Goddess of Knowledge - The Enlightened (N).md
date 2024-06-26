@@ -201,15 +201,11 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ## Myths
 
-### [[Ioun's Archive]]
-
-![[Ioun's Archive#Creation of the Library]]
-
 ### The Creation of the Kenku
 
 ![[The Creation (CR)#The Creation of Kenku]]
 
-### The creation of Gnomes
+### The creation of Gnomes with [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)|Erathis]]
 
 ![[The Creation (CR)#The Creation of Gnomes]]
 
@@ -219,7 +215,7 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ### [[Ioun's Archive]] is Destroyed
 
-![[Ioun's Archive#The Tragic Demise]]
+![[Ioun's Archive (Myth)#The Myth]]
 
 [^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Ioun)
 [^2]: [Pinterest](https://www.pinterest.com/pin/818881144727227400/)
