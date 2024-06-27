@@ -157,7 +157,7 @@ The societies that worship the Raven Queen often have unique political structure
 
 6. **Community Assemblies - Democratic Participation:** Local communities hold regular assemblies where all members can voice their concerns and participate in decision-making. These assemblies are guided by the principles of the Raven Queen, fostering a communal approach to governance and ensuring that all voices are heard, especially in matters related to death and the afterlife.
 
-7.  **Hierophants of Winter - Seasonal Leaders:** During the harsh winter months, specially appointed leaders known as Hierophants of Winter take charge. These individuals are chosen for their spiritual strength and knowledge of winter survival, guiding the community through the most challenging season with rituals and practical leadership.
+7.  **Hierophants of Winter - Seasonal Leaders:** During the harsh winter [[months]], specially appointed leaders known as Hierophants of Winter take charge. These individuals are chosen for their spiritual strength and knowledge of winter survival, guiding the community through the most challenging season with rituals and practical leadership.
 
 9.  **Pilgrimage Officials - Organizers of Sacred Journeys:** A group of officials is responsible for organizing and overseeing pilgrimages to sacred sites, particularly graveyards and places of historical significance. These officials ensure that such journeys are conducted with the utmost respect and in accordance with religious traditions.
 

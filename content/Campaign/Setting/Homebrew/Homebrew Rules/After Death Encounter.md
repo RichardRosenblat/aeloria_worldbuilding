@@ -3,17 +3,17 @@ tags:
   - setting
   - homebrew
 ---
-# Encounter with the Raven Queen
+# Encounter with the [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]]
 
-Upon the death of a character or NPC in [[Aeloria]], their soul is guided by the enigmatic Raven Queen before they pass into the afterlife. This encounter offers clarity and closure, ensuring a smooth transition between the realms of the living and the dead. 
+Upon the death of a character or NPC in [[Aeloria]], their soul is guided by the enigmatic [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]] before they pass into the afterlife. This encounter offers clarity and closure, ensuring a smooth transition between the realms of the living and the dead. 
 
-The Raven Queen’s encounters with the deceased are designed to offer comfort and clarity as they transition from life to death. The following tables provide a structured yet flexible way to determine various aspects of these encounters.
+The [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]]’s encounters with the deceased are designed to offer comfort and clarity as they transition from life to death. The following tables provide a structured yet flexible way to determine various aspects of these encounters.
 
-The text below is a template for creating a unique encounter with The Raven Queen. The tables provide a series of prompts to help you generate a detailed and engaging scene. You can use these tables to create a memorable and meaningful encounter for your players or NPCs.
+The text below is a template for creating a unique encounter with The [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]]. The tables provide a series of prompts to help you generate a detailed and engaging scene. You can use these tables to create a memorable and meaningful encounter for your players or NPCs.
 
 For more information on the myth and lore of why this happens you can read the myth: [[The Raven Queen's Duty to the Departed]]
 
-"You **(how the dead person arrived)** in **(location of the encounter)**. You are **(what the dead person is doing when they meet The Raven Queen)**. As you look around, you see **(how The Raven Queen presents herself)**. She appears as **(The Raven Queen’s appearance)**. She **(The Raven Queen’s demeanor)**. You feel **(the dead person’s feelings)** as you see her. The conversation proceeds **(how the conversation proceeds)**. She asks you **(what The Raven Queen asks)**, you also **(additional details)**."
+"You **(how the dead person arrived)** in **(location of the encounter)**. You are **(what the dead person is doing when they meet The [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]])**. As you look around, you see **(how The [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]] presents herself)**. She appears as **(The [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]]’s appearance)**. She **(The [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]]’s demeanor)**. You feel **(the dead person’s feelings)** as you see her. The conversation proceeds **(how the conversation proceeds)**. She asks you **(what The [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]] asks)**, you also **(additional details)**."
 
 ## 1. How the Dead Person Arrived
 
@@ -37,7 +37,7 @@ For more information on the myth and lore of why this happens you can read the m
 | 5             | A beautiful and timeless landscape, like a meadow or a peaceful forest glade.                     |
 | 6             | A reflective, mirror-like realm where memories and moments from their life are visible around them.|
 
-## 3. What the Dead Person is Doing When They Meet The Raven Queen
+## 3. What the Dead Person is Doing When They Meet The [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]]
 
 | **Roll (d6)** | **Activity**                                                                         |
 |:--------------|:-------------------------------------------------------------------------------------|
@@ -48,7 +48,7 @@ For more information on the myth and lore of why this happens you can read the m
 | 5             | Simply lost in thought, distracted by something familiar or comforting (e.g., a pet, a meaningful object).   |
 | 6             | Reenacting a cherished memory from their life.                                       |
 
-## 4. How The Raven Queen Presents Herself
+## 4. How The [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]] Presents Herself
 
 | **Roll (d6)** | **Presentation**                                                                 |
 |:--------------|:--------------------------------------------------------------------------------|
@@ -59,7 +59,7 @@ For more information on the myth and lore of why this happens you can read the m
 | 5             | She steps out of the shadows, her appearance gradual and calming.                |
 | 6             | A subtle shift in the atmosphere marks her presence before she becomes visible.  |
 
-## 5. The Raven Queen’s Appearance
+## 5. The [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]]’s Appearance
 
 | **Roll (d6)** | **Appearance**                                                                 |
 |:--------------|:------------------------------------------------------------------------------|
@@ -70,7 +70,7 @@ For more information on the myth and lore of why this happens you can read the m
 | 5             | A simple but beautiful human with gentle features, yet within their beauty their eyes show an incredible sadness beneath it. So young yet somehow so very old. |
 | 6             | Another person of the same race as the deceased, exuding calm and grace.      |
 
-## 6. The Raven Queen’s Demeanor
+## 6. The [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]]’s Demeanor
 
 | **Roll (d6)** | **Demeanor**                                                         |
 |:--------------|:----------------------------------------------------------------------|
@@ -103,7 +103,7 @@ For more information on the myth and lore of why this happens you can read the m
 | 5             | She tells a story that parallels their own, making the truth clear.|
 | 6             | She allows them to remember their life’s highlights naturally.   |
 
-## 9. What The Raven Queen Asks
+## 9. What The [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]] Asks
 
 | **Roll (d6)** | **Question/Request**                                                                  |
 |:--------------|:--------------------------------------------------------------------------------------|
@@ -116,13 +116,13 @@ For more information on the myth and lore of why this happens you can read the m
 
 ## 10. Additional Details
 
-| **Roll (d6)** | **Additional Detail**                                                                |
-|:--------------|:-------------------------------------------------------------------------------------|
-| 1             | The deceased remembers vividly how they died.                                        |
-| 2             | They recall meeting the Raven Queen at their birth.                                  |
-| 3             | They immediately understand who she is upon seeing her.                              |
-| 4             | They remember key moments of their life with new clarity.                            |
-| 5             | They feel a sense of completeness and understanding about their life’s purpose.      |
-| 6             | They experience a brief, poignant memory of a loved one just before the encounter.   |
+| **Roll (d6)** | **Additional Detail**                                                              |
+| :------------ | :--------------------------------------------------------------------------------- |
+| 1             | The deceased remembers vividly how they died.                                      |
+| 2             | They recall meeting the goddess at their birth.                                    |
+| 3             | They immediately understand who she is upon seeing her.                            |
+| 4             | They remember key moments of their life with new clarity.                          |
+| 5             | They feel a sense of completeness and understanding about their life’s purpose.    |
+| 6             | They experience a brief, poignant memory of a loved one just before the encounter. |
 
 This table helps to further personalize the encounter, grounding the experience in the deceased's memories and personality.

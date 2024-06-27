@@ -101,6 +101,8 @@ Chaotic Good
 
 ## Religious Practices
 
+The followers of Sehanine engage in a variety of rituals and practices to honor the goddess and seek her guidance. These practices are often centered around the moon, dreams, and illusions, reflecting Sehanine's domains and teachings. Some common religious practices include:
+
 1. **Moonlit Vigils:** Followers gather under the light of the full moon for meditative vigils. They reflect on Sehanine's guidance and seek clarity and inspiration in the moon's glow, often sharing stories of dreams and inspirations.
 2. **Dreamweaving Ceremonies:** Rituals where participants share dreams and interpret their meanings together. Sehanine's presence is invoked to guide dreamers in understanding their subconscious messages and finding wisdom in their visions.
 3. **Mirror Reflection Rites:** Use of mirrors in rituals to reflect on one's inner self and seek clarity. Participants gaze into mirrors, seeking insights and revelations from Sehanine's guidance, often accompanied by prayers or affirmations.
@@ -114,7 +116,7 @@ Chaotic Good
 
 ## Cultural Norms
 
-
+Cultures that worship Sehanine often share common values and practices that reflect the goddess's domains and teachings. These cultural norms shape the daily lives and interactions of followers, fostering a sense of community and connection. Some common cultural norms associated with Sehanine include:
 
 1. **Value of Dreams:** Dreams are considered sacred and significant. People regularly share and interpret dreams in both informal and formal settings. Dream journals are common and encouraged for personal reflection. Many believe that through dreams one can gain a better understanding of themselves and the world around them.
 
@@ -143,25 +145,47 @@ Chaotic Good
 
 ## Political Structures
 
+Few cultures of Sehanine have established political structures that reflect the goddess's domains and teachings. These structures emphasize creativity, intuition, and balance, drawing inspiration from Sehanine's influence over the moon, dreams, and illusions. Some political structures associated with Sehanine include:
+
+1. **Moonlit Councils:** Leadership is shared among a council of wise elders, artists, and spiritual guides who convene under moonlit skies. Decisions are made through consensus, guided by dreams and visions interpreted as signs from Sehanine.
+
+2. **Dreamweaver's Court:** A monarch or ruler serves as a "Dreamweaver," believed to have a direct connection to Sehanine through dreams. Advisors and courtiers help interpret and act upon these divine visions.
+
+3. **Silent Senate:** A legislative body where representatives convene in quiet contemplation. Decisions are reached through thoughtful debate and reflection, emphasizing Sehanine's wisdom and intuition.
+
+4. **Shrine States:** City-states or regions governed by priests and priestesses who maintain sacred shrines to Sehanine. Political decisions are intertwined with religious rituals and observances, ensuring spiritual harmony with governance.
+
+5. **Harmony Halls:** Community leaders, including artisans, healers, and philosophers, gather in communal halls dedicated to fostering creativity and unity. Governance focuses on maintaining balance and harmony inspired by Sehanine's teachings.
+
+6. **Moonshadow Communes:** Autonomous communities where residents live in harmony with nature and the night. Governance is decentralized, with decisions made through consensus and guided by Sehanine's principles of interconnectedness and transformation.
+   
+7. **Dreamwalker's Guild:** An association of diplomats, envoys, and negotiators who navigate diplomatic relations with neighboring realms. Guild members are trained in dream interpretation and mediation to promote peaceful resolutions.
+
+8. **Eclipse Tribunal:** A judicial system where judges, known as "Eclipses," settle disputes under moonlit skies. Legal proceedings incorporate dreams and visions as evidence, believed to reveal Sehanine's divine justice.
+
+9.  **Lunar Syndicate:** A trade federation led by merchants and artisans who celebrate Sehanine's influence on commerce and craftsmanship. Economic policies prioritize fairness, creativity, and sustainable practices.
+
+10. **Twilight Parliament:** A representative assembly where diverse voices, including artists, scholars, and adventurers, gather to debate policies under the guidance of Sehanine's principles of balance and transformation.
+
 ## Elemental Affinities
 
-| Elements |
-| -------- |
-|Water|
-|Air|
-|Electricity|
-|Cold|
-|Energy|
-|Life|
-|Transmutation|
-|Divination|
-|Mind|
-|Gravity|
-|Void|
-|Darkness|
-|Chaos|
-|Order|
-|Creation|
+| Elements      |
+|:------------- |
+| Water         |
+| Air           |
+| Electricity   |
+| Cold          |
+| Energy        |
+| Life          |
+| Transmutation |
+| Divination    |
+| Mind          |
+| Gravity       |
+| Void          |
+| Darkness      |
+| Chaos         |
+| Order         |
+| Creation      |
 
 ## Home Plane
 
@@ -205,7 +229,6 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 for the god above can you create:
 
-now can you generate political structures associated with them
 now can you generate a list of 8 blessings the god can bestow upon their followers as they gain favor with this god in dnd terms
 now can you generate a list of 8 curses the god's follower can bestow upon their enemies as they gain favor with this god in dnd terms
 now can you generate a list of elements that could be associated with them

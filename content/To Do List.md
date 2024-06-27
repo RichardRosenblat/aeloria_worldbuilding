@@ -66,15 +66,16 @@ tags:
 27. [ ] Create types of ruins, their info like characterisits, materials, categorizations etc and categories
 28. [ ] Create different avatars for the gods for different cultures
 29. [ ] Create Elements/Magic
-30. [ ] Create theory of arcan
-31. [ ] Make ways to recognize members of factions, and diferentials of each rank
-32. [ ] Make saturnii's corruption arc
+30. [ ] Create theory of arcane
+31. [ ] Add the venger
+32. [ ] Make ways to recognize members of factions, and diferentials of each rank
+33. [ ] Make saturnii's corruption arc
 	1. [ ] Crown of dominion
 	2. [ ] https://youtu.be/U-LNI8JZYtE?si=lELf2yYZ0wVaV1-4
-33. [ ] Create Cultures and expand on it
-34. [ ] Change Alonian culture name
-35. [ ] Create Kingdoms
-36. [ ] Create story of cultural erasure and signs of forgotten cultural detritus
+34. [ ] Create Cultures and expand on it
+35. [ ] Change Alonian culture name
+36. [ ] Create Kingdoms
+37. [ ] Create story of cultural erasure and signs of forgotten cultural detritus
 ## These tasks can be done after the capaign starts
 1. [ ] Create Alchemical Ingredients
 2. [ ] Visit planes and create models for them 

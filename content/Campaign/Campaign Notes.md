@@ -255,7 +255,7 @@ Suddenly, you awaken in unfamiliar surroundings—a dimly lit room with the scen
 
 ## Random scene i thought of
 
-### Meeting the Raven Queen
+### Meeting the [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]]
 As you awaken, you find yourself lying on soft grass. You can't recall how you arrived here, only that the battle against the Archlich Zalphar looms faintly in your memory. The sound of the wind, the grass tickling your skin, and the scent of flowers envelop your senses, providing a serene contrast to the chaos you remember. Opening your eyes, they take a moment to adjust, showing a colorful sky above, painted in shades of orange, pink, and purple by the setting sun. Sitting up, you take in the beautiful meadow around you, with tall grass and vibrant flowers swaying gently in the breeze. A calm lake reflects the sky, surrounded by rolling hills and trees.
 
 Looking down, you notice your garments, your usual comfortable clothes—a simple shirt and pants. In your hand there is the warmth of a small silver locket. Opening it, you see a delicate painting of you and your lost fiance laughing together, a memory of happier times. It's warmth feels like Amanda's hand holding yours, something you've missed dearly since her passing, the feeling comforting you in this unfamiliar place.
@@ -268,7 +268,7 @@ You clutch the locket a bit tighter. "It belonged to my lover, Amanda...she is n
 
 She smiles softly. "I know who you are, Rayos. Do you remember me?"
 
-A sudden realization washes over you. Memories from your a few second after your birth flood back, you in the arms of your mother, and you recall this figure behind her, watching over you wearing a porcelain mask, the goddess of death that visits all mortals only twice, once at birth and once at death. "You...you're the Raven Queen," you whisper, understanding dawning on you. Then, the final moments of the battle come rushing back—the disintegrate spell, you stepping in front of your friends to protect them, the searing pain, and then...nothing. "I died, didn't I?"
+A sudden realization washes over you. Memories from your a few second after your birth flood back, you in the arms of your mother, and you recall this figure behind her, watching over you wearing a porcelain mask, the goddess of death that visits all mortals only twice, once at birth and once at death. "You...you're the [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]]," you whisper, understanding dawning on you. Then, the final moments of the battle come rushing back—the disintegrate spell, you stepping in front of your friends to protect them, the searing pain, and then...nothing. "I died, didn't I?"
 
 She nods, her expression one of deep empathy. "Yes, you did. You died protecting your friends. It was a brave and noble act. You have earned your rest and now it is time to move on."
 
@@ -278,7 +278,7 @@ Her head tilts slightly. "Your friends are fighting on. They are strong and reso
 
 Remembering your friends, you feel a pang of guilt for leaving them behind. "Can I go back? To help them finish it?" you ask, a glimmer of hope in your eyes.
 
-The Raven Queen's eyes, filled with a timeless sadness, meet yours. "I'm afraid your time in the living world has ended. This is the only thing I cannot change. Is there anything else you wish to ask or do?"
+The [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]]'s eyes, filled with a timeless sadness, meet yours. "I'm afraid your time in the living world has ended. This is the only thing I cannot change. Is there anything else you wish to ask or do?"
 
 A thought springs to your mind. "Will I meet my lover in the afterlife?" you ask, your voice wavering with hope.
 
@@ -286,10 +286,10 @@ A soft smile graces her lips. "Yes, you will. She is waiting for you. She has be
 
 You feel a wave of immense relief wash over you. Clutching the locket tightly, you close your eyes and ask "May I ask one more thing? May you take care of my friends, help them find another sorcerer to help them destroy the eye of Vecna?"
 
-The Raven Queen eyebrows raise slightly and her smile turns into a small chuckle as if you asked her the most obvious thing. "Of course, Rayos. I will watch over them and guide them in their journey. You have my word."
+The [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]] eyebrows raise slightly and her smile turns into a small chuckle as if you asked her the most obvious thing. "Of course, Rayos. I will watch over them and guide them in their journey. You have my word."
 
 You nod, feeling a sense of peace and closure. "Thank you. I am ready to see Amanda again."
 
-The Raven Queen extends her hand, helping you to your feet. The meadow around you seems to glow with a soft light as you prepare to move on. "Follow me," she says, her voice comforting and familiar, like that of a long-lost friend.
+The [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]] extends her hand, helping you to your feet. The meadow around you seems to glow with a soft light as you prepare to move on. "Follow me," she says, her voice comforting and familiar, like that of a long-lost friend.
 
-With one last look at the serene meadow, you see your friends in the distance, fighting valiantly against the Archlich Zalphar. You smile, knowing they will be okay. Turning back to the Raven Queen, she now has her porcelain mask on, her eyes hidden behind it. You take her hand and step forward, following the Matron of Death into the next phase of your existence, knowing that peace and reunion await you.
+With one last look at the serene meadow, you see your friends in the distance, fighting valiantly against the Archlich Zalphar. You smile, knowing they will be okay. Turning back to the [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]], she now has her porcelain mask on, her eyes hidden behind it. You take her hand and step forward, following [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|the Matron of Death]] into the next phase of your existence, knowing that peace and reunion await you.
