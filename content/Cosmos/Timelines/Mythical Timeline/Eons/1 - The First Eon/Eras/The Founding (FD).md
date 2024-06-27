@@ -57,7 +57,7 @@ To aid them in their divine task, they birthed a pantheon of [[True Gods]]:
 - **[[Nerull, God of Fate and Winter - The Winterlord (LN)|Nerull]]**
 - **[[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]]**
 - **[[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]**
-- **Tharizdun**
+- **[[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]**
 - **Torog**
 - **[[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]]**
 - **[[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|Lolth]]**
@@ -85,6 +85,6 @@ In a heart-wrenching moment, the cosmic scales tipped toward oblivion, and [[Vor
 
 It was amidst such turmoil that the very essence of creation and destruction, order and chaos, was tested, shaping the destiny of both [[True Gods]] and [[Over-Deities]] in the crucible of [[the Far Realm]]'s relentless madness.
 
-## Tharizdun's Fall
+## [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s Fall
 
-Tharizdun, driven to madness by the relentless onslaught, tried joining forces with the abominations of [[the far realm]], but in time he was bound by [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] deep within the workshop's depths.
+[[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]], driven to madness by the relentless onslaught, tried joining forces with the abominations of [[the far realm]], thus betraying its divine kin. It started working with the forces of [[the Far Realm]] to bring about the end of all things, it created a portal to the [[The Far Realm|Far Realms]] and as the forces of madness poured through, the [[True Gods]] and [[Over-Deities]] were forced to act. [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s siblings held him at bay, and in time it was bound by [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] deep within the workshop's core with a confinement made of chains, hooks, metal plates and its body was bound within a coffin of its own skin.

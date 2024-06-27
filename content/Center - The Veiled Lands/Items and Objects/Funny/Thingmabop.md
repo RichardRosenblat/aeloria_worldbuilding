@@ -3,7 +3,7 @@ tags:
   - funny_item
   - magic_item
 ---
-# Name: Thingmabop
+# Thingmabop
 
 *Has you really been far? Even as decided to use even go want to look more like? 
 Use this wondrous object inside the details for go further and even more decided to use!

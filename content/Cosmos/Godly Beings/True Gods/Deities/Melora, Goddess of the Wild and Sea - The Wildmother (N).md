@@ -40,17 +40,17 @@ Guiding us through the stream." - Poem written in prayer to the Wildmother
 
 ## Culture Names
 
-| Culture                  | Name          | Title                        | Pronouns    | Group                                                                             |
-| ------------------------ | ------------- | :--------------------------- | ----------- | --------------------------------------------------------------------------------- |
-| Alonian (Tallman) Generic   | Melora        | The Wildmother               | She/Her     | The [[Harmonious Gods]]                                                           |
-| Asteni (Tallman) Italian   | Nettuno       | The King of the Seas         | He/Him      | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Tallman) Hispanic     | Oceana        | The Mistress of the Deep     | She/Her     | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
-| Duir (Dwarven) German    | Natur-huterin | The Eldertree                | He/Him      | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
-| Dwelmer (Dwarven) Nordic | Njordr        | The Wildkeeper               | He/Him      | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
-| Eldar (Elven) Elven      | Silvannon     | The Rooted King              | He/They     | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
-| Eldarin (Elven) Japanese | Sakurahime    | The Everbloom                | She/Her     | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
-| Mularir (Tallman) Greek    | Physis        | The Enchantress of the Coast | She/Her     | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
-| Yotunn (Giant) Giant     | Jordrota      | The Beast in the Woods       | Him/They/It | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
+| Culture                   | Name          | Title                        | Pronouns    | Group                                                                             |
+| ------------------------- | ------------- | :--------------------------- | ----------- | --------------------------------------------------------------------------------- |
+| Alonian (Tallman) Generic | Melora        | The Wildmother               | She/Her     | The [[Harmonious Gods]]                                                           |
+| Asteni (Tallman) Italian  | Nettuno       | The King of the Seas         | He/Him      | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
+| Dal (Tallman) Hispanic    | Oceana        | The Mistress of the Deep     | She/Her     | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Duir (Dwarven) German     | Natur-huterin | The Eldertree                | He/Him      | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
+| Dwelmer (Dwarven) Nordic  | Njordr        | The Wildkeeper               | He/Him      | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
+| Eldar (Elven) Elven       | Silvannon     | The Rooted King              | He/They     | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
+| Eldarin (Elven) Japanese  | Sakurahime    | The Everbloom                | She/Her     | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
+| Mularir (Tallman) Greek   | Physis        | The Enchantress of the Coast | She/Her     | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
+| Yotunn (Giant) Giant      | Jordrota      | The Beast in the Woods       | Him/They/It | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 ## Extra Titles
 

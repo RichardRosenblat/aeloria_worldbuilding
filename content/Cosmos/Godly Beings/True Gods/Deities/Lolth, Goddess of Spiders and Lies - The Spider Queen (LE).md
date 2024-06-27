@@ -30,17 +30,17 @@ Yet I alone see your true potential—the power you could wield, the intricate w
 
 ## Culture Names
 
-| Culture                  | Name      | Title                  | Pronouns    | Group                                                      |
-| :----------------------- | --------- | ---------------------- | ----------- | ---------------------------------------------------------- |
-| Alonian (Tallman) Generic   | Lolth     | The Spider Queen       | She/Her     | The [[Defiant Gods]]                                       |
-| Asteni (Tallman) Italian   | Tejedora  | The Weaver of Lies     | She/It      | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
-| Dal (Tallman) Hispanic     | Aracnia   | The Deceiver of Silk   | She/Her     | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
-| Duir (Dwarven) German    | Weberin   | The Ensnaring Web      | She/They/It | [[Defiant Gods\|Die Gegner]] (The opposers)                |
-| Dwelmer (Dwarven) Nordic | Arachna   | The Eight-Legged Ruler | She/They/It | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
-| Eldar (Elven) Elven      | Ungoliant | The Demon Spider       | She/They/It | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
-| Eldarin (Elven) Japanese | Jorogumo  | The First Drow         | She/Her     | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
-| Mularir (Tallman) Greek    | Arachne   | The Schemer in Silk    | She/Her     | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
-| Yotunn (Giant) Giant     | Arakna    | The Great Spider       | She/They/It | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
+| Culture                   | Name      | Title                  | Pronouns    | Group                                                      |
+| :------------------------ | --------- | ---------------------- | ----------- | ---------------------------------------------------------- |
+| Alonian (Tallman) Generic | Lolth     | The Spider Queen       | She/Her     | The [[Defiant Gods]]                                       |
+| Asteni (Tallman) Italian  | Tejedora  | The Weaver of Lies     | She/It      | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
+| Dal (Tallman) Hispanic    | Aracnia   | The Deceiver of Silk   | She/Her     | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
+| Duir (Dwarven) German     | Weberin   | The Ensnaring Web      | She/They/It | [[Defiant Gods\|Die Gegner]] (The opposers)                |
+| Dwelmer (Dwarven) Nordic  | Arachna   | The Eight-Legged Ruler | She/They/It | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
+| Eldar (Elven) Elven       | Ungoliant | The Demon Spider       | She/They/It | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
+| Eldarin (Elven) Japanese  | Jorogumo  | The First Drow         | She/Her     | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
+| Mularir (Tallman) Greek   | Arachne   | The Schemer in Silk    | She/Her     | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
+| Yotunn (Giant) Giant      | Arakna    | The Great Spider       | She/They/It | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 ## Extra Titles
 

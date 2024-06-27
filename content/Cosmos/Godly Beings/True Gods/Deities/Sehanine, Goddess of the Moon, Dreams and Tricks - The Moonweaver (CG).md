@@ -244,7 +244,7 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 7. **Curse of Lunar Enervation:** The target feels a constant drain on their vitality, as if the moon itself is pulling at their life force. The target has disadvantage on Constitution saving throws and their hit point maximum is reduced every time they take damage from a radiant damage source by the same amount of damage taken. This reduction lasts until the curse is lifted. If they are reduced to 0 hit points, they blow up in a burst of radiant energy, dealing 4d6 damage to all creatures within 10 feet of them.
 
-8. **Curse of Shifting Shadows:** Sehanine causes the shadows to grasp at the target's form, any time they enter dim light or total darkness of any type their movement is halfed, if the *bestow curse* spell is cast using a spell slot higher than 6th their speed becomes zero under total darkness and they are restrained by the shadows. If the spell is cast at 9th level, the target must succeed on a Charisma saving throw or be pulled into the Shadowfell.
+8. **Curse of Shifting Shadows:** Sehanine causes the shadows to grasp at the target's form, any time they enter dim light or total darkness of any type their movement is halfed, if the *bestow curse* spell is cast using a spell slot higher than 6th their speed becomes zero under total darkness and they are restrained by the shadows. If the spell is cast at 9th level, the target must succeed on a Charisma saving throw or be pulled into the [[Shadowfell]].
 
 ## Myths
 
