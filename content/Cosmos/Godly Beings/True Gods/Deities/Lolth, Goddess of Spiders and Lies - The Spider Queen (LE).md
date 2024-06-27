@@ -194,6 +194,8 @@ Cultures that worship Lolth are characterized by complex and often brutal politi
 
 A follower of Lolth can gain favor with the Spider Queen by performing dark rituals, sacrificing captives, and engaging in acts of cruelty and deception. As they embody the principles of intrigue, betrayal, and power, Lolth may bestow the following blessings upon them:
 
+*Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
+
 1. **Blessing of Spider Climb**: The follower gains the ability to cast *Spider Climb* at will, allowing them to move up, down, and across vertical surfaces and upside down along ceilings, while leaving their hands free.
 
 2. **Gift of Venom**: The follower's bite, unarmed or weapon attacks can deliver a potent venom. This venom deals an additional 2d6 poison damage and requires a DC 15 Constitution saving throw, or the target is poisoned for 1 minute. Once per long rest, the follower can cast *Poison Spray* as a bonus action, the DC for the saving throw is 15 and the spell has an aditional effect of causing the target become blinded for 1 minute.

@@ -191,6 +191,8 @@ The political structures influenced by Avandra's teachings reflect the goddess's
 
 A follower of Avandra can gain favor with their deity by embracing change, taking bold risks, and fighting for freedom. As they embody the principles of luck and adaptability, Avandra may bestow the following blessings upon them:
 
+*Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
+
 1. **Fortune's Favor:** 
     - Avandra grants her followers increased luck in their endeavors. Once per day, a follower may reroll any one ability check, saving throw, or attack roll, choosing which result to use.
 2. **Ebb and Flow:** 

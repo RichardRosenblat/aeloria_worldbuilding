@@ -192,6 +192,8 @@ The political structures influenced by Asmodeus's teachings reflect the deity's 
 
 A follower of Asmodeus can gain favor with their deity by performing acts of cruelty, domination, and subjugation in his name. As they embody the principles of tyranny and oppression, Asmodeus may bestow the following blessings upon them:
 
+*Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
+
 1. **Infernal Resilience:**
      - Asmodeus grants his followers enhanced resilience against fire and infernal energies. They gain resistance to fire damage and advantage on saving throws against spells and effects originating from infernal sources.
 2. **Tyrant's Authority:**    

@@ -201,7 +201,26 @@ Few cultures of Sehanine have established political structures that reflect the 
 
 ## Blessings
 
-A follower of (God) can gain favor with their deity by (doing what?). As they embody the principles of (what?), (God) may bestow the following blessings upon them:
+A follower of Sehanine can gain favor with the Moonweaver by seeking beauty in the simplest of things, forging bonds openly, and embracing each emotion passionately. As they embody the principles of wonder, connection, and introspection, Sehanine may bestow the following blessings upon them:
+
+*Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
+
+1. **Moonlit Vision**: The follower gains the ability to see in the non-magical darkness as if it were dim light for up to 120 feet and magical darkness as if it were dim light for up to 60 feet. They can also see invisible creatures and objects within 60 feet of them.
+
+2. **Dreamwalker’s Insight**: The follower gains the ability to interpret dreams and receive prophetic visions. During long rests, the character can cast the *Scrying* spell once without using a spell slot.
+
+3. **Lunar Resilience**: The follower is blessed with the endurance of the moon's cycles, able to withstand more damage. The character gains advantage on saving throws against being poisoned, and they have resistance to poison damage. During night time, the character gains resistance to necrotic, psychic, radiant, and cold damage and they cannot be charmed or frightened.
+
+4. **Veil of the Night**: The follower can use the shadows in their favor, they become invisible in dim light or darkness as a bonus action. Additionally, once per long rest they can either teleport between shadows up to 120 feet away or take a sliver of darkness that manifests as a dark tattoo that coils around their arm, granting them the effects of the *Regenerate* spell for 1 hour or with a bonus action stop that effect and gain the effects of the *Shadow blade* spell for 1 minute using the sliver as the weapon.
+
+5. **Moonbeam’s Grace**: The follower is bestowed with agility and grace under Sehanine’s moonlight. The character gains a +2 bonus to Dexterity (Acrobatics) checks and their movement speed increases by 20 feet. During night time, the character gains +4 on their AC, their Dexterity modifier and can cast the *Haste* spell once without using a spell slot or needing concentration.
+
+6. **Moonlight blast**: The follower can call upon Sehanine’s power to unleash a radiant blast of moonlight. The character gains the ability to cast *Moonbeam* at 5th level up to 3 times per long rest without using a spell slot. The number of times they can cast it increases to 4 at 11th level and 5 at 17th level
+
+7. **Lunar Healing**: The follower can call upon Sehanine’s power to heal themselves and others. The character gains the ability to cast *Heal* 2 times per long rest without using a spell slot. During night time, the character can cast this spell at 8th level without using a spell slot and during a full moon and the character is under the moonlight, the spell changes to *Mass Heal*.
+
+8. **Moonlit Sanctuary**: The follower can create a safe haven under the moon's light, providing rest and protection. Once per long rest, the character can cast the *Leomund's Tiny Hut* spell without using a spell slot.
+
 
 ## Curses
 

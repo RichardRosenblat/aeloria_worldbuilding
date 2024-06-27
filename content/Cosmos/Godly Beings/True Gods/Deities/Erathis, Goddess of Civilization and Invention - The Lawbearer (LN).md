@@ -164,6 +164,8 @@ The worship of Erathis often shapes the political structures and governance syst
 
 A follower of Erathis can gain favor with their deity by upholding the principles of civilization, innovation, and order. As they embody the values of progress, community, and urban development, Erathis may bestow the following blessings upon them:
 
+*Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
+
 1. **Blessing of Civil Harmony**: 
     - The followers of Erathis are granted the ability to temporarily enhance their allies' cooperation and coordination in battle. Once per day, as an action, the blessed individual can cast a modified version of the *Bless* spell, granting up to three creatures of their choice within 30 feet a d6 bonus to attack rolls and saving throws for 1 minute.
 

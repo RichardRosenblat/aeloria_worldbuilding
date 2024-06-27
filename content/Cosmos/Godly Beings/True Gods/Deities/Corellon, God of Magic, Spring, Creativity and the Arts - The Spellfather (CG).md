@@ -174,6 +174,8 @@ All of them
 
 A follower of Corellon can gain favor with their deity by creating new art, searching for lost magic, and opposing the followers of [[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|Lolth]]. As they embody the principles of creativity, magic, and beauty, Corellon may bestow the following blessings upon them:
 
+*Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
+
 1. **Inspiration of the Spellfather**
      - Once per long rest, the blessed character can add a d6 to any ability check, attack roll, or saving throw they make. They can choose to use this inspiration after seeing the roll but before knowing the outcome.
 

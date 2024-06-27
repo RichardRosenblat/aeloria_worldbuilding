@@ -186,6 +186,8 @@ Where the worship of Bane, the Strife Emperor, holds sway, distinctive political
 
 A follower of Bane can gain favor with their deity by showing strength, ruthlessness, subjulgating their enemies. As they embody the principles of war and conquest, Bane may bestow the following blessings upon them:
 
+*Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
+
 1. **Bane's Might**: 
      - The follower is granted part of Bane's strength, enhancing their combat prowess. The follower gains an increase of +2 to their Strength score and deals an additional 1d6 damage on successful melee attacks.
 

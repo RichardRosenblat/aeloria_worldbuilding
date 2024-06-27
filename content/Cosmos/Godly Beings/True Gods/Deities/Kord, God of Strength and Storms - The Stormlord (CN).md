@@ -195,6 +195,8 @@ Societies that worship Kord, the Stormlord, often exhibit the following politica
 
 A follower of Kord, the Stormlord, can gain favor with their deity by demonstrating bravery, strength, wisdom and valor in battle. As they embody the principles of courage, honor, and resilience, Kord may bestow the following blessings upon them:
 
+*Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
+
 1. **Blessing of Strength:**
    - The recipient gains a permanent +2 bonus to their Strength score, up to a maximum of 25. This blessing represents Kord’s favor, imbuing the follower with extraordinary physical power.
 

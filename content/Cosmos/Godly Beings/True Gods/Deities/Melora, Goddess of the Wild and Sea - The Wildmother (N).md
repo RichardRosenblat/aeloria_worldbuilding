@@ -223,6 +223,8 @@ Culture that worship Melora rarely have centralized political structures, instea
 
 A follower of Melora can gain favor with the Wildmother by protecting the untamed wilderness, respecting the balance of nature, and embracing the wild and the sea. As they embody the principles of environmental stewardship, spiritual harmony, and reverence for the natural world, Melora may bestow the following blessings upon them:
 
+*Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
+
 1. **Blessing of the Untamed Heart**: The follower gains the ability to cast *Speak with Animals* and *Speak with Plants* at will. Additionally, they have advantage on Wisdom (Animal Handling) checks, regardless of the creature's type, with beasts being drawn to the follower's presence. 
 
 2. **Blessing of the Tides**: The follower receives a swim speed equal to their walking speed and can breathe underwater. Additionally, they gain resistance to cold damage and have advantage on saving throws against being knocked prone. They can also cast *Water Walk* at will, but only on themselves.

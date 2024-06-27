@@ -196,6 +196,8 @@ Cultures that worship Moradin often have unique political structures that reflec
 
 A follower of Moradin can gain favor with the Allhammer by dedicating themselves to the craft of creation, upholding tradition, and honoring their ancestors. As they embody the principles of craftsmanship, resilience, and legacy, Moradin may bestow the following blessings upon them:
 
+*Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
+
 1. **Artisan's Mastery**: The follower gains proficiency in Smith's Tools, Mason's Tools, Jeweler's Tools, Carpenter's Tools and gains advantage on all ability checks related to crafting, identifying or repairing items related to those crafts. Additionally, when crafting weapons or armor, the follower reduces the time and cost required by half.
 
 2. **Stonewarden's Resilience**: The follower gains resistance to bludgeoning, piercing, and slashing damage from non-magical weapons while wearing medium or heavy armor. Additionally, they gain advantage on saving throws against petrification effects.

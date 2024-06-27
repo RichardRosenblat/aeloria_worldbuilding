@@ -189,6 +189,8 @@ The societies that worship the Raven Queen often have unique political structure
 
 A follower of the Raven Queen can gain favor with their deity by performing funeral rites, guiding souls to the afterlife, and honoring the natural cycle of life and death. As they embody the principles of death, acceptance of mortality, and reverence for the deceased, the Raven Queen may bestow the following blessings upon them:
 
+*Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
+
 1. **Blessing of the Shroud:** The follower gains the ability to cast *Pass Without Trace* once per day without expending a spell slot or requiring concentration, lasting 10 minutes. This reflects the Raven Queen's ability to move unseen through the shadows of death.
 
 2. **Eyes of the Crow:** The follower gains darkvision up to 60 feet. If they already have darkvision, its range extends by an additional 30 feet. This blessing allows them to see through darkness as crows do.

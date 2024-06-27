@@ -25,4 +25,4 @@ As you complete the somatic gestures and pour the pint of water into the air, th
 - **Alteration:** Alternatively, instead of expanding the ring, you can use your action to move the ring to your hand and expand it at an angle. When you do this, you can place a 30-foot line with a height of 30 ft, originating from you or 5ft from you. Each creature in that area must make a Dexterity saving throw. A creature takes 8d6 slashing damage on a failed save, or half as much damage on a successful one.
 
 ## Higher Levels:
-When you cast this spell using a spell slot of 5th level or higher, the initial and expansion damage both increase by 1d6 for each slot level above 4th.
+When you cast this spell using a spell slot of 6th level or higher, the initial and expansion damage both increase by 1d6 for each slot level above 6th.

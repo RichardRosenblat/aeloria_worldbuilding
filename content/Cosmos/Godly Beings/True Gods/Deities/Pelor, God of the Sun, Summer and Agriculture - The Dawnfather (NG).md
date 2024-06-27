@@ -195,6 +195,8 @@ Pelor is often associated with themes of justice, light, and community welfare, 
 
 A follower of Pelor can gain favor with their deity by embodying the principles of justice, compassion, and light. As they uphold these values in their daily lives and actions, Pelor may bestow the following blessings upon them:
 
+*Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
+
 1. **Radiant Smite**
    - Once per long rest, the follower can channel Pelor's divine light into their weapon, adding 2d8 radiant damage to their next melee attack. This attack also has a chance to blind the target for 1d4 rounds (DC 15 Constitution saving throw).
 

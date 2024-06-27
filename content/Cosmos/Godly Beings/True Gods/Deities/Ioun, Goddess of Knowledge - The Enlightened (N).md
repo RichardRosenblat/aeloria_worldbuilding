@@ -157,6 +157,8 @@ Societies that revere Ioun as a deity of knowledge and wisdom often incorporate 
 
 A follower of Ioun can gain favor with their deity by seeking knowledge, advancing their understanding, and sharing wisdom with others. As they embody the principles of reason, perception, and truth, Ioun may bestow the following blessings upon them:
 
+*Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
+
 1. **Divine Insight**: 
    - Once per day, the follower can invoke Ioun's guidance to gain advantage on an ability check, saving throw, or attack roll, reflecting the goddess's gift of foresight and wisdom.
 2. **Augury**: 

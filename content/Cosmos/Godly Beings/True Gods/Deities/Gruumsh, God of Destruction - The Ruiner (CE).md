@@ -171,6 +171,8 @@ The few societies that worship Gruumsh are often characterized by their militari
 
 A follower of Gruumsh can gain favor with their deity by proving their strength and prowess in battle, demonstrating their unwavering commitment to destruction and chaos. As they embody the principles of might and savagery, Gruumsh may bestow the following blessings upon them:
 
+*Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
+
 1. **Unyielding Might:** 
    - Gruumsh blesses his followers with enhanced physical strength and endurance, granting them a +3 bonus to their Strength and Constitution scores, reflecting their unwavering resolve in battle.
   

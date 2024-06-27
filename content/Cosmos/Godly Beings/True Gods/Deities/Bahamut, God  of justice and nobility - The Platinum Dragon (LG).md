@@ -194,6 +194,8 @@ The followers of Bahamut have established various political structures that refl
 
 A follower of Bahamut can gain favor with their deity by engaging in acts of justice, behaving honorably, and upholding the principles of nobility. As they embody the principles of justice and righteousness, Bahamut may bestow the following blessings upon them:
 
+*Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
+
 1. **Dragon's Vigilance**: 
      - Followers gain enhanced perception and vigilance, granting advantage on Wisdom (Perception) checks and the ability to sense the presence of fiends, aberrations and undead within 60 feet. 
    
