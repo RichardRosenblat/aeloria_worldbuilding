@@ -224,9 +224,25 @@ A follower of Sehanine can gain favor with the Moonweaver by seeking beauty in t
 
 ## Curses
 
-(God)'s followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with (God), they may gain access to the following curses to unleash upon their foes:
+Sehanine's followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with Sehanine, they may gain access to the following curses to unleash upon their foes:
 
 The follower must cast *Bestow Curse* to invoke their available curses:
+
+1. **Curse of Eternal Nightmares:** The target is plagued by horrific nightmares whenever they sleep, making restful sleep impossible. The target has disadvantage on Wisdom saving throws and cannot gain the benefits of a long rest.
+
+2. **Curse of Lunar Weakness:** The target becomes weak and lethargic under moonlight, sapping their strength. The target has disadvantage on Strength, Dexterity, and Constitution saving throws and ability checks. Additionally, the target's movement speed is halved while under moonlight and becomes 0 if they are in direct moonlight.
+
+3. **Curse of Lycanthropos:** Sehanine curses the target to have their true nature revealed under the moon's light. The target must make a Constitution saving throw or transform into a werebeast of the DM's choice under the light of the moon. 
+
+4. **Curse of Dreamless Slumber:** The target becomes fatigued and unable to awaken from their sleep, trapped in a dreamless slumber. The target gains a level of exhaustion every hour and once they sleep the target cannot be woken by any means other than a *Greater Restoration* spell. If the target reaches 6 levels of exhaustion, instead of dying, their hit points are reduced to 0 and they are in the sleep state as previously described. If the *bestow curse* spell is cast using a spell slot higher than 3rd level, the target recieves an extra level of exhaustion when the curse is cast for each level above 3rd. If the spell is cast at 9th level, the target is put into a coma and cannot be woken by any means other than a *Wish* spell.
+
+5. **Curse of the Burning Light:** The target becomes sensitive to the moon's light and any other glowing light source, causing them intense pain and discomfort. Any natural light source (for example, sunlight, moonlight, glowing crystals or stones), magical light source (for example, *Light*, *Daylight*, *Moonbeam*) cause the target to take 1d6 radiant damage per round started under bright light from those sources. The target has disadvantage on attacks rolls and saving throw while under the light and a vulnerability to radiant damage sources other than the this curse.
+
+6. **Curse of Moonlit Delirium:** The target is afflicted with confusion and hallucinations under the light of the moon. The target has disadvantage on Intelligence saving throws and Wisdom saving throws against illusions and enchantments. Additionally, when in the light of the moon, the target must make a Wisdom saving throw or be affected by the *Confusion* spell.
+
+7. **Curse of Lunar Enervation:** The target feels a constant drain on their vitality, as if the moon itself is pulling at their life force. The target has disadvantage on Constitution saving throws and their hit point maximum is reduced every time they take damage from a radiant damage source by the same amount of damage taken. This reduction lasts until the curse is lifted. If they are reduced to 0 hit points, they blow up in a burst of radiant energy, dealing 4d6 damage to all creatures within 10 feet of them.
+
+8. **Curse of Shifting Shadows:** Sehanine causes the shadows to grasp at the target's form, any time they enter dim light or total darkness of any type their movement is halfed, if the *bestow curse* spell is cast using a spell slot higher than 6th their speed becomes zero under total darkness and they are restrained by the shadows. If the spell is cast at 9th level, the target must succeed on a Charisma saving throw or be pulled into the Shadowfell.
 
 ## Myths
 
@@ -246,11 +262,6 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ![[The Moon (Aeloria's)#Creation]]
 
-for the god above can you create:
-
-now can you generate a list of 8 blessings the god can bestow upon their followers as they gain favor with this god in dnd terms
-now can you generate a list of 8 curses the god's follower can bestow upon their enemies as they gain favor with this god in dnd terms
-now can you generate a list of elements that could be associated with them
 
 
 [^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Sehanine)
