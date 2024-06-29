@@ -5,7 +5,7 @@ tags:
 aliases:
   - The First Eon
 ---
-
+	
 # The First Eon
 
 >[!tip] This is an Eon

@@ -45,14 +45,14 @@ In [[Aeloria]], every day of the [[Days of The Week|week]] allows for stargazers
 
 ![[Days of The Week#Personality traits]]
 
-## Astronomical objects
+## [[Astronomical objects]]
 
 The solar system is not only composed of planets and stars, but also of other celestial bodies that contribute to the cosmic spectacle. These entities add depth and mystery to the vast expanse of space, enriching the narrative tapestry of the campaign setting.
 
 ![[Astronomical objects]]
 
-## Celestial Phenomena
+## [[Celestial Phenomena]]
 
-The solar system is a realm of wonder and mystery, where celestial phenomena unfold in a mesmerizing display of cosmic beauty. From shimmering auroras to swirling cosmic storms, these phenomena add an element of unpredictability and awe to the celestial theater.
+The solar system is a realm of wonder and mystery, where [[celestial phenomena]] unfold in a mesmerizing display of cosmic beauty. From shimmering auroras to swirling cosmic storms, these phenomena add an element of unpredictability and awe to the celestial theater.
 
 ![[Celestial Phenomena]]

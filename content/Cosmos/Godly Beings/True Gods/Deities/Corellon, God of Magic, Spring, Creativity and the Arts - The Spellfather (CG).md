@@ -64,7 +64,7 @@ The Elven Protector: Corellon, God of the Feyfolk
 7. **Feyfolk**: They are revered by the fey creatures of the world, nurturing their bond with nature and magic, and protecting their realms from dark forces.
 8. **The Arts**: Corellon champions the arts in all its forms, from music and dance to painting and sculpture, celebrating the beauty and diversity of creative expression.
 9. **Weave**: They are the guardian of the Weave, the fabric of magic that binds the universe together, ensuring its balance and harmony.
-10. **Feywild**: Corellon is closely associated with the [[Feywild]], the realm of the fey, where their influence shapes the landscape and inhabitants of this mystical domain.
+10. **[[Feywild]]**: Corellon is closely associated with the [[Feywild]], the realm of the fey, where their influence shapes the landscape and inhabitants of this mystical domain.
 
 ## Alignment
 

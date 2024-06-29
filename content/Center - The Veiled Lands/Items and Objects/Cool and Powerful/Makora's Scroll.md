@@ -7,7 +7,7 @@ tags:
 # Name: Makora's Scroll
 
 ## Description:
-This ancient scroll is adorned with runes of chaos and destruction, its material is skin and bone. The scroll is said to be a gift from Gruumsh, the god of orcs, and contains the power to summon Makora, a fierce warrior blessed by the god himself. The scroll is a powerful artifact, but its use comes with a price. The summoning of Makora is a double-edged sword, as the warrior is uncontrollable and will attack friend and foe alike. The scroll is a dangerous weapon, and its use should be approached with caution.
+This ancient scroll is adorned with runes of chaos and destruction, its material is skin and bone. The scroll is said to be a gift from [[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]], the god of orcs, and contains the power to summon Makora, a fierce warrior blessed by the god himself. The scroll is a powerful artifact, but its use comes with a price. The summoning of Makora is a double-edged sword, as the warrior is uncontrollable and will attack friend and foe alike. The scroll is a dangerous weapon, and its use should be approached with caution.
 
 ## Rarity and Type:
 *Legendary, Wondrous Item*
@@ -19,13 +19,13 @@ No
 *No*
 
 ## Properties:
-- **Summoning Makora:** When the scroll is read aloud, it summons Makora, a formidable warrior blessed by Gruumsh.
+- **Summoning Makora:** When the scroll is read aloud, it summons Makora, a formidable warrior blessed by [[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]].
 - **Halo of Curses:** Makora is accompanied by a floating halo that casts curses on command.
 
 ## Activation:
 - The scroll is activated by reading the following incantation aloud:
 	*With this treasure I summon, the might.*
-	*Gruumsh's fury, fiercest knight.*
+	*[[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]'s fury, fiercest knight.*
 	*Maul the weak, terror bestow,*
 	*Rip and tear, may blood flow.*
 	*No space to remain.*
@@ -45,7 +45,7 @@ No
 This scroll does not have any curse, just that Makora will attack the first creature it sees, and it will be summoned close to the summoner.
 
 ## History:
-The Scroll of Makora's Summoning is a relic from ancient wars, imbued with the brutal essence of Gruumsh. It has passed through the hands of many warlords, each using its power to wreak havoc and dominate their enemies.
+The Scroll of Makora's Summoning is a relic from ancient wars, imbued with the brutal essence of [[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]. It has passed through the hands of many warlords, each using its power to wreak havoc and dominate their enemies.
 
 ## Additional:
 This scroll can break the balance of any encounter, and cause TPKs if not used wisely. 
@@ -59,7 +59,7 @@ As your group stand victorious in the depths of the goblin-infested cave, a hush
 
 "With this treasure I summon, the might," the goblin's voice quivers as they recite the words in broken Common, their words echoing ominously within the cavern's confines. At the entrance of the cave, the once bright sky begins to darken, as ominous storm clouds gather to obscure the sun, casting an eerie red hue over the entrance of the cave. 
 
-"Gruumsh's fury, fiercest knight," the goblin continues, their voice barely a whisper now as the sunlight filters through the crimson veil, bathing the cavern in an otherworldly glow. As if in response to their incantation, the air seems to distort with energy, and the ground trembles beneath your' feet.
+"[[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]'s fury, fiercest knight," the goblin continues, their voice barely a whisper now as the sunlight filters through the crimson veil, bathing the cavern in an otherworldly glow. As if in response to their incantation, the air seems to distort with energy, and the ground trembles beneath your' feet.
 
 "Maul the weak, terror bestow, rip and tear, may blood flow," the goblin's words are lost amidst the roar of the encroaching storm, as burnign embers streak down from the darkened sky, a rain of fire forms around the entrance of the cave, scorching the earth and igniting the branches of the nearby trees.
 

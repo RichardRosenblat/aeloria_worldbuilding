@@ -15,7 +15,6 @@ aliases:
   - Polis (City)
   - Jotunheimr
 ---
-
 # Different Names
 
 The City of Light is known to have many names, these are some of them:

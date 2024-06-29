@@ -1,3 +1,8 @@
+---
+tags:
+  - magic_item
+  - cool_item
+---
 # Starshard Sphere
 
 **Wondrous Item, Legendary (requires attunement)**
@@ -17,15 +22,15 @@ The Starshard Sphere is a golden orb about the size of an apple, adorned with in
 
 2. **Portal Doors:**
    - Several doors within the fortress lead to different parts of the structure.
-   - A unique feature of these doors is that stepping through any of them can instantly transport the user back to an unoccupied space within 30 feet of where the Starshard Sphere is currently located in the Material Plane.
+   - A unique feature of these doors is that stepping through any of them can instantly transport the user back to an unoccupied space within 30 feet of where the Starshard Sphere is currently located in the [[Material Plane]].
    - **Dead Magic Zone Limitation:** If the Starshard Sphere is placed within an area where magic does not function (e.g., an antimagic field or a dead magic zone), the portal doors cease to function, and no spells can be cast within the fortress. Despite this, the fortress can still be moved along with the group inside, reappearing in the new location of the sphere when they exit.
 
 ## Activation and Usage
 - **Attunement:** To attune to the Starshard Sphere, the user must spend a short rest meditating on the sphere while peering into its nebula.
-- **Return:** The user can use an action to end the effect and return all creatures back to the point in the Material Plane from where they were originally transported. If the Starshard Sphere is moved while the party is within the fortress, they reappear within 30 feet of its new location.
+- **Return:** The user can use an action to end the effect and return all creatures back to the point in the [[Material Plane]] from where they were originally transported. If the Starshard Sphere is moved while the party is within the fortress, they reappear within 30 feet of its new location.
 
 ## Lore
-The Starshard Sphere is said to be a gift from a cosmic entity, designed to offer sanctuary and a vantage point from which to observe the cosmos. Its creation is shrouded in mystery, with whispers of ancient starforged magics and primordial nebulae.
+The Starshard Sphere is said to be a gift from a cosmic entity, designed to offer sanctuary and a vantage point from which to observe the cosmos. Its creation is shrouded in mystery, with whispers of ancient starforged magics and primordial [[Astronomical objects|nebulae]].
 
 ## GM Notes
 - **Customizable Fortress:** The fortress can be tailored to fit the needs and style of your campaign, adding rooms, challenges, or treasures as desired.

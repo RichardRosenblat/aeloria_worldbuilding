@@ -29,7 +29,7 @@ Before the inception of time itself, there existed only the tumultuous [[The Far
 
 ## [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]
 
-From the vast abyss of nothingness, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]], two [[Over-Deities|cosmic dreamers]], willed themselves into existence within the [[The Far Realm|Far Realms]]. Their arrival reverberated through every twisted layer of this enigmatic realm, setting reality itself quaking.
+From the vast abyss of nothingness, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]], two [[Over-Deities|cosmic dreamers]], willed themselves into existence within the [[The Far Realm|Far Realms]]. Their arrival reverberated through every twisted layer of this enigmatic realm, setting the [[Non-Realities|non-reality]] itself quaking.
 
 ## [[The Eternal Workshop]]
 
@@ -75,7 +75,7 @@ These battles were cosmic tempests, reverberating through the very fabric of exi
 
 In one such cataclysmic confrontation, the heavens wept crimson, and the stars themselves quivered in fear. [[Vordo]] and [[Ethedok]], two of the divine children, bravely stood against the encroaching terror. But the Abomination known as "The Red End" emerged from the depths of madness, a voracious maw of unfathomable hunger.
 
-In a heart-wrenching moment, the cosmic scales tipped toward oblivion, and [[Vordo]] and [[Ethedok]] were devoured by the insatiable maw of The Red End. Their sacrifice echoed across the realms, a testament to the perilous nature of their divine duty.
+In a horrifying moment, the cosmic scales tipped toward oblivion, and [[Vordo]] and [[Ethedok]] were devoured by the insatiable maw of The Red End. Their sacrifice echoed across the realms, a testament to the perilous nature of their divine duty.
 
 ## Sealing The Red End
 
@@ -87,4 +87,8 @@ It was amidst such turmoil that the very essence of creation and destruction, or
 
 ## [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s Fall
 
-[[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]], driven to madness by the relentless onslaught, tried joining forces with the abominations of [[the far realm]], thus betraying its divine kin. It started working with the forces of [[the Far Realm]] to bring about the end of all things, it created a portal to the [[The Far Realm|Far Realms]] and as the forces of madness poured through, the [[True Gods]] and [[Over-Deities]] were forced to act. [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s siblings held him at bay, and in time it was bound by [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] deep within the workshop's core with a confinement made of chains, hooks, metal plates and its body was bound within a coffin of its own skin.
+[[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]], once a god dedicated to protecting reality, valiantly fought back against the encroaching forces of the [[The Far Realm|Far Realms]]. However, during a cataclysmic battle against an elder evil, [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s sanity fractured. Desperate and driven to madness, it sought an alliance with the abominations of [[The Far Realm]], betraying its divine kin. It opened a portal through which the horrors of madness spilled into [[The Eternal Workshop]], threatening to unravel existence itself.
+
+In response, the [[True Gods]] and [[Over-Deities]] were forced into action. [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s siblings struggled to restrain its chaotic rampage. Ultimately, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]], intervened. They bound [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]] within a prison wrought of chains, hooks, metal plates, and sealed its colossal body within a coffin made from its own skin. The divine duo then divided [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s essence — its power, mind, and physical form — to prevent further devastation.
+
+[[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]] was cast deep into the core of [[the Eternal Workshop]], the farthest sanctuary from the corrupting influence of  [[The Far Realm|The Far Realms]]. The gods, aided by their mothers, waged a bitter war to expel the aberrations and cleanse reality. While many of the abominations were banished, some cunningly hid within the shadows of existence, awaiting their chance to sow chaos once more.

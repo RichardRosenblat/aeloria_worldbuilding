@@ -19,7 +19,7 @@ tags:
 ---
 # Over-Deities in [[Aeloria]]
 
-"Darkness without light is an abyss. Light without darkness is blinding. You cannot have a coin with only one side." - High priestess Alynn, when asked about Aena and Kryela.
+"Darkness without light is an abyss. Light without darkness is blinding. You cannot have a coin with only one side." - High priestess Alynn, when asked about [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]].
 
 ## Introduction to Over-Deities
 

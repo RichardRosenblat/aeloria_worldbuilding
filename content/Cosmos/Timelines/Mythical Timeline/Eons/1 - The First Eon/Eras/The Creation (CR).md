@@ -11,7 +11,7 @@ aliases:
 # The Creation (CR) 
 
 > [!tldr] This is an Era
-> This **Era** of the Mythical Timeline spans between **1 Billion years ago** and **100 Thousand years ago** lasting: **999.9 Million years**
+> This **Era** of the [[Mythical Timeline]] spans between **1 Billion years ago** and **100 Thousand years ago** lasting: **999.9 Million years**
 ```
 <span 
 	  class='ob-timelines' 
@@ -25,20 +25,20 @@ aliases:
 
 ## Erecting [[The Greater Limit]]
 
-To shield their creation, [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] erected [[The Greater Limit]] around reality, a protective barrier that confined them to indirect influence. The sheer magnitude of their cosmic power was such that direct involvement could risk shattering the delicate balance of [[The Greater Limit]] itself. In an intricate dance between creation and restraint, the cosmic architects chose to work through subtle channels, guiding the shaping of reality without jeopardizing the very barrier meant to protect it. This delicate equilibrium ensured the preservation of their wondrous creation while maintaining the integrity of [[The Greater Limit]] against the overwhelming forces at play. However, their work was not without flaw, some aberrations were able to enter their creation before [[the Greater limit]] was created, sealing them inside.
+To shield their creation from the influence of the [[The Far Realm|Far Realm]], [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] erected [[The Greater Limit]] at the core of the [[The Eternal Workshop]], a protective barrier that sealed the center of the [[The Eternal Workshop]] and the prisons of [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]] from the madness of the [[The Far Realm]], but also confined the [[Over-Deities|Cosmic Dreamers]] to indirect influence. The sheer magnitude of their cosmic power was such that direct involvement could risk shattering the delicate balance of [[The Greater Limit]] itself. In an intricate dance between creation and restraint, the cosmic architects chose to work through subtle channels, guiding the shaping of reality without jeopardizing the very barrier meant to protect it. This delicate equilibrium ensured the preservation of their wondrous creation while maintaining the integrity of [[The Greater Limit]] against the overwhelming forces at play. However, their work was not without flaw, some aberrations were able to enter their creation before [[the Greater limit]] was created, sealing them inside.
 
 ## The Birth of the Vast Void
 
-Within the workshop's core, a vast void was born, and into it, the [[True Gods]] were sent to continue their crafting. [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] filled the void with untamed primordial forces, infusing it with the raw essence of creation. These wild and potent energies were to serve as the very building blocks with which the [[True Gods]] could shape and craft the tapestry of reality itself.
+Within the [[The Greater Limit]], a vast void was created, and into it, the [[True Gods]] were sent to continue their crafting. [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] filled the void with untamed primordial forces, infusing it with the raw essence of creation. These wild and potent energies were to serve as the very building blocks with which the [[True Gods]] could shape and craft the tapestry of reality itself.
 
 ## World-Shaping with Elemental Energies
 
-The [[True Gods]] used the primordial elemental energies to create worlds above it all, supported by the ether and the elements. They forged the [[ethereal plane]] and the [[metaphysical planes]], constructing [[Aeloria]], the [[Solis|sun]] and stars, [[The Moon (Aeloria's)|the moon]] and the oceans, and the [[Solar System|planets]] around the [[Solis|sun]]. The [[True Gods]] delved tunnels beneath the earth, filling them with riches, and created magic, writing it as their own to shape the elements through the arcane.
+The [[True Gods]] used the primordial elemental energies to create worlds above it all, supported by the ether and the elements. They forged the [[ethereal plane]] and the [[metaphysical planes]], using the elemental energies to shape the very fabric of reality. The [[True Gods]] started their work and divine collaboration.
 
 ## The Creation of [[Solis]]
 ![[Solis#Creation]]
 
-### The Creation of [[Aeloria]] Itself
+## The Creation of [[Aeloria]] Itself
 
 ![[Aeloria#Creation]]
 

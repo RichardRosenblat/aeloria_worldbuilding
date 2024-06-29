@@ -56,7 +56,7 @@ aliases:
 
 ## Portfolio
 
-As an Over-Deity, Aena's portfolio is vast and by definition, beyond understanding, the only certain definition for it would be "All that is not included in the portfolios of Kryela". Although the following list is not exhaustive, it provides a glimpse into the aspects of existence that Aena governs:
+As an [[Over-Deities|Over-Deity]], Aena's portfolio is vast and by definition, beyond understanding, the only certain definition for it would be "All that is not included in the portfolios of [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]". Although the following list is not exhaustive, it provides a glimpse into the aspects of existence that Aena governs:
 
 1. **Creation**
 2. **Kindness**

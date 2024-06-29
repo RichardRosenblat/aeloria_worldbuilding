@@ -39,7 +39,7 @@ tags:
 	1. [ ] Magic items
 	2. [ ] Achemical Items
 6. [ ] Create coins
-7. [ ] Create Celestial Phenomena
+7. [ ] Create [[Celestial Phenomena]]
 8. [ ] Create Phenomena
 9.  [ ] Rewrite handouts
 10. [ ] write rule bout time effect in stuff https://www.youtube.com/watch?v=sgxWM_TD-Mk
@@ -69,7 +69,7 @@ tags:
 30. [ ] Create theory of arcane
 31. [ ] Add the venger
 32. [ ] Make ways to recognize members of factions, and diferentials of each rank
-33. [ ] Make saturnii's corruption arc
+33. [ ] Make [[Saturnii Narmer|saturnii]]'s corruption arc
 	1. [ ] Crown of dominion
 	2. [ ] https://youtu.be/U-LNI8JZYtE?si=lELf2yYZ0wVaV1-4
 34. [ ] Create Cultures and expand on it
@@ -79,7 +79,8 @@ tags:
 ## These tasks can be done after the capaign starts
 1. [ ] Create Alchemical Ingredients
 2. [ ] Visit planes and create models for them 
-3. [ ] Finish re checking the [[elemental planes]] and [[Echo Planes]] for metal-elemental influences
+3. [ ] add quasielemental planes, semielemental planes and elemental core
+4. [ ] Finish re checking the [[elemental planes]] and [[Echo Planes]] for metal-elemental influences
     1. [ ] [[Feywild]]
         1. [ ] Also add domains of delight
     2. [ ] [[Shadowfell]]
@@ -89,21 +90,21 @@ tags:
     5. [ ] [[Plane of Darkness]]
     6. [ ] [[Plane of Gravity]]
     7. [ ] [[Plane of Void]]
-4. [ ] Create [[Timelines]]
+5.  [ ] Create story about each of [[the planes]]
+6. [ ] Create [[Aelorian Timelines]]
     1. [ ] Create physical timeline
     2. [ ] Create recorded timeline
-5. [ ] Create Champions of the gods
-6. [ ] Create characteristics of the god's champions (personality traits, ideals, bonds, flaws and giveaways of their god's influence)
-7. [ ] Create Makora
-8.  [ ] Create story about each of [[the planes]]
-9.  [ ] Create [[Harmonious vestiges]]
-10. [ ] Create [[defiant vestiges]]
-11. [ ] Create the other godly beings
-12. [ ] Create automatas
-13. [ ] Create elemental personification on the elements
-14. [ ] Create elemental [[titans]]
-15. [ ] make Alliance bank account types
-16. [ ] Add important Past Figures
-17. [ ] Add races/species
-18. [ ] Create elder elementals
-19. [ ] Commision artist for [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] apperance
+7. [ ] Create Champions of the gods
+8. [ ] Create characteristics of the god's champions (personality traits, ideals, bonds, flaws and giveaways of their god's influence)
+9. [ ] Create Makora
+10. [ ] Create [[Harmonious vestiges]]
+11. [ ] Create [[defiant vestiges]]
+12. [ ] Create the other godly beings
+13. [ ] Create automatas
+14. [ ] Create elemental personification on the elements
+15. [ ] Create elemental [[titans]]
+16. [ ] make Alliance bank account types
+17. [ ] Add important Past Figures
+18. [ ] Add races/species
+19. [ ] Create elder elementals
+20. [ ] Commision artist for [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] apperance

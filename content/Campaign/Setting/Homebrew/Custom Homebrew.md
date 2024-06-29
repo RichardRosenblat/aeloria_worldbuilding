@@ -28,6 +28,7 @@ Happy adventuring and stay curious!
 | [[Tactical Skill Checks]]      |
 | [[Hostage Situation Rules]]    |
 | [[After Death Encounter]]      |
+| [[Train Fights]]               |
 
 ## Homebrew Character Options
 

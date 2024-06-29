@@ -1,3 +1,8 @@
+---
+tags:
+  - ancient_tech
+  - magic_item
+---
 # Bowl of Matter from [[Limbo]]
 
 ## Description:

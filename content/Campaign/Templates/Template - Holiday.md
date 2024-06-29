@@ -1,4 +1,4 @@
-# name
+# Name
 
 **Date:** 
 **Analogous to:**

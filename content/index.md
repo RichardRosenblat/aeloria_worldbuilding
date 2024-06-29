@@ -43,7 +43,7 @@ Among the notes, you might come across pages adorned with the tag `#generation`â
 Explore the [[Aeloria]] Wiki, a repository of knowledge about this high-fantasy realm. Whether you're a seasoned explorer or a newcomer, there's always something to discover.
 
 Begin your journey by delving into the principles that guide [[Aeloria]]: [[Setting Info|Principles]]
-Discover the Cosmos, Planets, Gods, and more: [[Solar System]], [[The Planes]], [[Timelines]], [[True Gods]]
+Discover the Cosmos, Planets, Gods, and more: [[Solar System]], [[The Planes]], [[Aelorian Timelines]], [[True Gods]]
 If you want to know what are the things I am planning on adding next check: [[To Do List]], [[Important names to create later]]
 Explore notes about a future campaign: [[Campaign Notes]]
 

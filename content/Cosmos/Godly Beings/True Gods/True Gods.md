@@ -30,19 +30,15 @@ This inherent lack of physical form imposes a limitation on True Gods, compellin
 ## Avatars
 
 ### Definition
-
 Avatars serve as the physical manifestations of the divine essence and power of True Deities. These manifestations embody the will of the True Gods and take on mortal forms. Despite their mortal nature, the death of an Avatar does not equate to the demise of the True God, unless their [[divine spark]] is stolen or extinguished.
 
 ### Existence in Other Planes
-
 Avatars are bound by the restrictions of [[the Divine Accord]], preventing their existence in the [[material plane]]. However, they can manifest in other planes, often found in [[Metapsychic Planes]] where the gods are close to the souls of those who worshipped them.
 
 ### Mortality of Avatars
-
 Though mortal, the death of an Avatar does not bring about the end of the True God. Instead, it serves as a temporary setback, with the True God remaining untouched unless a dire fate befalls their [[divine spark]].
 
 ### Connection with Worshipers
-
 Avatars play a crucial role in the connection between True Gods and their followers. When worshippers are granted visions of their gods, it is often the Avatars that appear in their minds, representing different facets of the deity. True Gods commonly have multiple avatars, each crafted to embody diverse aspects of the god, adapting to the varied perceptions found in different cultures.
 
 ### [[The Divine Accord]]
@@ -53,7 +49,23 @@ Avatars play a crucial role in the connection between True Gods and their follow
 This accord emerged as a response to the chaotic conflicts among gods and the need for a structured approach to their interaction with the mortal realm.
 
 ## Evolution of Gods
-Before [[The Divine Accord]], gods were not confined to specific domains or aspects of reality. However, after its creation, the gods became tied to particular facets of existence. This transformation imposed order upon their chaotic influence, shaping the world in accordance with the principles set by [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]].
+The current pantheon of True Gods in [[Aeloria]] has evolved over time, beginning with the first gods created by [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]. These gods were to aid the [[Over-Deities]] in their divine task of creation, but as reality fell unto the rentless attacks of [[The Far Realm]], some gods were lost to terrible fates, while others had their minds twisted by the madness of the [[The Far Realm]].
+
+The original pantheon was comprised of
+
+![[The Founding (FD)#The Pantheon]]
+
+During [[The Great War (GW)|The Great War]] the pantheon also suffered changes, with the death of some gods and the ascension of others, like [[Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE)|Asmodeus]] having overthrown [[He Who Was]]. The [[The Great War (GW)|The Great War]] also saw the rise of [[The Divine Accord]], which caused further changes in how the gods interacted with the world.
+
+Before [[The Divine Accord]], gods were not confined to specific domains or aspects of reality. However, after its creation, the gods became tied to particular facets of existence. This transformation imposed order upon their chaotic influence, shaping the world in accordance with the principles set by [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] resulting in the following pantheon:
+
+After the [[The Impact (TI)|The Impact]] and the creation of the [[The Divine Accord]], the pantheon:
+
+![[The Impact (TI)#True Gods True Deities]]
+
+As the world of [[Aeloria]] continued to evolve, the pantheon of True Gods underwent further changes, with the rise and fall of gods, as mortals discovered new ways to ascend to godhood before [[The Reform (RF)|The Reform]] took place. The god that rose and fell were, [[Nerull, God of Fate and Winter - The Winterlord (LN)|Nerull]] who had his [[Divine Spark]] stolen by [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|The Raven Queen]] and [[Vecna, God of evil secrets - The Whispered One (NE)|Vecna]] who reached apotheosis by creating a [[Divine Spark]] from the slivers of other gods. 
+
+Those changes resulted in the current pantheon of True Gods as described in "List of True Gods" section.
 
 ## Lost Paths to Godhood
 In the past, godly beings were capable of becoming True gods, by killing gods and absorbing their Original [[Divine Spark]] in their identity. And later on, there were ways for mortal entities to ascend to true godhood without [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]'s involvement, by creating a Original [[Divine Spark]] from existing ones. Unfortunately, this knowledge has been erased by [[Over-Deities|the twin goddesses]] themselves, leaving the pursuit of such paths shrouded in mystery.
@@ -76,7 +88,7 @@ In the past, godly beings were capable of becoming True gods, by killing gods an
 | [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)]]           | Forge, Knowledge, War           |
 | [[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)]]            | Healing, Light, Nature          |
 | [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)]]     | Death, Grave, Twilight          |
-| [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)]]                            | Arcana, Moon, Twilight          |
+| [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)]]         | Arcana, Moon, Twilight          |
 | [[Tharizdun, God of Madness - The Chained Oblivion (CE)]]                          | Death, Grave, Trickery          |
 | [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)]]       | Trickery, War                   |
 | [[Torog, God of the Underground - The Crawling King (NE)]]                         | Death, Trickery                 |

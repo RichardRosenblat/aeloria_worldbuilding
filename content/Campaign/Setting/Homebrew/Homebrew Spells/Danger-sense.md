@@ -3,9 +3,8 @@ tags:
   - spell
   - setting
 ---
-*"Everyone! Get down!"*- A ranger, moments before a trap is sprung
-
 # Danger-Sense
+*"Everyone! Get down!"*- A ranger, moments before a trap is sprung
 
 *2nd-level divination*
 

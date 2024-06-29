@@ -56,7 +56,7 @@ aliases:
 
 ## Portfolio
 
-As an Over-Deity, Kryela's portfolio is vast and by definition, beyond understanding, the only certain definition for it would be "All that is not included in the portfolios of Aena". Although the following list is not exhaustive, it provides a glimpse into the aspects of existence that Aena governs:
+As an [[Over-Deities|Over-Deity]], Kryela's portfolio is vast and by definition, beyond understanding, the only certain definition for it would be "All that is not included in the portfolios of [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]]". Although the following list is not exhaustive, it provides a glimpse into the aspects of existence that [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] governs:
 
 1. **Destruction**   
 1. **Malice**

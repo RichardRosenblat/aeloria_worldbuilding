@@ -1,3 +1,8 @@
+---
+tags:
+  - magic_item
+  - interesting_item
+---
 # Heightened Portable Hole
 
 ## Description:
@@ -15,7 +20,7 @@ This finely woven black cloth surrounded by small golden details, soft as silk a
 ## Properties:
 - **Almost Weightless:** No matter what is placed within the extradimensional space, the cloth remains almost weightless, and can be folded and carried with ease.
 
-- **Extra-Dimensional Interaction:** Placing a portable hole inside an extradimensional space created by a bag of holding, Heward's handy haversack, or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopene
+- **Extra-Dimensional Interaction:** Placing a portable hole inside an extradimensional space created by a bag of holding, Heward's handy haversack, or similar item instantly destroys both items and opens a gate to the [[Astral Plane]]. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it and deposited in a random location on the [[Astral Plane]]. The gate then closes. The gate is one-way only and can't be reopene
 
 - **Marking:** Once the cloth is used to create a passage and then removed and folded, it leaves extremely faint transmutation marks on the surface, detectable with a DC 20 Wisdom and it's origin determined with a DC 20 Investigation check. The use of a Detect Magic spell or similar can reveal these marks and their origins.
 

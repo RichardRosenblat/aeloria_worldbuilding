@@ -1,4 +1,17 @@
-# [[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]'s Archive
+---
+tags:
+  - myth
+aliases:
+  - Sapientia Domus (Myth)
+  - Biblioteca de Sabiduría (Myth)
+  - Weisheitsbibliothek (Myth)
+  - Visdomens Hall (Myth) 
+  - Vilya'Shalar (Myth)   
+  - Chie no Toshokan (Myth)   
+  - Gnosis Parthenon (Myth)   
+  - Skrymslaskrifheim (Myth)  
+---
+# [[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]'s Archive (Myth)
 
 ## Scales:
 - **Spread:** Commonly Known.

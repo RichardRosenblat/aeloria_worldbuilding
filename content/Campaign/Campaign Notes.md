@@ -7,7 +7,7 @@ tags:
 | Category                    | Contents                            |
 | --------------------------- | ----------------------------------- |
 | Useful links                | [[Dm Links]]                        |
-| Creating a Settlement       | [[Creating a Settlement]]           |
+| Creating a new settlement   | [[Creating a Settlement]]           |
 | Prices of magic items       | [[Magic Item prices]]               |
 | Generate markdown wiki text | [[Generate wiki text]]              |
 | Generate quests             | [[Generate quest boards]]           |
@@ -19,7 +19,7 @@ tags:
 | list of plans               | [[Important names to create later]] |
 | Myths                       | [[Untethered Myths]]                |
 | NPC random backstories      | [[NPC Backstories]]                 |
-| Random buildings            | [[Random Buildings]]                |
+| Genrating Random builds     | [[Random Buildings]]                |
 
 ## Songs to remember to use
 Makora - https://youtu.be/vOWSDBKFjQ4?si=bvnU6ZeeT4W2ENHs
@@ -50,7 +50,7 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 22. "You are no saint; you're just indifferent. You aid all without caring who they've wronged or what evil they've wrought. You place the wicked among those who shelter you. Even the gods' love is not unconditional, and neither should ours be."
 23. As the hag's gaze pierces through the darkness, her voice resonates with an otherworldly chill. "You feel it, don't you? The knot tightening around your throat, the sharp claws of dread digging into your chest, the icy tendrils slithering down your spine? That's the sensation of being forsaken, of standing alone in the void, unnoticed by the gods. Even your soul quivers, knowing that no divine intervention will come to your aid. You're trapped in a blind spot, unseen by the greater powers." Her words hang heavy in the air, suffocating the very essence of hope. "And yet, you cling to your righteous desires, your noble quest to save your friends. But can you be certain that your gods will forgive such a pact with a creature like me? Your actions may be seen as a grievous offense, a betrayal of everything they hold dear. Will they not turn their backs on you? And this dread that gnaws at your spirit, it will not dissipate once you leave this place. It will cling to you like a curse, haunting your every step until the day you finally rest in your grave, a constant reminder of the darkness that lurks within your soul."
 24. "In this life, we traverse like a canoe upon deep waters. Our passage ripples the surface briefly, yet the depths remain undisturbed. With time, the surface quiets once more, leaving no trace of our journey."
-25. Isabelle-"Such is the reason thine footwear is rugged." Elena-"Such is the reason thine mother is deceased." Isabelle-"..." Elena-"Deceased as The Nine Hells." Isabelle-"...Gods above." Elena-"Pray tell, what manner of footwear hath she? In her grave?" Isabelle-"..." Elena-"Such is why thine greatmother lacketh knees, and she cannot petition the Lord, wench. How now? She cannot skip as the Elven." Isabelle-"Dismount my carriage!" Elena-"Such is why thy babe, hath a glass eye, and when she weepeth, thou must polish it with lye, wench."  Isabelle-"Dismount at once!" Elena-"I'll exit thine carriage. Flank!"
+25. Isabelle-"Such is the reason thine footwear is rugged." Elena-"Such is the reason thine mother is deceased." Isabelle-"..." Elena-"Deceased as [[The Nine Hells]]." Isabelle-"...Gods above." Elena-"Pray tell, what manner of footwear hath she? In her grave?" Isabelle-"..." Elena-"Such is why thine greatmother lacketh knees, and she cannot petition the Lord, wench. How now? She cannot skip as the Elven." Isabelle-"Dismount my carriage!" Elena-"Such is why thy babe, hath a glass eye, and when she weepeth, thou must polish it with lye, wench."  Isabelle-"Dismount at once!" Elena-"I'll exit thine carriage. Flank!"
 26. "You are a coward wearing the facade of a revolutionary."
 27. "What is better - to be born good, or to overcome your evil nature through great effort?"
 28. "I will face god and walk backwards into hell."
@@ -66,7 +66,7 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 38. "Do what you must, I have already won."
 39. "Stand in the ashes of a trillion dead souls and ask the ghosts if honor matters. The silence is your answer."
 40. "Darkness without light is an abyss. Light without darkness is blinding. You cannot have a coin with only one side."
-41. "When they burned Ioun's Archive, the crowd revelled in horrible disbelief. They understood that there was something older than wisdom, and it was fire, and something truer than words, and it was ashes, and something more eternal than knowledge, and it was death."
+41. "When they burned [[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]'s Archive, the crowd revelled in horrible disbelief. They understood that there was something older than wisdom, and it was fire, and something truer than words, and it was ashes, and something more eternal than knowledge, and it was death."
 42. "I can no longer be a liberator for people who refuse to see their chains."
 43. "You could sooner divert a river from its corse than deny my nature."
 44. "Violence for violence is the rule of beasts."
