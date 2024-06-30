@@ -22,25 +22,26 @@ Metapsychic planes are often divided in layers, and such layers may be divided i
 Examples of Metapsychic planes are the [[Astral Sea]], Upper planes like [[Mount Celestia|Celestia]], [[Elysium]] and Lower planes like [[The nine hells]], [[the Abyss]] etc
 
 ## Table
-| Metapsychic Plane  | Alignment |
-|:------------------ | --------- |
-| [[Mount Celestia]] | LG        |
-| [[Bytopia]]        | NG, LG    |
-| [[Elysium]]        | NG        |
-| [[The Beastlands]] | NG, CG    |
-| [[Arborea]]        | CG        |
-| [[Ysgard]]         | CN, CG    |
-| [[Limbo]]          | CN        |
-| [[Pandemonium]]    | CN, CE    |
-| [[The Abyss]]      | CE        |
-| [[Carceri]]        | NE, CE    |
-| [[Hades]]          | NE        |
-| [[Gehenna]]        | NE, LE    |
-| [[The Nine Hells]] | LE        |
-| [[Acheron]]        | LN, LE    |
-| [[Mechanus]]       | LN        |
-| [[Arcadia]]        | LN, LG    |
-| [[The Outlands]]   | NN        |
+| Metapsychic Plane  | Alignment   |
+| :----------------- | ----------- |
+| [[Mount Celestia]] | LG          |
+| [[Bytopia]]        | NG, LG      |
+| [[Elysium]]        | NG          |
+| [[The Beastlands]] | NG, CG      |
+| [[Arborea]]        | CG          |
+| [[Ysgard]]         | CN, CG      |
+| [[Limbo]]          | CN          |
+| [[Pandemonium]]    | CN, CE      |
+| [[The Abyss]]      | CE          |
+| [[Carceri]]        | NE, CE      |
+| [[Hades]]          | NE          |
+| [[Gehenna]]        | NE, LE      |
+| [[The Nine Hells]] | LE          |
+| [[Acheron]]        | LN, LE      |
+| [[Mechanus]]       | LN          |
+| [[Arcadia]]        | LN, LG      |
+| [[The Outlands]]   | NN          |
+| [[Yawnohim]]       | None/Hidden |
 
 ## Traveling the Outer Planes
 Traveling between the Outer Planes isn't dissimilar from reaching the Outer Planes in the first place. Characters traveling by means of the [astral projection](https://5e.tools/spells.html#astral%20projection_phb) spell can go from one plane into the [[Astral Plane]], and there search out a color pool leading to the desired destination. Characters can also use plane shift to reach a different plane more directly. Most often, though, characters use portals-either a portal that links the two planes directly or a portal leading to Sigil, City of Doors, which holds portals to all [[the planes]].

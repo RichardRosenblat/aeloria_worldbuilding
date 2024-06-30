@@ -29,7 +29,7 @@ To shield their creation from the influence of the [[The Far Realm|Far Realm]], 
 
 ## The Birth of the Vast Void
 
-Within the [[The Greater Limit]], a vast void was created, and into it, the [[True Gods]] were sent to continue their crafting. [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] filled the void with untamed primordial forces, infusing it with the raw essence of creation. These wild and potent energies were to serve as the very building blocks with which the [[True Gods]] could shape and craft the tapestry of reality itself.
+Within the [[The Greater Limit]], a vast void was created, and into it, the [[True Gods]] were sent to continue their crafting. [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] filled the void with untamed primordial forces, infusing it with the raw essence of creation. The void was like a canvas empty and full of potential, and the primordial elemental forces, those were to be the colors. These wild and potent energies were to serve as the very building blocks with which the [[True Gods]] could shape and craft the tapestry of reality itself.
 
 ## World-Shaping with Elemental Energies
 
@@ -168,6 +168,20 @@ During the creation of the world, after [[Sehanine, Goddess of the Moon, Dreams 
 ### The Creation of Tallmen
 
 As the [[True Gods]] reveled in the diversity of their creations, they created the very last humanoid species to be made by the [[True Gods]]. Tallmen, crafted with a blend of divine inspiration and intricate design, tallmen were endowed with the capacity for great adaptability and resilience. Although the god that created them is unknown, lost to time, tallmen quickly spread across the realms, embracing the challenges and opportunities that awaited them. And so, the tallmen became the most numerous and diverse of all the humanoid species, their presence shaping the course of history and the unfolding tapestry of [[Aeloria]]. Any humanoid species that came after the tallmen were created by artificial means or altering existing species.
+
+## The refinement of [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s confinement
+
+The [[True Gods]] after seeing their creations, consious beings with free will and the ability to shape the world around them without carrying the wisdom and knowledge of the gods, they saw the potential for foolishness and destruction, so to avoid mortals unleashing powers beyond even the gods' control, they decided to refine the prison of [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun, The Chained Oblivion]]. They sought to prevent [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]] from ever escaping its imprisonment. To ensure this, the gods devised various protections, making the possibility of [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s escape virtually impossible.
+
+First, they crystallized [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s divine power, forming Krelshi-Tranor, a multicolored crystal shard. This shard was then hurled into the [[Astral Plane]], beyond an infinity of horrors given shape as [[The Abyss]], where it would remain further from the reach of mortals. 
+
+Next, the [[true gods]] created demiplanes orbiting the shard, each one holding the remaining parts of [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s, its body. They decided to hide any portals to these demiplanes, ensuring that no one could access them. 
+
+They created a secluded plane known as the Forbidden Lands of [[Yawnohim]]. This plane was designed to hide the gate to [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s bound body, ensuring that it remained lost and unreachable.
+
+Lastly, to guard the entrance to [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s mind, they forged an impenetrable seal known as the Cyst. This ellipsoidal barrier of porous undestructible black stone was placed to protect the gate, preventing any chance of [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]] regaining its sanity and power.
+
+Through these divine protections, the gods ensured that [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s imprisonment would be eternal, safeguarding reality from the threat of [[Tharizdun, God of Madness - The Chained Oblivion (CE)|the Chained Oblivion]]'s escape.
 
 ## The Fragility of Mortal Life
 
