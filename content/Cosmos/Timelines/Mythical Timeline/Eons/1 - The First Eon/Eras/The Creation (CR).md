@@ -187,10 +187,6 @@ Lastly, to guard the entrance to [[Tharizdun, God of Madness - The Chained Obliv
 
 Through these divine protections, the gods ensured that [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s imprisonment would be eternal, safeguarding reality from the threat of [[Tharizdun, God of Madness - The Chained Oblivion (CE)|the Chained Oblivion]]'s escape.
 
-## The First Dreams and Nightmares
-
-Before Sehanine created dreams, once the sun set and creatures laid to rest, their sleep was dreamless and empty. 
-
 ## The Fragility of Mortal Life
 
 The gods reveled in the beauty and diversity of their creations, from the towering mountains to the lush forests, from the vast oceans to the starlit skies and the mortal creatures they had brought into existence. However, their creations lived short lives, as the untamed primordial forces wreaked havoc upon the world. The mortal beings, bestowed with consciousness and free will, faced the relentless onslaught of chaotic energies that threatened the delicate balance of their existence. Each species, from the elves exploring the [[Material Plane|Prime Material]] to the dwarves delving into the depths, grappled with the ephemeral nature of their lives. The [[True Gods]], witnessing the struggles of their cherished creations, contemplated how to mitigate the destructive forces that cast shadows upon the realms they had so meticulously crafted. 

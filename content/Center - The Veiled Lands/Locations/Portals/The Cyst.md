@@ -42,28 +42,19 @@ The Cyst can be found in the following locations:
 
 The Cyst can be found in the [[Echo Planes]], a series of planes that echo the events of the [[Material Plane]]. These are the options for the location of the Cyst in the [[Echo Planes]]:
 
-| d4  | Location            |
-|:--- | ------------------- |
-| 1-2 | [[Feywild]]             |
-| 3-4 | [[Shadowfell]]          |
+![[Echo Planes#Table]]
 
 ### [[Liminal Planes]]
 
 The Cyst can be found in the [[Liminal Planes]], a series of planes that exist between the other planes. These are the options for the location of the Cyst in the [[Liminal Planes]]:
 
-| d4  | Location       |
-| :-- | -------------- |
-| 1-2 | [[Astral Plane]]   |
-| 3-4 | [[Ethereal Plane]] |
+![[Liminal Planes#Table]]
 
 ### [[Metaphysical Planes]]
 
 The Cyst can be found in the [[Metaphysical Planes]], a series of planes that exist within the [[Material Plane]]. These are the options for the location of the Cyst in the [[Metaphysical Planes]]:
 
-| d4  | Location             |
-| :-- | -------------------- |
-| 1-2 | [[Elemental Chaos]]  |
-| 3-4 | [[Elemental Planes]] |
+![[Metaphysical Planes#Table]]
 
 #### [[Elemental planes]]
 ![[Elemental Planes#Table]]

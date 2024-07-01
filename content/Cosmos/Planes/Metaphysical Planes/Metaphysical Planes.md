@@ -13,3 +13,10 @@ The Metaphysical Planes or “Inner planes”, often referred to as the "Matrix 
 In the Metaphysical Planes, the interplay of opposing forces, as per the principle of "Balance of Existence," is particularly pronounced. Here, the elements that make up the physical world are in constant flux, shaping the very fabric of reality. Adventurers who journey to these planes might find themselves navigating a complex web of energy and elemental matter, with the potential for profound insights into the nature of existence itself.
 
 Examples of Metaphysical planes are [[Elemental Planes|Elemental Planes]], [[Elemental Chaos]]
+
+# Table
+
+| d4  | Plane                |
+| :-- | -------------------- |
+| 1-2 | [[Elemental Chaos]]  |
+| 3-4 | [[Elemental Planes]] |
