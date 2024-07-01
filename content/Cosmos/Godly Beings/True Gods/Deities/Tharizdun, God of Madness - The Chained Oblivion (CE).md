@@ -153,16 +153,16 @@ now can you generate a list of elements that could be associated with them
 **Origins and Transformation into the Chained Oblivion:**
 - **Protective Deity Turned Mad:** Tharizdun, originally a protective god, succumbed to insanity during a battle against the far realms' forces, seeking to destroy reality instead.
 - **Sealing by Aena and Kryela:** Over-deities Aena and Kryela intervened, separating Tharizdun's divine power, physical body, and consciousness to prevent further destruction.
-- **The Prisons:** Tharizdun's power resides in Krelshi-thranor, a multicolored crystal shard that spans the last layer of the abyss, constantly expanding the abyss itself.
+- **The Prisons:** Tharizdun's power resides in krelshi-tranor, a multicolored crystal shard that spans the last layer of the abyss, constantly expanding the abyss itself.
 - **Body and Consciousness Prisons:** Tharizdun's colossal body is chained in a prison of iron and hooks, while its consciousness is trapped in a bag of its own skin, eternally distracted.
 
 **Locations and Access to the Prisons:**
-- **Krelshi-thranor:** Protected by paradoxical defenses, this crystal creates new abyssal layers and spawns demons, serving as the abyss's source.
+- **krelshi-tranor:** Protected by paradoxical defenses, this crystal creates new abyssal layers and spawns demons, serving as the abyss's source.
 - **Prison of the Mind:** Accessed through a shifting portal protected by The Cyst, made of porous black stone, in a demiplane at the abyss's end.
 - **Prison of the Body:** Found in the [[Yawnohim|Forbidden Lands of Yawnohim]], a hidden plane frozen in time, accessible through a gateway protected by powerful celestials.
 
 **Influence and Manipulation:**
-- **Influence on Demons and Mortals:** Tharizdun's dreams and occasional consciousness manipulate demons to guard Krelshi-thranor and influence mortals to free it.
+- **Influence on Demons and Mortals:** Tharizdun's dreams and occasional consciousness manipulate demons to guard krelshi-tranor and influence mortals to free it.
 - **Portal to Tharizdun:** Accessible through a specific ritual with a key cast into a shallow pool in [[Yawnohim]]'s temple; mishandling the ritual leads to abyssal consequences.
 
 Help me make some lore on Thariuzdun, God of Madness - The Chained Oblivion 
@@ -172,7 +172,7 @@ Heres some points i have about it
 Tharizdun pronouns are It/its
 It was a protective god, but during a battle to protect reality  against the forces of the far realms tharizdun became insane and tried to destroy reality but was stopped by the other gods and sealed by the over-deities Aena and Kryela, the goddesses of opposing powers and mothers of all other gods and reality 
 they separated its divine power its physical body and its consiousness so that he couldnt use its powers they casted the prision into the core of their workshop, the farthest place from the far realms so that tharizdun couldnt be influenced by the far realms again
-tharizdun power is sealed in the form of a crystal, known as Krelshi-thranor the shard of pure madness it is often portraid as a multicolored rough crystal shard 
+tharizdun power is sealed in the form of a crystal, known as krelshi-tranor the shard of pure madness it is often portraid as a multicolored rough crystal shard 
 tharizdun body is sealed in a prision made of chains, hooks, nails and iron plates, a colossal body tied down to the ground with two massive wings behind it
 tharizdun consiousness is sealed in a bag made of its own skin sealed in front of the body by chains and hooks keeping the consiousness in a state of eternal distraction being incapable of concentrating on anything
 before he was sealed his madness created the obyriths, the first demons 

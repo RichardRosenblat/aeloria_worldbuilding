@@ -1,6 +1,7 @@
 ---
 aliases:
   - Mind Plane
+  - Illusion Plane
 tags:
   - plane
   - elemental_plane

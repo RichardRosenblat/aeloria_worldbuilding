@@ -10,36 +10,33 @@ In the vast and intricate tapestry of the Dungeons & Dragons multiverse, the Ele
 
 The Elemental Planes are a set of parallel dimensions, each dedicated to a specific elemental essence—earth, air, fire, and water and more. Additionally, there some planes that bridge the gaps between these elements, forming subplanes like the plane of ice and the [[Plane of Fire]]. 
 
-# [[The Planes]]
-## Tier 1 | Elemental planes
-[[Plane of Water]]
-[[Plane of Earth]]
-[[Plane of Fire]]
-[[Plane of Air]]
-## Tier 2 |  Elemental planes
-[[Plane of Metal]]
-[[Plane of Acid]]
-[[Plane of Poison]]
-[[Plane of Electricity]]
-[[Plane of Cold]]
-[[Plane of Energy]]
-## Tier 3 | Elements
-[[Plane of Life]]
-[[Plane of Necromancy]]
-[[Plane of Transmutation]]
-[[Plane of Divination]]
-[[Plane of Invocation]]
-[[Plane of Abjuration]]
-[[Plane of Divine]]
-[[Plane of Corruption]]
-[[Plane of Mind]]
-## Tier 4 | Elements
-[[Plane of Gravity]]
-[[Plane of Void]]
-[[Plane of Darkness]]
-## Tier 5 | Elements
-[[Plane of Chaos]]
-[[Plane of Order]]
-[[Plane of Time]]
-## Tier 6 | Elements
-[[Plane of Creation]]
+# Table
+
+| d100  | Plane                      | Tier |
+| ----- | -------------------------- | ---- |
+| 1-20  | [[Plane of Air]]           | 1    |
+| 21-41 | [[Plane of Earth]]         | 1    |
+| 41-61 | [[Plane of Fire]]          | 1    |
+| 60-79 | [[Plane of Water]]         | 1    |
+| 79    | [[Plane of Metal]]         | 2    |
+| 80    | [[Plane of Acid]]          | 2    |
+| 81    | [[Plane of Poison]]        | 2    |
+| 82    | [[Plane of Electricity]]   | 2    |
+| 83    | [[Plane of Cold]]          | 2    |
+| 84    | [[Plane of Energy]]        | 2    |
+| 85    | [[Plane of Life]]          | 3    |
+| 86    | [[Plane of Necromancy]]    | 3    |
+| 87    | [[Plane of Transmutation]] | 3    |
+| 88    | [[Plane of Divination]]    | 3    |
+| 89    | [[Plane of Invocation]]    | 3    |
+| 90    | [[Plane of Abjuration]]    | 3    |
+| 91    | [[Plane of Divine]]        | 3    |
+| 92    | [[Plane of Corruption]]    | 3    |
+| 93    | [[Plane of Mind]]          | 3    |
+| 94    | [[Plane of Gravity]]       | 4    |
+| 95    | [[Plane of Void]]          | 4    |
+| 96    | [[Plane of Darkness]]      | 4    |
+| 97    | [[Plane of Chaos]]         | 5    |
+| 98    | [[Plane of Order]]         | 5    |
+| 99    | [[Plane of Time]]          | 5    |
+| 100   | [[Plane of Creation]]      | 6    |

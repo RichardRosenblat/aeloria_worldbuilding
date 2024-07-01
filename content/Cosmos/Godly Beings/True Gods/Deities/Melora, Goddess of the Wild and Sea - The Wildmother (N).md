@@ -74,9 +74,9 @@ The Spirit of the Elements: Melora, Goddess of the Elements
 5. **Fauna**: Melora watches over the myriad creatures of the world, from the smallest insects to the largest beasts, ensuring their survival and balance within the ecosystem.
 6. **Hunt**: She governs the primal hunt, guiding predators and hunters in their pursuit of sustenance and survival, respecting the natural order of predator and prey.
 7. **Nurture**: Melora encourages nurturing and caretaking, inspiring individuals to protect and steward the land and its inhabitants with compassion and wisdom.
-8. **Waves**: She rules over the ebb and flow of the oceans and seas, where life teems beneath the surface and the tides shape the shores.
+8. **Tides**: She rules over the ebb and flow of the oceans and seas, where life teems beneath the surface and the tides shape the shores.
 9. **Sea**: Melora is revered by sailors and coastal communities, offering guidance and protection on their voyages and livelihoods upon the sea.
-10. **Balance**: She embodies the delicate balance of nature and the interconnectedness of all living beings, promoting harmony and respect for the world's diverse ecosystems.
+10. **Medicine and Herbalism**: She is the source of healing and herbal lore, guiding healers, apothecaries and herbalists in the use of natural remedies to restore health and vitality.
 
 ## Alignment
 

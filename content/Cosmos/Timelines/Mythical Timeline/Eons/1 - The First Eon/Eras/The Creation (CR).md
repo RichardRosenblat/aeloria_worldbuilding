@@ -82,6 +82,10 @@ The fey, sung into existence by the [[Ainulindalë]], emerged from the very firs
 
 After the elves, the dwarves were created by the [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)|The Allhammer]], utilizing parts of the giants. Sturdy creatures, the dwarves were forged into existence. Like the elves, they desired exploration, digging out of the mountains to explore the surface.
 
+## [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]] Creates the [[The Moon (Aeloria's)|Aelorian Moon]]
+
+![[The Moon (Aeloria's)#Creation]]
+
 ## Creation of Various Species
 
 Following these events, the [[True Gods]] continued their creative endeavors, bringing forth a multitude of diverse species and creatures to inhabit the vast expanse of [[Aeloria]]. 
@@ -179,13 +183,17 @@ Next, the [[true gods]] created demiplanes orbiting the shard, each one holding 
 
 They created a secluded plane known as the Forbidden Lands of [[Yawnohim]]. This plane was designed to hide the gate to [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s bound body, ensuring that it remained lost and unreachable.
 
-Lastly, to guard the entrance to [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s mind, they forged an impenetrable seal known as the Cyst. This ellipsoidal barrier of porous undestructible black stone was placed to protect the gate, preventing any chance of [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]] regaining its sanity and power.
+Lastly, to guard the entrance to [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s mind, they forged an impenetrable seal known as [[the Cyst]]. This ellipsoidal barrier of porous undestructible black stone was placed to protect the gate, preventing any chance of [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]] regaining its sanity and power.
 
 Through these divine protections, the gods ensured that [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s imprisonment would be eternal, safeguarding reality from the threat of [[Tharizdun, God of Madness - The Chained Oblivion (CE)|the Chained Oblivion]]'s escape.
 
+## The First Dreams and Nightmares
+
+Before Sehanine created dreams, once the sun set and creatures laid to rest, their sleep was dreamless and empty. 
+
 ## The Fragility of Mortal Life
 
-However, their creations lived short lives, as the untamed primordial forces wreaked havoc upon the world. The mortal beings, bestowed with consciousness and free will, faced the relentless onslaught of chaotic energies that threatened the delicate balance of their existence. Each species, from the elves exploring the [[Material Plane|Prime Material]] to the dwarves delving into the depths, grappled with the ephemeral nature of their lives. The [[True Gods]], witnessing the struggles of their cherished creations, contemplated how to mitigate the destructive forces that cast shadows upon the realms they had so meticulously crafted. 
+The gods reveled in the beauty and diversity of their creations, from the towering mountains to the lush forests, from the vast oceans to the starlit skies and the mortal creatures they had brought into existence. However, their creations lived short lives, as the untamed primordial forces wreaked havoc upon the world. The mortal beings, bestowed with consciousness and free will, faced the relentless onslaught of chaotic energies that threatened the delicate balance of their existence. Each species, from the elves exploring the [[Material Plane|Prime Material]] to the dwarves delving into the depths, grappled with the ephemeral nature of their lives. The [[True Gods]], witnessing the struggles of their cherished creations, contemplated how to mitigate the destructive forces that cast shadows upon the realms they had so meticulously crafted. 
 
 ## Growing Discord Among the Deities
 
