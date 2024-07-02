@@ -300,6 +300,9 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ### The Creation of [[Yggdrasil's Morphblade]]
 ![[Yggdrasil's Morphblade#History]]
 
+### [[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]'s battle against [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]] along with Melora
+
+![[The Great War (GW)#Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE) Tharizdun fights Ioun, Goddess of Knowledge - The Enlightened (N) Ioun and Melora, Goddess of the Wild and Sea - The Wildmother (N) Melora]]
 
 [^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Melora)
 [^2]: [Pinterest](https://br.pinterest.com/pin/630785491544583659/)

@@ -135,7 +135,7 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ### Being Sealed by [[Over-Deities]] and [[True Gods]]
 
-![[The Founding (FD)#Tharizdun, God of Madness - The Chained Oblivion (CE) Tharizdun 's Fall]]
+![[The Founding (FD)#Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE) Tharizdun 's Fall]]
 
 
 for the god above can you create:

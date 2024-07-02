@@ -6,7 +6,7 @@ tags:
 
 ## Introduction
 
-[[Aeloria]] is a land steeped in myth and legend, where stories of gods, heroes, and monsters intertwine with the fabric of everyday life. These myths, passed down through generations, shape the beliefs, values, and traditions of the diverse cultures that call [[Aeloria]] home. In most times, these myths are tethered to the [[true gods]] or the [[over-deities]], creating a sense of order and structure in the world in the form of a timeline of events, even if they are not always specific in regards to the true order of events.
+[[Aeloria]] is a land steeped in myth and legend, where stories of gods, heroes, and monsters intertwine with the fabric of everyday life. These myths, passed down through generations, shape the beliefs, values, and traditions of the diverse cultures that call [[Aeloria]] home. In most times, these myths are tethered to the history of the [[true gods]] or the [[over-deities]], creating a sense of order and structure in the world in the form of a timeline of events, even if they are not always specific in regards to the true order of events.
 
 However, there are myths that exist in non-specific timeframes, outside the established timeline, untethered from the divine hierarchy of [[Aeloria]] mythic history and free to explore realms of imagination and creativity. These untethered myths often blur the lines between reality and fantasy, challenging the boundaries of what is known and accepted. They offer glimpses into hidden worlds, forgotten histories, and unexplored possibilities, inviting listeners to question the nature of truth and the power of storytelling.
 
