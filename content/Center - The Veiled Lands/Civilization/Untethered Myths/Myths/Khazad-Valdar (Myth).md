@@ -2,15 +2,15 @@
 tags:
   - myth
 aliases:
-  - Throrhold
-  - Valdis Magna
-  - Montaña Perdida
-  - Bergkönigheim
-  - Skaldheim
-  - Thalendôr
-  - Ichizoku-shiro
-  - Pantropos Polis
-  - Jotunhollr
+  - Throrhold (Myth)
+  - Valdis Magna (Myth)
+  - Montaña Perdida (Myth)
+  - Bergkönigheim (Myth)
+  - Skaldheim (Myth)
+  - Thalendôr (Myth)
+  - Ichizoku-shiro (Myth)
+  - Pantropos Polis (Myth)
+  - Jotunhollr (Myth)
 ---
 # Khazad-Valdar
 

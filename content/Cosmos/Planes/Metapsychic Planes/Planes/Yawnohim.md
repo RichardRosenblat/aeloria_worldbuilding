@@ -11,12 +11,12 @@ aliases:
 # The Forbidden Lands of Yaalcahim
 - **Plane Description**: A hidden plane, frozen in time until observed, with many layers. The first layer is a desolate land with scattered ruins. 
 - **Gateway Access**: The gateway is hidden between mountains, teleporting through minds in the [[astral plane]] and mountains within the elemental [[plane of earth]]. Protected by 3 powerful celestials (Solar, Seraph and Empirean) in the [[astral plane]] and 3 powerful titans (Tarasque, Astral Dreadnought and Tromokratis) in the elemental [[plane of earth]].
-- **Purpose**: The plane serves as a protection for the portal to [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s body demiplane, sealed by powerful constructs scattered across the Forbidden Lands.
+- **Purpose**: The plane serves as a protection for the portal to [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]]'s body demiplane, sealed by powerful constructs scattered across the Forbidden Lands.
 
 ## Plane Effect
 
 - **Time Stasis**: The plane is frozen in time until observed, with creatures and objects suspended in motion. Time only flows when observed, creating a surreal and eerie atmosphere.
-- **Corruption**: The plane is tainted by [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s hatred, causing madness and despair in those who linger too long. The longer one stays, the more they are affected by [[Tharizdun, God of Madness - The Chained Oblivion (CE)|the Chained Oblivion]]'s madness. At the end of a long rest, a visitor must make a DC 15, if failed, the creature gains one level of corruption. This corruption changes the creature's appearance and behavior, upon reaching six levels of corruption, the creature is transformed into a construct and permanently bound to the plane, gaining a new form and a new layer of the Forbidden Lands, but losing their free will. The only way to remove corruption is to leave the plane, divine intervention, or through casting *Greater Restoration* while within the temple.
+- **Corruption**: The plane is tainted by [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]]'s hatred, causing madness and despair in those who linger too long. The longer one stays, the more they are affected by [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|the Chained Oblivion]]'s madness. At the end of a long rest, a visitor must make a DC 15, if failed, the creature gains one level of corruption. This corruption changes the creature's appearance and behavior, upon reaching six levels of corruption, the creature is transformed into a construct and permanently bound to the plane, gaining a new form and a new layer of the Forbidden Lands, but losing their free will. The only way to remove corruption is to leave the plane, divine intervention, or through casting *Greater Restoration* while within the temple.
 
 ### Corruption levels
 
@@ -48,11 +48,11 @@ aliases:
 - **Sealed Room**: The room is sealed by the life force of these constructs. To break the seal, all constructs must be slain, releasing their life force.
 
 ### The Pool of Water
-- **Shallow Pool**: At the heart of the sealed room, there is a shallow pool of water. This pool acts as the portal to the body demiplane of [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]].
+- **Shallow Pool**: At the heart of the sealed room, there is a shallow pool of water. This pool acts as the portal to the body demiplane of [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]].
 - **Key Mechanism**: The portal only opens correctly when a specific key is cast into the pool. Without this key, the pool behaves mundanely. If the wrong item is cast, the portal leads to a devouring maw within [[the abyss]].
 
 ### Specific Key
-- **Key Description**: A unique artifact, possibly an ancient relic tied to [[Tharizdun, God of Madness - The Chained Oblivion (CE)|Tharizdun]]'s lore. The key could be a fragment of his divine power, a shard of his essence, or an artifact blessed (or cursed) by his followers.
+- **Key Description**: A unique artifact, possibly an ancient relic tied to [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]]'s lore. The key could be a fragment of his divine power, a shard of his essence, or an artifact blessed (or cursed) by his followers.
 - **Key Location**: The key itself could be hidden in another challenging location, possibly guarded by ancient traps or powerful guardians. 
 
 ## Layers of the Forbidden Lands

@@ -89,7 +89,7 @@ In the past, godly beings were capable of becoming True gods, by killing gods an
 | [[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)]]            | Healing, Light, Nature          |
 | [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)]]     | Death, Grave, Twilight          |
 | [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)]]         | Arcana, Moon, Twilight          |
-| [[Tharizdun, God of Madness - The Chained Oblivion (CE)]]                          | Death, Grave, Trickery          |
+| [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)]]                          | Death, Grave, Trickery          |
 | [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)]]       | Trickery, War                   |
 | [[Torog, God of the Underground - The Crawling King (NE)]]                         | Death, Trickery                 |
 | [[Vecna, God of evil secrets - The Whispered One (NE)]]                            | Arcana, Death, Grave, Knowledge |

@@ -22,7 +22,7 @@ The [[divine spark]] within Ascended Beings is not a original [[divine spark]] b
 
 ## Limitations and Attributes
 
-Ascended Beings, though powerful, operate within constraints. Their attributes are heightened to inhuman levels, yet they only wield a fraction of the god's true power. Those who siphon power gain dominion over specific aspects of the god's domain. For example, an Ascended Being linked to [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|the Wildmother]] might control the winds.
+Ascended Beings, though powerful, operate within constraints. Their attributes are heightened to inhuman levels, yet they only wield a fraction of the god's true power. Those who siphon power gain dominion over specific aspects of the god's domain. For example, an Ascended Being linked to [[Melora, Goddess of the Wild and Sea - The Wildmother (N)|the Wildmother]] might control the leaves of trees.
 
 ## Divine Awareness
 

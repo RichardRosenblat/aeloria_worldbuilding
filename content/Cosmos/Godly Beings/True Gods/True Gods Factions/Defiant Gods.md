@@ -51,7 +51,7 @@ These are The Defiant Gods
 |[[Bane, God of War and Conquest - The Strife Emperor (LE)]]|
 |[[Gruumsh, God of Destruction - The Ruiner (CE)]]|
 |[[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)]]|
-|[[Tharizdun, God of Madness - The Chained Oblivion (CE)]]|
+|[[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)]]|
 |[[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)]]|
 |[[Torog, God of the Underground - The Crawling King (NE)]]|
 |[[Vecna, God of evil secrets - The Whispered One (NE)]]|

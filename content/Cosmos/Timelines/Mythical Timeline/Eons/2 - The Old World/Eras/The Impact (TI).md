@@ -52,7 +52,7 @@ The [[True Gods]], chastened by the presence of [[Aena, goddess of kindness, cre
 13. [[Nerull, God of Fate and Winter - The Winterlord (LN)]]
 14. [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)]]
 15. [[Gruumsh, God of Destruction - The Ruiner (CE)]]
-16. [[Tharizdun, God of Madness - The Chained Oblivion (CE)]]
+16. [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)]]
 17. [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)]]
 18. [[Torog, God of the Underground - The Crawling King (NE)]]
 19. [[Zehir, God of Darkness and Poison - The Cloaked Serpent (CE)]]
