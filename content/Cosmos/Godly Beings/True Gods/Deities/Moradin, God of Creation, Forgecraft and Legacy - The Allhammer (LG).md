@@ -5,7 +5,7 @@ aliases:
   - Moradin
   - Vesuvius
   - Creaciónica
-  - Runenschmied
+  - Eisenhammer
   - Durinn
   - Aulë
   - Kagutsuchi
@@ -32,7 +32,7 @@ aliases:
 | Alonian (Tallman) Generic   | Moradin      | The Allhammer          | He/Him    | The [[Harmonious Gods]]                                                           |
 | Asteni (Tallman) Italian   | Vesuvius     | The Shipwright         | He/Him    | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
 | Dal (Tallman) Hispanic     | Creaciónica  | The Hearthkeeper       | She/Her   | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
-| Duir (Dwarven) German    | Runenschmied | The Runesmith          | He/Him    | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
+| Duir (Dwarven) German    | Eisenhammer | The Runesmith          | He/Him    | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
 | Dwelmer (Dwarven) Nordic | Durinn       | The Earthshaper        | He/Him    | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
 | Eldar (Elven) Elven      | Aulë         | The Master Forger      | They/Them | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese | Kagutsuchi   | The Dreamshaper        | She/Her   | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
@@ -186,6 +186,10 @@ Cultures that worship Moradin often have unique political structures that reflec
 
 ## Champions
 
+| Previous Champions                                                |
+| ----------------------------------------------------------------- |
+| [[Brunhilde, The Iron Maiden (Myth)\|Brunhilde, The Iron Maiden]] |
+
 ## Holidays
 
 | Holidays |
@@ -237,6 +241,10 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 8. **Stonecursed Paralysis**: The cursed enemy's body becomes stiff and unyielding as if turned to stone. At the start of each of their turns, they must succeed on a Constitution saving throw or recieve -10 to their movement speed at the start of each of their turns and suffer disadvantage on all attack rolls and Dexterity saving throws, but their ac gains a +2 bonus. If their movement speed reaches 0, they are petrified for the duration of the curse.
 
 ## Myths
+
+### [[Brunhilde, The Iron Maiden (Myth)|Brunhilde, The Iron Maiden]]
+
+![[Brunhilde, The Iron Maiden (Myth)#The Myth]]
 
 ### Khazad-Valdar
 

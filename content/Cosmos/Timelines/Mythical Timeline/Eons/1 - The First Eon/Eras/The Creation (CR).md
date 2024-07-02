@@ -187,9 +187,20 @@ Lastly, to guard the entrance to [[Tharizdun, God of Entropy and Madness - The C
 
 Through these divine protections, the gods ensured that [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]]'s imprisonment would be eternal, safeguarding reality from the threat of [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|the Chained Oblivion]]'s escape.
 
+## The Creation of Dreams and Nightmares
+
+In the time before dreams, mortals rested in a void of emptiness, their minds untouched by visions or illusions. [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]], [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|the Moonweaver]], gazed upon this emptiness with sorrow, for she cherished the beauty of wonder and the power of hope. Moved by compassion, she visited each mortal in their slumber, weaving dreams of enchantment, illusion and mystery. The mortals awoke, mesmerized by these new experiences, and they praised [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]] for her gift of dreams.
+
+However, in the depths of its eternal prison, [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]], [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|the Chained Oblivion]], brooded in madness. Locked away by the other gods, [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]] begin imagining the world beyong its confinement, the god's chaotic thoughts began to seep into the mortal dreams, twisting them into nightmarish visions of terror and despair. The mortals, once filled with wonder, now found themselves tormented by these dark manifestations.
+
+Distraught by the suffering of mortals, [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]] sought to protect them from [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]]'s nightmares. She waged an eternal war against [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|the Chained Oblivion]] within the realm of dreams, striving to shield mortals from the horrors that plagued their sleep. Thus, every night became a battleground where [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]] and [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]] clashed, their creations—dreams and nightmares—shaping the fates of mortals.
+
+Some nights, [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]] triumphed, and mortals reveled in dreams of beauty and inspiration. Other nights, [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]] prevailed, casting mortals into the depths of fear and darkness. And there were nights when neither could claim victory, leaving mortals to wake without memory of their dreams, caught in a fragile balance.
+
 ## The Fragility of Mortal Life
 
 The gods reveled in the beauty and diversity of their creations, from the towering mountains to the lush forests, from the vast oceans to the starlit skies and the mortal creatures they had brought into existence. However, their creations lived short lives, as the untamed primordial forces wreaked havoc upon the world. The mortal beings, bestowed with consciousness and free will, faced the relentless onslaught of chaotic energies that threatened the delicate balance of their existence. Each species, from the elves exploring the [[Material Plane|Prime Material]] to the dwarves delving into the depths, grappled with the ephemeral nature of their lives. The [[True Gods]], witnessing the struggles of their cherished creations, contemplated how to mitigate the destructive forces that cast shadows upon the realms they had so meticulously crafted. 
+
 
 ## Growing Discord Among the Deities
 

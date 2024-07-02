@@ -264,7 +264,9 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ![[The Moon (Aeloria's)#Creation]]
 
+### The Creations of dreams and the battle against [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]]
 
+![[The Reason for Dreams and Nightmares#The Myth]]
 
 [^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Sehanine)
 [^2]: [Pinterest](https://br.pinterest.com/pin/712624341032838696/)

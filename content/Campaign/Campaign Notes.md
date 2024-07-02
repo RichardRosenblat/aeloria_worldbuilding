@@ -92,6 +92,7 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 64. "You are naught but a nail dreaming itself a hammer."
 65. "Each inch of our lands are littered with the ruins of empires that dared to dream of eternity and deemed themselves endless. "
 66. "You walk upon bones of those who thought they could tame the wild, and yet dare to repeat their sins?"
+67. "I had only one thought before the slaughter. This man will not make an orphan of my daughter"
 
 ## Names For Outsiders
 Ya'qub Qamar Ad-din Dibiazah The greatest Sultan in his time

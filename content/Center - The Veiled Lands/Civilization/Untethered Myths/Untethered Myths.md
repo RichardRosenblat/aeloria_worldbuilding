@@ -71,11 +71,13 @@ These are some of the untethered myths of [[Aeloria]]:
 
 | Myth                                                    |
 | :------------------------------------------------------ |
+| [[Brunhilde, The Iron Maiden (Myth)]]                   |
 | [[Flor (Myth)]]                                         |
 | [[Galadria (Myth)]]                                     |
 | [[Ioun's Archive (Myth)]]                               |
 | [[Khazad-Valdar (Myth)]]                                |
 | [[The Cursed Blood of The Tieflings]]                   |
 | [[The Raven Queen's Duty to the Departed]]              |
+| [[The Reason for Dreams and Nightmares]]                |
+| [[The Reason For the Seasons]]                          |
 | [[The Remaking of the Night Sky By Melora And Avandra]] |
-| [[The Reason For the Seasons]] |

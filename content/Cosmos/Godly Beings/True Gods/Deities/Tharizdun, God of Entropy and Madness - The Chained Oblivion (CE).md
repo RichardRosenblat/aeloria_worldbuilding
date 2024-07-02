@@ -21,7 +21,7 @@ aliases:
   - Thrumgur           
   - The Mad Giant         
 ---
-# Thariuzdun, God of Madness - The Chained Oblivion (CE)
+# Thariuzdun, God of Entropy and Madness - The Chained Oblivion (CE)
 
 ## Culture Names
 
