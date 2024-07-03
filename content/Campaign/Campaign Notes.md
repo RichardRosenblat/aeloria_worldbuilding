@@ -104,6 +104,7 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 76. "The lack of restraint encourages fallout"
 77. 'A reckless temperament perfectly tempts fate"
 78. 'Incautious provocation bears unwanted education"
+79. "Am I doing the right choice marrying her?" -"Each and every moment with her will be worth it tenfold"
 
 ## Names For Outsiders
 Ya'qub Qamar Ad-din Dibiazah The greatest Sultan in his time

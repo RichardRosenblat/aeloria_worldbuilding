@@ -8,14 +8,17 @@ aliases:
   - Yaalcahim
 ---
 
-# The Forbidden Lands of Yaalcahim
+# The Forbidden Lands of Yawnohim
 - **Plane Description**: A hidden plane, frozen in time until observed, with many layers. The first layer is a desolate land with scattered ruins. 
-- **Gateway Access**: The gateway is hidden between mountains, teleporting through minds in the [[astral plane]] and mountains within the elemental [[plane of earth]]. Protected by 3 powerful celestials (Solar, Seraph and Empirean) in the [[astral plane]] and 3 powerful titans (Tarasque, Astral Dreadnought and Tromokratis) in the elemental [[plane of earth]].
+- **Gateway Access**: The gateway is hidden between mountains, teleporting through minds in the [[astral plane]] and mountains within the elemental [[plane of earth]]. Protected by 3 powerful celestials (Solar, Seraph and Empirean) in the [[astral plane]] and 3 powerful [[titans]] (Tarasque, Astral Dreadnought and Tromokratis) in the elemental [[plane of earth]].
 - **Purpose**: The plane serves as a protection for the portal to [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]]'s body demiplane, sealed by powerful constructs scattered across the Forbidden Lands.
 
-## Plane Effect
+## Origin and Purpose
+The Forbidden Lands of Yawnohim are a hidden plane created by ancient [[True Gods|gods]] to safeguard the demiplane containing [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]]'s body. Its origin stems from a time when the gods feared the release of [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|the Chained Oblivion]], sealing it away in this inaccessible realm. The purpose of Yawnohim is to act as a fortress, protecting the portal to [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]]'s prison through a series of deadly layers and powerful constructs.
 
-- **Time Stasis**: The plane is frozen in time until observed, with creatures and objects suspended in motion. Time only flows when observed, creating a surreal and eerie atmosphere.
+## Plane Effects
+
+- **Time Stasis**: The plane is frozen in time until observed, with creatures and objects suspended in motion. Time only flows when observed, creating a surreal and eerie atmosphere. Time only moves within eyesight and within a radius 50ft of the observer. If the observer leaves the area or does not observe the area, time stops again. This effect can only stop objects, effects, and creatures that are native to the plane, any creature not native to the plane is not affected by this effect. Past the first layer, the effect is not present, and time begins to flow normally once the observer enters the layer and stops once they leave.
 - **Corruption**: The plane is tainted by [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]]'s hatred, causing madness and despair in those who linger too long. The longer one stays, the more they are affected by [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|the Chained Oblivion]]'s madness. At the end of a long rest, a visitor must make a DC 15, if failed, the creature gains one level of corruption. This corruption changes the creature's appearance and behavior, upon reaching six levels of corruption, the creature is transformed into a construct and permanently bound to the plane, gaining a new form and a new layer of the Forbidden Lands, but losing their free will. The only way to remove corruption is to leave the plane, divine intervention, or through casting *Greater Restoration* while within the temple.
 
 ### Corruption levels

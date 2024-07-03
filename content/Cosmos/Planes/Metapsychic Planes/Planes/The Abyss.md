@@ -65,7 +65,7 @@ Yeenoghu rules a layer of ravines known as Death Dells. Here, creatures must hun
     - Level 2 with eternal sunset, darker rooms, angler algae and fish that eat dead skin and greener water and diving suits
     - Level 3 → Pitch black walkways in the deep void, walkways made of rusty metal and are slippery, they hand in chains with big statues with blinking eyes in the depts and anglers lights spread around being lost in the abyss, currents come pushing adventurers ever so slightly into the depths, minefields and monsters
 
-### Krelshi-Tranor
+### Krelshi-Tranor: The Seed of Evil
 
 Beyond the infinite layers, in a paradoxical state, lies the final layer, the source of all others: Krelshi-Tranor. This primeval layer, created by the [[true gods]], came into existence when they hurled the crystallized divine power of [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]] into the [[astral plane]]. Corrupted by the influence of the [[The Far Realm|Far Realms]], [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]]'s power began to create the Abyss as it sank into the [[astral plane]]. The infinite layers of the Abyss emerged from the madness and chaos that had infiltrated [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]]'s essence.
 
