@@ -93,6 +93,17 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 65. "Each inch of our lands are littered with the ruins of empires that dared to dream of eternity and deemed themselves endless. "
 66. "You walk upon bones of those who thought they could tame the wild, and yet dare to repeat their sins?"
 67. "I had only one thought before the slaughter. This man will not make an orphan of my daughter"
+68. "Culture shouldn't exist only for those who can afford it"
+69. "The path of revenge is not an honorable one but sometimes it is the only one beneath your feet"
+70. "Act confounded and you'll become enlightened"
+71. "Those who test boundaries find cliffs"
+72. "Aftermath is the sum of poor calculation"
+73. "Consequence favors the foolish"
+74. "Consequence befriends the foolish"
+75. "If you desire fire stroke the flame"
+76. "The lack of restraint encourages fallout"
+77. 'A reckless temperament perfectly tempts fate"
+78. 'Incautious provocation bears unwanted education"
 
 ## Names For Outsiders
 Ya'qub Qamar Ad-din Dibiazah The greatest Sultan in his time
