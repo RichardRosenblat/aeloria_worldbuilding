@@ -143,6 +143,7 @@ Societies that revere Ioun as a deity of knowledge and wisdom often incorporate 
 | Divination |
 
 ## Home Plane
+
 [[Astral Plane]]
 
 ## Champions

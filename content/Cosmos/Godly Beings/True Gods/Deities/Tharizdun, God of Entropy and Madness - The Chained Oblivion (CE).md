@@ -68,7 +68,7 @@ _Jagged counter-clockwise spiral_
 
 ## Avatars
 ### Alonian (Tallman) Generic
-> Tharizdun is often portrayed as a creature of amorphous shape sealed with chains and metal and hooks, often oozing a reddish energy with big wings behind it 
+> Tharizdun is often portrayed as a creature of amorphous-to-almost-humanoid shape sealed with chains and metal and hooks, often emanating a reddish energy with big wings behind it 
 
 ![[Tharizdun appearance.png|300]][^2]
 
@@ -108,7 +108,18 @@ _Jagged counter-clockwise spiral_
 
 ## Home Plane
 
-[[The Abyss|Infinite Layers of the Abyss]]
+As Tharizdun is divided in three parts (Mind, Body, and Divine power), it has three different planes of existence:
+
+[[The Abyss#Krelshi-Tranor The Seed of Evil|Infinite Layers of the Abyss > Krelshi-tranor]] is where Tharizdun's divine power is sealed.
+[[The Abyss#Krelshi-Tranor The Seed of Evil|Infinite Layers of the Abyss > Krelshi-tranor > Mind prision demiplane]] is where Tharizdun's mind is sealed.
+[[The Abyss#Krelshi-Tranor The Seed of Evil|Infinite Layers of the Abyss > Krelshi-tranor > Body prision demiplane]] is where Tharizdun's body is sealed.
+
+To reach these planes, one must follow different paths, as the planes are sealed by powerful magic:
+
+To reach Krelshi-Tranor, one must find an artifact called that can open the gate to the layer of the Abyss where Tharizdun's divine power is sealed.
+To reach the Mind prison, one must find [[The Cyst]] and its key to access the portal to the demiplane where Tharizdun's mind is sealed.
+To reach the Body prison, one must find the gate to the [[Yawnohim|Forbidden Lands of Yawnohim]] and successfully unlock the gate to the demiplane where Tharizdun's body is sealed.
+
 
 ## Champions
 

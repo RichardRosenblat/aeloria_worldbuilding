@@ -150,7 +150,7 @@ The worship of Erathis often shapes the political structures and governance syst
 
 ## Home Plane
 
-[[Arcadia]]
+[[Arcadia|Peaceable Kingdoms of Arcadia]]
 
 ## Champions
 
