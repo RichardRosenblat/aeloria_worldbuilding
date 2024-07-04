@@ -19,7 +19,8 @@ tags:
 | list of plans               | [[Important names to create later]] |
 | Myths                       | [[Untethered Myths]]                |
 | NPC random backstories      | [[NPC Backstories]]                 |
-| Genrating Random builds     | [[Random Buildings]]                |
+| Generating Random builds     | [[Random Buildings]]                |
+| Names on demand     | [[Random NAmes Lists]]                |
 
 ## Songs to remember to use
 Makora - https://youtu.be/vOWSDBKFjQ4?si=bvnU6ZeeT4W2ENHs
