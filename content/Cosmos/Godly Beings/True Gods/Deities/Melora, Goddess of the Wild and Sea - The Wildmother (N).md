@@ -231,7 +231,7 @@ A follower of Melora can gain favor with the Wildmother by protecting the untame
 
 3. **Blessing of the Verdant Touch**: The follower can touch a living plant, fungus or creature of the plant type to cast "Cure Wounds" at first level without using a spell slot. This ability improves to second level when the follower reaches 5th level and third level when they reach 11th level.
 
-4. **Blessing of the Forest Guardian**: The follower can cast "Barkskin" on themselves once per long rest without using a spell slot. The spell does not require concentration when cast this way and instead of having the AC of 16, the follower's AC cannot be lower than 20 when this spell is active.
+4. **Blessing of the Forest Guardian**: The follower can cast *Barkskin* on themselves once per long rest without using a spell slot. The spell does not require concentration when cast this way and instead of having the AC of 16, the follower's AC cannot be lower than 20 when this spell is active.
 
 5. **Blessing of the Eternal Wanderer**: The follower gains proficiency in Survival and Nature, and they have advantage on ability checks to forage for food and water, and cannot become lost except by magical means. Additionally, if the user spends 1 hours familiarizing themselves with the wildlife of an area, they can touch a living plant or beast to teleport to a location within 1 mile, or teleport to the area from another location. The follower can use this ability a number of times equal to their Wisdom modifier (minimum of 1) per long rest and take up to 5 willing creatures with them, as long as they are touching the follower when they teleport.
 

@@ -201,7 +201,7 @@ A follower of Kord, the Stormlord, can gain favor with their deity by demonstrat
    - The recipient gains a permanent +2 bonus to their Strength score, up to a maximum of 25. This blessing represents Kord’s favor, imbuing the follower with extraordinary physical power.
 
 2. **Storm's Fury:**
-   - Once per long rest, the follower can call upon Kord’s wrath to deal an additional 2d6 lightning damage with their melee attacks for 1 minute. This surge of power reflects the god’s stormy nature and his gift of ferocity in battle.
+   - Once per long rest, the follower can call upon Kord’s wrath to deal an additional 2d6 lightning damage with their melee attacks for 1 minute as a bonus action. This surge of power reflects the god’s stormy nature and his gift of ferocity in battle.
 
 3. **Thunderous Resilience:**
    - The follower gains resistance to lightning and thunder damage. This blessing symbolizes Kord’s protective embrace, shielding the devotee from the harsh elements.

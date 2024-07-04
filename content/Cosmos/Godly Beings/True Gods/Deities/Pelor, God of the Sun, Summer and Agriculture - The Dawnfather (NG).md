@@ -201,13 +201,13 @@ A follower of Pelor can gain favor with their deity by embodying the principles 
    - Once per long rest, the follower can channel Pelor's divine light into their weapon, adding 2d8 radiant damage to their next melee attack. This attack also has a chance to blind the target for 1d4 rounds (DC 15 Constitution saving throw).
 
 2. **Sunburst Shield**
-   - Once per long rest, the follower can summon a radiant shield that grants +3 AC and reflects 1d6 radiant damage to any creature that hits the follower with a melee attack. The shield lasts for 1 minute.
+   - Once per long rest, the follower can use a bonus action to summon a radiant shield that grants +3 AC and reflects 1d6 radiant damage to any creature that hits the follower with a melee attack. The shield lasts for 1 minute.
 
 3. **Healing Light**
-   - Once per short rest, the follower can invoke Pelor's healing light, restoring 3d10 hit points to share between themselves and an ally within 30 feet. Additionally, whenever a creature recieves healing from the follower, they gain a +1 bonus to their next attack roll or saving throw.
+   - Once per short rest, the follower can use a bonus action to invoke Pelor's healing light, restoring 3d10 hit points to share between themselves and an ally within 30 feet. Additionally, whenever a creature recieves healing from the follower, they gain a +1 bonus to their next attack roll or saving throw.
 
 4. **Blazing Strike**
-   - Once per long rest, the follower can call down a beam of sunlight on 1 target within 60 feet. The target must make a DC 15 Dexterity saving throw, taking 4d10 radiant damage on a failed save, or half as much damage on a successful one. The amount of targets increases by 1 for every 5 levels the follower has.
+   - Once per long rest, the follower can call down a beam of sunlight on 1 target within 60 feet as an action. The target must make a DC 15 Dexterity saving throw, taking 4d10 radiant damage on a failed save, or half as much damage on a successful one. The amount of targets increases by 1 for every 5 levels the follower has.
 
 1. **Sunlit Resilience**
    - The follower gains resistance to radiant damage and advantage on saving throws against being blinded or frightened.

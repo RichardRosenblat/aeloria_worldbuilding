@@ -29,6 +29,7 @@ Happy adventuring and stay curious!
 | [[Hostage Situation Rules]]    |
 | [[After Death Encounter]]      |
 | [[Train Fights]]               |
+| [[Rule - Unblinking Stare]]          |
 
 ## Homebrew Character Options
 

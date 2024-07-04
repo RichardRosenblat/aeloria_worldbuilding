@@ -213,7 +213,7 @@ A follower of Sehanine can gain favor with the Moonweaver by seeking beauty in t
 
 3. **Lunar Resilience**: The follower is blessed with the endurance of the moon's cycles, able to withstand more damage. The character gains advantage on saving throws against being poisoned, and they have resistance to poison damage. During night time, the character gains resistance to necrotic, psychic, radiant, and cold damage and they cannot be charmed or frightened.
 
-4. **Veil of the Night**: The follower can use the shadows in their favor, they become invisible in dim light or darkness as a bonus action. Additionally, once per long rest they can either teleport between shadows up to 120 feet away or take a sliver of darkness that manifests as a dark tattoo that coils around their arm, granting them the effects of the *Regenerate* spell for 1 hour or with a bonus action stop that effect and gain the effects of the *Shadow blade* spell for 1 minute using the sliver as the weapon.
+4. **Veil of the Night**: The follower can use the shadows in their favor, they become invisible in dim light or darkness as a bonus action. Additionally, once per long rest they can use an action to either teleport between shadows up to 120 feet away or take a sliver of darkness that manifests as a dark tattoo that coils around their arm, granting them the effects of the *Regenerate* spell for 1 hour or with a bonus action stop that effect and gain the effects of the *Shadow blade* spell for 1 minute using the sliver as the weapon.
 
 5. **Moonbeam’s Grace**: The follower is bestowed with agility and grace under Sehanine’s moonlight. The character gains a +2 bonus to Dexterity (Acrobatics) checks and their movement speed increases by 20 feet. During night time, the character gains +4 on their AC, their Dexterity modifier and can cast the *Haste* spell once without using a spell slot or needing concentration.
 
@@ -221,7 +221,7 @@ A follower of Sehanine can gain favor with the Moonweaver by seeking beauty in t
 
 7. **Lunar Healing**: The follower can call upon Sehanine’s power to heal themselves and others. The character gains the ability to cast *Heal* 2 times per long rest without using a spell slot. During night time, the character can cast this spell at 8th level without using a spell slot and during a full moon and the character is under the moonlight, the spell changes to *Mass Heal*.
 
-8. **Moonlit Sanctuary**: The follower can create a safe haven under the moon's light, providing rest and protection. Once per long rest, the character can cast the *Leomund's Tiny Hut* spell without using a spell slot.
+8. **Moonlit Sanctuary**: The follower can create a safe haven under the moon's light, providing rest and protection. Once per long rest, the character can cast the *Leomund's Tiny Hut* spell without using a spell slot. The hut makes those inside invisible to creatures outside and provides a safe resting place for up to 8 hours.
 
 
 ## Curses

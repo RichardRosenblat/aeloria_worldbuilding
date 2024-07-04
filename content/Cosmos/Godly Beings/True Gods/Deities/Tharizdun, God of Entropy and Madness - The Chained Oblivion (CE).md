@@ -83,7 +83,6 @@ The Personification of Madness: Tharizdun, God of Insanity
 
 ## Portfolio
 
-
 1. **Entropy**: Tharizdun embodies the principle of entropy, the inexorable descent into chaos and disorder. It holds sway over the natural tendency of all things towards dissolution and decay.
 
 2. **Madness**: As the god of madness, Tharizdun influences the chaotic and unpredictable aspects of the mind. It governs insanity, delusion, and the breaking of mental boundaries, blurring the lines between sanity and lunacy.
@@ -182,9 +181,7 @@ Followers of Tharizdun are often viewed with fear and suspicion by other culture
 
 ## Political Structures
 
-Certainly! Here are some political structures and organizations associated with Tharizdun, the Chained Oblivion, reflecting the influence and impact of this chaotic deity on governance and power dynamics:
-
-### Political Structures Associated with Tharizdun
+Cults and sects devoted to Tharizdun often operate independently of established political structures, preferring to remain hidden and secretive. However, they may seek to infiltrate existing power structures or instigate chaos and unrest to further their goals. Some common political structures among Tharizdun's followers include:
 
 1. **Cults of Entropy**: These are secretive organizations devoted to Tharizdun's teachings and principles of chaos and destruction. Cult leaders wield considerable influence over their followers, guiding them in rituals that seek to hasten the arrival of the Madness god.
 
@@ -196,12 +193,11 @@ Certainly! Here are some political structures and organizations associated with 
 
 5. **Chains of Command**: Military organizations or paramilitary groups that revere Tharizdun as a god of war and destruction. They may seek to infiltrate existing power structures and institutions, using their influence to sow suffering and chaos in the name of the Chained Oblivion by engaging in sabotage, acts of terror and instilling paranoia in the populace or among their brothers in arms.
 
-6. **Eldritch Councils**: Rare gatherings of powerful spellcasters and scholars who study the mysteries of the Far Realm and Tharizdun's influence. They convene to exchange forbidden knowledge, conducting experiments and rituals that push the boundaries of sanity and morality. These councils may seek to unlock the secrets of the Chained Oblivion or harness its power for their own ends but ultimately fall into madness and despair using other people as pawns in their quest for power.
+6. **Eldritch Councils**: Rare gatherings of powerful spellcasters and scholars who study the mysteries of [[[[The Far Realm]]|[[the Far Rea]]lm]] and Tharizdun's influence. They convene to exchange forbidden knowledge, conducting experiments and rituals that push the boundaries of sanity and morality. These councils may seek to unlock the secrets of the Chained Oblivion or harness its power for their own ends but ultimately fall into madness and despair using other people as pawns in their quest for power.
 
 7. **Apocalyptic Cults**: These organizations prophesy the coming of the mad god, believing that Tharizdun's liberation will usher in a new era of chaos and destruction. They prepare for this eventuality by gathering resources, recruiting followers, and seeking artifacts of immense power.
 
 8. **Nightmare Networks**: Informal networks of individuals plagued by Tharizdun's nightmares and visions. These networks may form unwittingly among those affected by the god's psychic influence, fostering a shared sense of dread and paranoia.
-
 
 ## Elemental Affinities
 
@@ -248,10 +244,34 @@ To reach the Body prison, one must find the gate to the [[Yawnohim|Forbidden Lan
 
 ## Blessings
 
-A follower of (God) can gain favor with their deity by (doing what?). As they embody the principles of (what?), (God) may bestow the following blessings upon them:
+A follower of Tharidun does not gain favor with their deity as the god is sealed and cannot grant blessings. However, the followers of Tharizdun can gain blessings by tainting themselves with the energies of [[the far realm]], the void, and the madness that Tharizdun embodies.  
 
 *Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
 
+1. **Chtonic Gaze**: The follower's eyes can become windows to realms of madness and eldritch horror. Once per day, they can use an action to make a creature within 30 feet of them make a Wisdom saving throw or be frightened or suffer a random temporary madness effect for 1 minute. Alternatively, they can use this ability to make a creature within 30 feet of them make a Wisdom saving throw or be charmed for the duration of the eye contact (as blinking breaks the effect, refer to [[Rule - Unblinking Stare]] for more information), a creature charmed this way cannot move, attack or take any action until the effect is broken or one of the two creatures is attacked.
+
+2. **Incomprehensible Mind**: The follower gains the feat *Telepathic*, resistance to psychic damage and no creature can read their thoughts or communicate with them telepathically unless they allow it. Tharizdun's chaotic thoughts shields their mind from external intrusion.
+
+3. **Summon Eldritch Abomination**: Once per long rest, the follower can cast *Summon Aberration* at 5th level without expending a spell slot, material components, or concentration. After the effect, roll a d20, on a roll of 1, the creature summoned turns against the follower's party (except the follower) and attacks them for 1 minute before disappearing. If the follower has a spell slot of 6th level or higher, they can cast the spell at that level instead but for each level above 5th, the chance of the creature turning against the party increases by 1 (e.g., 6th level spell slot has a 2 in 20 chance, 7th level spell slot has a 3 in 20 chance, etc.).
+
+4. **Sense of the Void**: The follower gains the ability to sense any creature that is not a construct within 60 feet of them along with the direction those creatures are looking at, even if they are invisible or hidden. This sense goes through walls and other obstacles, but not through magical barriers or lead. For Aberrations, the range is increased to 120 feet.
+
+5. **Uncanny body**: The follower's body changes in subtle ways creating new limbs, eyes, or other appendages. They can now carry on their hand an amount of items equal to their proficiency bonus, their amount of attacks per turn increases by 1 at 5th level, at 11th level, and at 17th level. For an amount of times equal to their proficiency bonus per long rest, they can gain advantage on an ability check (Except persuation or deception given the unsettling nature of their appearance) or saving throw, they can choose to spend two uses of this ability to be able to concentrate on two spells at the same time for 1 minute.
+
+6. **Unspeakable Horror's form**: The body of the follower mimics the appearance of an eldritch abomination. Once per long rest, for 1 minute, the follower can gain an amount of temporary hit points equal to their amount of hit die, an amount of additional attacks equal to their proficiency bonus, and their movement speed is doubled. During the transformation the follower also gains one of the following attributes to their choice (It is possible to pick more than one but after the transformation ends, the follower takes 1d12 psychic damage for each attribute they chose during the transformation other than the first) and recieves one level of exhaustion. The damage caused cannot be reduced or avoided in any way as it damages the follower's very being. 
+    - A type of damage resistance of their choice 
+    - A type of sense of their choice (e.g., blindsight, tremorsense, etc.)
+    - A type of movement of their choice (e.g., flying, swimming, etc.)
+    - A new attack option using a new limb or appendage that deals 1d10 damage of a type of their choice
+    - A new attack option by launching a projectile that deals 1d10 damage of a type of their choice and has a range of 60 feet
+    - Either: The skill to move through any opening at least 1 inch wide without squeezing or Any creature that touches the follower or hits it with a melee attack takes 1d10 acid damage 
+  
+7. **Dimensional Warp**: The follower chooses a point they can see, or is within 60 feet of them, and can teleport to that point as a bonus action. After using this ability, a small distortion in reality remains in the point they teleported from and the point they teleported to until the end of their next turn. Any creature can use this distortion to teleport to the other point as a bonus action, but any creature other than the follower that uses this distortion takes 1d4 psychic damage. The follower can use this ability a number of times equal to their proficiency bonus per long rest.
+
+8. **Chains of the Mad God**: The follower can cast either *Hold Person*, *Hold Monster*, *Tasha's Hideous Laughter*, *Crown of Madness*, or *Banishment* without expending a spell slot or material components, once per long rest. 
+  - When *Hold Person* or *Hold Monster* is cast, chains bind the adversary, causing them to laugh, cry uncontrollably, or babble incoherently if they can speak.
+  - Alternatively, the chains can wrap around the target’s head, invoking the effects of *Tasha's Hideous Laughter* or *Crown of Madness* for the spell’s duration.
+  - If the target's origin plane differs from the current one, the chains can hook into the target’s body, causing the effect of the *Banishment* spell for the spell’s duration.
 
 ## Curses
 
@@ -296,11 +316,8 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ![[The Reason for Dreams and Nightmares#The Myth]]
 
-for the god above can you create:
 
-now can you generate a list of 8 blessings the god can bestow upon their followers as they gain favor with this god in dnd terms
 now can you generate a list of 8 curses the god's follower can bestow upon their enemies as they gain favor with this god in dnd terms
-now can you generate a list of elements that could be associated with them
 
 
 
