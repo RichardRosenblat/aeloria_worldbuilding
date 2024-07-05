@@ -279,6 +279,22 @@ A follower of Tharidun does not gain favor with their deity as the god is sealed
 
 The follower must cast *Bestow Curse* to invoke their available curses:
 
+1. **Curse of Chaotic Visions**: The target is plagued by disturbing, chaotic visions that distract and confuse them. They have disadvantage on all attack rolls, ability checks, and saving throws while they are under this curse.
+
+2. **Curse of Entropic Decay**: The target's body begins to decay and weaken. They suffer disadvantage on all Strength and Constitution checks and saving throws, and their maximum hit points are reduced by 1d10 each hour until the curse is lifted. If their maximum hit points reach 0, the target falls dead and their body becomes an distubing manifestation of Tharidun's madnesss, e.g., a bunch of chain covered by skin, the body becomes a group of spiders that skitter away
+
+3. **Curse of Maddening Whispers**: The target hears incessant, maddening whispers that distract and disturb them. They must succeed on a Wisdom saving throw at the start of each of their turns or be unable to take actions or reactions until the start of their next turn.
+
+4. **Curse of the Void**: The target's connection to the material world is weakened. They have disadvantage on all Dexterity, Strenght and Constituiton checks and saving throws, and any teleportation or dimensional travel they attempt causes them to roll a d4. On a 4 the target can travel normally, on a 3 they are transported to a random location, on a 2 they are not transported 
+
+5. **Curse of Unraveling**: The target's magical defenses are compromised. They have disadvantage on saving throws against any spells and magical effects, and they become incapable of concentrating on spells or maintaining concentration on spells they cast.
+
+6. **Curse of Temporal Instability**: The target's perception of time becomes erratic. At the start of each of their turns, roll a d6. On a roll of 1-2, the target is affected by the *Slow* spell until the start of their next turn. On a roll of 3-4, the target's limbs become stuck in time, causing them to be unable to move or take actions until the start of their next turn but also making them incapable of falling prone or being moved by any means. On a roll of 5-6, the target is paralyzed until the start of their next turn but also gains resistance to all damage until the start of their next turn and are incapable of being moved by any means.
+
+7. **Curse of Insatiable Hunger**: The target is overwhelmed by a gnawing, insatiable hunger. They have disadvantage on all attack rolls and ability checks unless they spend their action each turn to consume food or attempt to eat anything within reach.
+
+8. **Curse of Shattered Reality**: The target's sense of reality begins to fracture. They must succeed on a Wisdom saving throw at the start of each of their turns or be affected by the *Confusion* spell until the start of their next turn.
+
 ## Myths
 
 ### Being Sealed by [[Over-Deities]] and [[True Gods]]
@@ -315,10 +331,6 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ### Tharizdun's Nightmares and [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]]'s Dreams
 
 ![[The Reason for Dreams and Nightmares#The Myth]]
-
-
-now can you generate a list of 8 curses the god's follower can bestow upon their enemies as they gain favor with this god in dnd terms
-
 
 
 [^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Tharizdun)
