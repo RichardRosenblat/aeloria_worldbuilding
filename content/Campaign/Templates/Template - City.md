@@ -1,4 +1,4 @@
-  # City Name: (Give your city a unique and evocative name)
+# City Name: (Give your city a unique and evocative name)
             
 ## Atmosphere:
 

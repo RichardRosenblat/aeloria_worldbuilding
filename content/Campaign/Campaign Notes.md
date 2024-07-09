@@ -106,6 +106,7 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 77. 'A reckless temperament perfectly tempts fate"
 78. 'Incautious provocation bears unwanted education"
 79. "Am I doing the right choice marrying her?" -"Each and every moment with her will be worth it tenfold"
+80. "What troubles you, my hunter? Do you not hear the call of the hunt? Or do you wish to stir something more from the depths of this nightmare?"
 
 ## Names For Outsiders
 Ya'qub Qamar Ad-din Dibiazah The greatest Sultan in his time

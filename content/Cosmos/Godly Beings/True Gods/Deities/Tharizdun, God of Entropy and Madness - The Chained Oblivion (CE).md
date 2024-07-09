@@ -275,7 +275,7 @@ A follower of Tharidun does not gain favor with their deity as the god is sealed
 
 ## Curses
 
-(God)'s followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with (God), they may gain access to the following curses to unleash upon their foes:
+Through interaction with Tharizdun, and the forces of madness and chaos, the follower can invoke the wrath of the different aspects of the eldritch realm to bestow curses upon their enemies. These are some examples of the curses that the follower can invoke upon their enemies:
 
 The follower must cast *Bestow Curse* to invoke their available curses:
 
