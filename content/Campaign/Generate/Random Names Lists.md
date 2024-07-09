@@ -5,67 +5,7 @@ tags:
 Algorithym to generate random names for a campaign.
 
 ```JavaScript
-((genOptions, numberOfLastNames) => {
-    const numberToOrdinalWords = (n) => {
-        const ordinalWords = [
-            "Zeroth", "First", "Second", "Third", "Fourth",
-            "Fifth", "Sixth", "Seventh", "Eighth", "Ninth", "Tenth"
-        ];
 
-        if (n < 0 || n > 10) {
-            const s = ["th", "st", "nd", "rd"];
-            const v = n % 100;
-            return n + (s[(v - 20) % 10] || s[v] || s[0]);
-        }
-
-        return ordinalWords[n];
-    };
-    const generateNames = (genType) => {
-        const result = [];
-        for (let i = 0; i < 10; i++) {
-            nameGen(genType);
-            const arrayOfNames = document.getElementById("result").innerHTML.split("<br>").filter(Boolean);
-            result.push(...arrayOfNames);
-        }
-        return result;
-    };
-
-    genOptions.forEach((genType, i) => {
-        console.log('###############################-------' + i + '-------####################################')
-        let result = generateNames(genType)
-        if (numberOfLastNames >= 1) {
-            console.log('------------------All-----------------------')
-            console.log((result).join("_"))
-            console.log('-----------------------------------------')
-            console.log('-----------------First-----------------------')
-            result = generateNames(genType)
-            console.log(result.map(name => name.split(" ")[0]).join('_'))
-            console.log('-----------------------------------------')
-
-            if (numberOfLastNames === 1) {
-                console.log('------------------Second-----------------------')
-                result = generateNames(genType)
-                console.log(result.map(name => {
-                    const [_, ...rest] = name.split(" ")
-                    return rest.join(' ')
-                }).filter(n => !!n && n !== 'undefined').join('_'))
-                console.log('-----------------------------------------')
-            } else {
-                for (let i = 1; i <= numberOfLastNames; i++) {
-                    result = generateNames(genType)
-                    console.log('------------------' + numberToOrdinalWords(i + 1) + '-----------------------')
-                    console.log(result.map(name => name.split(" ")[i]).filter(n => !!n && n !== 'undefined').join("_"))
-                    console.log('-----------------------------------------')
-                }
-            }
-        }
-        else {
-            console.log((result).join("_"))
-        }
-        console.log('###################################################################################')
-    });
-})
-    ([undefined, 1], 1)
 
 ```
 
@@ -12453,95 +12393,3093 @@ dubrageck
 
 # Eldar (Elven) Elven
 
-## [Celtic (Irish) name generator](https://www.fantasynamegenerators.com/irish-names.php)
+## [Celtic (Irish/Gaeilge) name generator](https://www.fantasynamegenerators.com/irish-names.php)
 
 ### Male
 
 #### Full names
+Ailill Faracháin
+Conuil Cumhaighe
+Doctor Longáin
+Nioclás Giolla Chomhghaill
+Comhghall Coinnich
+Mainchín hUainín
+Fitheal Síoghraidh
+Connor hAnnagáin
+Miach Maoilmhiadhaigh
+Augholy hEadhra
+Séaonin Peatáin
+Dainéal Ciosáin
+Roibéard Dubhghaill
+Néamh Reachtain
+Flaithrí Foghladha
+Piaras Bhiadhtaigh
+Cúchonnacht Tuama
+Dícuill Síocháin
+Sioda Maonaigh
+Finnlug Diarmada
+Cuimín hAmhsaigh
+Saerbhreathach hAirmheadhaigh
+Ailbhe Céile
+Fáelán Maol Chonaire
+Malachi Ciaráin
+Mochuma Faracháin
+Mochonna Dhomhnuill
+Uaithne Duineachdha
+Nannid Amhlaoibh
+Cosnamhach Mháirtín
+Ailín Duibhshíthe
+Aona Toghda
+Tierney Murchadha
+Anamcha Maolchraoibhe
+Áinnle Cathaláin
+Naisi Diarmada
+Feidhlim Fiacháin
+Donnchadh Ceallaigh
+Árón Gríofa
+Ailbhe Dhurcáin
+Laoiseach Con Uladh
+Tighernach hAoileáin
+Maelíosa Eochagáin
+Fearghus Pharthaláin
+Breccán Taidhg
+Fraochan Fiannaidhe
+Eóin Raghailligh
+Damhán Fearadhaigh
+Liam Scoireadh
+Glasán Céile
+Nannid Diarmada
+Éanna hÁirt
+Earcán Duibh
+Laisrén Baoill
+Aodh Maoilmhiadhaigh
+Canice Maolfhoghmhair
+Laighneach Maol Ruanaidh
+Liadhnán Cogadháin
+Émer Philbín
+Fothad Duineachdha
+Máedóc Giolla Deacair
+Ceat Maoilíosa
+Blámhac hEireamhóin
+Declan Síoghraidh
+Uaitéar Mealláin
+Conchobhar Cartaine
+Imchad Maolcatha
+Beccán Midhir
+Ambrós Maolcatha
+Dónall Cuilinn
+Dabhag Dubhdara
+Michan hUallacháin
+Laidhgeann hAnnlúinn
+Conuil Céileachair
+Uilliam Cumhaill
+Ruadhán Sluaghadhaigh
+Gilleece Duibhginn
+Cinnéide Maonghaile
+Nechtan Fiannaidhe
+Finn Seachnasaigh
+Suibhne Cluasaigh
+Lonán Corráin
+Senán Leòid
+Beolagh Bruadair
+Bréanainn Eoin
+Niallán Seáin
+Ardghal Doibhilin
+Fiacha Duirnín
+Muireach hÁileagáin
+Lubhrás Cosgair
+Teimhnín Gille Fhaoláin
+Maitiu hÓisín
+Cionnaola Sluagháin
+Cuán Braoin
+Díochú hÚbáin
+Tierney Giollagáin
+Stiofan hAnnlúinn
+Carraig Cuineáin
+Colum Taithligh
+Eiltín Garmhaic
 
 #### First names
+Declan
+Treabhair
+Eolann
+Éibhear
+Íor
+Aindriú
+Maolruadháin
+Aolú
+Tadhg
+Muadhán
+Feargus
+Tiernán
+Maolruanaí
+Daigh
+Bearchán
+Dúnlang
+Feradach
+Beacán
+Fáilbhe
+Malachi
+Maelíosa
+Echmhílidh
+Conor
+Lonán
+Earcán
+Doctor
+Glasán
+Díomán
+Maolóráin
+Aibhne
+Mochuma
+Fionnbharr
+Oireachtach
+Guaire
+Caoimhghín
+Beolagh
+Oireachtach
+Earnán
+Cuán
+Criofan
+Finbar
+Uilliam
+Liber
+Colm
+Fínán
+Ruibhilín
+Iósaf
+Lúarán
+Luchaidh
+Oilibhéar
+Dualtach
+Dónall
+Maolmórdha
+Seoirse
+Dubhghlas
+Faircheallach
+Adomnán
+Sioda
+Liam
+Ruari
+Cailean
+Doctor
+Eoan
+Conchúr
+Stiofan
+Manchán
+Fiach
+Raibhilín
+Dagda
+Seoirse
+Meallán
+Ualgharg
+Pádraig
+Faolán
+Columbcille
+Blámhac
+Gearóid
+Mairtin
+Cinnéididh
+Cáel
+Doctor
+Eogan
+Luchaidh
+Árón
+Donovan
+Colum
+Caomhán
+Cuana
+Conchúr
+Dufach
+Criomthann
+Eanna
+Feichín
+Maolóráin
+Mochuma
+Proinnsias
+Cathair
+Éibhear
+Carthach
+Cathbharr
 
 #### Last Names
+Conaing
+Duibh
+Maolmhuire
+Beólláin
+Dhuiling
+Fógartaigh
+Gille Dheòradha
+hAirmheadhaigh
+Rathaille
+Gormáin
+Cumhaighe
+Gille Fhinneain
+hEarcáin
+hEodhusa
+hEarchadha
+Tanaidheain
+Lughaidh
+hEachach
+Somhairle
+Comhraidhe
+Maol Aodha
+Meadhra
+Luain
+Dobhailein
+Diarmada
+Brosnacháin
+Seáin
+Maotháin
+Colgáin
+Rúaidh
+Luasaigh
+hAnnagáin
+Cullieagáin
+Consaidín
+Dochartaigh
+Comhraidhe
+hInreachtaigh
+Síoghraidh
+Tuathaigh
+Eathain
+Tuathaláin
+Baoill
+Gille Fhaoláin
+Cárthaigh
+Oilibhéir
+Gobhann
+Géidigh
+Dubhartaigh
+Lughaidh
+Thóm
+hAiliosa
+Pilib
+Cómhaltáin
+Geigheannaigh
+Bolguidhir
+hUainín
+Dúnadhaigh
+Giolla Uidhir
+Cumhaighe
+Niadh
+Cúg
+Giolla Dhomnaigh
+Carra
+Luasaigh
+Cosgair
+Doirnín
+Murnáin
+Caiside
+Maoilbhrighde
+Cosgair
+Maoilmhiadhaigh
+Dubhdara
+Cathmhaoil
+Cosgair
+Cuirnín
+hAiligheasa
+Gafraidh
+Cléirigh
+Cearbhaill
+Amhlaidh
+Feichín
+Conmara
+Labhradha
+Maolmhóna
+Conchobhair
+Murchadha
+Muireagáin
+Corbáin
+hEarcáin
+Cinnseallaigh
+Midhir
+Flannabhra
+Meára
+Giolla Dhomhnaigh
+Réamoinn
+Eoin
+Riada
+hArgadáin
+Cómhaltáin
+Donnchú
 
 ### Female
 
 #### Full names
+Derbail Banáin
+Tuathlaith Carra
+Eimhear Bolguidhir
+Eithne h-Ailghiusa
+Muirín Conalláin
+Saoirse Slatiascaigh
+Bethaill hOistín
+Lúgach Cobhthaigh
+Deidre Ailín
+Mughain hArragáin
+Líadan Céileachair
+Flannait Giolla Uidhir
+Eimear h-Ailghiusa
+Achall Fionnáin
+Brídín Briain
+Monat Brádaigh
+Caitrín Bearáin
+Earnait Fionnagáin
+Tuathla Eacháin
+Caoimhe Muineacháin
+Uasal Fithcheallaigh
+Caitlín Thóm
+Raghnailt Duineachdha
+Órlaith Cú Uladh
+Etaoin Murghaile
+Ailbhe Macháin
+Damhnait Fógartaigh
+Éabha Coilín
+Láimhseach Dhonnaile
+Éile Ciaráin
+Caitlín Giolla na Naomh
+Gormlaith Mhuirich
+Sláine Comhraidhe
+Brighdín Murghaile
+Fennore Caoinnigh
+Affraic Coigligh
+Brighdín Bruadair
+Laoiseach hIonmhaineáin
+Nóirín hOistín
+Nárbhla hEidhin
+Láimhseach Giolla Rua
+Dearlú Tíghearnáin
+Sadhbh Conaire
+Eeada Doirinne
+Órlaith Giolla Dhomnaigh
+Meadhbh Donnghaile
+Sadb Riabhaigh
+Blánaid Suaird
+Meidhbhín Cosgair
+Laoiseach Seáin
+Mairéad Muireadhaigh
+Mairin Gabhann
+Gobnait Grúgáin
+Iuchra Caollaidhe
+Caitlin Canáin
+Nóra Fhearraigh
+Eachna Diarmada
+Eachna Máille
+Finnseach Cionaodha
+Crón Dulchaointigh
+Isibéal Ailín
+Ciara hAinifín
+Ailis Colgáin
+Clíona Grúgáin
+Finnseach Muineacháin
+Sibéal Cosgair
+Séanait Fhearghaill
+Tuathla Síoráin
+Ailbhe Faodhagáin
+Dealla Céirín
+Caoimhe Cuimín
+Blánaid Cuanaigh
+Dearbhla Asgaill
+Rúadhnait hIorua
+Fíona Daibhéid
+Eirnín Laoghaire
+Cróchnait Mathghamhna
+Moira Giolla Coileáin
+Miodhnait Fágáin
+Máire Asgaill
+Ionait Leanacháin
+Cúach Dubhdáleithe
+Mealla hOistín
+Mailte Dathlaoich
+Fiona Neachtain
+Eilish Geibheannaigh
+Béibhinn Loingsigh
+Róise Dubhshláine
+Séadach Cnáimhsí
+Móirín hÁilgheanáin
+Ríonach Eochagáin
+Cairrean Con Coille
+Ciara Giolla Riabhaigh
+Aislin Murchadha
+Comnait Cathal
+Tierney Phóil
+Mallaidh Cluanaigh
+Máire hÓsáin
+Tiarnan Neachtain
+Eilín Glasáin
 
 #### First names
+Deirbhile
+Cúachnait
+Samhaoir
+Feamair
+Tiarnan
+Rathnait
+Flann
+Míonait
+Sadhbh
+Dairile
+Órla
+Craobhnait
+Ethna
+Ainfean
+Míde
+Róisín
+Moirin
+Aíbell
+Iodhnait
+Feamair
+Pádraigin
+Cróchnait
+Sláine
+Uaine
+Sorcha
+Riona
+Eithne
+Rathnait
+Máirín
+Aoibhin
+Muirne
+Flidais
+Cobhlaith
+Cainnleach
+Finnchnes
+Fodhla
+Laoiseach
+Sinéad
+Cróchnait
+Loughlin
+Úna
+Caitrín
+Míonait
+Eachra
+Draigen
+Ailleann
+Eachtach
+Lysagh
+Muireann
+Daróma
+Dairinn
+Proinnseas
+Cliodhna
+Míde
+Aithche
+Tierney
+Béibhinn
+Gelace
+Dearbhfhorghaill
+Caoimhe
+Áilísh
+Lavarcham
+Éabha
+Lann
+Brighdín
+Áilísh
+Tuathflaith
+Gelace
+Peigín
+Béibhinn
+Dúinseach
+Eibhlin
+Muirgel
+Dubhóg
+Brídín
+Ríoghnach
+Aíbell
+Tuathflaith
+Áine
+Ailionóra
+Daróma
+Fial
+Muireacht
+Lasair
+Deirdre
+Eachra
+Deidre
+Bigseach
+Aoibhinn
+Buanait
+Feamair
+Aigneis
+Achall
+Aíbell
+Ríona
+Alistriona
+Éadaoin
+Buanann
+Lúgach
+Cruimseach
 
 #### Last Names
+Sionúir
+Ailín
+Maolmhuaidh
+Slatiascaigh
+Eanruig
+Rónáin
+Ciaráin
+Cuindlis
+Murthuile
+Mháirtín
+Maolmhochóir
+Mathúna
+Dubhuir
+Adaim
+Céitinn
+hArgáin
+Meachair
+Siochfhradha
+Pháidín
+Duineachdha
+Maol Chonaire
+Tuathaláin
+Canáin
+Conbhuide
+Duibheannaigh
+Muireartaigh
+Ciardha
+Fionnagáin
+Sluaghadhaigh
+Buachalla
+Duibhidhir
+Mainchín
+Cairbre
+Oistigín
+Giolla Uidhir
+Maoil Mhichíl
+Cullieagáin
+Gafraidh
+Eathain
+Dhomhnuill
+Murchaidh
+Murchaidh
+Braoin
+Giolla Coileáin
+hAnnlúinn
+Broithe
+Gormáin
+Beirgin
+Dubhchonna
+hAinbhthín
+Gille Fhionndaig
+Siochfhradha
+Murchú
+Faoláin
+Thóm
+Maoilsheachnaill
+hAodhagáin
+Gráda
+Gairbhshíth
+Gibealáin
+Giolla Chathair
+hEarghaile
+Cailin
+Máille
+Cinnseallaigh
+Connmhaigh
+Cuirc
+Niocaill
+Maol Ruanaidh
+Thréinfhir
+Siochfhradha
+Bearáin
+Giolla Choille
+Coinnigh
+Spaelain
+Beirgin
+Ciosáin
+Spaelain
+Crotaigh
+Dhuibhshíthe
+Raghailligh
+Flannabhra
+Dubhagáin
+Baoill
+Giolla Uidhir
+Lapain
+Scoireadh
+Gille Dheòradha
+Hainbheáin
+Briain
+Giolla Dhomhnaigh
+Conradh
+Comhraidhe
+Oistigín
+Giolla Íosa
+Cathasaigh
+hÁileagáin
+Conraoi
+Faodhagáin
+Muireartaigh
 
-## Celtic (Welsh) name generator
+## [Celtic (Welsh) name generator](https://www.fantasynamegenerators.com/celtic-welsh-names.php)
 
 ### Male
 
 #### Full names
+Caswallawn Dewey
+Sion Batch
+Hefin Bethel
+Andreas Tudor
+Rhydian George
+Elgan Gough
+Mabsant Guilliams
+Selwyn Roderick
+Llyr Owen
+Arwel Kemble
+Myrddyn Reuben
+Trefor Glynn
+Tomi Hanmer
+Saer Swavely
+Hueil Caleb
+Ermid Mathias
+Awstin Bees
+Caerwyn Meredith
+Wynn Rosser
+Amhar Moyle
+Anwyl John
+Cynychwr Blevens
+Rhion Isaacks
+Tudful Harry
+Ofydd Glynn
+Dywel Jeffries
+Gwayne Comey
+Dyfi Wren
+Irfon Llewellyn
+Cadwgawn Parcells
+Lyn Brodrick
+Penvro Morgans
+Meredydd Gethin
+Idwal Howell
+Cymry Greenway
+Alwyn Cloyd
+Tristram Cadogan
+Amynedd Wynne
+Iddawg Tudor
+Twm Bellin
+Cled Howell
+Bwlch Tanner
+Carwyn Beddoe
+Hefin Evans
+Prydwen Flint
+Brychan Phillips
+Edryd Beddoe
+Cynog Gethin
+Dirrnyg Gwyn
+Cadwy Priddy
+Bevan Vaughan
+Gruffydd Harries
+Rhydwyn Isaacs
+Govannon Pritchards
+Brynmor Blevins
+Steffon George
+Rhobat Mower
+Caradawg Bees
+Niclas Llewelyn
+Pryderi Greenway
+Jac Elijah
+Camedyr Parry
+Ifan Yale
+Emrys Wynne
+Elgar Rhoderick
+Mihangel Broderick
+Gethin Maddocks
+Carian Pendry
+Gweir Moris
+Caradawg Beddow
+Rhain Brice
+Berian Morris
+Griff Brodrick
+Iau Blood
+Efrog Bethel
+Garanwyn Brodrick
+Garanwyn Bithell
+Lleu Owen
+Adda Hire
+Edwyn Kemble
+Siarl Gibbs
+Dyfan Pugh
+Kyledyr Lewison
+Gweir Cadogan
+Trefor Gurganus
+Meic Pierce
+Arfon Myricks
+Padrig Evens
+Cadell Mostyn
+Amlawdd Gronow
+Brychan Gettings
+Deri Isaacs
+Derwen Edris
+Iver Bunner
+Gwynn Gwynn
+Dyfrug Hanmer
+Hywel Bethel
+Eirwyn Floyd
+Hueil Hier
+Tomi Bevans
 
 #### First names
+Artur
+Gwaun
+Merion
+Elis
+Gwyn
+Iorath
+Brynmor
+Ysberin
+Rhisiart
+Gwent
+Martyn
+Prydwen
+Osian
+Meilir
+Mal
+Ianto
+Prydwen
+Prys
+BeliMawr
+Hywel
+Heini
+Bwlch
+Myrddyn
+Gwyngad
+Gwenallt
+Pennant
+Cedwyn
+Seith
+Carwyn
+Gwion
+Gwynn
+Ergyriad
+Anwyl
+Oswallt
+Amynedd
+Caradoc
+Grufudd
+Griffith
+Berwyn
+Ieuan
+Watcyn
+Meredudd
+Watcyn
+Geraint
+Gwallawg
+Amren
+Cled
+Amren
+Gweir
+Howel
+Ysberin
+Camedyr
+Elgan
+Gwynlais
+Bedwyr
+Huw
+Uchdryd
+Llywelyn
+Bryne
+Cynbel
+Cadell
+Gwent
+Aron
+Cynychwr
+Artur
+Anwyl
+Aidan
+Einian
+Bevin
+Amren
+Elis
+Garanwyn
+Cenwyn
+Anwas
+Tristyn
+Cadarn
+Meredydd
+Garnoc
+Drystan
+Powell
+Dremidydd
+Berian
+Arawn
+Eurion
+Owin
+Griffith
+Arawn
+Meredith
+Martyn
+Delwyn
+Arnall
+Crwys
+Berwyn
+Harri
+Glanmor
+Afan
+Oswallt
+Derwen
+Emhyr
+Cedrik
 
 #### Last Names
+Meylor
+Dacus
+Walters
+Arthur
+Couch
+Kenefick
+Sear
+Blevins
+Bivens
+George
+Barry
+Carey
+Hanmer
+Pritchett
+Arthur
+Biven
+Broderick
+Griffith
+Gwynne
+Teague
+Bethel
+Pewitt
+Voyles
+Bunner
+Davies
+Watkins
+Broderick
+Prothro
+Mathias
+Isaac
+Harries
+Bivens
+Fithen
+Kendrick
+Bethel
+Gettings
+Brodrick
+John
+Wren
+Dey
+Brice
+Pearce
+Bliven
+Prichett
+Blevins
+Poovey
+Windsor
+Kemble
+Baines
+Purcell
+Guild
+Humphries
+Mattox
+Moor
+Peairs
+Blethen
+Hanes
+Jack
+Treharne
+Beynon
+Daniels
+Morris
+Tudor
+Preece
+Voils
+Comey
+Hewitt
+Pendry
+Jeffries
+Bivin
+Pride
+Lanman
+Elley
+Bonner
+Parcells
+Bowell
+Penry
+Carey
+Bithell
+Blevens
+Tennis
+Bevan
+Mattick
+Esau
+Onion
+George
+Brys
+Tanner
+Rease
+Pew
+Brodrick
+Keelan
+Elley
+Blower
+George
+Sealy
+Craddock
+Wogan
+Pryde
+Yarwood
 
 ### Female
 
 #### Full names
+Ceinwen Belling
+Gwendolen Flower
+Maredudd Bivens
+Meinir Beynon
+Rhedyn Maddocks
+Gwennan Howell
+Sara Idle
+Alys Llewellyn
+Gwennalarch Isaac
+Alis Moore
+Blodeuwedd Beese
+Aelwyd Glas
+Ifanna Belvin
+Margred Lloyd
+Nia Rosser
+Gaenor Phillips
+Eira Voiles
+Anna Rease
+Brenda Evanson
+Rhedyn Bees
+Eleri Meylor
+Betsan Maurice
+Gwynes Daniels
+Myfi Bivin
+Branwenn Mathias
+Dwysil Griffith
+Gwendolyn Mostyn
+Caryl Taaffe
+Aderyn Walters
+Mabyn Gibbs
+Ifanna Binner
+Eneuawg Preece
+Sioned Bowen
+Gwendolyn Prowell
+Dwysil Gettings
+Mona Perry
+Dwysil Voiles
+Ysbail Daniels
+Bronwyn Belvin
+Elin Bliven
+Gwawr Moss
+Dwynwen Pryde
+Daere Vaughan
+Ffion Mattix
+Tirion Gwyn
+Eryn Gwynne
+Lyneth Pritchett
+Caryl Mathias
+Aerona Bowen
+Olwyn Binnion
+Myfi Days
+Deryn Pierce
+Dwynwen Issac
+Morwenna Faughn
+Fanw Vaughan
+Cati Parcel
+Erin Sundy
+Gwennalarch Arthur
+Eluned Nist
+Guinevere Griffith
+Hafwen Broadus
+Cymreiges Lace
+Tegwen Lace
+Ina Maddock
+Catelyn Harries
+Derwen Harris
+Clwyd Nevitt
+Rhiannon Davies
+Eilwen Caddell
+Heledd Mattix
+Gweneth Glas
+Liliwen Stackpoole
+Myfanwy Powe
+Terrwyn Bowell
+Creiddylad Trahern
+Catelyn Morris
+Non Dewey
+Blodeuwedd Shone
+Bronwyn Hewitt
+Cerian Morse
+Esyllt Preddy
+Myfanwy Sare
+Gwyn Cecil
+Arianrhod Maddex
+Arwydd Gwynne
+Olwyn Gettings
+Enrhydreg Brodrick
+Cranogwen Bowen
+Delyth Humphries
+Gwenabwy Cadwallader
+Men Brys
+Fanw Owen
+Arwydd Treharne
+Tegyd Bivens
+Gwawr Baines
+Cymreiges George
+Ffanci Bloyd
+Grug Maddox
+Arwydd Rhoderick
+Wynne Evans
 
 #### First names
+Delyth
+Heledd
+Berthog
+Betsan
+Erdudvyl
+Amser
+Eirlys
+Cristyn
+Olwyn
+Anest
+Mallt
+Ebrill
+Lyn
+Tonwen
+Branwen
+Ina
+Cristyn
+Lowri
+Gwendoline
+Maygan
+Beti
+Annest
+Morgana
+Margred
+Callwen
+Sian
+Rhedyn
+Garwen
+Tirion
+Cristyn
+Caniad
+Ffion
+Gwenllian
+Tegan
+Gwenant
+Gwenllian
+Eilwen
+Rhoswen
+Luned
+Arwydd
+Meinir
+Arglwyddes
+Haf
+Gwenith
+Gwenifer
+Mallt
+Glyn
+Brangwen
+Mairead
+Cadwyn
+Enrhydreg
+Aelwyd
+Bronwen
+Wynne
+Irwen
+Arianrhod
+Eiriol
+Ffraid
+Glesni
+Gwenith
+Branwenn
+Llian
+Ysbail
+Alwena
+Fioled
+Gwenifer
+Gwyneth
+Mairead
+Gwen
+Gaenor
+Gwanwyn
+Prydwen
+Medi
+Morwen
+Rhoswen
+Olwenna
+Fioled
+Lynn
+Elan
+Myfanawy
+Teleri
+Beca
+Garwen
+Gwendolyn
+Glesni
+Llian
+Telyn
+Glesni
+Maredudd
+Betsan
+Berthog
+Non
+Myfi
+Meinwen
+Meredydd
+Gaenor
+Morgaine
+Tirion
+Irwen
+Wynne
 
 #### Last Names
+Belvin
+Poovey
+Couch
+Gaynor
+Jones
+Maddock
+Oliver
+John
+Lloyd
+Maddex
+Gwyn
+Cadogan
+Gwynn
+Parry
+Perry
+Bennett
+Mathias
+Glas
+Meylor
+Bevan
+Kindrick
+Poyner
+Pryde
+Dawes
+Gwynn
+Wogan
+Voiles
+Buell
+Cadle
+Tudor
+Madox
+Moses
+Kenrick
+Poyner
+Morgans
+Sealy
+Penry
+George
+Owens
+Wiliams
+Wiliams
+Oliver
+Penry
+Esau
+Humphries
+Rhees
+Guild
+Penrose
+Brodrick
+Hier
+Powe
+Cornog
+Balch
+Balch
+Ellis
+Maddex
+Kemble
+Lanman
+Yale
+Keelan
+Glynn
+Bowens
+Roderick
+Pryde
+Walters
+Wiliams
+Bevans
+Blethen
+Gittings
+Evanson
+Merrick
+Gotch
+Voyles
+Meredith
+Prothero
+Flint
+Popkin
+Bowens
+Blaney
+Edris
+Bennett
+Issac
+Parcell
+Yarwood
+Baines
+Gronow
+Poyner
+Peairs
+Gethin
+Wynne
+Blevens
+Madox
+Eynon
+Glace
+Reese
+Reese
+Glynn
+Rosser
+Llewellyn
+Broadus
 
-## Celtic (Scottish) name generator
+## [Celtic (Scottish) name generator](https://www.fantasynamegenerators.com/celtic-names.php)
 
 ### Male
 
 #### Full names
+Pàl Leamhanach
+Frangean Cailbhin
+Colla MacRaghnaill
+Ailean GillAndrais
+Seòsaidh Dùghlasach
+Maolmhuire Sutharlan
+Ellair MacDhubhShìth
+Tòmas Seadh
+Seoras MacEamailinn
+Tòmas MacIlleMhaoil
+Aindreas MacCiarain
+Tòmachan MacIlleDhòmhnaich
+Seòsaidh MacCaoig
+Gilleasbuig Dalais
+Stiùbhard MacLabhrainn
+Risteard Niocalsan
+Fearghas Dùghallach
+Eanraig MacIllOnfhaidh
+Àdhamh MacMhaolÌosa
+Beathan Breathnach
+Ailpein MacMhorgain
+Fearghas Talmhach
+Seumas O'Cain
+Angaidh MacEanain
+Stiùbhart GillAndrais
+Gill-Eòin Mathanach
+Friseal Deòir
+Tormod Brus
+Dàibhidh MacCiarain
+Beathan Frisealach
+Steaphan MacBharrais
+Benneit MacAdhaimh
+Eairdsidh Dùghlas
+Comhnall MacDhubhaich
+Fionnghan MacGilleBhrìghde
+Ruairidh MacArtain
+Ràild Mac'Ill'Fhionndaig
+Seòsaidh MacAra
+Adaidh MacMhòrdha
+Ailbeart MacCuthais
+Seonaidh MacThom
+Tòmachan MacShìm
+Mànus Aileanach
+Beathan MacIonmhainn
+Rob MacNiallghais
+Peadrus Dubhach
+Maolmhuire MacGilleBhrìghde
+Peadair MacCathasaigh
+Dànaidh MacÌosaig
+Eoghann Gòrdan
+Gilleasbuig MacMhèinn
+Horas Guaire
+Angaidh Baran
+Stiùbhart Màrr
+Iomhar MacUrchadain
+Dòmhnall Guaire
+Micheil Druimein
+Eòin MacAsgaill
+Aindreas MacRobaidh
+Padruig Beitean
+Àaron Camran
+Tormoid MacCruimein
+Àdhamh MacIlleChatain
+Uailean MacFhraingein
+Maol-Moire MacGilleMhartainn
+Padean MacTheàrlaich
+Daniel MacThòmais
+Iomhar MacDhubhShìth
+Cormac Seaghach
+Dubh-shìth MacBhradain
+Bearnard MacAnndrais
+Maol-Iosa MacRabaidh
+Tiobaid MacMhaolBheatha
+Iàcob MacBhradain
+Gilleasbaig Tàillear
+Grannd MacÀdaidh
+Dòmhnall Urchardan
+Tasgall Sutharlainn
+Horas MacMhaolBheatha
+Grannd MacIlleGhlais
+Seumas MacCriomain
+Amhlaidh MacShanndaidh
+Munga MacConnain
+Adaidh Roid
+Gill-Eathain MacEanain
+Griogair MacGill'Fhaolagain
+Ailean Talmhach
+Deorsa Foirbeiseach
+Ailean MacMhaolain
+Neacal Siosalach
+Tadhg MacCardaidh
+Ailig Cèampach
+Ianatan MacDhòmhnaill
+Donaidh Druiminn
+Iòna MacRàild
+Arailt Todt
+Gill-Iosa MacIlleChaluim
+Calum MacPhàil
+Bhaltair Camshronach
+Cliamain MacGriogair
 
 #### First names
+Teàrlach
+Morgan
+Pàl
+Seoras
+Sachairi
+Stiùbhart
+Eumann
+Sìomon
+Simidh
+Stiùbhart
+Maol-Moire
+Anndrais
+Ciaran
+Oisean
+Aodh
+Tiobaid
+Benneit
+Eacharn
+Pòl
+Cailean
+Amhlaidh
+Anndrais
+Hùisdean
+Iain
+Seoras
+Sìomon
+Griogair
+Eoghann
+Gille-Caluim
+Maol-Moire
+Roibeart
+Eanruig
+Cuithbeart
+Gillebrìde
+Bhaltair
+Gille-Caluim
+Ellair
+Eacharn
+Dòmhnall
+Anndra
+Seòras
+Eòghann
+Bearnard
+Domhnull
+Pàl
+Frangan
+Eòin
+Filib
+Eumann
+Lùcas
+Iain
+Tadhg
+Ailpein
+Uilleachan
+Mànus
+Cuithbeart
+Seonaidh
+Marc
+Bhaltair
+Sìm
+Sim
+Gillìosa
+Seoras
+Greum
+Seoc
+Filib
+Tasgall
+Seoras
+Aodh
+Ailpean
+Tòmas
+Cathal
+Sgàire
+Pàrlan
+Oilbhreis
+Marcas
+Dùghall
+Gillìosa
+Cliamain
+Gillebeart
+Teàrlach
+Ailpein
+Gille-Brìdhde
+Coinneach
+Dubh-shìth
+Daniel
+Uilleam
+Ealar
+Torcadall
+Eanraig
+Màrtainn
+Goiridh
+Donnchadh
+Aonghus
+Oilbhreis
+Labhrann
+Marc
+Cathal
+Greum
+Dòmhnall
 
 #### Last Names
+MacMhaolÌosa
+MacIlleDhubhthaich
+MacAnndaidh
+MacRuairidh
+MacIlleChiarain
+MacIain
+Smios
+MacRàild
+MacFhitheachain
+MacPhàidein
+Mac'Ille na Brataich
+MacNèill
+MacIllAodhagain
+Dòmhnullach
+MacEamailinn
+MacAodhagain
+MacCaog
+MacColla
+MacCaog
+MacBheathaig
+Salmond
+MacCriomain
+MacCrosain
+Druiminn
+Gallach
+MacConnain
+MacIlleDhuibh
+MacThomaidh
+MacPhaidein
+MacEamailinn
+MacArtain
+Mac'Ill'Fhionndaig
+MacCearnaigh
+MacLabhruinn
+MacEachaidh
+MacSheòrais
+Ìomharach
+MacShitrig
+MacBhraonaigh
+Salmond
+MacAilein
+MacGilleChrìosd
+Breac
+MacGobhainn
+MacIllÌosa
+MacCuidhein
+Mac'IlleChiar
+MacCumhais
+MacCriomain
+Griogarach
+MacCòiseam
+MacIlleSheathanaich
+Coineagan
+MacBhigein
+Tod
+MacÙisdein
+Druimeineach
+MacGilleRiabhaich
+Niocalsan
+MacLuinge
+MacIlleSheathnaich
+MacClambroch
+MacShitrig
+MacGilleChaluim
+Gòrdanach
+MacIlleBhlàthain
+MacMhaoilein
+Urchadainn
+Guaire
+Smios
+Còmhan
+MacIlleDhòmhnaich
+MacGille
+MacShìm
+MacAnndra
+Ceanadach
+MacGilleBhràth
+Ruiseal
+MacNaois
+MacCodrum
+MacMhaolChaluim
+MacNaois
+MacCain
+MacArtain
+Boid
+Rothach
+MacBhiocair
+MacLathagain
+MacThàmhais
+O'Cain
+MacSiridh
+Cuimein
+MacGill'Oig
+MacIlleThòmhais
+MacThom
+MacLabhrainn
+MacIlleChruim
+Deòireach
+MacIlleChrìosd
+MacIlleThòmhais
 
 ### Female
 
 #### Full names
+Dior-bhàil MacCròin
+Dior-bhàil MacFhearghais
+Ciorsdan MacPhilip
+Brìghde MacCreamhain
+Moire Blàrach
+Teàrlag MacAra
+Simeag MacCearraich
+Leagsaidh Arasgain
+Marsaili MacPhilip
+Malmhìn MacFhraingein
+Sìlis Guaire
+Muire MacFhilib
+Brìde Gòrdan
+Eithrig MacLabhrainn
+Moire MacGilleBhàin
+Marta MacPheadrais
+Magaidh Brus
+Moire Cailbhin
+Beitiris Lìos
+Sorcha MacPhaidein
+Giorsal Dùbhghlas
+Iseabail O'Luingeachain
+Aingealag Mac'Ill'Fhinntain
+Beitiris MacCiarain
+Seònaid Ròsach
+Olibhia MacBhigein
+Peigi MacAmhlaidh
+Oighrig MacIlleGhuirm
+Eithrig MacCrìsdein
+Diorbhail MacEalar
+Sìlis MacIllIanain
+Siubhan Lathurna
+Floireans MacLabhrainn
+Sìonag MacCòmhghan
+Ciorstaidh Robasan
+Mairead MacCrithein
+Raodhailt MacRaibeirt
+Lucrais MacCiomalain
+Moireach MacConaill
+Marta Dùbhghlas
+Anna Seagha
+Eimhir MacIlleMhàrtainn
+Moireach Rothach
+Beileag Niocalsan
+Dior-bhorgàil Ìomharach
+Fionninghua MacBeathag
+Criosaidh Mac'Ill'Fhinntain
+Gormlaith MacLuinge
+Sorcha Maolanach
+Moire MacCardaidh
+Beitiris MacMhata
+Eithrig Leòideach
+Ceiteag MacLamraich
+Siubhan MacDhrostain
+Gormall MacBhraonaigh
+Ciorstag Bràigheach
+Siubhan MacSheòrais
+Dior-bhorgàil MacCodrum
+Doileag MacCuithein
+Leitis MacIlleBhuidhe
+Nansaidh Mac'Ille na Brataich
+Raonaid Mac'Ill'Anndrais
+Bearnas MacEalar
+Floireans GillAndrais
+Sìle MacCosgraigh
+Deònaidh MacIllÌosa
+Muireall GilleChriosd
+Cairistìne Màrnach
+Flòraidh MacSheòrsa
+Oighrig Cearrach
+Mòrag Mac'IlleMhòire
+Marta MacThaidhg
+Maighread MacÀdhaimh
+Deònaidh Dunaidh
+Dìorbhail Mac'IlleBhuidh
+Anna MacLabhrainn
+Brighde MacRisnidh
+Frangag MacDhòmhnaill
+Beitidh MacConnain
+Marta MacMhurchaidh
+Teasag Matasan
+Ciorsdan MacAsgain
+Anna Sutharlan
+Seònaid MacGilleChaluim
+Floireans MacShomhairle
+Leagsaidh Còmhan
+Olibhia Gòrdan
+Beileag MacShomhairle
+Fionninghua MacIllFhionndain
+Gormlaith MacIlleDhòmhnaich
+Aimil MacMhoirein
+Eubha MacRoithridh
+Sìle MacCrìsdein
+Brìghde MacIllEathain
+Raonaild MacFhearchair
+Mairead Sailcirc
+Beasag MacAonghais
+Caitir MacMhaoilein
+Simeag MacRaoiridh
+Màiri MacAilein
 
 #### First names
+Marsail
+Deònaidh
+Ceiteag
+Mairearad
+Sìleas
+Caitrìona
+Floireans
+Ceitidh
+Marsaili
+Aimil
+Marta
+Floireans
+Ceana
+Marsail
+Barabal
+Dior-bhàil
+Marsail
+Siùsan
+Aimil
+Aingealag
+Lìosa
+Sìneag
+Curstag
+Curstag
+Iseabal
+Diorbhail
+Mòrag
+Iseabal
+Dìorbhail
+Dior-bhail
+Rut
+Sorcha
+Deirdre
+Una
+Giorsail
+Ceana
+Mòrag
+Liùsaidh
+Deònaidh
+Barabla
+Caitlin
+Deirdre
+Aimil
+Sìonag
+Lìosa
+Catrìona
+Iseabail
+Èibhlin
+Muire
+Giorsal
+Liùsaidh
+Fionnaghal
+Ealasaid
+Anna
+Caitrìona
+Bhioctoria
+Bearnas
+Ciorstaidh
+Cairistìona
+Beitris
+Aingealag
+Aoife
+Marsail
+Mairead
+Muire
+Calaminag
+Eubh
+Leitis
+Caitir
+Brìde
+Màili
+Deònaidh
+Caitir
+Brìde
+Malamhìn
+Raodhailt
+Sìle
+Raonaid
+Mairead
+Teasag
+Magaidh
+Ciorstan
+Barabal
+Mòrag
+Bhioctoria
+Doirin
+Anna
+Liùsaidh
+Cairistìona
+Isbeil
+Sorcha
+Oighrig
+Eilidh
+Ceiteag
+Peanaidh
+Magaidh
+Eithrig
+Cairistìona
+Marsail
+Frangag
 
 #### Last Names
+MacPhàil
+MacAididh
+Breathnach
+MacRaoimhin
+MacArtain
+Robasan
+MacRisnidh
+Camshronach
+MacCaoig
+MacAodhagain
+Mathanach
+Suthurlanach
+Cuimeineach
+MacLeòir
+Blacach
+MacComhainn
+Maoileanach
+MacIllePheadair
+Rosach
+MacCormaig
+MacShithich
+MacAoidh
+Blàrach
+MacCathbhaidh
+MacDhàibhidh
+Rothach
+Peutan
+MacMhòrdha
+MacDhrostain
+Guinne
+MacMhaolagain
+Sginnearach
+MacMhaolain
+Caimbeulach
+Bràigheach
+MacIlleDhonaghart
+MacGhille
+Singleir
+MacMhorgain
+MacIlleGhuirm
+MacCearraich
+MacIlleBhrìghde
+MacPheadrais
+MacAdhaimh
+MacUrchadain
+Màrtainn
+MacIonmhainn
+MacMhànais
+MacBhàtair
+Morgan
+MacRìdeinn
+GillAndrais
+MacFhionnlaigh
+MacBhigein
+Mac'Ill'Iosa
+MacIll'osa
+Camran
+Creagach
+MacAnndrais
+Bhodhsa
+MacMhaoirn
+MacCuilcein
+MacPhàidein
+Tod
+MacLuirg
+MacEamailinn
+Blàrach
+Camran
+MacRaghnaill
+MacEamailinn
+MacGill'Fhiontag
+Dùghallach
+MacCuaig
+Munna
+MacMharcais
+MacIlleChrìosd
+MacIllIomchadha
+Fearghasdan
+MacIosaig
+Criatharach
+MacUrardaidh
+Ciogach
+MacCullaich
+MacRìgh
+MacIlleGhuinnein
+MacFuirigh
+MacBeatha
+Ceallach
+Mac'Ill'Iosa
+MacClambroch
+MacLothaidh
+MacIll'Fhinnein
+MacUirigh
+Tàileach
+MacIllEarnain
+Tolmach
+MacMhaolÌosa
+MacIll'Fhialain
+MacCuilcein
+MacIllePhàdraig
 
-## Tolkien elven name generator
+## [Tolkien elven (Quenya) name generator](https://www.fantasynamegenerators.com/lotr-quenya-names.php)
+
+### Male
+Nyeleccion (Onyx + Son of)
+Caimion (Bed + Son of)
+Falmion (Wave crest + Son of)
+Ñandano (To Harp + Man who does)
+Tintinaro (To Sparkle + Man who does)
+Mírimamo (Valuable + Man who does)
+Cilyano (Chasm + Man who does)
+Cormeno (Circular Mound + Man who does)
+Endaquetno (To Answer + Man who does)
+Hamo (To Judge + Man who does)
+Tornano (Iron Hard + Man who does)
+Narwion (Red Haired + Son of)
+Hanacomo (Giant + Man who does)
+Mastano (To Bake + Man who does)
+Wilmo (To Fly + Man who does)
+Oiamo (Everlasting + Man who does)
+Telpeno (Silver + Man who does)
+Quentano (Tale/Story + Man who does)
+Mastaro (To Bake + Man who does)
+Ristamo (To Cut/Cleave + Man who does)
+Rombano (Horn/Trumpet + Man who does)
+Felion (Cave/Mine/Tunnel + Son of)
+Angono (Snake + Man who does)
+Varyano (To Protect + Man who does)
+Ranyamo (To Stray/Wander + Man who does)
+Lingwilócon (Sea serpent + Masculine)
+Quantano (Full + Man who does)
+Thennamo (Short + Man who does)
+Círo (To Sail + Man who does)
+Naco (To Cut/Hew + Man who does)
+Ñandion (Harp + Son of)
+Hyarnaner (Southern + Masculine)
+Lavaraldano (Golden Tree + Man who does)
+Intyo (To Guess + Man who does)
+Patamo (To Walk + Man who does)
+Híthon (Mist + Masculine)
+Núraner (Deep + Masculine)
+Hwindeno (Birch + Man who does)
+Nacro (To Cut/Hew + Man who does)
+Lelyano (To Travel + Man who does)
+Hwindaro (Flower + Man who does)
+Nornaner (Dwarf + Masculine)
+Ehteno (Spear + Man who does)
+Nacno (To Cut/Hew + Man who does)
+Ahyano (To Change + Man who does)
+Andon (Gate + Masculine)
+Thambo (Room/Chamber + Man who does)
+Cilintírnon (Mirror + Masculine)
+Liano (To Entwine + Man who does)
+Nehtaro (To Slay + Man who does)
+Hwarino (Crooked + Man who does)
+Yanto (Bridge + Man who does)
+Millo (Oil + Man who does)
+Lahtamo (To Surpass + Man who does)
+Rúnano (To Free + Man who does)
+Cumbon (Mound/Heap + Masculine)
+Hallo (Tall + Man who does)
+Laiquo (Herb + Man who does)
+Cendaro (To Watch/Read + Man who does)
+Sanano (To Think/Reflect + Man who does)
+Aicion (Fell/Dire + Son of)
+Nethano (Youthful + Man who does)
+Lustamuino (Empty Secret + Man who does)
+Yurmo (To Run + Man who does)
+Ñono (To Groan + Man who does)
+Fáramo (Beach/Shore + Man who does)
+Nimpion (Small + Son of)
+Engwon (Sickly + Masculine)
+Hyando (To Injure + Man who does)
+Turmo (To Wield/Control + Man who does)
+Maito (Hungry + Man who does)
+Calairion (Sea Light + Son of)
+Naryaner (Fiery + Masculine)
+Lilto (To Dance + Man who does)
+Lindano (To Sing + Man who does)
+Nirwano (Scarred + Man who does)
+Ñaltaner (Radiance + Masculine)
+Tolo (Island + Man who does)
+Cendamo (To Watch/Read + Man who does)
+Hyano (To Injure + Man who does)
+Tolro (Flower + Man who does)
+Ruscano (Red brown + Man who does)
+Cuinaner (Alive + Masculine)
+Noro (To Run + Man who does)
+Hyammo (To Pray + Man who does)
+Tuilindoner (Swallow + Masculine)
+Thennion (Short + Son of)
+Harwion (Treasure + Son of)
+Ñandaro (To Harp + Man who does)
+Rátano (To Excel/Surpass + Man who does)
+Mirilon (Shining Jewel + Masculine)
+Síron (River + Masculine)
+Ruscaner (Red brown + Masculine)
+Cunyo (To Rule + Man who does)
+Lindamo (To Sing + Man who does)
+Mixamo (Wet + Man who does)
+Ingólemon (Scholar/Sage + Masculine)
+Parmon (Book + Masculine)
+Nurtano (To Hide + Man who does)
+Cunyano (To Rule + Man who does)
+
+### Neutral
+Fintalëenil (Trick + Friend of)
+Hurinwë (Hidden + Person)
+Varnëequen (Protection + Person)
+Rembar (To Net/Entrap + Person who does)
+Mahtar (To Wield a Weapon + Person who does)
+Lustaquen (Empty + Person)
+Lórëenil (Slumber/Dream + Friend of)
+Tussadil (Bush + Friend of)
+Rer (To Sow)
+Wistar (To Change + Person who does)
+Eärtardur (Sea ruler + Servant of)
+Calinanil (Bright + Friend of)
+Ambo (Hill)
+Ramar (To Shout + Person who does)
+Naiquet (To Curse/Blaspheme)
+Naitëequen (True + Person)
+Lócëewë (Dragon/Snake + Person)
+Winyáradil (Fresh Dawn + Friend of)
+Tir (To Watch/Guard)
+Nav (To Judge)
+Tavardur (Wood + Servant of)
+Quessëedur (Feather + Servant of)
+Sirilquen (Rivulet + Person)
+Lahta (To Surpass)
+Ranyar (To Stray/Wander + Person who does)
+Yáwëenil (Ravine + Friend of)
+Ñandëewë (Harp + Person)
+Quildohtar (Quiet Warrior)
+Nav (To Judge)
+Mistar (To Wander + Person who does)
+Altadur (Briliant + Servant of)
+Nieninquëenil (Snowdrop + Friend of)
+Maicorto (Sharp Mountain)
+Panya (To Fix)
+Ranyar (To Stray/Wander + Person who does)
+Yulmadil (Brand + Friend of)
+Tautamoquen (Carpenter + Person)
+Lindë (Song)
+Hyar (To Cleave)
+Nortar (To Ride + Person who does)
+Lelyanil (Delicate + Friend of)
+Andamundadur (Elephant + Servant of)
+Olbawë (Branch + Person)
+Liltar (To Dance + Person who does)
+Rer (To Sow)
+Hellëedil (Sky + Friend of)
+Ferinyadil (Beechen + Friend of)
+Thinyëenil (Evening + Friend of)
+Liar (To Entwine + Person who does)
+Eterúnar (To Redeem + Person who does)
+Ectelëenil (Fountain + Friend of)
+Móro (Ink)
+Mindondil (Tower + Friend of)
+Lor (To Sleep)
+Hilyar (To Follow + Person who does)
+Aica (Fell/Dire)
+Fairëenil (Radiance + Friend of)
+Oialadur (Unceasing/Endless + Servant of)
+Ilcar (To Gleam White + Person who does)
+Col (To Bear)
+Martanquen (Dwelling + Person)
+Rillëequen (Brilliance + Person)
+Tittadur (Little/Tiny + Servant of)
+Ráta (To Excel/Surpass)
+Lemya (To Remain)
+Cilinyuldur (Drinking Glass + Servant of)
+Tercánodur (Herald + Servant of)
+Cormë (Circular Mound)
+Tuv (To Find)
+Naham (To Summon)
+Marillindowë (Crystal Heart + Person)
+Yáreadil (Old + Friend of)
+Alata (Large)
+Nahamnil (To Discover + Friend of)
+Roita (To Pursue)
+Turmanil (Shield + Friend of)
+Altawë (Briliant + Person)
+Vaneanil (Fair + Friend of)
+Cap (To Jump/Leap)
+Manyar (To Bless + Person who does)
+Rilmaquen (Glittering Light + Person)
+Luinincëequen (Bluish + Person)
+Calassëedil (Clarity/Brilliance + Friend of)
+Wista (To Change)
+Loita (To Fail)
+Inya (Feminine)
+Yávëenil (Fruit + Friend of)
+Russëequen (Sword Blade + Person)
+Hyam (To Pray)
+Nac (To Cut/Hew)
+Parmaquen (Book + Person)
+Cornanil (Round + Friend of)
+Latucendaquen (Of Tin + Person)
+Nor (To Run)
+Ceutar (To Renew/Refresh + Person who does)
+Lindalëedil (Music + Friend of)
+Netyawë (Pretty + Person)
+Farnëequen (Foliage + Person)
+Tulta (To Fetch/Summon)
+Luhta (To Enchant)
+
+### Female
+Haldamírewen (Hidden Jewel + Maiden)
+Ilmë (Starlight + Woman who does)
+Ambanmë (Hillside + Woman who does)
+Manyallë (To Bless + Woman who does)
+Manyarë (To Bless + Woman who does)
+Laniel (Thread + Daughter of)
+Nassemë (Thorn/Spike + Woman who does)
+Lúrë (Dark Weather + Woman who does)
+Colisse (To Bear + Woman who does)
+Olortë (To Dream + Woman who does)
+Nyárië (Tale/History + Feminine)
+Sangwamë (Poison + Woman who does)
+Aiwë (Small Bird + Woman who does)
+Navmë (To Judge + Woman who does)
+Arcallë (To Pray + Woman who does)
+Enwinë (Old + Woman who does)
+Avahairissë (Remote/Far + Woman who does)
+Lustë (Empty + Woman who does)
+Ranyallë (To Stray/Wander + Woman who does)
+Mantarë (To Bless + Woman who does)
+Cassë (Helmet + Woman who does)
+Sámien (Mind + Feminine)
+Arhestiel (Noble Captain + Daughter of)
+Rátisse (To Excel/Surpass + Woman who does)
+Hyammë (To Pray + Woman who does)
+Hyalinmë (Paper + Woman who does)
+Fánanis (White + Female)
+Ñoldawen (Dark Haired + Maiden)
+Wistinde (To Change + Woman who does)
+Hyammë (To Pray + Woman who does)
+Leliel (Delicate + Daughter of)
+Linyë (Pool + Woman who does)
+Ongwenis (Crime + Female)
+Lemyinde (To Remain + Woman who does)
+Watharyisse (To Veil + Woman who does)
+Fánamë (White + Woman who does)
+Híthemë (Mist + Woman who does)
+Yaimëië (Wailing + Feminine)
+Namrë (To Judge + Woman who does)
+Tintinallë (To Sparkle + Woman who does)
+Amartomë (Fate + Woman who does)
+Olvië (Plant + Feminine)
+Ornélmë (Tree of Stars + Woman who does)
+Wilrë (To Fly + Woman who does)
+Comyarë (To Gather + Woman who does)
+Lendien (Journey + Feminine)
+Alasmë (Marble + Woman who does)
+Wenien (Fresh + Feminine)
+Nammë (To Judge + Woman who does)
+Rátë (To Excel/Surpass + Woman who does)
+Erdië (Seed + Feminine)
+Nemmíremë (Water Jewel + Woman who does)
+Telemnamë (Of Silver + Woman who does)
+Tyalmë (To Play + Woman who does)
+Itinde (To Sparkle + Woman who does)
+Laiwië (Sickly + Feminine)
+Cúnë (Bent/Curved + Woman who does)
+Tixenis (Dot + Female)
+Ilcisse (To Gleam White + Woman who does)
+Antamë (To Give + Woman who does)
+Sercië (Blood + Feminine)
+Maltatharwen (Golden Willow + Maiden)
+Teciliel (Pen + Daughter of)
+Turisse (To Wield/Control + Woman who does)
+Accarmë (To Avenge + Woman who does)
+Nucemenisse (Underground + Woman who does)
+Hanacissë (Giant + Woman who does)
+Oromarisse (Great Hall + Woman who does)
+Mistamë (To Wander + Woman who does)
+Wanyamë (To Depart/Die + Woman who does)
+Felmiel (Impulse/Emotion + Daughter of)
+Nandë (Valley + Woman who does)
+Lustamuinië (Empty Secret + Feminine)
+Luhtë (To Enchant + Woman who does)
+Mahtallë (To Wield a Weapon + Woman who does)
+Hruien (Troll + Feminine)
+Liricë (Poem + Woman who does)
+Tauriel (Forest + Daughter of)
+Molisse (To Labor + Woman who does)
+Nortamë (To Ride + Woman who does)
+Ecyawen (Sharp + Maiden)
+Lingwien (Fish + Feminine)
+Ñoldawen (Dark Haired + Maiden)
+Hilyarë (To Follow + Woman who does)
+Ahyallë (To Change + Woman who does)
+Ailinwen (Pool/Lake + Maiden)
+Morilindë (Nightingale + Woman who does)
+Tamanwen (Handmade Item + Maiden)
+Cuntarë (To Rule + Woman who does)
+Ramarë (To Shout + Woman who does)
+Ehtyardis (Spearman + Female)
+Raimemë (Lace + Woman who does)
+Rossenis (Fine Rain + Female)
+Nambarë (To Hammer + Woman who does)
+Hloitinde (To Poison + Woman who does)
+Lilómëë (Full of Darkness + Woman who does)
+Pityissë (Little + Woman who does)
+Yulmiel (Brand + Daughter of)
+Tinë (To Glint/Glitter + Woman who does)
+Nahamisse (To Summon + Woman who does)
+
+## [Tolkien elven (Sindarin) name generator](https://www.fantasynamegenerators.com/lotr-sindarin-names.php)
+
+### Male
+Seregion (Blood + Son of)
+Borndir (Fiery Red + Man)
+Glîrdir (Song + Man)
+Trenardirion (To Recount + Son of)
+Orthellion (To Roof + Son of)
+Glîndir (Gleam/Glint + Man)
+Colfinnion (Gold Hair + Son of)
+Echion (Spine + Son of)
+Thostedir (To Stink + Male)
+Therion (To Dread/Fear + Male)
+Echon (Shallow Lake/Marshland + Male)
+Mistor (Wandering + Brother)
+Goweston (Contract/Treaty + Male)
+Amarthion (To Decree + Son of)
+Pedir (To Say/Speak + Male)
+Gowestrion (Bear + Son of)
+Caeleben (Bedridden/Sick + Husband)
+Úanion (Monster + Son of)
+Thoston (To Stink + Male)
+Galion (To Grow/Cultivate + Son of)
+Aelchon (Lake/Pool + Brother)
+Rhosgion (Brown + Son of)
+Ningannelchanar (Tears of a Harp + Brother)
+Naron (To Narrate/Tell a Story + Male)
+Eithedir (To Prick/Insult + Male)
+Fuinion (Night/Darkness + Son of)
+Tinudor (Star + Brother)
+Haldor (Exalted + Brother)
+Dregrion (To Flee/Run Away + Son of)
+Gruithon (To Terrify + Male)
+Castor (Cape/Cove + Brother)
+Aegion (Sharp Point + Son of)
+Halchon (Tall/Hidden + Brother)
+Ferion (To Prepare + Male)
+Istion (To Know + Son of)
+Maethion (Battle/Fight + Son of)
+Sírdhemon (River of Sadness + Male)
+Mennor (Point + Male)
+Teithedir (To Draw/Write + Male)
+Achardir (To Avenge + Male)
+Gwasdaer (Stain + Groom)
+Muinion (Dear/Beloved + Son of)
+Hûrchanar (Vigour/Fiery Spirit + Brother)
+Grogion (To be Terrified + Son of)
+Redhedir (To Sow + Male)
+Gurthon (Death + Brother)
+Hethurinor (Secret Child + Male)
+Bruichon (Loud/Noisy + Brother)
+Northion (To Make Run/Ride + Son of)
+Sogron (To Drink + Male)
+Limlugnir (Seaserpent + Man)
+Cadwordir (Shapely + Man)
+Lagoron (Swift/Rapid + Male)
+Nellon (To Ring Bells + Male)
+Gwathron (To Overshadow + Male)
+Garavon (Wolf + Male)
+Helegnir (Ice + Man)
+Naurion (Fire + Son of)
+Naron (To Narrate/Tell a Story + Male)
+Nauthon (To Conceive a Thought + Male)
+Fardor (Sufficient + Brother)
+Garthanar (Fortress + Brother)
+Hwindaer (Twirling/Whirling + Groom)
+Crithon (To Reap + Male)
+Narchon (To Rend/Rip/Tear + Male)
+Nínimdor (Snowdrop + Brother)
+Beldir (Strong + Man)
+Acharnion (Vengeance + Son of)
+Thilion (To Glisten + Male)
+Erthion (To Unite + Son of)
+Pelilasdaer (Fading Leaf + Groom)
+Faurion (Beach/Shore + Son of)
+Gawador (Howling + Brother)
+Ruthron (To Rage + Male)
+Delion (To Conceal + Male)
+Fuithor (Night/Darkness + Brother)
+Ramion (Wall + Son of)
+Gaerben (Coppery Red + Husband)
+Laston (To Listen + Male)
+Hebedon (To Keep + Male)
+Calarchon (Lamp + Brother)
+Baingolion (Fair and Wise + Son of)
+Pe-lamben (Without Language + Husband)
+Gruithon (To Terrify + Male)
+Lodon (To Float + Male)
+Gorthion (Horror + Son of)
+Gaechanar (Dread + Brother)
+Arasben (Deer + Husband)
+Breniedir (To Endure + Male)
+Randirion (To Wander/Stray + Son of)
+Gerthor (Old/Decripit + Brother)
+Pelilasson (Fading Leaf + Male)
+Lachanar (Flame + Brother)
+Gallon (To Shine Clear + Male)
+Peniedir (To Fix/Set + Male)
+Ivorchon (Crystal + Brother)
+Úanion (Monster + Son of)
+Raechanar (Wrong + Brother)
+Lúthedir (To Enchant + Male)
+Northedir (To Make Run/Ride + Male)
+
+### Neutral
+Esgarphen (Shore + Person)
+Gurthben (Death + Person)
+Lith (Ash/Sand/Dust)
+Thanor (To Kindle + Person)
+Pador (To Walk + Person)
+Esgar (Shore)
+Fileg (Little Birds)
+Hethurimben (Secret Child + Person)
+Therior (To Flourish + Person)
+Tobor (To Cover/Roof + Person)
+Helch (Bitter Cold)
+Cothben (Enemy + Person)
+Tinu (Spark)
+Crithor (To Reap + Person)
+Osgaror (To Amputate + Person)
+Garthben (Fortress + Person)
+Brûmben (Old + Person)
+Draug (Wolf)
+Henior (To Understand + Person)
+Linnor (To Chant + Person)
+Lossam (Empty Chamber)
+Daedhrog (Shadow Wolf)
+Colben (Golden Red + Person)
+Brenior (To Endure + Person)
+Ferior (To Prepare + Person)
+Limlug (Seaserpent)
+Angolben (Stench + Person)
+Caranorphen (Red Fire + Person)
+Gruithor (To Terrify + Person)
+Leithor (To Set Free + Person)
+Caranoror (Bear + Person)
+Ûrphen (Wide/Heat + Person)
+Tegilbor (Writer)
+Giror (To Shudder/Tremble + Person)
+Pelor (To Fade/Wither + Person)
+Gortheben (Horrible + Person)
+Daedhelben (Shadow of Horror + Person)
+Remlas (Joy Net)
+Canor (To Shout + Person)
+Ristor (To Rend/Rip/Cut/Cleave + Person)
+Gromben (Club + Person)
+Âr (Royal/Noble)
+Parch (Dry)
+Gwestor (To Swear/Oath + Person)
+Aphedor (To Answer + Person)
+Hith (Mist/Fog)
+Iest (Wish)
+Nûr (Sad)
+Narchor (To Rend/Rip/Tear + Person)
+Ribor (To Rush/Fly/Fling + Person)
+Saelben (Wise + Person)
+Gelinnaspen (Joyful Will + Person)
+Ruindolben (Fiery Red Head + Person)
+Nastor (To Prick/Thrust + Person)
+Raedor (To Catch in a Net + Person)
+Eiliamben (Rainbow + Person)
+Nîd (Tearful)
+Lhos (Whisper/Rustle)
+Naror (To Narrate/Tell a Story + Person)
+Iallor (To Call/Yell + Person)
+Gaur (Werewolf)
+Baimben (Beautiful + Person)
+Gost (Dread)
+Henior (To Understand + Person)
+Gwerior (To Betray/Cheat + Person)
+Gwae (Stained)
+Lûth (Spell/Charm)
+Fela (Cave)
+Nauthor (To Conceive a Thought + Person)
+Hwinior (To Twirl/Whirl + Person)
+Cellimben (Flowing Music + Person)
+Hithu (Fog)
+Glaspen (Joy + Person)
+Redhor (To Sow + Person)
+Lodor (To Float + Person)
+Hithben (Mist/Fog + Person)
+Silevre (Glittering)
+Thamben (Shield + Person)
+Herior (To Have an Impulse + Person)
+Nellor (To Ring Bells + Person)
+Erthorphen (Uniter + Person)
+Grond (Club)
+Osp (Reek)
+Orthoror (To Master/Conquer + Person)
+Horthor (To Urge On/Impel + Person)
+Alagos (Wind Storm)
+Daug (Warrior/Soldier)
+Tond (Tall)
+Hwinior (To Twirl/Whirl + Person)
+Narchor (To Rend/Rip/Tear + Person)
+Glî (Gleam/Glint)
+Grond (Club)
+Laeg (Green)
+Amarthor (To Decree + Person)
+Gannor (To Play a Harp + Person)
+Ûr (Wide/Heat)
+Path (Smooth)
+Iaur (Ancient/Old)
+Orthelor (To Roof + Person)
+Revior (To Fly/Sail/Wander + Person)
+
+### Female
+Lothel (Flower + Sister)
+Ulunhel (Monster + Girl)
+Tinnunes (Twilight + Woman)
+Eithriel (To Prick/Insult + Daughter of)
+Hastril (To Hack Through + Female)
+Gwilwilethel (Butterfly + Female)
+Arradiel (Without a Path + Daughter of)
+Gurthel (Death + Sister)
+Gallil (To Shine Clear + Female)
+Echadissien (To Make/Fashion + Daughter of)
+Gamdis (Hook/Claw + Bride)
+Agarbes (Blood + Wife)
+Maewien (Sea Gull + Daughter of)
+Leithriel (To Set Free + Daughter of)
+Radril (To Make/Find a Way + Female)
+Goliel (Wise + Daughter of)
+Agornith (Narrow + Sister)
+Iachien (Ford/Crossing + Daughter of)
+Feririel (To Prepare + Daughter of)
+Thiliriel (To Glisten + Daughter of)
+Amlucthel (Dragon + Sister)
+Baranthel (Brown + Sister)
+Nanil (Grassland/Valley + Female)
+Gonodissien (To Count Up/Sum Up + Daughter of)
+Hadis (To Hurl/Throw/Sling + Female)
+Laerbes (Song + Wife)
+Tingeth (Metal + Female)
+Môrwen (Darkness/Night + Maiden)
+Awarthriel (To Forsake/Abandon + Daughter of)
+Berthril (To Dare + Female)
+Cureth (Skilled + Female)
+Îdhel (Rest/Repose + Female)
+Silevien (Shining White Crystal + Daughter of)
+Trastril (To Harass/Trouble + Female)
+Reviril (To Fly/Sail/Wander + Female)
+Istuinith (Learned + Sister)
+Tûrhel (Mastery/Victory + Girl)
+Gathrodes (Cave + Woman)
+Feririel (To Prepare + Daughter of)
+Narchriel (To Rend/Rip/Tear + Daughter of)
+Iorthondis (Old Pine + Bride)
+Iorthonien (Crown/Garland + Daughter of)
+Tingien (Metal + Daughter of)
+Eithril (To Prick/Insult + Female)
+Linnadis (To Chant + Female)
+Eglandis (Forsaken + Bride)
+Naruthirneth (Red Face + Girl)
+Gorthadel (Barrow + Female)
+Giriel (To Shudder/Tremble + Daughter of)
+Lachrien (To Burn + Daughter of)
+Mûldis (Slave + Bride)
+Laergulwen (Song of Sorcery + Maiden)
+Aniel (Masculine + Daughter of)
+Adlegril (To Loose/Release + Female)
+Thiliriel (To Glisten + Daughter of)
+Gwaelneth (Gull + Girl)
+Heledirneth (Kingfisher + Girl)
+Lhingwen (Fine/Slender + Maiden)
+Teithriel (To Draw/Write + Daughter of)
+Cabedis (To Leap + Female)
+Hissaeliel (Wise Eyes + Daughter of)
+Sîrel (River + Female)
+Tunnel (Hill/Mound + Female)
+Orthoriel (To Master/Conquer + Daughter of)
+Egleririel (To Praise + Daughter of)
+Lainien (Thread + Daughter of)
+Glamien (Shouting/Uproar + Daughter of)
+Laerwen (Song + Maiden)
+Feriadis (To Prepare + Female)
+Dringrien (To Beat + Daughter of)
+Laerril (Bear + Female)
+Ioristiel (Ancient Lore + Daughter of)
+Gauldes (Wolf-Howl + Woman)
+Mistadis (To Stray/Be Mistaken + Female)
+Gallien (To Shine Clear + Daughter of)
+Iesteth (Wish + Female)
+Lûthes (Spell/Charm + Female)
+Calarhel (Lamp + Girl)
+Gonodriel (To Count Up/Sum Up + Daughter of)
+Egleririel (To Praise + Daughter of)
+Fingaerthel (Coppery Red Hair + Sister)
+Gannelnith (Harp + Sister)
+Êgwen (Thorn + Maiden)
+Gadril (To Catch + Female)
+Feriadis (To Prepare + Female)
+Uirdes (Eternity + Woman)
+Uirebeth (Eternal + Female)
+Daehel (Shadow + Girl)
+Aderthadis (To Reunite + Female)
+Nediriel (To Count + Daughter of)
+Cadworel (Shapely + Female)
+Haewil (Custom/Habit + Female)
+Grothien (Cave/Tunnel + Daughter of)
+Lúthril (To Enchant + Female)
+Gwedhril (To Bind + Female)
+Cairdes (Ship + Woman)
+Nemirien (Water Jewel + Daughter of)
+Baudhel (Judgement + Sister)
+Nestriel (To Heal + Daughter of)
+Gwedhril (To Bind + Female)
+
+## [Dnd elven name generator](https://www.fantasynamegenerators.com/dnd-elf-names.php)
 
 ### Male
 
 #### Full names
+Zinydark Stilldreamer
+Yinmyar Windfond
+Sarvalur Stoneshard
+Keasandoral Sunrest
+Qinmaris Cedargaze
+Rogeiros Flithren
+Sylmaer Theildoxidre
+Virven Bullistri
+Zinmenor Feimessamua
+Raloqen Femirrixan
+Ilimenor Moonpride
+Themaer Goldwalker
+Pasandoral Eagerblossom
+Heitumal Duskspirit
+Omakas Forestfate
+Pernan Thirepha
+Balren Sillorren
+Fenpeiros Woldaea
+Waeshorn Santirral
+Virro Shosondrastrier
+Sarwraek Hazelspirit
+Cradan Flowerwalker
+Kelxidor Diamondmight
+Balquinal Summerdream
+Kelhice Spiritsong
+Payarus Culdre
+Aezumin Thirnonthra
+Cradan Tordorestront
+Kelbalar Heshanthreth
+Qiran Costrisiphienn
+Morceran Firsong
+Glynnorin Goldmane
+Rolar Diamondshine
+Zumxalim Amberfall
+Olosalor Hazelbeam
+Lumaer Xeihorothri
+Yelhice Budrelkua
+Palar Thuthrone
+Urimenor Bellocevinn
+Varo Eme
+Syllen Sagebreeze
+Adbalar Boldpetal
+Sarzumin Dawnfall
+Sarro Bronzegaze
+Aeyarus Silentmane
+Farwraek Shire
+Dorlar Quodrinthrerront
+Thelen Kindrint
+Ralozeiros Midraxe
+Gennelis Saentestissi
+Herneiros Amberheart
+Norqen Dawndream
+Zumneiros Fallspirit
+Raloqen Rapidbeam
+Keasandoral Bronzehold
+Heiqen Iastronthrin
+Ralokas Xuriscont
+Petzumin Celthie
+Omaris Yelosto
+Pergolor Lumoscephas
+Sylfaren Sungazer
+Morsalor Sparksinger
+Carcan Oakriver
+Herhorn Nightrest
+Elalar Sunflower
+Cargeiros Shirnanthrophor
+Miraberos Novohi
+Pamaris Folthi
+Carsalor Surath
+Qimenor Kendroxal
+Carberos Stonewatcher
+Perydark Winterdew
+Waessalor Poplargleam
+Waesxidor Goldfate
+Qisandoral Eagerflow
+Zinro Siphish
+Aeyarus Kasacistra
+Lumaris Tandrann
+Aeven Sheildra
+Morgolor Fleildraxor
+Omaneiros Forestbreeze
+Olohorn Dewspark
+Yelkas Elmgift
+Addan Amberflight
+Yintoris Shadowsense
+Elmyar Tholtas
+Heijor Lidrethro
+Omakas Quivosh
+Crabalar Hephendridrel
+Zinfir Kirorri
+Sarvalur Alderfond
+Glynric Wildhold
+Carjor Featherfond
+Iandan Bronzespirit
+Urixidor Fallflow
+Beilamin Xaldilkorriel
+Omazeiros Kunnildesto
+Themaris Wintanthror
+Perhorn Fondrol
+Luzeiros Questrua
 
 #### First names
+Adtoris
+Omaqen
+Naequinal
+Zinkas
+Rogeiros
+Waesdan
+Urineiros
+Heiran
+Hergolor
+Thefir
+Daezeiros
+Fenhorn
+Naexalim
+Daebalar
+Rojor
+Carjeon
+Oloneiros
+Vaxalim
+Leolen
+Pawraek
+Wranhorn
+Olowraek
+Pamaris
+Herfir
+Permenor
+Genran
+Adneiros
+Pettoris
+Urinelis
+Balwraek
+Gennan
+Baljor
+Vacan
+Yelmyar
+Carris
+Ianris
+Paric
+Umemaer
+Fargolor
+Mirahice
+Olocan
+Elfir
+Syldithas
+Syldan
+Leobalar
+Syltoris
+Qihorn
+Kelgolor
+Zumbalar
+Qinyarus
+Hernelis
+Sylris
+Qinquinal
+Glynmaris
+Keaquinal
+Beipetor
+Qitumal
+Zinmenor
+Norsandoral
+Rojor
+Panelis
+Zinsandoral
+Aekas
+Craro
+Adnorin
+Virdithas
+Aemyar
+Beiceran
+Thejor
+Carkas
+Dorzeiros
+Ianyarus
+Elazumin
+Aedan
+Craric
+Carsalor
+Sylpetor
+Carwarin
+Payarus
+Umenan
+Viryarus
+Sarpetor
+Lumaer
+Glynwraek
+Farceran
+Morfir
+Morwraek
+Daekian
+Balris
+Omasandoral
+Oloxidor
+Virpeiros
+Pajeon
+Crafir
+Beimyar
+Petnorin
+Adwarin
+Aehorn
+Miramaris
+Thehice
 
 #### Last Names
+Alderfall
+Evenshadow
+Dewkind
+Sagelight
+Springpetal
+Weldesh
+Quienostin
+Onnascar
+Mundrophieth
+Kiasasola
+Shadowgaze
+Fallbirth
+Dewseeker
+Greenfond
+Dawnseeker
+Nexorile
+Dastro
+Lephihath
+Sialasondro
+Emolinn
+Raindream
+Nightgift
+Silverflight
+Oceanshadow
+Greenrest
+Xielphann
+Elphedrer
+Cothrish
+Relphipho
+Roheshiphosh
+Greengaze
+Hazelheart
+Farflight
+Oakenpath
+Flowerheel
+Cerixi
+Dontir
+Yeldennish
+Thillant
+Funnandrerann
+Shadowflight
+Fallspell
+Gemsong
+Spiritshadow
+Oceandreamer
+Quiphastro
+Bestrilkesh
+Neni
+Todra
+Shara
+Sparkbirth
+Gemflight
+Swiftkind
+Stillguard
+Elmbreath
+Silthidrenn
+Viltent
+Hiphessant
+Shamint
+Shami
+Elderrest
+Spiritpath
+Greenblossom
+Bronzeriver
+Elderflower
+Fithrostreloth
+Iphathra
+Moshastro
+Uldistrath
+Fleyllann
+Mistvale
+Duskriver
+Flowerwalker
+Mistbeam
+Aspenblossom
+Theltira
+Killaxaea
+Xothraea
+Eirnath
+Xashexi
+Swiftbirth
+Shadowbeam
+Fargrove
+Moonrest
+Ashwatcher
+Onnelir
+Xaeloco
+Menico
+Isan
+Fimanith
+Elmkind
+Eldercrown
+Oakmight
+Boldsmile
+Boldflight
+Rollesh
+Olehodronn
+Dalaeann
+Rallilathri
+Calondrandre
 
 ### Female
 
 #### Full names
+Bizana Ashdream
+Ravadi Willowbreath
+Lorabanise Featherbeam
+Yllana Fogspark
+Yestris Nightmind
+Grewynn Kevan
+Gilmys Erixol
+Ulacyne Noltish
+Nerilynn Eilthas
+Urihana Xoloma
+Fastina Willowheart
+Zinroris Crimsonmind
+Heledove Spiritbell
+Zinfiel Wintergrove
+Xilcyne Mistflight
+Faerie Beile
+Dadi Yithrannivia
+Magvyre Hildo
+Ulaynore Bivostuash
+Liaynore Kema
+Joleth Oakbirth
+Wysalynn Ravenbreath
+Iargwyn Bluedew
+Eilxina Spiritdreamer
+Urisatra Moonguard
+Adyra Rillophiin
+Yllanala Avesola
+Sharora Wethrii
+Jonala Tamosaxor
+Wynharice Shilphonasoth
+Ulagella Windpride
+Araphyra Featherheel
+Ulasatra Shadowpride
+Bryrie Oakmight
+Holaharice Autumndreamer
+Heleralei Illissariith
+Krisyra Kone
+Eilkalyn Osticestes
+Zylralei Xardosil
+Yesrel Vidremash
+Fara Gemshard
+Chaeyra Nightshine
+Helecaryn Goldsmile
+Zinleth Suncloud
+Zinsatra Duskflower
+Yllana Rutha
+Lorakrana Hussintenthre
+Daqirelle Ielti
+Trislee Onnii
+Venrie Beltesaea
+Presrona Nightrest
+Nerifina Diamondseeker
+Venwenys Summerhold
+Quidove Beechfate
+Valvyre Sunshadow
+Eilfiel Xiphenont
+Enwynn Lupharrish
+Nerigella Shastanint
+Bryfina Quenel
+Phidi Dalta
+Valhana Fallmind
+Oririe Fallbell
+Valhana Fallheart
+Helefina Crimsonwish
+Zylyra Duskmind
+Shakalyn Neiscothropho
+Shaphine Sostront
+Torlee Quassennevien
+Tortris Xoldria
+Liaphyra Winestro
+Gilsys Willowpath
+Faedi Sageflight
+Neriwynn Silverdreamer
+Iarxina Silvergleam
+Qirona Amberdream
+Kriscyne Irna
+Daerel Todrestia
+Yesralei Kucirdasti
+Daehana Drandraxalki
+Eilleth Volthima
+Jojyre Moongift
+Nerivaris Stillpath
+Brybanise Lightwish
+Urifiel Ambervale
+Yesxina Elderfate
+Arajyre Theloldrenthriil
+Mialee Fimana
+Helerieth Tenilint
+Triswynn Ornel
+Yllarie Manonelkol
+Lialeth Dewgaze
+Nerijyre Emberrest
+Olaphine Rapidsense
+Sylwynn Greenstar
+Olaralei Aldergift
+Enrie Naltinonne
+Qileth Corosto
+Quikrana Qualiphiphal
+Uriynore Fidreson
+Eilcyne Nurehos
 
 #### First names
+Brymys
+Ravagella
+Xyrralei
+Krisxisys
+Xilstina
+Krisfiel
+Magjyre
+Yescyne
+Faefina
+Gilsatra
+Adrona
+Krisrora
+Gilvyre
+Farie
+Wynlana
+Shacyne
+Inara
+Xyrleth
+Adkalyn
+Faexisys
+Dakrana
+Magsatra
+Gilgella
+Phizorwyn
+Venwenys
+Loralee
+Oriharice
+Inagella
+Miavyre
+Eilfina
+Lorabanise
+Reykrana
+Inajyre
+Keyfiel
+Keythana
+Xillynn
+Magphine
+Phina
+Gilroris
+Miasys
+Helelana
+Arasys
+Krisdi
+Faephyra
+Birie
+Chaerieth
+Chaezorwyn
+Venmoira
+Trisralei
+Iardove
+Torthyra
+Jojyre
+Xyrthyra
+Wysaxisys
+Prescaryn
+Venkrana
+Torvyre
+Xyrlee
+Daexisys
+Yllalana
+Valtris
+Zylphyra
+Eilgella
+Zinmoira
+Fastina
+Ravakalyn
+Grevyre
+Araroris
+Uriralei
+Phixina
+Magdi
+Falee
+Eilgwyn
+Miawenys
+Uriwynn
+Miaharice
+Miayra
+Nerifina
+Presyra
+Venjyre
+Birieth
+Grebanise
+Chaehana
+Farora
+Faxisys
+Zylrie
+Gilstina
+Dasatra
+Loramoira
+Orilana
+Magphyra
+Caicaryn
+Heleyra
+Olacyne
+Valxina
+Bijyre
+Iarvyre
+Zinzorwyn
+Ulacyne
+Kriskrana
 
 #### Last Names
-
-## Dnd elven name generator
-
-### Male
-
-#### Full names
-
-#### First names
-
-#### Last Names
-
-### Female
-
-#### Full names
-
-#### First names
-
-#### Last Names
+Cedarsmile
+Forestgrove
+Boldwish
+Gemhold
+Wildshard
+Tarasent
+Sendrelkann
+Gidrodre
+Kathrolo
+Movannant
+Poplarfall
+Stoneshard
+Birchmoon
+Oakenpath
+Nightbirth
+Foshalko
+Gilphiinn
+Nera
+Cavo
+Uldinnathrath
+Sundew
+Evenflight
+Lightsmile
+Poplarbeam
+Evenspirit
+Farroldonthrish
+Dirdavisin
+Hashosta
+Ilthaxer
+Vave
+Elmkind
+Woodgrove
+Feathervale
+Dawnwalker
+Ravenwhisper
+Gernahethraear
+Ishovish
+Teldont
+Flienias
+Esassir
+Beechspell
+Nightdream
+Aldermoon
+Cedarmind
+Willowspell
+Quuthe
+Kendra
+Kelennor
+Caelkellave
+Kudrophelker
+Gemsong
+Crimsonhold
+Dawnheel
+Ravensong
+Emberspirit
+Uster
+Saesasceth
+Sultaea
+Odrexar
+Vendrinnish
+Fogwhisper
+Duskgazer
+Flowersong
+Spiritmane
+Farbrook
+Nentodri
+Xulla
+Fathrithro
+Xadra
+Xalthilir
+Bronzewatcher
+Alderriver
+Sagebirth
+Oceanfate
+Firpride
+Sheltheso
+Kirdo
+Olphann
+Methaeash
+Lili
+Nightgaze
+Cedardream
+Autumnlight
+Ravenshine
+Hazeldew
+Kierol
+Yoshirri
+Gornessoth
+Wannorre
+Holon
+Fallguard
+Nightwhisper
+Sunbrook
+Aspenriver
+Sunpride
+Destrace
+Dardeth
+Thiscornaxent
+Flicandrolkenn
+Malthanni
 
 # Eldarin (Elven) Japanese
 
@@ -12581,7 +15519,25 @@ dubrageck
 
 #### Last Names
 
-## Fantasy elven name generator
+## Dnd elven name generator
+
+### Male
+
+#### Full names
+
+#### First names
+
+#### Last Names
+
+### Female
+
+#### Full names
+
+#### First names
+
+#### Last Names
+
+## Dnd elven (Eladrin) name generator
 
 ### Male
 
