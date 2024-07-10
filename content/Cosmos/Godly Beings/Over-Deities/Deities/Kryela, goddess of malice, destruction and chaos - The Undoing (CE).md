@@ -38,7 +38,7 @@ aliases:
 |Eldar (Elven) Elven|Maegon|The Final Calamity|He/Him|[[over-deities\|Iluvatar (Parents of all)]]|
 |Eldarin (Elven) Japanese|Yami|The Shadowcaster|He/Him|[[over-deities\|Nikami(Two gods)]]|
 |Mularir (Tallman) Greek|Typhon|The Ebon Tempest|He/They|[[over-deities\|Exousíes (The powers)]]|
-|Yotunn (Giant) Giant|Sardland|The Typhoon Lord|He/Him|[[over-deities\|Hinn Oflugi (The powerful)]]|
+|Yotunn (Dwarven) Giant|Sardland|The Typhoon Lord|He/Him|[[over-deities\|Hinn Oflugi (The powerful)]]|
 
 ## Extra Titles
     

@@ -25,7 +25,7 @@ aliases:
 | Eldar (Elven) Elven      | Vilya'Shalar                                                           | Wisdom's Haven                                                                                                                         |
 | Eldarin (Elven) Japanese | [[Ioun, Goddess of Knowledge - The Enlightened (N)\|Chie]] no Toshokan | Wisdom/[[Ioun, Goddess of Knowledge - The Enlightened (N)\|Ioun]]'s/[[Ioun, Goddess of Knowledge - The Enlightened (N)\|Chie]] Library |
 | Mularir (Tallman) Greek    | Gnosis Parthenon                                                       | Temple of Knowledge                                                                                                                    |
-| Yotunn (Giant) Giant     | Skrymslaskrifheim                                                      | The Realm of Written Knowledge                                                                                                         |
+| Yotunn (Dwarven) Giant     | Skrymslaskrifheim                                                      | The Realm of Written Knowledge                                                                                                         |
 
 # Past Glory: [[Ioun, Goddess of Knowledge - The Enlightened (N)|Ioun]]'s Archive - The Sanctuary of Knowledg
 

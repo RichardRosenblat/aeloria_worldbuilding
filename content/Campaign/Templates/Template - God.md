@@ -12,7 +12,7 @@
 | Eldar (Elven) Elven |  |  |  |  |
 | Eldarin (Elven) Japanese |  |  |  |  |
 | Mularir (Tallman) Greek |  |  |  |  |
-| Yotunn (Giant) Giant |  |  |  |  |
+| Yotunn (Dwarven) Giant |  |  |  |  |
 
 
 ## Extra Titles

@@ -35,7 +35,7 @@ The myth of Khazad-Valdar is known by many cultures across the Veiled Lands, alt
 | Eldar (Elven) Elven       | Thalendôr                                                                                | Fortress land         |
 | Eldarin (Elven) Japanese  | Ichizoku-shiro                                                                           | Clan's Castle         |
 | Mularir (Tallman) Greek     | [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)\|Pantropos]] Polis | City of [[Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)\|Pantropos]]     |
-| Yotunn (Giant) Giant      | Jotunhollr                                                                               | Jotun's hall          |
+| Yotunn (Dwarven) Giant      | Jotunhollr                                                                               | Jotun's hall          |
 
 ## The Myth:
 Legends speak of a colossal dwarven city-kingdom, lost to time, known as Khazad-Valdar (a common dwarven term for "Mighty Fortress of the Dwarves") a city made by the direct sons and daughters of the very first clan of dwarves. It is said to be nestled deep within a ravine inside a mountain, in a land with no shores. The city is renowned for its grandeur, its intricate architecture, and its extensive network of tunnels and chambers that span miles. Its halls are adorned with gems and precious metals, and its forges were once the hottest and most productive in the known world.

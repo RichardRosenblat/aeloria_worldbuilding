@@ -37,7 +37,7 @@ aliases:
 | Eldar (Elven) Elven      | Corellon Larethian | The Enchanter of Stars   | He/They  | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese | Inari              | The Patron of Creativity | He/They  | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
 | Mularir (Tallman) Greek    | Muse               | The Matron of the Arts   | She/Her  | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
-| Yotunn (Giant) Giant     | Bergur             | The Runic Wonder         | He/They  | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
+| Yotunn (Dwarven) Giant     | Bergur             | The Runic Wonder         | He/They  | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 
 ## Extra Titles

@@ -37,7 +37,7 @@ tags:
 | Eldar (Elven) Elven      | Earendil        | The Radiant Star    | She/Her  | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese | Amaterasu       | The Harvest Empress | She/Her  | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
 | Mularir (Tallman) Greek    | Helios          | The Shining Master  | He/Him   | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
-| Yotunn (Giant) Giant     | Solskin         | The Everlight       | He/She   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
+| Yotunn (Dwarven) Giant     | Solskin         | The Everlight       | He/She   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 
 ## Extra Titles

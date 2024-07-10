@@ -38,7 +38,7 @@ aliases:
 | Eldar (Elven) Elven       | Sehanine Ithilgalad | The Silver Lady           | She/Them    | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese  | Tsukiyomi/Tsukuyomi | The Mirror Sentinel       | He/She/Them | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
 | Mularir (Tallman) Greek   | Nyx                 | The Ebon Veil             | She/Them    | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
-| Yotunn (Giant) Giant      | The Norns           | The Lake, Moon and Mirror | They/Them   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
+| Yotunn (Dwarven) Giant      | The Norns           | The Lake, Moon and Mirror | They/Them   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 
 ## Extra Titles

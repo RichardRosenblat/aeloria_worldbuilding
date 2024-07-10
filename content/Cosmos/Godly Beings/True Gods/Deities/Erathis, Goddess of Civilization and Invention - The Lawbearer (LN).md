@@ -37,7 +37,7 @@ aliases:
 | Eldar (Elven) Elven      | Amarie       | The Elegance of Civilization   | She/Her  | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese | Benzaiten    | The Painter of Cities          | She/Her  | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
 | Mularir (Tallman) Greek    | Polis        | The First City                 | They/It  | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
-| Yotunn (Giant) Giant     | Thrudheim    | The Builder of The Great Halls | He/Him   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
+| Yotunn (Dwarven) Giant     | Thrudheim    | The Builder of The Great Halls | He/Him   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 ## Extra Titles
 

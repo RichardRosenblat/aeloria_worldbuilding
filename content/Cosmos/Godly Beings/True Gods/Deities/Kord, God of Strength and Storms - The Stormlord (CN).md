@@ -40,7 +40,7 @@ In the tempest of life, be the eye of the storm, unyielding, calm and resolute i
 | Eldar (Elven) Elven      | Glorfindel | The Lightning Guardian   | They/Them | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese | Raijin     | The Thunderous Protector | He/Him    | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
 | Mularir (Tallman) Greek    | Kratos     | The Mighty Guardian      | He/Him    | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
-| Yotunn (Giant) Giant     | Hrungnir   | The Thunderous Titan     | He/Him    | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
+| Yotunn (Dwarven) Giant     | Hrungnir   | The Thunderous Titan     | He/Him    | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 
 ## Extra Titles

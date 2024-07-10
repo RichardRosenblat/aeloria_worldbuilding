@@ -15483,77 +15483,3303 @@ Malthanni
 
 # Eldarin (Elven) Japanese
 
-## Japanese name generator
+## [Anime name generator](https://www.fantasynamegenerators.com/anime-character-names.php)
+Last names and first names follow eastern name order, with the surname name coming last
 
 ### Male
 
 #### Full names
+Fukasu Kamoto
+Fumikichi Hisayuki
+Borao Sumimaki
+Motohaku Kuriyuki
+Akenore Muragi
+Tsunesayuki Hiramura
+Okatoshi Amamine
+Sukekumi Marushino
+Ashitsuna Debuki
+Kamazan Kurimo
+Kojurei Edakami
+Akake Azura
+Nariruko Kiragi
+Miyadaira Isoba
+Kawasaburo Hanakite
+Yugomatsu Okadate
+Marekishi Nishiba
+Isotomu Higaguchi
+Motonjiro Tanise
+Shinzamuku Yasutsuki
+Takusho Onawata
+Janibu Nishita
+Daiki Yoshitsuki
+Aragumichi Natsutomi
+Jodashi Kinaba
+Kawanobu Mokaze
+Koshiro Kusu
+Okatsune Adayama
+Ratada Yoritaka
+Shoshai Oshita
+Risake Ashigami
+Hachihashi Hisato
+Matabo Kuromida
+Aketake Katashino
+Noritsune Sutsuki
+Masu Hatamaki
+Baibusuke Amabuki
+Genao Uchikono
+Hachidao Okijima
+Kazuhisa Muramaki
+Morohachi Yanaziwa
+Fukujiro Yusugi
+Dorumi Kanazato
+Tamurazo Otsube
+Isoyori Kanegishi
+Mamoki Hiraro
+Nakaromao Masuruno
+Naharu Aisho
+Nataru Sugazawa
+Atsumomi Tatemaki
+Benjinori Hataraki
+Hishige Koyanaba
+Rihito Tsubuki
+Utachiro Akiya
+Tamudasu Hashihara
+Hisatoshi Mananaka
+Tomokusho Suzunda
+Katsushida Nakazora
+Kyorata Wakamuro
+Narusaki Kowara
+Narukao Komosugi
+Miyankei Yasutase
+Shumochi Murakida
+Ennozen Akigimoto
+Tokissai Wakami
+Matsurumi Agome
+Toyonao Kataruno
+Miyayoshi Hotase
+Haragoro Suzumaki
+Munekeno Mizufumi
+Nobofumi Hashida
+Takatsu Rakuzaki
+Shinihachi Yashiwata
+Ichigumichi Hamakaze
+Kontaro Katsutake
+Fukuzushi Otozuno
+Yayori Kamikuwa
+Arajiro Izumori
+Manakichi Yashihei
+Tsugagumi Takatomi
+Utasine Isowara
+Dohaku Wanen
+Yorirumi Ebidate
+Kojuromao Hagisaka
+Johito Kobatsumi
+Shizane Marumi
+Tamusine Okisaki
+Yorifumi Yamitsu
+Fukushige Adatsuka
+Kiyohisa Sugakaki
+Kamankei Kiribashi
+Tofumi Rinoda
+Ramuro Sakunashi
+Tatsukio Hatanuma
+Naruyasu Fujiwata
+Manatada Koniroma
+Komatsu Hironaba
+Nobuboru Asayoshi
+Nagansei Kawaka
+Shohashi Kumabuki
 
 #### First names
+Kuniginori
+Sane
+Sharaku
+Tochiro
+Toyohashi
+Norirobei
+Koshiki
+Narikuhei
+Ratoshi
+Kunichu
+Jinzansei
+Morata
+Jomio
+Rimon
+Kamataro
+Mitsusa
+Shakuro
+Johhiko
+Juniboru
+Kekuni
+Hokurazo
+Norihi
+Nochiro
+Bozen
+Ennonibu
+Yusumoto
+Kushi
+Matamasu
+Sumikan
+Mitsukan
+Rinore
+Akigeru
+Sadatomu
+Utaruki
+Mitsunore
+Atsukasu
+Kagehi
+Yakatoki
+Yorizo
+Rajiro
+Tsurakao
+Ashigai
+Munebei
+Muken
+Hiharu
+Morai
+Chotomi
+Yushi
+Yusuromao
+Tamahaku
+Riyasu
+Junitada
+Azushiro
+Okimochi
+Hokujiro
+Tsunehaku
+Harei
+Shamune
+Shinibumi
+Saharu
+Inekazu
+Narikan
+Tamukuro
+Atsutake
+Hachitsuna
+Mutaka
+Shumatsu
+Botsune
+Kunitoshi
+Ashikichi
+Tsuraburo
+Okiginori
+Kamagumi
+Tsuratake
+Kumeisetsu
+Shikoto
+Kyoro
+Yorimio
+Okika
+Tadafusa
+Nakatora
+Naganore
+Joshida
+Kazuko
+Nofusa
+Nosuke
+Hyomaro
+Katsumichi
+Akikoto
+Sukehachi
+Kyorai
+Keimoto
+Chohaku
+Inehashi
+Tsunso
+Masasa
+Keiruko
+Okigawa
+Orimochi
+Arimio
 
 #### Last Names
+Hamamuro
+Yakura
+Hatarano
+Furura
+Zanashi
+Deshiro
+Higatase
+Yusugi
+Tataka
+Higakura
+Uyesuda
+Munaba
+Oshishige
+Sakiwata
+Taba
+Ebimori
+Marusawa
+Sakaragi
+Kuroki
+Onagisawa
+Kobayoshi
+Enonaba
+Mimida
+Muraki
+Hirasano
+Dekono
+Mutanda
+Igani
+Imanaba
+Enamida
+Murazuma
+Kogisawa
+Masasone
+Yakune
+Tatsuzaka
+Suzugi
+Hatamine
+Matsumori
+Sakube
+Hoyomi
+Otondo
+Natsugawa
+Mogome
+Horimaya
+Hanashi
+Morikaki
+Hirara
+Arinuma
+Sayuki
+Yasube
+Katsuzora
+Naritake
+Furumisu
+Konashi
+Kumahata
+Tomiwata
+Imamo
+Yubata
+Yakumoto
+Sakisano
+Hokaga
+Igasugi
+Isoki
+Masazuma
+Kaguki
+Sumimuro
+Arima
+Oshisato
+Konitsu
+Ishitsumi
+Hiramiya
+Uburo
+Mitsumaki
+Rimaya
+Mugisawa
+Asashiba
+Otsurada
+Sumindo
+Kagasato
+Komozawa
+Konisuda
+Mizunaha
+Wakunashi
+Mawazaka
+Tanikawa
+Iwamiya
+Rikikiri
+Hayagome
+Kumagi
+Habaru
+Isomida
+Sugazaka
+Nakame
+Uzuhisa
+Uburaki
+Hanatsuki
+Soshiba
+Fujizuma
+Rakugaki
+Amimitsu
+
+### Neutral
+
+#### Full names
+Anku Kashimida
+Kaiyori Shimori
+Keikoto Kutsuka
+Satsuname Kanemuro
+Reisao Hazuno
+Akito Asabashi
+Izukia Isemine
+Hibibaru Mizugata
+Reromu Miyagata
+Hatsuyo Miyasaki
+Ruiromu Uzubata
+Kaigisa Tahazawa
+Sekiho Maruhoshi
+Makae Nikura
+Kyokimi Mochinaha
+Koubiki Azuzora
+Kounobu Kuhata
+Suku Enomaki
+Rikimi Hono
+Kaoruka Tanini
+Hochiyo Uburo
+Naokira Ichitsumi
+Yotsu Yamase
+Mashimi Osami
+Hazomi Furuyama
+Hajikimi Akigiri
+Ryoto Zakono
+Hayatsuo Yashika
+Nabaru Izuzora
+Akiyate Kodada
+Mimi Kashimuro
+Yushimi Aigita
+Shizumi Kodarano
+Keiromu Kirihisa
+Naori Amagai
+Izuyo Mitsuwara
+Izugisa Funen
+Kaezumi Asabu
+Naokira Okazumi
+Hoku Amitani
+Nozoka Amikuda
+Tename Kazeta
+Hajide Enanagi
+Sosuka Mawaguchi
+Asumi Asho
+Asyruka Hisaragi
+Chishika Aigishi
+Seko Shinaka
+Anzuki Derata
+Akede Ohanashi
+Kubaru Yasumaki
+Hofumi Azuwari
+Hibikiho Isozaka
+Rizumi Aibuki
+Ryukaru Katomi
+Minofumi Isetsumi
+Togame Sekama
+Sosumi Miyasugi
+Keitaru Tahanobu
+Resami Haragawa
+Maikira Taketagi
+Kyozu Tomiyoshi
+Michishimi Tokaze
+Maiyori Kuroraki
+Sukasa Kaneyoshi
+Sukae Sakasaka
+Makemi Fuza
+Sanori Okikami
+Suru Enaruno
+Yotsumi Rakukuro
+Reizumi Michi
+Yutsuna Wakazumi
+Kyogeri Yoshiwa
+Sokimi Miyakaze
+Satsutsuyo Handa
+Iozuki Higatomi
+Ryokasa Minando
+Anmi Shinonagi
+Masuka Komozuno
+Kaosami Masabuki
+Asygisa Kanabi
+Reitaru Manabu
+Hajizumi Wakuroma
+Rinata Ishimoto
+Izumaki Hamamitsu
+Akekiho Kuroyama
+Kaojime Ariri
+Ritsuyo Watsu
+Asytsuki Chinagi
+Sukasa Miyazora
+Ryude Fujiziwa
+Harusaki Kamibu
+Kaefumi Kashishiro
+Mitsusaki Kagamisu
+Jubasa Sakayoshi
+Keiruka Nozaka
+Natsushimi Asashima
+Hayaku Kinokono
+Hisuka Takazuma
+Rigame Fuchizaka
+
+#### First names
+Kousami
+Keiyo
+Tokia
+Maikimi
+Aketaru
+Satsusaki
+Chiayori
+Ruizumi
+Ibusami
+Kaozuka
+Satsukira
+Kainie
+Yonori
+Ryozomi
+Jusumi
+Satsunata
+Mayori
+Iotsuyo
+Michikira
+Hisumi
+Reichiyo
+Tetsuyo
+Ryokae
+Chiruka
+Yonata
+Kyoshika
+Tebaru
+Hikiho
+Reiname
+Nozogisa
+Shinie
+Haruname
+Setsukae
+Kunobu
+Nozosuka
+Kaizuki
+Kugame
+Tatsu
+Kaotaru
+Same
+Soshimi
+Manori
+Nosuka
+Mitsukoto
+Kaitsu
+Hatsu
+Asyromi
+Kouzomi
+Chimaki
+Kaname
+Teshimi
+Kaesuka
+Ryonata
+Notaru
+Aketsuyo
+Satsuname
+Tashika
+Miyate
+Anname
+Hagisa
+Natsumaki
+Hisao
+Ruiko
+Reyori
+Mabiki
+Hizumi
+Ryusao
+Tezomi
+Natsutsuo
+Tetsu
+Keitsu
+Hayame
+Chianame
+Juyo
+Hajitsuki
+Setsuna
+Minofumi
+Michiyori
+Ruimaki
+Ryosao
+Koutsuki
+Anmi
+Chizuki
+Jukimi
+Hibide
+Naobiki
+Hitsuna
+Ruizuka
+Mitsunobu
+Chianame
+Hayakia
+Noname
+Shikia
+Chiabasa
+Michiromu
+Michifumi
+Naomi
+Ibukari
+Kaimaki
+Minoto
+
+#### Last Names
+Higanaha
+Kuwagusa
+Enabira
+Kuwanari
+Agachi
+Serata
+Ichikura
+Enomida
+Agakuda
+Yuraki
+Suzubashi
+Koyamine
+Shiramaya
+Isenoda
+Kogaki
+Sukuro
+Isomura
+Mitsura
+Hirogita
+Hamazuki
+Igatani
+Rikawa
+Hatarada
+Kirizuki
+Hisakaki
+Maruni
+Asasato
+Manarata
+Uchibaru
+Morito
+Katasuchi
+Kamibata
+Sugigata
+Ebitagi
+Kisano
+Takehisa
+Izuwara
+Katsukita
+Nishibe
+Hashisho
+Chinen
+Yasurima
+Wakumaru
+Wakiwagi
+Yakumida
+Sekisawa
+Toka
+Tatsuhata
+Semori
+Kurisugi
+Yanagai
+Manatomi
+Kagakami
+Amenaga
+Hamashida
+Azuzaka
+Tahami
+Munuma
+Shosato
+Fukugami
+Katsusugi
+Sakishima
+Morima
+Harikite
+Urabu
+Nishinaha
+Kagagimoto
+Nagagishi
+Okusho
+Moni
+Hamatsu
+Riroma
+Hokita
+Tatetsuka
+Nakagome
+Isofumi
+Dezuki
+Kanesho
+Zami
+Kodazora
+Warima
+Kinohei
+Makiraki
+Komi
+Hashitagi
+Kirikono
+Imaro
+Hanaga
+Uchihisa
+Hanabi
+Hitsami
+Aminashi
+Ishikami
+Kanemisu
+Mugome
+Horimari
+Hanagaki
+Konibuki
+Rakuzawa
+Kazeme
 
 ### Female
 
 #### Full names
+Kiyokayo Adama
+Komiko Izusawa
+Gisumi Konini
+Sainami Sekihata
+Yoshize Manahira
+Anemeki Kikaga
+Kiozuki Morihira
+Kasuhomi Katsudate
+Kioki Wakashiba
+Takumi Kiriyoshi
+Amanri Sekishima
+Makisumi Rika
+Milikeno Tsunobu
+Mazuki Kosuchi
+Sakuko Ubuni
+Kini Yasuwara
+Ayasagi Uzubara
+Tomozuki Inashiro
+Urakuri Nonen
+Fuyutomi Uchikaki
+Sakurise Kuwahara
+Ruririko Yakutsu
+Yasukari Yamabara
+Natsuzu Tanisuchi
+Hanigi Uchiba
+Achi Ubuguchi
+Kiogami Shimano
+Anenase Amayama
+Himehana Hiroken
+Aitose Kaneri
+Akiko Shiyomi
+Teme Kumaki
+Amazu Okukida
+Sarumi Tazaka
+Tamatsu Wakuguchi
+Kohashi Sushino
+Himezu Kuroyama
+Asusaki Kiriyomi
+Hazusumi Uyeruta
+Hikafumi Hashimura
+Sakitu Hashitake
+Nizuka Kinohira
+Masurise Amahara
+Yoshinami Shira
+Kurunari Hananoda
+Surime Zakuro
+Tono Hagikida
+Kazururi Minakawa
+Umari Mitsuhei
+Sasa Otsundo
+Himetsune Kagatsuki
+Akinoue Edashi
+Anenomi Agamano
+Kionatsu Mawasaki
+Machisagi Minanobu
+Tokiyumi Oshitsu
+Reimiko Kuwabu
+Hirowara Yashichi
+Katsumika Katanoda
+Hikeno Mitsunoda
+Aimeko Shogisawa
+Kurusa Hanazuno
+Ayaya Yashishiba
+Kaiwara Sakatanda
+Sanari Azutagi
+Mase Fuchiyuki
+Konofuyu Wakumo
+Rinayumi Hayamine
+Tanarari Haranishi
+Ryokichi Hatatomi
+Sakuhana Donaba
+Hoshiyoko Kanashida
+Yayumi Miyabata
+Matsuto Yatani
+Aizumi Hatase
+Urari Mugai
+Arichiru Kuriruta
+Kazaruri Hariyashi
+Kamitose Inanaha
+Kukinuye Shirahei
+Hirori Uyekita
+Kukirisa Honuma
+Kiokichi Murakura
+Yoshiruri Amisho
+Komami Niwagi
+Tomito Uyezuma
+Tsukinase Omomida
+Kiyone Tanika
+Ryotsune Furada
+Kaneyumi Wakagishi
+Kioni Rikigiri
+Sumisu Kirikama
+Kukirime Hararuta
+Irisumi Suga
+Chikari Nagawagi
+Eyumi Agarada
+Fuminatsu Kurotani
+Kirarari Rakubuki
+Imamomi Kurogae
+Kinuno Onasho
 
 #### First names
+Kochiko
+Ichitose
+Asasa
+Ikumi
+Michigi
+Midome
+Himezuki
+Emiharu
+Suzu
+Tsukisu
+Umekari
+Tomise
+Tokichiko
+Toshine
+Haidori
+Yumiyoshi
+Jonase
+Haigami
+Emizu
+Hanri
+Raze
+Natsunase
+Sawanari
+Kochiri
+Tatsume
+Katsurari
+Kochirise
+Sachiru
+Sakichiru
+Rinatsu
+Joharu
+Matsusato
+Kozaneko
+Minerako
+Anetose
+Misasago
+Katsukiko
+Kinutsumi
+Anetori
+Tanazuka
+Hokari
+Mikana
+Mikanari
+Hotu
+Mashiko
+Kinutako
+Kahoyoko
+Akorabi
+Irizume
+Harutu
+Kiko
+Tesuki
+Midoni
+Mihonri
+Kozaho
+Atsusuki
+Isameko
+Mitsunoue
+Kiyotu
+Shinri
+Nimaki
+Yumichi
+Funuye
+Tsukirisa
+Kazaharu
+Marumi
+Nitsumi
+Utsukayo
+Sakudiri
+Tanirise
+Umetsuki
+Yasunomi
+Mikakiko
+Mitsumika
+Tsukirako
+Makimeko
+Hakari
+Sakuze
+Atsutsuyo
+Kiyomachi
+Chinanase
+Ichiru
+Kochiko
+Azufuyu
+Kazagami
+Yasururi
+Emimami
+Hanitsuyo
+Kochiyoko
+Haidori
+Gisa
+Kirase
+Kimishi
+Etsukeno
+Tatsuwara
+Tadari
+Orirako
+Kakeno
+Ayaharu
+Usariko
 
 #### Last Names
+Miyamida
+Narisone
+Moni
+Umesuda
+Miyakono
+Tsusho
+Mitsuba
+Komotase
+Kodazaki
+Adashi
+Ashibe
+Katsudera
+Onabe
+Kashise
+Harihoshi
+Kobasugi
+Managami
+Mawasuda
+Managishi
+Amegae
+Konisu
+Sakutaki
+Shizora
+Kimitsu
+Shiziwa
+Mochizora
+Takehei
+Morishita
+Kamimoto
+Manayoshi
+Masukida
+Inaragi
+Yakutsumi
+Sakazumi
+Honuma
+Koninuma
+Hashira
+Kobakite
+Fukuhoshi
+Tsukuma
+Shomisu
+Aranari
+Okumida
+Komobara
+Yugami
+Kanejima
+Zakaba
+Masuwa
+Ichimuro
+Masuziwa
+Natsunagi
+Kuzuma
+Nakazuno
+Katsusato
+Mosugi
+Onadate
+Zarata
+Komojima
+Igagome
+Kinome
+Atomi
+Degai
+Edakaga
+Hamabu
+Manasu
+Tatsuwata
+Okushino
+Onata
+Sakidera
+Hisaruta
+Azubata
+Yorikida
+Kurigaki
+Miyamaya
+Izugami
+Tahamitsu
+Yadakiri
+Yasusawa
+Amata
+Nokaki
+Kawatake
+Wakuwagi
+Setaki
+Adano
+Muchi
+Kaganobu
+Fujimuro
+Kazegisawa
+Azuza
+Hiromano
+Setsuka
+Dokuwa
+Miwagi
+Mawazaka
+Derata
+Osasawa
+Mutsumi
+Kodani
+Kodazora
+Mawasari
 
-## Old Japanese name generator
+## [Japanese name generator](https://www.fantasynamegenerators.com/japanese-names.php)
+Last names and first names follow eastern name order, with the surname name coming last
 
 ### Male
 
 #### Full names
+Norihide Yasui
+Konoye Yokono
+Kadonomaro Ishida
+Hakuseki Tada
+Kiyomasu Yakumo
+Takuya Hiroshima
+Ssekien Tachibana
+Kanbe Yoshimi
+Masanori Yakumo
+Orinosuke Fukuda
+Yoshinori Seyama
+Tatsuzo Fujimura
+Tatsukichi Shibata
+Masashige Murayama
+Doppo Kuroda
+Kumanosuke Sueoka
+Suketsune Tamon
+Shinobu Noguchi
+Washichi Wakasugi
+Heiji Itoh
+Kaemon Saiki
+Yoshino Kita
+Toshi Tengan
+Nikki Mita
+Ashihei Fujiwara
+Akio Natsukawa
+Kiyomasu Sakimoto
+Yukinaga Sazama
+Katsunosuki Tanigawa
+Kamatari Kozutsami
+Eiji Nakagome
+Kinji Noguchi
+Sumitomo Okuda
+Eizan Hamano
+Tadakuni Nakagawa
+Toyoharu Kojima
+Ikemoto Machida
+Hachemon Kaga
+Kentaro Tsujii
+Takamori Ose
+Doppo Nishimoto
+Shoda Kuroki
+Mochihito Hirose
+Taji Fukuma
+Nissho Muranaka
+Kaoru Mura
+Eien Ozaki
+Eien Takahara
+Katsuhito Horie
+Takuma Hamakawa
+Tokuma Yokoi
+Terao Honda
+Ryo Utsunomiya
+Hideo Maeno
+Kiyomori Toma
+Soshu Domen
+Ichizo Imai
+Hachigoro Miyahira
+Eizo Yoneno
+Akahito Kirigaya
+Soh Uyeno
+Yoshimochi Baba
+Susumu Yanagida
+Shun’en Mayeda
+Keiji Matsutoya
+Morie Maniwa
+Soetsu Koyanagi
+Chikafusa Sakata
+Shigekazu Takei
+Bairei Orito
+Hajime Tsunematsu
+Takeji Mihara
+Arinori Minamoto
+Ryushi Kawahara
+Matsudaira Nakada
+Katsumi Kiyota
+Korenaga Hoashi
+Junichiro Tsukuda
+Yoshihisa Nakagawa
+Teika Ehara
+Kojiro Ohno
+Amane Kato
+Shunko Moriai
+Yoshitaka Murayama
+Eisuke Urayama
+Inejiro Tatsuno
+Yasutake Arakaki
+Toichi Yano
+Ryozo Shoji
+Manobu Fujii
+Katsunan Shoji
+Kenji Yamaha
+Yoshii Miyamoto
+Kazu Hitarashi
+Tanyu Morimoto
+Renjiro Fujiwara
+Shosuke Matsui
+Hisahsi Nakatani
+Kikugoro Koyama
+Chomei Aoyama
 
 #### First names
+Eiji
+Sanjiro
+Gengyo
+Soh
+Katsunan
+Sanetomo
+Toshiro
+Hirokumi
+Korekiyo
+Yosai
+Yoshimi
+Tokichiro
+Matsu
+Shuichi
+Denbe
+Ieyasu
+Sozen
+Suzu
+Muneyaki
+Eichiro
+Shukishi
+Ichiro
+Kagehisa
+Haru
+Soshitsu
+Hirokazu
+Takanobu
+Kazuki
+Haru
+Zenko
+Naohiro
+Sugita
+Yoshifusa
+Tsumemasa
+Omezo
+Masamune
+Nikko
+Murai
+Mitsunari
+Naohiro
+Shungyosai
+Renzo
+Noboru
+Mamoru
+Gempachi
+Kuniyoshi
+Noritada
+Saneatsu
+Tadasu
+Yasuyuki
+Michinaga
+Takesi
+Takeichi
+Saionji
+Reijiro
+Terao
+Hachiro
+Yoshitoki
+Kiyotaka
+Shuichi
+Ieshige
+Kanjiro
+Shuzo
+Okakura
+Kano
+Aki
+Kaneie
+Yoringa
+Benjiro
+Nikko
+Baiko
+Toyonobu
+Kingo
+Kisho
+Nobuhisa
+Yozo
+Takeji
+Hirokazu
+Noburo
+Hiro
+Doi
+Nobuyori
+Shichirobei
+Toshikasu
+Hideaki
+Yasushi
+Kiyohisa
+Seiki
+Mitsuharu
+Tomeo
+Nissho
+Hiroaki
+Ryuzaburo
+Norishige
+Seiichi
+Yoshitake
+Yasuyuki
+Yuifum
+Tatsuya
+Yutaka
 
 #### Last Names
+Okino
+Shimizu
+Homura
+Okubo
+Tanigawa
+Aihara
+Hatano
+Yamashita
+Kurihara
+Asaka
+Shimizu
+Ozaki
+Wakai
+Umeki
+Higashi
+Yuguchi
+Utada
+Takahashi
+Uyemura
+Kumagai
+Isayama
+Suto
+Sakaguchi
+Morishita
+Fujioka
+Nomi
+Yamasaki
+Coda
+Murakami
+Hiroi
+Hokama
+Hori
+Yamane
+Yoshie
+Sakane
+Sando
+Tagawa
+Oda
+Ishiyama
+Miyake
+Fujimori
+Sugita
+Fujino
+Okuyama
+Hora
+Okino
+Utsumi
+Katsura
+Jo
+Kanemoto
+Takishima
+Sugihara
+Masuyama
+Yazawa
+Wakamatsu
+Hirabayashi
+Watsuji
+Yukimori
+Tada
+Nakazawa
+Yajima
+Sugihara
+Kaga
+Tazawa
+Kishimoto
+Hasegawa
+Yakumo
+Itoh
+Sawano
+Yūki
+Isa
+Yamagata
+Nonaka
+Niwa
+Tatsuda
+Hirano
+Machida
+Aoi
+Yakushimaru
+Yoshihara
+Kimoto
+Urushido
+Yukimuro
+Yoshikawa
+Higa
+Imai
+Miyake
+Yano
+Hatano
+Hiroi
+Akiba
+Sasori
+Muraoka
+Uzumaki
+Kamenashi
+Kotobuki
+Kaneko
+Hashira
+Hitarashi
+Hirata
+
+### Neutral
+
+#### Full names
+Takemi Amisaki
+Takemi Coda
+Ibuki Kurisu
+Kaede Demura
+Kurumi Sugano
+Teru Taniuchi
+Sora Yukimura
+Tomomi Takanashi
+Toshimi Kumagai
+Tomoe Shimada
+Chihiro Morioka
+Hajime Kogane
+Chiaki Nagata
+Nao Obi
+Masaki Uranishi
+Nagisa Sawada
+Subaru Kawano
+Hiyori Chiziwa
+Maiko Kamoto
+Harumi Kobayashi
+Haruichi Hamadate
+Toshimi Rokuda
+Matoi Fukui
+Hibiki Chiba
+Hinata Yazawa
+Akiho Koizumi
+Mizuho Kozato
+Tomoe Kano
+Jun Komuro
+Shigeri Nishihara
+Takemi Maeda
+Rin Yabūchi
+Akimi Hamasaki
+Tomomi Yukimura
+Tamaki Kawahara
+Hayate Dokuro
+Hinata Banno
+Aki Shima
+Ryō Imai
+Hikaru Matsubara
+Hiyori Yoshimi
+Satsuki Hiraoka
+Yoshimi Sakamoto
+Tatsuki Yokota
+Aoi Futaki
+Makoto Ugumori
+Yuri Kita
+Nozomi Nagao
+Michiyo Eto
+Iori Nagamine
+Rin Yoshigahara
+Tamaki Muto
+Mirai Nishikawa
+Anri Nakao
+Jun Hiraoka
+Akemi Yoshizawa
+Hajime Tominaga
+Sora Kuba
+Akemi Tsujihara
+Kaname Morishige
+Michiru Horikiri
+Masumi Toda
+Tatsuki Akanishi
+Shizuka Iwakiri
+Mitsuki Chiba
+Nagisa Sone
+Kei Okada
+Mizuho Hayakawa
+Kunie Wakui
+Tsubasa Kimura
+Masami Kaneda
+Akiho Ogasawara
+Kunie Shimada
+Hikaru Tamura
+Michiyo Amagawa
+Itsuki Yaguchi
+Sora Kikyo
+Riku Matsuzaki
+Rei Ozaki
+Akira Edano
+Itsuki Nishioka
+Kou Yasutake
+Hinata Kunieda
+Katsumi Nakama
+Yū Kuba
+Michi Mita
+Ayumu Yukawa
+Mitsuki Samejima
+Aki Sakakibara
+Aki Nakashima
+Ayumu Seto
+Masumi Oye
+Hisaya Uehashi
+Rin Obi
+Ryō Sugihara
+Mitsuyo Yamaha
+Izumi Yoshihisa
+Tsubasa Yoshikawa
+Misao Yukiyama
+Haru Nakagome
+
+#### First names
+Rei
+Hinata
+Natsuki
+Masami
+Aki
+Maki
+Haru
+Shizuka
+Chihiro
+Hifumi
+Hinata
+Teru
+Mako
+Nao
+Midori
+Maki
+Michiru
+Yū
+Kagami
+Mizuki
+Michiyo
+Kou
+Hiromi
+Ren
+Aoi
+Hazuki
+Hazuki
+Michiru
+Akira
+Michiyo
+Takemi
+Aki
+Mako
+Mitsuru
+Yū
+Hiyori
+Hazuki
+Anri
+Chihiro
+Mizuki
+Haru
+Yū
+Katsumi
+Naomi
+Mitsuru
+Mako
+Kagami
+Ryuko
+Yoshika
+Asuka
+Ryō
+Nagisa
+Masaki
+Ryō
+Hajime
+Haruka
+Aoi
+Kazumi
+Hinata
+Tatsuki
+Haruichi
+Midori
+Hotaru
+Kairi
+Akemi
+Makoto
+Shigeri
+Masami
+Mizuki
+Maki
+Yuri
+Tsukasa
+Katsumi
+Mitsuki
+Naomi
+Michiyo
+Hotaru
+Akimi
+Mizuho
+Hikari
+Kayo
+Akimi
+Iori
+Tomomi
+Mitsuru
+Midori
+Yū
+Izumi
+Yū
+Kyo
+Setsuna
+Hajime
+Ayumu
+Sora
+Haruka
+Michiru
+Izumi
+Tomomi
+Mitsuyo
+Hikari
+
+#### Last Names
+Kuno
+Tamura
+Koyanagi
+Isobe
+Tokuda
+Okumura
+Sumida
+Umezaki
+Kon
+Matsuda
+Rai
+Kazato
+Chiyotanda
+Kurihara
+Kawai
+Miyazawa
+Tatsuno
+Tsukino
+Nara
+Tsuda
+Edamitsu
+Kagiyama
+Yanagimachi
+Yanagimachi
+Akiba
+Yoneda
+Taira
+Sonoda
+Abe
+Takano
+Gomi
+Yukimura
+Sasaki
+Nagano
+Nishi
+Ishihara
+Yamaoka
+Hayato
+Hiroto
+Enatsu
+Yamazaki
+Kaneko
+Murakami
+Takemoto
+Takamoto
+Anzai
+Amaya
+Ohno
+Umezaki
+Ogata
+Yasutake
+Komatsu
+Oyakawa
+Hayabusa
+Hiroto
+Nobira
+Tada
+Yuhara
+Hayashida
+Okubo
+Kuroki
+Kuroba
+Uehashi
+Amachi
+Yanagida
+Yadama
+Asano
+Amisaki
+Yamamura
+Toyama
+Tsuji
+Shima
+Hiroi
+Oe
+Yokoyama
+Koyama
+Nishida
+Yonamine
+Kanbayashi
+Demura
+Ando
+Yuuma
+Nagamatsu
+Shiro
+Wakaki
+Kobe
+Akagawa
+Fuse
+Muramoto
+Sasori
+Kawamura
+Tanikawa
+Domoto
+Kondo
+Yoshimoto
+Kuroda
+Kasai
+Ogami
+Kase
+Tsuji
 
 ### Female
 
 #### Full names
+Chikuma Uyeda
+Sachi Takamoto
+Tamiko Kamenashi
+Mikazuki Wakao
+Emiko Moteki
+Wakayo Itoh
+Mitsuyo Miura
+Tanak Yashida
+Ibu Chiura
+Naho Aonuma
+Sakura Takayama
+Ikue Fukushima
+Sumiko Murai
+Miho Deguchi
+Mitsuyo Takashima
+Emi Yakumo
+Himeko Fujima
+Chikaze Yutani
+Ume Arata
+Kazashi Nobusawa
+Kazuko Chiyotanda
+Fumiki Hamadate
+Yumeji Horiuchi
+Hatsu Hayashida
+Gin Aozora
+Kuniko Mayeda
+Tora Yamanaka
+Wakayo Uemura
+Rikako Morikawa
+Nayoko Rakuyama
+Sata Yamanaka
+Naoko Kondo
+Yoriko Tokuda
+Chiyumi Wakata
+Kuma Fukuda
+Tama Nakasone
+Akio Yoritaka
+Akio Yanagimoto
+Murasaki Hatano
+Chiyuki Shintani
+Namiyo Koyama
+Maemi Kuba
+Kimiko Kuroba
+Fumiya Koshikawa
+Egao Oh
+Katsue Hoshino
+Ei Yoshida
+Ui Homura
+Wakuri Hashimoto
+Yuyu Kimura
+Ayumi Fujita
+Ari Enatsu
+Yama Sasaki
+Erisa Kaneko
+Takako Morino
+Emina Tsukiyama
+Teruyo Azuma
+Ayuka Okabe
+Emiya Nagai
+Urena Nakata
+Maki Iwayama
+Eriko Sugita
+Raku Okamura
+Umeko Nishikiri
+Moto Aki
+Michi Yoshioka
+Tane Haga
+Raira Oh
+Ano Okazaki
+Kuniko Moteki
+Leiko Sama
+Chitako Iori
+Isamu Nomi
+Koneko Sugai
+Kimi Yakumo
+Yei Maki
+Chikako Yutani
+Okichi Sueoka
+Satoko Masuda
+Joruri Suou
+Den Takahara
+Naora Murai
+Shika Kurisu
+Kirari Wakao
+Asuka Tominaga
+Ichiho Kajiwara
+Fumika Terada
+Shioko Nagai
+Michie Ishihara
+Ayumi Saionji
+Kuma Nishikawa
+Fumiki Ebina
+Hisako Uematsu
+Mika Yoshiya
+Himeko Bando
+Raira Kawashima
+Mai Saito
+Eba Ida
+Ryo Moriya
+Uno Kuramoto
 
 #### First names
+Jori
+Urara
+Taru
+Kameko
+Kishi
+Taura
+Aye
+Kozue
+Kunie
+Etsu
+Runa
+Jin
+Rieko
+Kofuyu
+Ikuko
+Reiko
+Karen
+Chima
+Taura
+Akasuki
+Eire
+Sugi
+Urena
+Okichi
+Miyo
+Kozakura
+Leiko
+Ichiha
+Kaneko
+Tatsumi
+Rui
+Yoshino
+Rui
+Wakana
+Sakura
+Kaoru
+Tanak
+Chino
+Jori
+Mitsuyo
+Takara
+Eren
+Enko
+Aki
+Kozakura
+Kiku
+Misako
+Hide
+Hairi
+Akira
+Kaho
+Sako
+Eho
+Michiru
+Kuni
+Sawa
+Kurea
+Taree
+Iako
+Nishi
+Seka
+Katsumi
+Chisuzu
+Chisuzu
+Nyoko
+Ikue
+Megu
+Kita
+Hisa
+Okimi
+Ichiha
+Kioko
+Hoshi
+Jori
+Yumia
+Ayaka
+Iwa
+Hizuru
+Kahori
+Ena
+Kichi
+Chiyuri
+Fusa
+Minako
+Fuji
+Hainako
+Sayo
+Mina
+Azami
+Misao
+Miki
+Yoko
+Io
+Kazue
+Naho
+Kina
+Mio
+Fukuko
+Akira
+Chieko
 
 #### Last Names
+Kugo
+Izumo
+Sakata
+Kiyota
+Uesugi
+Yuhara
+Higuchi
+Teramoto
+Fukuyama
+Masuyama
+Sasori
+Sando
+Honda
+Horikiri
+Ubukata
+Fuse
+Uematsu
+Akibara
+Tano
+Hatake
+Teshima
+Ishihara
+Miyahira
+Wakasugi
+Tanimoto
+Hanazawa
+Yasutake
+Sugita
+Sakurano
+Ushioda
+Sakurai
+Yomaura
+Kajiwara
+Miki
+Hiraoka
+Sawada
+Hara
+Yanagi
+Ikehara
+Kurihara
+Naegi
+Mitsugi
+Takeuchi
+Nakama
+Mase
+Nakama
+Nakatomi
+Mizushima
+Enomoto
+Takagaki
+Uesaka
+Otake
+Kuno
+Sawachika
+Uemura
+Uchikoshi
+Suou
+Uematsu
+Koide
+Mitsue
+Fujioka
+Niikura
+Matsuyama
+Tsuruoka
+Uzumaki
+Juba
+Yagi
+Masuyama
+Haga
+Tashiro
+Wakatsuchi
+Takagi
+Isayama
+Chijimatsu
+Hirano
+Shiraki
+Muramoto
+Nura
+Tokuma
+Umezawa
+Ushijima
+Hitarashi
+Seno
+Nakazawa
+Kodama
+Mikami
+Noguchi
+Konuma
+Kiyota
+Uesaka
+Tengan
+Gomi
+Yomaura
+Oye
+Kiyota
+Yumoto
+Fujimoto
+Wakatsuchi
+Aikawa
+Sakimoto
 
-## Dnd elven name generator
+
+## [Edo Japanese name generator](https://www.fantasynamegenerators.com/edo-japanese-names.php)
 
 ### Male
 
 #### Full names
+Terunaka Yanagizawa
+Nakakuni Kagae
+Fusamoro Okabe
+Tadaari Asai
+Tokiyasu Nomura
+Takesue Tanuma
+Noriyuki Minamoto
+Hisatoki Takayama
+Yorimitsu Karahashi
+Suetake Yanagizawa
+Ienori Koide
+Korenori Nanba
+Kuniie Arima
+Yorikage Shijou
+Nobuharu Houjou
+Toshinari Nakamikado
+Hideyori Boujou
+Nakaharu Ishino
+Kazufusa Kitanokouji
+Mototane Kouriki
+Tamesuke Kuroki
+Sanekiyo Akita
+Tanenaga Satomi
+Mitsumoto Fujioji
+Tomosada Katakura
+Masafusa Sen
+Tanehisa Shibata
+Kuniie Doi
+Tomonao Suzuki
+Hirayoshi Tamura
+Kunihide Hondou
+Kiyohiro Nishiouji
+Yorisuke Kudo
+Munekata Nomiya
+Fusaie Fujioji
+Shigeaki Seikanji
+Arihiro Sugawara
+Terumori Kobayakawa
+Tokinori Katakura
+Hikotake Ryuuzouji
+Naoyoshi Itagaki
+Uchiharu Katano
+Masasada Matsumae
+Takeari Kiyowara
+Narisane Asano
+Takasue Kushizu
+Kazuhisa Kanamaru
+Taneyasu Akita
+Masauchi Ise
+Naokore Koide
+Nobumoro Asano
+Tokiteru Saito
+Shigenaka Tanegashima
+Mitsuatsu Nishitouin
+Tanehiro Nishitouin
+Teruhira Ukita
+Mitsuuchi Oku
+Sadanao Nishisanjou
+Mitsusada Katou
+Yukimochi Yonezu
+Atsumichi Yamanouchi
+Narikatsu Isshiki
+Nagahiko Yamashina
+Kiyomitsu Kuki
+Tsuneuchi Umewaka
+Yoriaki Ogasawara
+Michimasa Iwashita
+Munemichi Rokkaku
+Naohisa Endou
+Hikomichi Otagi
+Tadaatsu Fukushima
+Takakazu Date
+Noritaka Nagai
+Tomotada Kitanokouji
+Naoatsu Kono
+Narihiro Kuki
+Shigetane Takeda
+Morochika Itsutsuji
+Suekage Murata
+Uchihiro Honma
+Katsutake Ichijo
+Sukesane Matsura
+Sanenaka Ide
+Kazutaka Nakazono
+Tomomichi Kobayakawa
+Fusatada Sugihara
+Masakage Tokugawa
+Tsunekata Okudaira
+Tomotaka Takigawa
+Takahiko Oku
+Kagesue Asukai
+Yoshimasa Tachibana
+Uchinaka Inoue
+Ujihide Shibukawa
+Motofusa Kataoka
+Sadamichi Inagaki
+Mototoki Higashizono
+Taketomo Okazaki
+Munesuke Nasu
+Sadachika Matsura
 
 #### First names
+Ujitake
+Munekiyo
+Atsukane
+Chikamoto
+Akitsune
+Yasuyoshi
+Mochiuchi
+Munemoto
+Mitsuchika
+Harumoto
+Motokiyo
+Kagetake
+Haruchika
+Kiyosane
+Mochiyoshi
+Hiraaki
+Yoshikane
+Narimasa
+Aritake
+Toshihide
+Hirasuke
+Mochihide
+Saneyoshi
+Hisaatsu
+Hidehisa
+Ietada
+Yoshiaki
+Tadakage
+Kanenobu
+Sanetake
+Arifusa
+Suekazu
+Iemoro
+Shigekiyo
+Ietake
+Shigekatsu
+Hirayuki
+Moritomo
+Naotomo
+Sukemune
+Tamemochi
+Hisatomo
+Kataharu
+Moromori
+Kiyomitsu
+Kunihisa
+Naritomo
+Hiroyasu
+Munetake
+Sadatoki
+Chikakane
+Hidenobu
+Toshinaga
+Taneatsu
+Arimoro
+Uchikuni
+Naokatsu
+Hirouji
+Taketoshi
+Tameuji
+Hirahisa
+Katsutaka
+Uchinao
+Kazunaga
+Takehisa
+Michinaka
+Uchisue
+Tsuneyoshi
+Munemoro
+Hidehiro
+Nobusane
+Tanemoto
+Nariuchi
+Arichika
+Harufusa
+Ujimichi
+Sadahide
+Hirahiko
+Yoshikuni
+Takenaka
+Teruhira
+Takashige
+Kiyotada
+Toshiyuki
+Tadaaki
+Sadayori
+Shigekata
+Nakakuni
+Tamekane
+Tsunekage
+Shigehiko
+Sukekage
+Arimochi
+Takanori
+Yasutomo
+Sadashige
+Shigehiro
+Nobuie
+Chikateru
+Tanenao
 
 #### Last Names
+Katou
+Toki
+Hojo
+Okazaki
+Kitajo
+Kushizu
+Hayashi
+Mikumo
+Miyabe
+Suwa
+Fuji
+Wada
+Konoe
+Kuchiki
+Tani
+Konishi
+Fukushima
+Hashimoto
+Yagyuu
+Kouno
+Saitou
+Toudou
+Hotta
+Daidouji
+Murata
+Gamou
+Abe
+Asano
+Saionji
+Iwakura
+Itsutsuji
+Togashi
+Nikki
+Takaoka
+So
+Arima
+Ogasawara
+Kiyooka
+Ishimaki
+Matsukura
+Junjii
+Takahashi
+Sogo
+Shinmen
+Gosanke
+Kyougoku
+Sue
+Nagai
+Ochi
+Kobayakawa
+Hosokawa
+Toda
+Tokudaiji
+Fukushima
+Houjou
+Ito
+Momonoi
+Atagi
+Fujii
+Satake
+Suganuma
+Konoe
+Takahashi
+Nijou
+Hirano
+Okabe
+Yonezu
+Tsutsui
+Morioka
+Junjii
+Miura
+Asai
+Nakanoin
+Azai
+Ogawa
+Ito
+Miyake
+Hasebe
+Matsura
+Kiso
+Nanba
+Oshinokouji
+Hirohashi
+Takigawa
+Takatsukasa
+Takeda
+Besshou
+So
+Saitou
+Yamaguchi
+Kobayakawa
+Itami
+Taira
+Naitou
+Daidouji
+Fujinami
+Baba
+Ando
+Shimokoube
+Jou
 
 ### Female
 
 #### Full names
+Mitsu Fujinami
+Sakino Jimyouin
+Osa Kyogoku
+Kikumi Kataoka
+Matsu Togawa
+Tone Date
+Tori Kitagaki
+Satsu Kinoshita
+Kisa Murata
+Kusu Togawa
+Sai Hatakeyama
+Hanano Manabe
+Hatsu Iwakura
+Ona Takeda
+Sago Nakamikado
+Kura Nakamikado
+Miyako Aso
+Oshi Sugi
+Kogo Houjou
+Kin Ryuuzouji
+Inano Ishino
+Sakume Sakakibara
+Sue Iwasaki
+Kichiyo Gojou
+Nai Kodama
+Tomeno Okazaki
+Suke Hatano
+Asa Higashisanjou
+Tsubo Hitotsuyanagi
+Inoshi Asukai
+Ama Sagara
+San Fujitani
+Matashi Ochi
+Chiyomi Harada
+Mako Iwamura
+Mare Niwa
+Chiyo Fukushima
+Yayano Kawabe
+Uma Ashikaga
+Nekoyo Sou
+Kiku Sakakibara
+Oshi Suganuma
+Tsuya Katou
+Natsu Nabeshima
+Suma Matsui
+Sechi Kajiwara
+Sago Kawamura
+Kiyo Kanou
+Mate Reizei
+Hime Ii
+Sumi Ishii
+Tsuna Makino
+Tsuya Goto
+Tsune Itsutsuji
+Kesa Takaoka
+Shuu Kyogoku
+Riyoyo Kawakami
+Fusa Hino
+Nei Takatsukasa
+Mane Hirano
+Kura Nagao
+Kuri Higashisanjou
+Saka Ishii
+Niku Itou
+Kuwa Yamada
+Yura Sue
+Uno Morikawa
+Kawa Nijou
+Osami Kou
+Kesai Ishino
+Toriko Inoue
+Mino Mori
+Hinu Nitta
+Fumeme Nishiouji
+Kuma Shigenoi
+Tsuji Baba
+Suo Gojou
+Tsune Nakamikado
+Aguri Jimyouin
+Karu Takanashi
+Tan Yagyuu
+Isa Yamashina
+Kirime Matsuda
+Mitsu Adachi
+Inuno Amano
+Kiri Yamada
+Yoshime Kawabe
+Toyo Matsukura
+Yoshishi Kujou
+Hotsu Hitotsuyanagi
+Kawa Yamanouchi
+Sukemi Takaoka
+Furi Kamiizumi
+Aguri Adachi
+Kumashi Oda
+Nabe Fukui
+Shimemi Hiraga
+Cho Miura
+Kase Takeya
+Koma Kiyowara
 
 #### First names
+Fume
+Ino
+Oto
+Tenyo
+Ise
+Iku
+Hinshi
+Hinu
+Suome
+Koya
+Ginshi
+Ine
+Sho
+Suko
+Towa
+Tomemi
+Yono
+Akai
+Sumi
+Jo
+Tsune
+Tsuya
+Tane
+Nene
+Tsuta
+Kona
+Hiwa
+Kogo
+Sawashi
+Ten
+Satsu
+Fume
+Sugi
+Ichi
+Koyo
+Kuni
+Suma
+Isayo
+Inushi
+Matsu
+Tsuna
+Nino
+Kina
+Saki
+Mane
+Mino
+Hikomi
+Hisashi
+Naimi
+Ten
+Sakomi
+Kome
+Tsuta
+Mino
+Miya
+Mata
+Ishi
+Yuki
+Ichiyo
+Sue
+Kuchimi
+Ichi
+Riyo
+Kuma
+Nabeme
+Nagushi
+Oshi
+Akako
+Yura
+Hitsu
+Hiko
+Gen
+Kachino
+Mutsu
+Yasu
+Karuyo
+Tsune
+Kome
+Uno
+Sani
+Hatsu
+Osame
+Saka
+Kama
+Tsuka
+Yayame
+Hiki
+Kesai
+Cho
+Utayo
+Mane
+Minashi
+Nino
+Aka
+Mineko
+Riyo
+Uno
+Tsuji
+Kina
+Yonoko
 
 #### Last Names
+Yamanouchi
+Nagai
+Fujioji
+Kanamori
+Seki
+Ichibashi
+Utsunomiya
+Sakurai
+Tachibana
+Matsumae
+Boujou
+Honda
+Nakazono
+Okudaira
+Niiro
+Jou
+Honomi
+Sengoku
+Arima
+Ii
+Asukai
+Konishi
+Nakayama
+Akechi
+Fujiwara
+Ishii
+Wada
+Ukita
+Kikkawa
+Fujita
+Sanjo
+Kagae
+Kawahire
+Besshou
+Tsutsui
+Maeda
+Funabashi
+Ayanokouji
+Sagara
+Katano
+Hitotsuyanagi
+Fujiwara
+Kimura
+Itou
+Nanbu
+Oshinokouji
+Shimazu
+Kou
+Irie
+Yagyu
+Hoshina
+Suda
+Hashimoto
+Fuji, Gosanke
+Oyama
+Sagara
+Reizei
+Nishisanjou
+Ise
+Haga
+Sogo
+Iwamura
+Konoe
+Higashikuze
+Kawakami
+Sogo
+Kumagaya
+Tanuma
+Ayanokouji
+Aoyama
+Aso
+Kumagaya
+Kagawa
+Satomi
+Yoshii
+Kamiizumi
+Ikoma
+Katsura
+Konishi
+Takigawa
+Miura
+Satou
+Kodama
+Fuji
+Izumi
+Naitou
+Suwa
+Niwa
+Ichijo
+Ryuuzouji
+Itakura
+Shibata
+Takenaka
+Shimokoube
+Nagatani
+Fukui
+Sagara
+Nanba
+Okuda
+Nomura
 
-## Dnd elven (Eladrin) name generator
+## [Dnd elven name generator](https://www.fantasynamegenerators.com/dnd-elf-names.php)
 
 ### Male
 
 #### Full names
+Virneiros Silverdream
+Umeyarus Goldspell
+Yelnorin Firseeker
+Tralen Stonewalker
+Kelmaer Winterspell
+Fenmyar Curnosto
+Norquinal Dastre
+Norkian Vundrical
+Qimenor Vussarodrii
+Herjor Dethroth
+Virydark Willowmind
+Elasalor Mistbeam
+Beifaren Sagewhisper
+Kelkian Embersinger
+Qinberos Sageflight
+Yinbalar Raellis
+Fendan Thaerinthrath
+Lumenor Thuthrophiant
+Heigolor Geiltasceth
+Traquinal Vendrii
+Aero Raindreamer
+Virtumal Rainkind
+Farsalor Bronzewatcher
+Glynzeiros Sunspark
+Elaqen Silverpath
+Naeris Veve
+Sarceran Fladrendrith
+Qinbalar Gierdavixeth
+Daeric Huldonthrici
+Wranris Fluntixie
+Uriwarin Lightvale
+Farris Dewstar
+Qinmyar Cedarbrook
+Vaberos Dewmoon
+Paberos Azurebreath
+Ianlar Korostos
+Perjor Rero
+Genfaren Ientel
+Elalen Xostahi
+Adnelis Gostissath
+Carpeiros Shadowheel
+Aetumal Emberwish
+Theyarus Cedargrove
+Dornan Birchlight
+Iliwraek Farshadow
+Heilen Firelkane
+Beijeon Lerdicil
+Erbalar Mialdelici
+Fenmenor Sarderrenthre
+Kelhorn Wisoha
+Balkian Bronzecloud
+Sarxalim Starspark
+Eladithas Mosslight
+Crajor Silverseeker
+Perjor Starfall
+Rovalur Thastra
+Qinsandoral Enni
+Umenan Tastri
+Traven Biarrilosci
+Daelen Quileth
+Ilitumal Emberdreamer
+Trapeiros Azureheel
+Zumgeiros Sunspark
+Paneiros Evencloud
+Glyndithas Emberfond
+Carceran Seyphirnomil
+Heiwraek Rolan
+Ianven Radral
+Yinxalim Yustrent
+Miraro Vimirras
+Dorpetor Stonekind
+Fenvalur Silentshadow
+Vapetor Starbeam
+Umeydark Dewlight
+Farxidor Rainshadow
+Pamaer Gisii
+Thexidor Nulinnith
+Kearis Kosinnonn
+Qigeiros Funnaltalkonn
+Ianris Thaelos
+Craneiros Silvermind
+Rodithas Oceanbirth
+Elcan Sagecloud
+Caryarus Emberwhisper
+Umesandoral Lightdreamer
+Padithas Quasceshimont
+Beixalim Lastraeash
+Panorin Iphi
+Yinneiros Goviroth
+Yinwarin Shultorrasta
+Yinsandoral Windguard
+Zinsalor Mossgleam
+Daeqen Sagefate
+Raloneiros Aspencrown
+Kelro Bronzewatcher
+Ballen Shostopho
+Keaqen Irisath
+Wranhice Tuvent
+Perkas Rusindrath
+Gennorin Raetho
 
 #### First names
+Norsalor
+Balbalar
+Paberos
+Yeltumal
+Adydark
+Yeltoris
+Virceran
+Perhice
+Syllar
+Qinmenor
+Dorsandoral
+Ianbalar
+Baljor
+Virpetor
+Roqen
+Ertumal
+Palen
+Mirasandoral
+Herren
+Olokas
+Dorgolor
+Luro
+Luro
+Elageiros
+Vabalar
+Aenan
+Omanan
+Morceran
+Keamenor
+Kelqen
+Waesmaris
+Raloyarus
+Yelvalur
+Miratoris
+Uritumal
+Zinlen
+Ianquinal
+Virneiros
+Sarbalar
+Gencan
+Keayarus
+Elaris
+Elazumin
+Norlamin
+Olobalar
+Fenro
+Qindan
+Erdithas
+Daero
+Zumcan
+Kelberos
+Traris
+Yinnelis
+Leokas
+Elapetor
+Herven
+Olodan
+Syllar
+Carric
+Qitoris
+Sylro
+Roqen
+Paric
+Beitoris
+Mornelis
+Vapetor
+Ianxalim
+Lucan
+Vapetor
+Urinelis
+Omaran
+Erbalar
+Qingeiros
+Keacan
+Herceran
+Thepetor
+Gentoris
+Rodithas
+Ludithas
+Ellar
+Rotumal
+Yincan
+Yeljeon
+Lular
+Balnorin
+Ilikas
+Leotoris
+Zumneiros
+Yinric
+Morxidor
+Heitoris
+Uriwarin
+Beiro
+Fenro
+Craven
+Carneiros
+Lupetor
+Umewraek
+Sylran
+Trakian
 
 #### Last Names
+Duskflow
+Sparkheart
+Shadowcloud
+Emberguard
+Flowerrest
+Hulo
+Ciphistrent
+Felalphostrish
+Haphi
+Thashothreth
+Diamondwalker
+Woodshard
+Fallflow
+Oceanshine
+Elderbell
+Quarnarothrenn
+Lietha
+Hollocuan
+Deldre
+Coron
+Rapidpride
+Elmwatcher
+Oakenstar
+Springpath
+Ravenbrook
+Mestro
+Tuphonnastresh
+Keshannin
+Reldrennir
+Iphesi
+Feathercrown
+Nightspark
+Willowpath
+Aspenbreath
+Dawnbell
+Loshash
+Flavo
+Toldrissi
+Flocistesti
+Somanash
+Mossdream
+Elderfall
+Farspell
+Silvermane
+Stonerest
+Thistrosonen
+Vushiphis
+Reysalphophonn
+Bephelkere
+Rillicilki
+Winddream
+Winterbrook
+Spiritsinger
+Mistgift
+Lunarfate
+Alice
+Dophema
+Bolostreth
+Yavenn
+Wolia
+Oceandreamer
+Sagesense
+Farflight
+Fogstar
+Lunarcrown
+Untandri
+Onenthriphaear
+Fiarnama
+Thaemavor
+Geishelenthrent
+Mossmane
+Swiftspark
+Beechsense
+Silverbreath
+Elmsong
+Drundranilkan
+Relar
+Droranastre
+Karrentedran
+Istroco
+Flowerbeam
+Oaksense
+Fallbell
+Mistshard
+Rainhold
+Maedro
+Lorath
+Bollethre
+Fustos
+Sierdo
+Autumnheel
+Moonsmile
+Sunbrook
+Diamondflight
+Elderbell
+Athreth
+Ranna
+Quehemerras
+Wanalkish
+Fleldraser
 
 ### Female
 
 #### Full names
+Birora Swiftwhisper
+Wynxina Flowerguard
+Helethana Stonegaze
+Xyrdi Windflow
+Neriwenys Amberdream
+Orikrana Ucadrocaean
+Enleth Tisirastrenn
+Jolana Cestaphovon
+Sharona Linevil
+Orimys Tondront
+Brykrana Dawnspell
+Faekalyn Wildhold
+Faekrana Oceanbreath
+Olaralei Swiftgaze
+Zylxina Hazelkind
+Iarzorwyn Gulirendra
+Miawenys Daephelariant
+Fayra Thodrastresse
+Bifina Quannar
+Quirora Teyndro
+Liabanise Swiftgift
+Inatris Willowgrove
+Fazorwyn Beechfall
+Daqirelle Starfall
+Trisnala Wintermane
+Trisvaris Ardohe
+Cairora Xuhestraro
+Orithyra Gistro
+Gilstina Shiare
+Faecaryn Cahennapho
+Eillana Moonvale
+Advaris Boldbell
+Fawynn Stillspell
+Bisatra Featherspark
+Fajyre Oakdreamer
+Jowynn Rultescith
+Daebanise Nalto
+Ravaharice Yeldrash
+Enphyra Neynerroraeash
+Liathyra Ceyntexent
+Iarmys Sunguard
+Inalana Flowerflight
+Chaenala Dawnspell
+Ulawenys Ashspirit
+Fara Lunarseeker
+Enwenys Giphodrastash
+Miagella Doresosiesh
+Bryrona Drevoho
+Dacaryn Sorene
+Bivyre Hintint
+Heleqirelle Silverbell
+Quimys Windfate
+Torthana Crimsonhold
+Ulaxina Autumnbirth
+Venynore Willowshadow
+Trisna Gilthessonn
+Preswynn Noshoxonn
+Shabella Falthoxa
+Kriszana Shasta
+Inafina Flastesuas
+Daxina Mosswhisper
+Xyrphine Dawnpath
+Arahana Spiritriver
+Xilsys Rapidrest
+Faexina Mossmight
+Liahana Culdrieth
+Yesfiel Shelonn
+Lorawenys Bothramithri
+Yesfiel Banomorria
+Wyndi Viethixesh
+Presrieth Sparkshadow
+Keymys Starmind
+Liawynn Ashseeker
+Valzorwyn Mistkind
+Trisyra Spiritseeker
+Quixina Quuso
+Eilxina Coma
+Wysazana Yinnascii
+Qiphyra Sithrar
+Adrona Quaeraneth
+Valcyne Boldshadow
+Caithana Diamondflower
+Xilrieth Aspenmind
+Neridi Alderwalker
+Aradi Shadowspark
+Orixina Thornesco
+Wysanala Balilka
+Yllana Tellandrath
+Brylana Coroci
+Zylphyra Heithromon
+Wynvyre Autumnfate
+Zylnala Firgleam
+Nerirona Dawnfond
+Chaehana Springbell
+Gilharice Aspenpride
+Holavaris Keyshestro
+Olaxina Cilphavonnal
+Miajyre Eval
+Zylkrana Xaltor
+Grewynn Thilthor
 
 #### First names
+Zincyne
+Keyzorwyn
+Reythyra
+Faevaris
+Caikrana
+Biroris
+Torrona
+Helethyra
+Magra
+Olazorwyn
+Magwenys
+Quira
+Neriwenys
+Bizana
+Krisgella
+Venharice
+Torxisys
+Ravaralei
+Trisrora
+Miarona
+Sylynore
+Yeszana
+Presleth
+Cairel
+Urilynn
+Adphine
+Oridove
+Brymoira
+Reywynn
+Faedi
+Enstina
+Xyrdove
+Fahana
+Daeyra
+Iarvaris
+Eilroris
+Urifina
+Jorieth
+Zylbella
+Zincyne
+Farieth
+Krisbella
+Yescaryn
+Chaemoira
+Shakalyn
+Lorana
+Yllabella
+Gilkrana
+Shalana
+Caimoira
+Quirieth
+Qimoira
+Inavyre
+Dazorwyn
+Bryyra
+Gilynore
+Enjyre
+Neribella
+Shamoira
+Yeswynn
+Krisdove
+Ravaxina
+Faena
+Lorarona
+Chaezorwyn
+Torra
+Adcyne
+Yesstina
+Brygella
+Quiwynn
+Miazorwyn
+Daexisys
+Lialee
+Krisharice
+Daeqirelle
+Caiqirelle
+Ulaxisys
+Fadi
+Ulacaryn
+Iargella
+Liayra
+Enstina
+Quidi
+Caikrana
+Syldi
+Faphyra
+Torjyre
+Zinlynn
+Eilphyra
+Quibella
+Nerithyra
+Adxisys
+Inanala
+Lorasys
+Brydi
+Ulastina
+Daelynn
+Bidi
+Krisvyre
+Yesbanise
 
 #### Last Names
+Woodspell
+Autumndream
+Greengleam
+Lunarspell
+Silverbrook
+Doshent
+Yurrathrasciesh
+Welar
+Ceirralthothra
+Sieni
+Bronzeheel
+Boldfall
+Firspirit
+Summershine
+Firgift
+Drathrinos
+Rohithraxesh
+Lellihant
+Wonnathruant
+Rildriphan
+Ravenbreath
+Boldmight
+Fallgleam
+Wintermane
+Crimsonmight
+Shostro
+Caelthe
+Dile
+Bisanthro
+Saecaltastril
+Foreststar
+Beechsense
+Autumndreamer
+Forestmoon
+Duskflow
+Irnith
+Bore
+Istaxash
+Shostrolkal
+Boldahonie
+Mosscloud
+Blueflow
+Beechwish
+Featherwhisper
+Mistsong
+Yostrelalint
+Kanathruar
+Rophuant
+Wonillestint
+Sathol
+Winterriver
+Silentgazer
+Evenflow
+Spiritwish
+Mistfond
+Ilthua
+Gosorrant
+Shunallanos
+Estro
+Vinamava
+Ashgazer
+Nightfond
+Wildsong
+Elmsmile
+Embershadow
+Sashar
+Tholdros
+Reysecoth
+Fathistan
+Tuldrin
+Springblossom
+Autumnfate
+Ashpride
+Diamondcrown
+Wildfall
+Hamelkelil
+Druthi
+Shirdosces
+Doltia
+Thoshodron
+Summerpath
+Stardew
+Fogwish
+Alderriver
+Shadowspark
+Yerol
+Kiasoshidri
+Sirondri
+Shenneldocel
+Reilthith
+Oakenwalker
+Flowershadow
+Silverheart
+Lunarshine
+Woodpath
+Eynapha
+Hethuant
+Ialtil
+Beldrore
+Cestriloscon
+
+## [Dnd elven (Eladrin) name generator](https://www.fantasynamegenerators.com/dnd-eladrin-names.php)
+
+### Male
+Reldon
+Margeon
+Sarnvan
+Dameral
+Vethcard
+Yanfros
+Dayegrephor
+Quokul
+Otirreth
+Trincorin
+Relcard
+Ereikul
+Otirnis
+Licnis
+Tavratra
+Sarnxis
+Minbin
+Pannis
+Yankris
+Relcorin
+Cruoros
+Berzion
+Quodartis
+Corurian
+Relpeiros
+Eredartis
+Arapeiros
+Farratra
+Branykos
+Xantihr
+Xanhorn
+Licneiros
+Zenkris
+Yanaster
+Kruhorn
+Nalhorn
+Cruykos
+Corsirak
+Fylaaris
+Marlias
+Trinmorn
+Kuodartis
+Riardon
+Soveliss
+Aravan
+Kruyth
+Lanvan
+Quaoros
+Sarnfis
+Vethemin
+Aranxeral
+Jakris
+Paexeral
+Lanlias
+Galfros
+Fylatihr
+Farprath
+Berikul
+Nalster
+Brandarai
+Relcorin
+Relkul
+Elromendi
+Dareth
+Iranis
+Wrugmendi
+Horvis
+Elroprath
+Trinvan
+Riarcard
+Dayerian
+Vethdan
+Panneiros
+Zorzeiros
+Nalprath
+Uriemin
+Crufis
+Zendan
+Elrowirn
+Paevis
+Galprath
+Licxeral
+Eregrephor
+Minster
+Relvan
+Jaxeral
+Trindartis
+Imzeiros
+Trinyth
+Olazion
+Wrugwirn
+Licerta
+Naldartis
+Tavsirak
+Urixis
+Narkerta
+Irazion
+Quogrephor
+Yoraris
+Mingrephor
+
+### Female
+Brisys
+Nerifyra
+Nerinairra
+Nerihyssa
+Sakiries
+Jelenxana
+Shameiv
+Koraqirith
+Triyeira
+Kaizora
+Irerynna
+Eilkiries
+Hylprana
+Trinairra
+Anaswyse
+Leshyssa
+Kaicelle
+Theicelle
+Shavyre
+Alhanna
+Jarvyre
+Brimeiv
+Quesys
+Enacelle
+Caeriele
+Bemeiv
+Henqirith
+Yllaglyn
+Neridiel
+Durtora
+Eilriele
+Lyvmynis
+Enasanna
+Pimiris
+Faerynna
+Oribynn
+Wrecelle
+Rifaera
+Nerilynna
+Neriyeira
+Anshana
+Fanlyn
+Picelle
+Xyrrastra
+Zenmynis
+Kaigrys
+Jarbynn
+Lesglyn
+Vatora
+Brigrys
+Qisanna
+Jarraste
+Gylglyn
+Anaszora
+Briglyn
+Briqis
+Wesparys
+Illacahne
+Zengrys
+Olmiris
+Leslenna
+Caemeiv
+Qiriele
+Vanairra
+Ansys
+Lyvwena
+Rolgrys
+Lyvfyra
+Illaviryn
+Hencaryn
+Mexis
+Rizora
+Weswyse
+Cyldys
+Enaraste
+Pitora
+Lesnairra
+Pryswena
+Trilenna
+Illarynna
+Naihyssa
+Iredys
+Anaslenae
+Hylfaera
+Theirastra
+Henthaea
+Pivyre
+Anbis
+Pryskiries
+Hylneth
+Lesdiel
+Illacena
+Hylzora
+Ylladys
+Xyrzora
+Meprana
+Magprana
+Fanqirith
+Lyvrastra
+Olnairra
+
 
 # Mularir (Tallman) Greek
 
@@ -15630,9 +18856,421 @@ Malthanni
 #### Last Names
 
 
-# Yotunn (Giant) Giant
+# Yotunn (Dwarven) Giant
 
-## Norse name generator
+## [Greek Titan name generator](https://www.fantasynamegenerators.com/titan-names.php)
+
+### Male
+Kakothūmia (Malevolence, Κᾰκοθῡμῐ́Ᾱ)
+Kuklops (Cyclops, Κύκλωψ)
+Therion (Beast, Θηρῐ́Ον)
+Purrhos (Fire, Πυρρός)
+Kterea (Funeral Gifts, Κτέρεᾰ)
+Khlamabo (Cloak, Χλαμύς)
+Menem (Moon, Μήνη)
+Akroasaes (Obedience, Ἀκρόᾱσῐς)
+Adelotais (Uncertainty, Ᾰ̓Δηλότης)
+Lampuraes (Glowworm, Λᾰμπῠρῐ́ς)
+Aella (Stormwind, Ἄελλᾰ)
+Asulon (Sanctuary, Ἄσυλον)
+Agele (Herd, Ᾰ̓Γέλη)
+Kterea (Funeral Gifts, Κτέρεᾰ)
+Khoreia (Dance, Χορεία)
+Lethargiah (Sleepiness, Ληθᾰργῐ́Ᾱ)
+Elpam (Hope, Ἐλπῐ́ς)
+Kainosaes (Renewal, Καίνωσῐς)
+Exegesam (Narration, Ἐξήγησῐς)
+Kterem (Funeral Gifts, Κτέρεᾰ)
+Diatribe (Hobby, Δῐᾰτρῐβή)
+Arkhe (Dominion, Ᾰ̓Ρχή)
+Kterea (Funeral Gifts, Κτέρεᾰ)
+Lobe (Disgrace, Λώβη)
+Agele (Herd, Ᾰ̓Γέλη)
+Hebes (Youth, Ἥβη)
+Kropiaes (Scythe, Κρώπῐον)
+Ataraxim (Calmness, Ᾰ̓Τᾰρᾰξῐ́Ᾱ)
+Ekhmar (Bulwark, Ἔχμᾰ)
+Makhetabo (Fighter, Μᾰχητής)
+Gala (Milk, Γᾰ́Λᾰ)
+Bdelugmia (Filth, Βδελῠγμῐ́Ᾱ)
+Akuo (Acoustics, Ἀκούω)
+Khion (Snow, Χιών)
+Mania (Madness, Μᾰνῐ́Ᾱ)
+Adelphotaes (Brotherhood, Ᾰ̓Δελφότης)
+Ankhisteim (Kinship, Ἀγχιστεία)
+Molper (Dance, Μολπή)
+Emporir (Trade, Ἐμπορίᾱ)
+Khromas (Color, Χρῶμα)
+Koma (Coma, Κῶμα)
+Agros (Agriculture, Ἀγρός)
+Bolos (Soil, Βῶλος)
+Manteia (Prophecy, Μᾰντείᾱ)
+Dergma (Glance, Δέργμᾰ)
+Dipsas (Thirst, Δῐ́Ψᾰ)
+Astrapeh (Lightning, Ἀστρᾰπή)
+Kallam (Beauty, Κᾰ́Λλος)
+Mnestan (Memory, Μνῆστις)
+Gelasmah (Smile, Γέλασμᾰ)
+Hippos (Horse, Ἵππος)
+Lalema (Chatterer, Λάλημᾰ)
+Eranos (Keeper, Ἤρᾰνος)
+Kapros (Boar, Κᾰ́Προς)
+Apologia (Apology, Ἀπολογία)
+Ainigmar (Riddle, Αἴνιγμα)
+Dipsas (Thirst, Δῐ́Ψᾰ)
+Ataxin (Disorder, Ἀταξίᾱ)
+Ageleh (Herd, Ᾰ̓Γέλη)
+Apologan (Fable, Ἀπόλογος)
+Anakainosis (Renewal, Ᾰ̓Νᾰκαίνωσῐς)
+Lasthe (Mockery, Λάσθη)
+Skopos (Observer, Σκοπός)
+Astrape (Lightning, Ἀστρᾰπή)
+Epitedeuma (Vocation, Ἐπῐτήδευμᾰ)
+Agoras (Marketplace, Ἀγορά)
+Atmaes (Steam, Ἀτμός)
+Dergmas (Glance, Δέργμᾰ)
+Anarkhir (Anarchy, Ἀναρχίᾱ)
+Zoiabo (Animal, Ζῷον)
+Oenos (Wine, Οἶνος)
+Aesa (Destiny, Αἶσᾰ)
+Khalkos (Copper, Χαλκός)
+Kakothūmia (Malevolence, Κᾰκοθῡμῐ́Ᾱ)
+Zophos (Darkness, Ζόφος)
+Monabo (Forsaken, Μόνος)
+Mnestais (Memory, Μνῆστις)
+Metallabo (Metal, Μέταλλον)
+Psukhem (Spirit, Ψυχή)
+Hagnismabo (Purification, Ᾰ̔Γνῐσμός)
+Hagios (Holy, Ἅγιος)
+Anemos (Wind, Ᾰ̓́Νεμος)
+Khion (Snow, Χιών)
+Ekhthra (Hatred, Ἔχθρᾱ)
+Hagneia (Purity, Ἁγνείᾱ)
+Aigupian (Vulture, Αἰγῠπῐός)
+Ekhom (Echo, Ἠχώ)
+Kakeh (Vice, Κᾰ́Κη)
+Phonen (Voice, Φωνή)
+Lokhabo (Ambush, Λόχος)
+Kapros (Boar, Κᾰ́Προς)
+Eranos (Keeper, Ἤρᾰνος)
+Kakotes (Cowardice, Κᾰκότης)
+Kaskos (Little Finger, Κᾰσκός)
+Kindūnos (Risk, Κῐ́Νδῡνος)
+Agorah (Marketplace, Ἀγορά)
+Pseudabo (Lying, Ψευδής)
+Psukhen (Spirit, Ψυχή)
+Martam (Martyr, Μᾰ́Ρτῠς)
+Apologih (Apology, Ἀπολογία)
+
+### Female
+Aion (Generation, Αἰών)
+Haema (Blood, Αἷμᾰ)
+Hespera (Evening, Ἑσπέρα)
+Exegesis (Narration, Ἐξήγησῐς)
+Dunamis (Power, Δῠ́Νᾰμῐς)
+Eleutherias (Liberty, Ἐλευθερῐ́Ᾱ)
+Akhthaëe (Sorrow, Ἄχθος)
+Xenaëe (Guest, Ξένος)
+Ankhones (Suffering, Ἀγχόνη)
+Eisboleh (Invasion, Εἰσβολή)
+Graphe (Drawing, Γρᾰφή)
+Krene (Well, Κρήνη)
+Astheneia (Weakness, Ἀσθένεια)
+Anonumos (Nameless, Ἀνώνυμος)
+Histor (Witness, Ῐ̔́Στωρ)
+Diaphthoraëe (Destruction, Δῐᾰφθορᾱ́)
+Emporiah (Trade, Ἐμπορίᾱ)
+Aesas (Destiny, Αἶσᾰ)
+Barabe (Burden, Βᾰ́Ρος)
+Erabe (Rainbow, Ἶρις)
+Sophia (Knowledge, Σοφία)
+Knodalon (Beast, Κνώδᾰλον)
+Agrupnia (Watchfulness, Ἀγρυπνίᾱ)
+Lobe (Disgrace, Λώβη)
+Hagneia (Purity, Ἁγνείᾱ)
+Megethaë (Greatness, Μέγεθος)
+Ataraxih (Calmness, Ᾰ̓Τᾰρᾰξῐ́Ᾱ)
+Diaphthorace (Destruction, Δῐᾰφθορᾱ́)
+Kuklopes (Cyclops, Κύκλωψ)
+Agapem (Love, Ᾰ̓Γᾰ́Πη)
+Eunoia (Favour, Εὔνοιᾰ)
+Adikia (Injustice, Ᾰ̓Δῐκῐ́Ᾱ)
+Drakon (Dragon, Δρᾰ́Κων)
+Ikhnos (Footstep, Ἴχνος)
+Eironeia (Deception, Εἰρωνείᾱ)
+Akhthace (Sorrow, Ἄχθος)
+Galam (Milk, Γᾰ́Λᾰ)
+Oenaëe (Wine, Οἶνος)
+Autarkeim (Self-Sufficiency, Αὐτᾰ́Ρκειᾰ)
+Agras (Chase, Ᾰ̓́Γρᾱ)
+Hebe (Youth, Ἥβη)
+Kranion (Skull, Κρᾱνῐ́Ον)
+Eleos (Compassion, Ἔλεος)
+Kepeus (Gardener, Κηπεύς)
+Arkhaiotes (Antiquity, Ἀρχαιότης)
+Hagneih (Purity, Ἁγνείᾱ)
+Kteaa (Comb, Κτείς)
+Arakhnem (Spider, Ἀράχνη)
+Alibaa (Corpse, Ἀλῐ́Βᾱς)
+Argian (Rest, Ἀργῐ́Ᾱ)
+Oenos (Wine, Οἶνος)
+Apologia (Apology, Ἀπολογία)
+Ainigma (Riddle, Αἴνιγμα)
+Molpe (Dance, Μολπή)
+Aigupios (Vulture, Αἰγῠπῐός)
+Didaskaliah (Teaching, Δῐδασκᾰλίᾱ)
+Hagiaë (Holy, Ἅγιος)
+Gamaë (Marriage, Γᾰ́Μος)
+Metaa (Skill, Μῆτῐς)
+Barabe (Burden, Βᾰ́Ρος)
+Ambrotos (Immortal, Ἄμβροτος)
+Hagios (Holy, Ἅγιος)
+Agnosia (Ignorance, Ἀγνωσῐ́Ᾱ)
+Agalma (Honor, Ᾰ̓́Γᾰλμᾰ)
+Anagraphe (Record, Ἀνᾰγρᾰφή)
+Antiptosaa (Resistance, Ᾰ̓Ντῐ́Πτωσῐς)
+Lokhaa (Ambush, Λόχος)
+Monace (Forsaken, Μόνος)
+Anemace (Wind, Ᾰ̓́Νεμος)
+Akraëe (Locust, Ᾰ̓Κρῐ́ς)
+Eironeia (Deception, Εἰρωνείᾱ)
+Hagnismos (Purification, Ᾰ̔Γνῐσμός)
+Hagneia (Purity, Ἁγνείᾱ)
+Ipnos (Lantern, Ἰπνός)
+Mene (Moon, Μήνη)
+Ekhabe (Snake, Ἔχις)
+Gerace (Gift, Γέρᾰς)
+Aretem (Virtue, Ᾰ̓Ρετή)
+Lethargiar (Sleepiness, Ληθᾰργῐ́Ᾱ)
+Aeskhaa (Shame, Αἶσχος)
+Lussa (Fury, Λύσσᾰ)
+Paideia (Education, Παιδεία)
+Heorte (Feast, Ἑορτή)
+Doxa (Glory, Δόξα)
+Metis (Skill, Μῆτῐς)
+Eranaëe (Keeper, Ἤρᾰνος)
+Galar (Milk, Γᾰ́Λᾰ)
+Boetheih (Aid, Βοήθειᾰ)
+Hudaë (Water, Ὕδωρ)
+Monabe (Forsaken, Μόνος)
+Anarkhia (Anarchy, Ἀναρχίᾱ)
+Anatomia (Dissection, Ἀνατομία)
+Leisteia (Piracy, Λῃστείᾱ)
+Epialos (Nightmare, Ἠπῐ́Ᾰλος)
+Loimos (Plague, Λοιμός)
+Horas (Season, Ὥρα)
+Kordū́Leh (Club, Κορδῡ́Λη)
+Aurah (Breeze, Αὔρᾱ)
+Psukheh (Spirit, Ψυχή)
+Apaten (Single, Ἀπάτη)
+
+## [Titan WoW name generator](https://www.fantasynamegenerators.com/wow-titan-names.php)
+
+### Male
+Nogoveth
+Vennelzath
+Vozrulum
+Udgomun
+Korem'lal
+Konnulgur
+Zomeg'mos
+Emzanath
+Soraz'gas
+Evongrun
+Arnevur
+Ameg'thur
+Galun'thum
+Garlazen
+Zarog'thuth
+Zuzongus
+Enom'nos
+Zonrevel
+Uggumer
+Vavezmol
+Ag'mennan
+Ghazan'gon
+Adumur
+Gamzulor
+Solmenos
+Eremeth
+Nozrador
+Omamas
+Ghennendrul
+En'modar
+Amlennos
+Gonzular
+Algemas
+Khagerel
+Onoguth
+Khoggodel
+Arlolon
+Halrudom
+Garenzom
+Roronzal
+Mezodren
+Vuvarlel
+Aggannam
+Sannag'mun
+Kelgadur
+Kagemol
+Sannedgam
+Uden'mun
+Oneg'mul
+Anluzel
+Khalrudeth
+Evom'lun
+Angrennun
+Veg'thuler
+Omelges
+Vaznanam
+Ghamag'mun
+Olondan
+Khegmumar
+Olmemer
+Maladgan
+Avengras
+Rugmadas
+Ez'luzur
+Angrezal
+Avumrus
+Ennog'theth
+Khezlarus
+Gharadgel
+Odalral
+Gharnaloth
+Nendemer
+Golem'ger
+Haz'munnom
+Vunlanum
+Kamrannan
+Rozenror
+Hodalzer
+Zum'noroth
+Ovem'nun
+Zomzannum
+Gonomrom
+Vadomgam
+Kun'gemos
+Ozemen
+Ramomzoth
+Azmumes
+An'thudel
+Hozgedum
+Amzaduth
+Zurugrum
+Vomraner
+Ugmeveth
+Vozonzem
+Ghorarnan
+Varzodam
+Nuzun'mur
+Aronzul
+Nodangrom
+Hedenzol
+
+### Female
+Ihomeal
+Aniye
+Ama
+Thearaveh
+Oni
+Ahonies
+Caumiyial
+Lamira
+Lizoye
+Iser
+Isoma
+Feaheya
+Sirisen
+Aunazel
+Ioyemol
+Siovan
+Renezo
+Yisayi
+Arovea
+Hayar
+Ana
+Yali
+Resari
+Iovema
+Iaye
+Ovimin
+Thiazameal
+Rinis
+Aulame
+Ave
+Reayeas
+Fomol
+Sohemial
+Ezelin
+Ciova
+Eyesi
+Camirih
+Eoriye
+Yosal
+Thauyole
+Cauyaza
+Leyi
+Hemoloh
+Eaniyor
+Amiazer
+Seliezin
+Nihava
+Lehiari
+Cazon
+Razehos
+Aunih
+Cosah
+Aviyi
+Hiye
+Emeho
+Fezehean
+Faneri
+Neyemi
+Siohiel
+Eval
+Theval
+Eorin
+Sezo
+Hizaril
+Iyoliah
+Eliyan
+Osiayer
+Ciyesar
+Namasar
+Leamasar
+Eolo
+Neamozer
+Livehil
+Helar
+Ezihea
+Eziler
+Eayeal
+Ihimon
+Rauzeh
+Ciayol
+Fesezin
+Eraso
+Rahavien
+Thamolie
+Ciye
+Cizo
+Auzania
+Ehan
+Rano
+Ime
+Seahor
+Evoyen
+Omisea
+Esiyal
+Avo
+Oyea
+Leareh
+Fasal
+Faya
+Ivan
+
+## Vicking name generator
 
 ### Male
 
@@ -15650,56 +19288,620 @@ Malthanni
 
 #### Last Names
 
-## Old Norse name generator
+## [Jotunn name generator](https://www.fantasynamegenerators.com/jotunn-names.php)
 
 ### Male
-
-#### Full names
-
-#### First names
-
-#### Last Names
+Velgr
+Song
+Þryng
+Hýrfong
+Beifþrö
+Þrirbá
+Vakmötr
+Þrállumní
+Sývisyd
+Þrafþryðmungr
+Mern
+Gurn
+Samr
+Gílblæ
+Hryfþremr
+Ángern
+Ýllyt
+Fytymðnýstr
+Bösenigr
+Fýglölmím
+Ad
+Nogr
+Vur
+Eðu
+Þjaðulgr
+Mögþurn
+Sáðe
+Omildingr
+Gumumðno
+Myfþrönðým
+Sustr
+Letr
+Þrýr
+Harri
+Hrælum
+Böllaung
+Serni
+Hufþremnotr
+Sittísá
+Figgthynðmi
+Hrudr
+Þrörtr
+Vyr
+Nausvístr
+Hrugí
+Nílblertr
+Ígneingr
+Fumíðmi
+Mirbeina
+Hraglýðmaustr
+Ugr
+Bym
+Hongr
+Lýrnjotr
+Eifþrörtr
+Bögþringr
+Söglelgr
+Liglilmyt
+Likasadr
+Higthasyd
+Sad
+Mung
+Ödr
+Þjyrge
+Fangnestr
+Hrigþir
+Hirnjæmr
+Hözáðmutr
+Víðgálmilgr
+Mafþremne
+Volgr
+Ít
+Þjomr
+Þjögþrangr
+Sokmymr
+Arnaud
+Hrarnju
+Gatimy
+Ufþyðmi
+Lufþarelgr
+Nirn
+Nálgr
+Íng
+Þjeirfýlgr
+Bílvomr
+Fáröm
+Hruttí
+Oglfýlmutr
+Sugnaunam
+Berferud
+Hartr
+Satr
+Nertr
+Voggthir
+Þrefþrangr
+Nýngnir
+Ákmutr
+Silblátilgr
+Vomýldýd
+Yglfáðmau
 
 ### Female
+Blo
+Bau
+Gý
+Elgjey
+Gjoraundr
+Lolgádr
+Mulakn
+Serðeinglóng
+Grúnnlaunglau
+Hiðgongle
+Nú
+Kú
+Kin
+Kifei
+Blúrbo
+Örðau
+Hrúrðgrett
+Býðrýxindr
+Gjyrðójálp
+Imáfyng
+Jeymd
+Blátt
+Sket
+Gaulfö
+Bligat
+Nýnset
+Rirnseikn
+Málgófen
+Orrivló
+Neynguvló
+Ský
+Blónn
+Sköpr
+Kyrnsúdr
+Deifró
+Beingleindr
+Lóngreytt
+Róstleyvleyng
+Hraulgojyt
+Örbedóng
+Map
+Sop
+Drödr
+Gjólu
+Búrðy
+Rarðgy
+Bleygaun
+Gjeymóxilp
+Hrövryddý
+Dylfyvlófn
+Gri
+Jeyð
+Hrön
+Núðgei
+Blauðgý
+Seiðgó
+Dulfóndr
+Unlukkidr
+Dongrbydukn
+Hrórðgýkká
+Deip
+Gó
+Lau
+Úrnsu
+Blastýndr
+Higrbó
+Ógrbo
+Lystaufamd
+Bleinlúkkey
+Gjólgádóndr
+Bláfn
+Gjindr
+Rýpr
+Blungrbúfn
+Noðrau
+Öman
+Ulfey
+Byfivlóð
+Hörðgödu
+Górðókaupr
+Gro
+Hýnn
+Hrý
+Hronnlau
+Hrýstlú
+Mýlyð
+Lufeindr
+Austleyvu
+Ýnsúfap
+Álgúnglyndr
+Riðr
+Neyn
+Skökn
+Dóvrómd
+Grirðgrú
+Rastlaumd
+Grórnsytt
+Skýróddo
+Rovreyffandr
+Blifrökkey
 
-#### Full names
-
-#### First names
-
-#### Last Names
-
-## Norse mythology name generator
+## [Fantasy giant name generator](https://www.fantasynamegenerators.com/giant-names.php)
 
 ### Male
-
-#### Full names
-
-#### First names
-
-#### Last Names
+Flasar
+Radius
+Coog
+Klacrion
+Fonsal
+Bikwor
+Gluzthos
+Zeas
+Zukaros
+Umthor
+Hato
+Lolnus
+Dlirion
+Cowag
+Manthos
+Tisor
+Kregfius
+Ficam
+Voffur
+Wriog
+Akwor
+Zlomalog
+Kedhor
+Balvar
+Bisgar
+Wisgar
+Kruwkrus
+Luvog
+Aragdus
+Vuttheus
+Gitver
+Vrelbar
+Gekvog
+Sacwor
+Negi
+Cilwor
+Oder
+Clibnar
+Gukroch
+Jenos
+Srekos
+Jekkaos
+Bifur
+Dlimvir
+Bliclas
+Dlakto
+Nigfum
+Litor
+Ruxbos
+Ias
+Arvag
+Lodnir
+Glutag
+Vlecbog
+Trekfius
+Klibzus
+Camvar
+Alesar
+Horog
+Slutzar
+Ludor
+Wrozar
+Iwlor
+Aziar
+Dledtius
+Dedrog
+Jamnas
+Udkaos
+Grasziar
+Davag
+Krewwor
+Jernar
+Mowsar
+Haos
+Aufbarg
+Aloxkrus
+Xufgir
+Dukgi
+Aoblith
+Vlawfius
+Ludwor
+Cluklith
+Klosius
+Aradgan
+Jilor
+Kilvag
+Trudhor
+Bricnar
+Omgar
+Brixrym
+Racvag
+Izdus
+Kruxkaos
+Dofur
+Zesor
+Flambrog
+Zokaos
+Gowor
+Floxvir
+Dodam
 
 ### Female
+Heddor
+Jodwor
+Isal
+Slisor
+Kloto
+Atag
+Mifius
+Camgir
+Doam
+Xebtag
+Dludmalog
+Arorion
+Kuras
+Crefur
+Buziar
+Timsor
+Gudhor
+Kudus
+Vresag
+Alogbog
+Mozkaros
+Kawgan
+Hemir
+Cranir
+Clisor
+Wradkrus
+Glokgi
+Vrimrym
+Zubar
+Banas
+Zever
+Osag
+Klicgir
+Wulbar
+Vruwmohr
+Necvar
+Wunnus
+Kitius
+Kirog
+Fafur
+Dlilvar
+Klixzar
+Xatrion
+Oddius
+Xezwor
+Lodus
+Cluzar
+Jivar
+Xotgan
+Flewlor
+Tukbrog
+Juom
+Dosal
+Zlugthos
+Alobog
+Trindor
+Ifur
+Dlibdius
+Fusor
+Cublor
+Dlomohr
+Imbar
+Aloggrog
+Gunas
+Aokaos
+Susal
+Xelor
+Rufur
+Ludlor
+Kargrog
+Krellog
+Krithos
+Vrambrog
+Nuas
+Faxfum
+Aitdhor
+Gosor
+Trarkaos
+Wremder
+Cluos
+Vassag
+Flegan
+Alussal
+Xagrog
+Wedkaos
+Blutbor
+Clobos
+Lulas
+Hidnus
+Hekaos
+Drublith
+Taxziar
+Flelos
+Detag
+Mibthor
+Wrustor
+Heog
+Jirgar
+Mifrym
+Frifgan
 
-#### Full names
-
-#### First names
-
-#### Last Names
-
-## Fantasy giant name generator
+## [Dnd giant name generator](https://www.fantasynamegenerators.com/dnd-giant-names.php)
 
 ### Male
-
-#### Full names
-
-#### First names
-
-#### Last Names
+Strokssas
+Ramnorn
+Skaksun
+Artaeurt
+Erort
+Hagnun
+Gragnon
+Ortas
+Gekssas
+Vozrentarn
+Rernun
+Skelarn
+Ozar
+Huzraeun
+Sordern
+Rharurt
+Gannerlus
+Aardom
+Rullar
+Vurdaj
+Strymnas
+Egrurn
+Vuksuj
+Zaagram
+Vakssurt
+Kaunnaj
+Unnan
+Mogrutorn
+Kulnandem
+Rokton
+Thelzor
+Thrulmes
+Trekssaeurn
+Olzur
+Thullern
+Zagnun
+Hullun
+Kuzert
+Vozarler
+Antantan
+Thramnun
+Helkur
+Oktan
+Horkan
+Throztam
+Skyktum
+Trolzarorn
+Sumnurt
+Trantundan
+Galert
+Venzaeun
+Zrektos
+Thurdas
+Zennen
+Azrurlur
+Maallon
+Meztom
+Kozder
+Moksej
+Ukssort
+Zauran
+Strolnaurn
+Gelmetaeus
+Kaktarn
+Thastorn
+Vustam
+Thrunnos
+Vaultuj
+Urort
+Strarnaj
+Gronmotan
+Vulnum
+Rhartam
+Kullor
+Thastos
+Ozturlor
+Kortoj
+Gordun
+Sygrurn
+Rhuzdar
+Urtom
+Kuntandom
+Zozen
+Halnej
+Skoztan
+Kemnothuj
+Strauzturn
+Sennos
+Alkorn
+Hellaeum
+Thrannarn
+Urtartes
+Gonmaun
+Eztuten
+Oztas
+Anturt
+Strurkes
+Vurkurn
+Rastert
+Erten
 
 ### Female
-
-#### Full names
-
-#### First names
-
-#### Last Names
+Nagrin
+Sava
+Milres
+Millis
+Hanmeni
+Ronovin
+Dialdma
+Ronmareld
+Linnild
+Hozhi
+Sindran
+Zigra
+Onard
+Thimra
+Lonole
+Inkes
+Zazhe
+Sonkaves
+Zothaves
+Haman
+Thasra
+Hinme
+Miti
+Monke
+Zillin
+Domrila
+Thankelis
+Mimra
+Ini
+Salra
+Zasrare
+Zizsi
+Onmeri
+Logna
+Dimne
+Zovrara
+Ivranid
+Razsi
+Sivona
+Zannazil
+Hizre
+Sigrard
+Lamnal
+Izrevad
+Saagniza
+Dildmid
+Dinna
+Thizran
+Vandra
+Dozsezid
+Illinal
+Lolre
+Dizhan
+Ogna
+Otil
+Mozse
+Moldme
+Navri
+Visri
+Love
+Ozava
+Dazsone
+Riska
+Hami
+Nomnala
+Valdmis
+Linne
+Mankazen
+Anki
+Thomed
+Nondra
+Hiatis
+Lathea
+Zothrizal
+Allad
+Thithaven
+Zimril
+Sithe
+Rateld
+Omra
+Sothrozel
+Datad
+Ranmad
+Dive
+Dilli
+Nozina
+Vilded
+Azed
+Thagra
+Hosris
+Rina
+Soske
+Zonma
+Migri
+Omava
+Oldme
+Digra
+Lithre
+Anki
+Thinmene

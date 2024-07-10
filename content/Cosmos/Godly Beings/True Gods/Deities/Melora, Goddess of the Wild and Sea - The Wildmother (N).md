@@ -50,7 +50,7 @@ Guiding us through the stream." - Poem written in prayer to the Wildmother
 | Eldar (Elven) Elven       | Silvannon     | The Rooted King              | He/They     | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese  | Sakurahime    | The Everbloom                | She/Her     | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
 | Mularir (Tallman) Greek   | Physis        | The Enchantress of the Coast | She/Her     | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
-| Yotunn (Giant) Giant      | Jordrota      | The Beast in the Woods       | Him/They/It | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
+| Yotunn (Dwarven) Giant      | Jordrota      | The Beast in the Woods       | Him/They/It | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 ## Extra Titles
 

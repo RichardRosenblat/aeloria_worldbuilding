@@ -37,7 +37,7 @@ aliases:
 | Eldar (Elven) Elven      | Sauron       | The Dark Sovereign      | He/Him   | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
 | Eldarin (Elven) Japanese | Hachiman     | The Blood Red Shogun    | He/Him   | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
 | Mularir (Tallman) Greek    | Ares         | The Bloodshed God       | He/They  | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
-| Yotunn (Giant) Giant     | Branhar      | The Volcanic Overlord   | He/Him   | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
+| Yotunn (Dwarven) Giant     | Branhar      | The Volcanic Overlord   | He/Him   | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 ## Extra Titles
 

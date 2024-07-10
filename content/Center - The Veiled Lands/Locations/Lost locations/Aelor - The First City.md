@@ -29,7 +29,7 @@ The City of Light is known to have many names, these are some of them:
 | Eldar (Elven) Elven      | Valinor                                                                        |
 | Eldarin (Elven) Japanese | Sakurashima                                                                    |
 | Mularir (Tallman) Greek    | [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)\|Polis]] |
-| Yotunn (Giant) Giant     | Jotunheimr                                                                     |
+| Yotunn (Dwarven) Giant     | Jotunheimr                                                                     |
 
 # Past Glory: Aelor - The City Of Light
 

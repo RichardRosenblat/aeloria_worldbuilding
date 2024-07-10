@@ -40,7 +40,7 @@ Yet I alone see your true potential—the power you could wield, the intricate w
 | Eldar (Elven) Elven       | Ungoliant | The Demon Spider       | She/They/It | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
 | Eldarin (Elven) Japanese  | Jorogumo  | The First Drow         | She/Her     | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
 | Mularir (Tallman) Greek   | Arachne   | The Schemer in Silk    | She/Her     | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
-| Yotunn (Giant) Giant      | Arakna    | The Great Spider       | She/They/It | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
+| Yotunn (Dwarven) Giant      | Arakna    | The Great Spider       | She/They/It | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 ## Extra Titles
 

@@ -37,7 +37,7 @@ aliases:
 | Eldar (Elven) Elven     | Aelara     | The Weavekeeper      | She/Her  | [[Over-Deities\|Iluvatar (Parents of all)]]|
 | Eldarin (Elven) Japanese| Hikari     | The Illuminator      | She/Her  | [[Over-Deities\|Nikami(Two gods)        ]]|
 | Mularir (Tallman) Greek   | Themis     | The Divine Architect | She/Her  | [[Over-Deities\|Exousíes (The powers)   ]]|
-| Yotunn (Giant) Giant    | Jotunheim  | The Mountainfather   | He/Them  | [[Over-Deities\|Hinn Oflugi (The powerful)]]|
+| Yotunn (Dwarven) Giant    | Jotunheim  | The Mountainfather   | He/Them  | [[Over-Deities\|Hinn Oflugi (The powerful)]]|
 
 
 ## Extra Titles

@@ -37,7 +37,7 @@ aliases:
 | Eldar (Elven) Elven      | Lúthien     | The Songweaver          | She/They       | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese | Kazehime    | The Wind Dancer         | She/They       | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
 | Mularir (Tallman) Greek    | Tyche       | The Bestower of Fortune | She/They       | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
-| Yotunn (Giant) Giant     | Ymirin      | The Shifter of Luck     | She/They       | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
+| Yotunn (Dwarven) Giant     | Ymirin      | The Shifter of Luck     | She/They       | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 ## Extra Titles
 

@@ -37,7 +37,7 @@ aliases:
 | Eldar (Elven) Elven      | Elrond        | The Loremaster       | He/Him   | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese | Chie          | The Wisdom Oracle    | He/Him   | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
 | Mularir (Tallman) Greek    | Athena        | The Great Mentor     | She/Her  | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
-| Yotunn (Giant) Giant     | Yrgorim       | The All-Knowing      | She/Her  | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
+| Yotunn (Dwarven) Giant     | Yrgorim       | The All-Knowing      | She/Her  | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 ## Extra Titles
 

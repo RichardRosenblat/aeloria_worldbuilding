@@ -37,7 +37,7 @@ aliases:
 | Eldar (Elven) Elven      | Thranduil   | The Wise Knight       | He/Him   | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese | Bishamonten | The Queen Of Justice  | She/Her  | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
 | Mularir (Tallman) Greek    | Ananke      | The First Amazon      | She/Her  | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
-| Yotunn (Giant) Giant     | Harok       | The Noble Guardian    | He/Him   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
+| Yotunn (Dwarven) Giant     | Harok       | The Noble Guardian    | He/Him   | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 ## Extra Titles
 

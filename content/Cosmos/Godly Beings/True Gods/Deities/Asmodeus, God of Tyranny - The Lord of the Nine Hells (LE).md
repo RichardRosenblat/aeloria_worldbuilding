@@ -37,7 +37,7 @@ aliases:
 | Eldar (Elven) Elven       | Morgoth   | The Dark Lord                  | He/Him   | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
 | Eldarin (Elven) Japanese  | Izanami   | The Dark Empress of Shadows    | She/They | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
 | Mularir (Tallman) Greek   | Phobos    | The Styx Commander             | He/Him   | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
-| Yotunn (Giant) Giant      | Frostkald | The Frostlord of Domination    | He/Him   | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
+| Yotunn (Dwarven) Giant      | Frostkald | The Frostlord of Domination    | He/Him   | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 ## Extra Titles
 

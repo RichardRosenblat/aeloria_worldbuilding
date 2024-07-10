@@ -37,7 +37,7 @@ aliases:
 | Eldar (Elven) Elven       | Nimrodel      | The Eternal Guide               | She/Her      | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese  | Shinigami     | The Guide to the Afterlife      | She/Her      | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
 | Mularir (Tallman) Greek   | Thanatos      | The Keeper of Souls             | He/Him       | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
-| Yotunn (Giant) Giant      | Hela          | The Gatekeeper of the Afterlife | She/Her      | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
+| Yotunn (Dwarven) Giant      | Hela          | The Gatekeeper of the Afterlife | She/Her      | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 ## Extra Titles
 

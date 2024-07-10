@@ -37,7 +37,7 @@ aliases:
 | Eldar (Elven) Elven      | Xyrsylvar   | The Fey Eater                 | He/They/It  | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
 | Eldarin (Elven) Japanese | Kurai       | The Annihilator of Worlds     | He/Her/It   | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
 | Mularir (Tallman) Greek    | Aporia      | The Lord of Ruin              | He/Her/They | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
-| Yotunn (Giant) Giant     | Ragndyr     | The Maelstrom Of Fury         | He/Him      | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
+| Yotunn (Dwarven) Giant     | Ragndyr     | The Maelstrom Of Fury         | He/Him      | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 ## Extra Titles
 
