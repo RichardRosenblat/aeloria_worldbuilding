@@ -5,8 +5,133 @@ tags:
 Algorithym to generate random names for a campaign.
 
 ```JavaScript
+const rychScript = (
+	genOptions,
+	numberOfLastNames,
+	makeFirstLetterUppercase,
+	specialTreatment = "none",
+	numberOfNamesToGenerate = 100
+) => {
+	const specialTreatments = {
+		none: [],
+		"sqe": {
+			loops: (numberOfNamesToGenerate * 2) / 10,
+			preTreatment: (arrayOfNames) =>
+				arrayOfNames.reduce((acc, name, i) => {
+					if ([1, 3, 5, 7, 9].includes(i)) {
+						const parenthesisPattern = /\([\w\/\'\’\-\s]+\)/g;
+						const parenthesisPatternReplacement = /\) \+ \(/g;
+						acc[acc.length - 1] += name
+							.match(parenthesisPattern)
+							.join(" + ")
+							.replace(parenthesisPatternReplacement, " + ");
+					} else {
+						acc.push(name);
+					}
+					return acc;
+				}, []),
+		},
+		"lnf": {
+			preTreatment: (arrayOfNames) => {
+				return arrayOfNames.map((name) => (name ? name.split(" ").reverse().join(" ") : name));
+			},
+		},
+	};
 
+	const numberToOrdinalWords = (n) => {
+		const ordinalWords = [
+			"Zeroth",
+			"First",
+			"Second",
+			"Third",
+			"Fourth",
+			"Fifth",
+			"Sixth",
+			"Seventh",
+			"Eighth",
+			"Ninth",
+			"Tenth",
+		];
 
+		if (n < 0 || n > 10) {
+			const s = ["th", "st", "nd", "rd"];
+			const v = n % 100;
+			return n + (s[(v - 20) % 10] || s[v] || s[0]);
+		}
+
+		return ordinalWords[n];
+	};
+	const generateNames = (genType) => {
+		const result = [];
+
+		const {
+			loops = numberOfNamesToGenerate / 10,
+			preTreatment = (e) => e,
+			postTreatment = (e) => e,
+		} = specialTreatments[specialTreatment];
+
+		for (let i = 0; i < loops; i++) {
+			nameGen(genType);
+			const resultHTMLArray = document.getElementById("result").innerHTML.split("<br>").filter(Boolean);
+			const arrayOfNames = preTreatment(
+				makeFirstLetterUppercase
+					? resultHTMLArray.map((name) =>
+							name
+								? name
+										.split(" ")
+										.map((word) => word[0].toUpperCase() + word.slice(1))
+										.join(" ")
+								: name
+					  )
+					: resultHTMLArray
+			);
+			result.push(...arrayOfNames);
+		}
+		return postTreatment(result);
+	};
+
+	genOptions.forEach((genType, i) => {
+		console.log("###############################-------" + i + "-------####################################");
+		let result = generateNames(genType);
+		const printResult = () => {
+			console.log((result.length > 0 ? result : ["None"]).join("_"));
+		};
+		if (numberOfLastNames >= 1) {
+			console.log("------------------All-----------------------");
+			printResult();
+			console.log("-----------------------------------------");
+			console.log("-----------------First-----------------------");
+			result = generateNames(genType).map((name) => name.split(" ")[0]);
+			printResult();
+			console.log("-----------------------------------------");
+
+			if (numberOfLastNames === 1) {
+				console.log("------------------Second-----------------------");
+				result = generateNames(genType)
+					.map((name) => {
+						const [_, ...rest] = name.split(" ");
+						return rest.join(" ");
+					})
+					.filter((n) => !!n && n !== "undefined");
+				printResult();
+				console.log("-----------------------------------------");
+			} else {
+				for (let i = 1; i <= numberOfLastNames; i++) {
+					result = generateNames(genType)
+						.map((name) => name.split(" ")[i])
+						.filter((n) => !!n && n !== "undefined");
+					console.log("------------------" + numberToOrdinalWords(i + 1) + "-----------------------");
+					printResult();
+					console.log("-----------------------------------------");
+				}
+			}
+		} else {
+			printResult();
+		}
+		console.log("###################################################################################");
+	});
+};
+rychScript([undefined, 1], 0,true);
 ```
 
 # Alonian (Tallman) Generic 
@@ -18783,78 +18908,1035 @@ Olnairra
 
 # Mularir (Tallman) Greek
 
-## Greek name generator
+## [Greek name generator](https://www.fantasynamegenerators.com/greek-names.php)
 
 ### Male
 
 #### Full names
+Lavrentis Tolides
+Iason Agniadis
+Damianos Paulopoulos
+Nasos Alaniadis
+Sergios Galanakos
+Demetrios Spanakis
+Thanassis Lambrakos
+Veniamin Malliadis
+Dorotheos Remopoulos
+Lefteris Moliadis
+Demos Athaniadis
+Prokopos Roussiadis
+Loukas Alanellis
+Giorgos Ganou
+Yiorgos Christopoulos
+Vlassis Demidis
+Neofytos Biropoulos
+Apollonas Karahaliotis
+Vasileios Kappakis
+Thanos Athanallis
+Stathis Minellis
+Filaretos Boosaliades
+Alexios Tripiades
+Theocharis Agnas
+Kostas Paniadis
+Menelaos Anthellis
+Michalis Rineas
+Grigorios Nicolakos
+Vasso Logides
+Antonis Roussou
+Lefteris Maleas
+Gavriil Lazilis
+Sotiris Kouriadis
+Agapios Gianiades
+Markos Kelleas
+Nasos Christoulis
+Georgios Kormakis
+Andrianos Dimakos
+Aristarchos Romaniadis
+Loukas Rodelis
+Emilios Alanidis
+Anargyros Kostas
+Theodoros Vlachidis
+Alkinoos Salliades
+Giorgos Bouleas
+Efstathios Kontellis
+Tasos Mirallis
+Apollonas Rondides
+Lykourgos Anastiadis
+Ermis Scafoulis
+Lavrentis Fotopoulos
+Fokionas Mastrolis
+Thodoris Stanatos
+Petros Thanatos
+Apollonas Mulou
+Pericles Kallides
+Likourgos Xeniadis
+Anargyros Zaropoulos
+Yorgos Priscatos
+Iordanis Kairakos
+Adrianos Gerotsis
+Emilios Roussiadis
+Paschalis Ganotis
+Iossif Kairakos
+Antonios Karalelis
+Elias Alanakos
+Vassilios Vidalas
+Lambros Siskatos
+Serafim Tavoularou
+Nicolaos Gianallis
+Thomas Moustakakos
+Venizelos Mulakos
+Epameinondas Kontidis
+Akakios Stamatilis
+Grigoris Matotis
+Nestoras Antoniiades
+Gavriil Ganellis
+Vassilios Markiadis
+Agisilaos Remallis
+Haralambos Panakos
+Vassilios Tripides
+Chysanthos Palaiotzis
+Anastasios Terzeas
+Nikolaos Makratos
+Theofylaktos Lazakos
+Haris Dellilis
+Georgios Rodatos
+Antonios Lambropoulos
+Omiros Mitreas
+Hristos Comakos
+Dimitris Condallis
+Filaretos Athaniades
+Leonidas Panagotis
+Michalis Vassallakis
+Argyris Teresoulis
+Aris Chondrotis
+Epameinondas Andreadou
+Dorotheos Pallidis
+Stylianos Giannou
+Evripidis Siskiadis
 
 #### First names
+Lazaros
+Alexandros
+Aimilios
+Tassos
+Efthimios
+Minas
+Lavrentis
+Kimon
+Dorotheos
+Philippos
+Christos
+Alkinoos
+Stavros
+Miron
+Minas
+Panos
+Diogenis
+Miron
+Neofytos
+Valentinos
+Grigorios
+Thiseas
+Iraklis
+Matthaios
+Iraklis
+Aristarchos
+Pericles
+Apollonas
+Alekos
+Nasos
+Aimilios
+Sergios
+Aristidis
+Erotas
+Antonios
+Fokionas
+Sakis
+Vasso
+Vasso
+Efstathios
+Markos
+Mihail
+Menelaos
+Zinon
+LEfteris
+Nikos
+Sophocles
+Iosif
+Fotis
+Spyro
+Alkinoos
+Lavrentios
+Nikitas
+Evripidis
+Dimosthenis
+Titos
+Andrianos
+Apollonas
+Theofylaktos
+Spiridon
+Herakles
+Spyridon
+Filippos
+Thanos
+Vassilios
+Hristos
+Kyriakos
+Sotirios
+Valentinos
+Socrates
+Babis
+Giorgos
+Socrates
+Stefanos
+Epameinondas
+Fanis
+Stylianos
+Thanassis
+Iason
+Thiseas
+Yiorgos
+Lazaros
+Pericles
+Isidoros
+Miltiadis
+Theofilos
+Agisilaos
+Aris
+Dorotheos
+Iossif
+Stefanos
+Nikolas
+Petros
+Periklis
+Chrysanthos
+Sotirios
+Demos
+Michalis
+Thomas
+Lazaros
 
 #### Last Names
+Biroglou
+Kanotis
+Bariadis
+Zografiades
+Galanatos
+Procopiotis
+Arvanitallis
+Kontolis
+Hondrilis
+Anthoulis
+Vidaloulis
+Nassides
+Politas
+Antonoulis
+Lambrakis
+Comelis
+Dellas
+Vlachoulis
+Perrelis
+Tatides
+Miskotis
+Markeas
+Zannilis
+Mattilis
+Chaconatos
+Cosmopoulos
+Vassallou
+Marinakos
+Spitereas
+Stamelis
+Remoulis
+Bureas
+Ballakos
+Karalidis
+Nicoliadis
+Vidalilis
+Kontilis
+Anastas
+Miskakis
+Panakis
+Boosalakos
+Nicolatsis
+Rubiadis
+Kritikakos
+Pallellis
+Mellides
+Vidaloglou
+Perrides
+Andreadatos
+Zappides
+Barberiades
+Boulelis
+Theodorou
+Rubellis
+Comakos
+Valloglou
+Stamakis
+Ganakos
+Mattopoulos
+Balliadis
+Frangou
+Vasilotis
+Valotis
+Barakos
+Salliades
+Tripopoulos
+Scafas
+Paniadis
+Anthoulis
+Floropoulos
+Anastilis
+Totatos
+Perrellis
+Antoniotis
+Galaneas
+Valloulis
+Galanakos
+Zanoglou
+Antoniides
+Maragellis
+Mirides
+Contellis
+Michaeliades
+Strakoglou
+Mastrolis
+Miskas
+Marelis
+Tripiades
+Chaconoglou
+Siskellis
+Tantaliades
+Spanides
+Alanallis
+Laskidis
+Panagou
+Karalas
+Katsarallis
+Tripolallis
+Calidis
+Stathidis
 
 ### Female
 
 #### Full names
+Despina Kontoli
+Zoi Teresou
+Medea Perroglou
+Antigoni Stavride
+Magia Galaniadi
+Korina Kellea
+Androniki Lambroti
+Theonymfi Anastiade
+Fani Mattatou
+Louiza Economoglou
+Athena Kontiade
+Emmanouella Biriadi
+Zoi Toccili
+Valentina Demalli
+Aikaterini Banelli
+Persefoni Nicoloti
+Agapi Baniadi
+Xanthippi Tavoularea
+Theonymfi Procopiili
+Irini Rodouli
+Zacharoula Pepidi
+Chryssa Tassaki
+Agni Spinoti
+Evangelia Hadjili
+Sibylla Mulaki
+Aspa Panea
+Melpomeni Agnakou
+Martha Apostoleli
+Melina Zena
+Meropi Valea
+Xenia Katsaraki
+Aleka Rubatou
+Andromahi Chronili
+Natalia Vassalloglou
+Filippa Lillou
+Androniki Ralla
+Kyriake Manoglou
+Afroditi Kanela
+Pantelina Moustakakou
+Kalliopi Mundoglou
+Daphne Stavrea
+Katerina Anastidi
+Panayiota Anastide
+Angelina Validi
+Magdalini Simaki
+Efthalia Chaconou
+Evi Biroglou
+Evanthia Papatzi
+Sara Balea
+Angeliki Lorelli
+Vasso Nicolatou
+Emanouella Kairoglou
+Euterpe Primoglou
+Christina Koska
+Theoni Demetrielli
+Eliza Leventou
+Marilena Harrelli
+Ninia Markea
+Gianna Siskiadi
+Maya Zografidi
+Panagiota Andreada
+Polikseni Stratalli
+Argiro Speridi
+Edvoxia Sala
+Lena Paliade
+Natalia Minatou
+Helle Toccidi
+Androniki Arvanitaki
+Rhea Siskiadi
+Anastasia Paulea
+Katia Tripoliadi
+Electra Alexaki
+Aimilia Prisciadi
+Mando Sidereli
+Christina Stathatou
+Thekla Miniadi
+Nefeli Leventea
+Petrina Cosmelli
+Flora Giannoti
+Antonia Karalidi
+Evanthia Papea
+Athina Siskea
+Keti Pallou
+Thekla Romaniade
+Vaso Boulide
+Calliope Michaelide
+Ifigeneia Tripatou
+Haris Mattoglou
+Theodora Galloti
+Panayiota Tripolopoulou
+Zacharenia Tereseli
+Foteini Ganelli
+Keti Pavlide
+Elissavet Elili
+Ioulita Giannili
+Nefeli Economiade
+Gianna Cosmili
+Theoni Apostolelli
+Fotoula Moraki
+Evdoksia Mirili
 
 #### First names
+Diamanto
+Foivi
+Xanthippi
+Evi
+Aleka
+Persephone
+Evridiki
+Alexis
+Ekaterini
+Chrysanthi
+Efimia
+Andriana
+Chrisanthi
+Xenia
+Ioanna
+Kalliopi
+Pantelina
+Theoni
+Kalliroi
+Spiridoula
+Stergiani
+Agapi
+Areti
+Demi
+Spiridoula
+Adriani
+Maro
+Anna
+Spiridoula
+Vicky
+Dimitroula
+Aleka
+Chryssa
+Michaella
+Marietta
+Lambrini
+Artemis
+Aphrodite
+Foteini
+Vaso
+Filippa
+Xenia
+Andriana
+Iro
+Maya
+Hristina
+Vasia
+Electra
+Natalia
+Theano
+Eleonora
+Adriani
+Lia
+Theodora
+Filareti
+Lia
+Eftichia
+Pantelina
+Nasia
+Giannoula
+Louiza
+Irene
+Timothea
+Iliana
+Elektra
+Aspa
+Haris
+Kyveli
+Yeorgia
+Kiki
+Stella
+Filia
+Alkmini
+Theonymfi
+Paraskevoula
+Emmanouella
+Filareti
+Florentia
+Iro
+Stefania
+Athena
+Ariadni
+Polyxeni
+Korina
+Calliope
+Maro
+Tatiana
+Hristina
+Ismene
+Evdoksia
+Agape
+Michaella
+Elektra
+Meropi
+Avgi
+Ioanna
+Kalliopi
+Filareti
+Thalia
+Olga
 
 #### Last Names
+Bureli
+Christiade
+Anthaki
+Makrotzi
+Simiade
+Remili
+Vallaki
+Vassallaki
+Makropoulou
+Managou
+Meliade
+Vasiliadi
+Callea
+Pulakou
+Scafidelli
+Palloti
+Baratou
+Salide
+Scafa
+Palaioli
+Katsarea
+Tolopoulou
+Rondelli
+Pana
+Constantinatou
+Dimitriide
+Perriade
+Apostoloti
+Melide
+Banouli
+Molidi
+Coma
+Gabrelli
+Kourelli
+Gerili
+Stamelli
+Trainou
+Chaconeli
+Siskou
+Stamatou
+Gabrakou
+Tripatou
+Alanakou
+Alanakou
+Palliadi
+Zurlatou
+Christakou
+Galanalli
+Mastroti
+Milou
+Pavlalli
+Stamidi
+Siskea
+Tavoularelli
+Xenaki
+Nicolali
+Spaneli
+Manatou
+Baridi
+Scafidoti
+Georgoglou
+Manoglou
+Barili
+Ballatou
+Managalli
+Kallide
+Kairakou
+Petralli
+Vallou
+Palaioti
+Rondopoulou
+Zenea
+Argyrouli
+Stathiade
+Lambride
+Pavloglou
+Pagonou
+Zannakou
+Conteli
+Malaki
+Metrakou
+Managea
+Architzi
+Minopoulou
+Roussalli
+Cosmoglou
+Thanelli
+Strakouli
+Lazaki
+Ralloti
+Kormaki
+Kostopoulou
+Andreadeli
+Mattidi
+Hadjili
+Tripolalli
+Nasselli
+Barbidi
+Mallopoulou
+Tripelli
 
-## Greek mythology name generator
+## [Hellenic name generator](https://www.fantasynamegenerators.com/hellenic-names.php)
 
 ### Male
-
-#### Full names
-
-#### First names
-
-#### Last Names
+Iason
+Keleos
+Khabrias
+Zenon
+Xenos
+Glykon
+Hegias
+Diphilos
+Arion
+Ikelos
+Nikias
+Bathykles
+Zelotes
+Menos
+Oenopion
+Leonnatos
+Geranion
+Hyperides
+Iskrates
+Phrixos
+Myron
+Haemon
+Melas
+Theron
+Temenos
+Kallimedon
+Ion
+Deiphobos
+Kalos
+Eudoxos
+Nestor
+Lykophron
+Dropos
+Deinokrates
+Aristeas
+Aias
+Meilanion
+Pentheos
+Timun
+Illioneos
+Kharondas
+Melas
+Baltasaros
+Tyrtaeos
+Pheidon
+Iolaos
+Theskelos
+Hegesinos
+Briareos
+Demodokos
+Posidonios
+Amyntas
+Proxenos
+Eudamidas
+Oinopides
+Diktys
+Bupalos
+Ambrotos
+Anaximenes
+Illioneos
+Melanthes
+Hyrieos
+Urian
+Kleon
+Linos
+Oinopides
+Kleobis
+Oenopion
+Nikias
+Lykophron
+Philomelos
+Kalos
+Thyestes
+Apollonios
+Nikomakhos
+Pentheos
+Labdakos
+Pausias
+Halimedes
+Kratylos
+Deinarkhos
+Polyeuktes
+Eurystheos
+Euandros
+Xenophanes
+Pytheas
+Theramenes
+Zenbios
+Bupalos
+Gorgias
+Sinon
+Hermogenes
+Melisseos
+Iseas
+Eteokles
+Hylaeos
+Tereos
+Deioneus
+Lysanias
+Polemon
 
 ### Female
+Siphis
+Matanira
+Lampetia
+Kynane
+Kinara
+Niobe
+Hippodamia
+Pyrgomakhe
+Eurytia
+Krokale
+Arethusa
+Deidameia
+Lalita
+Aëllo
+Ainia
+Aphaea
+Aleris
+Elpinike
+Kytheris
+Elodi
+Theonoe
+Theora
+Hippodameia
+Mirias
+Rhoeo
+Khryseis
+Antianara
+Aoide
+Aspasia
+Hygeia
+Augea
+Okypete
+Nausikaa
+Myrrhine
+Xanthe
+Antimakhe
+Theora
+Eukrateia
+Dorinda
+Anteia
+Antea
+Aërope
+Telesilla
+Nephele
+Khariklea
+Theano
+Thimaea
+Symaethis
+Pronoë
+Alkippe
+Leukippe
+Elektra
+Olympias
+Otrera
+Khryseis
+Philanthis
+Gnathaena
+Eulalia
+Ino
+Kynisca
+Euandra
+Deinomakhe
+Anaxo
+Arena
+Heraklea
+Aoide
+Aletheia
+Ophis
+Thalassa
+Philanthis
+Euryleia
+Kharis
+Areximacha
+Khariklea
+Phaidra
+Persis
+Thele
+Derinoë
+Ekhidne
+Phospohria
+Eulalia
+Vilistikhe
+Pelopia
+Zosima
+Kharis
+Thargelia
+Thraso
+Demetria
+Melousa
+Hipponoë
+Klymene
+Klytia
+Ekhenais
+Hippomache
+Thekla
+Xanthippe
+Autonoë
+Idyia
+Neysa
+Prokne
 
-#### Full names
-
-#### First names
-
-#### Last Names
-
-## Ancient Greek name generator
+## [Ancient Greek name generator](https://www.fantasynamegenerators.com/ancient-greek-names.php)
 
 ### Male
-
-#### Full names
-
-#### First names
-
-#### Last Names
+Pittheus
+Ochesius
+Thersites
+Thales
+Vettias
+Temenos
+Pelagon
+Peithon
+Tyndareus
+Thersandros
+Skiron
+Apollos
+Autodikos
+Mantes
+Erichthonius
+Priskos
+Stesilaus
+Otus
+Evenus
+Homeros
+Arcesilaus
+Eumastas
+Tenes
+Pleistarchos
+Codros
+Kaenas
+Polymedes
+Heromenes
+Nauteus
+Dymas
+Chares
+Polymedes
+Astacos
+Peithon
+Anaxagoras
+Patron
+Chromis
+Aegicoros
+Tirynthius
+Phegeus
+Herakleides
+Zamolxis
+Philocrates
+Ceyx
+Peithon
+Apollos
+Paraebates
+Corydon
+Philagros
+Oresus
+Phrynichos
+Tychaeus
+Demetrios
+Alkimachos
+Menekrates
+Schedius
+Sinis
+Cebriones
+Telys
+Eudoxsus
+Timasion
+Eratostheres
+Areisius
+Abascantus
+Podaeleirus
+Kebes
+Stratios
+Thrasyllus
+Perdikkas
+Herakleitos
+Korax
+Isodemos
+Harpagos
+Philostratus
+Aster
+Gorgythion
+Phaedo
+Hyrcanus
+Morsimus
+Isidoros
+Philostratus
+Demeas
+Andokides
+Anaxandridas
+Diocles
+Dymnos
+Euaemon
+Artemios
+Tychaeus
+Echelaos
+Philometer
+Philologus
+Thettalos
+Hagnon
+Krantor
+Polyctor
+Eurykratides
+Philostratos
+Tenthredon
+Satyros
 
 ### Female
-
-#### Full names
-
-#### First names
-
-#### Last Names
-
-## Classical Greek name generator
-
-### Male
-
-#### Full names
-
-#### First names
-
-#### Last Names
-
-### Female
-
-#### Full names
-
-#### First names
-
-#### Last Names
-
+Agape
+Thais
+Medesicaste
+Melanie
+Althaia
+Tryphena
+Stratonice
+Phoebe
+Iola
+Ianeira
+Creusa
+Kyra
+Axiothea
+Agathé
+Cybele
+Anysia
+Ianeira
+Penelope
+Rhoda
+Antiochis
+Doto
+Pythias
+Phryne
+Eurydike
+Koré
+Maia
+Althea
+Thessala
+Endeis
+Aithra
+Thais
+Chryse
+Iomene
+Agape
+Amatheia
+Hekaline
+Laodameia
+Auge
+Merope
+Actë
+Egeria
+Megare
+Lanike
+Doris
+Cydippe
+Jocasta
+Latona
+Amarhyllis
+Iphimedeia
+Actaëe
+Merope
+Lasthena
+Polydora
+Iphis
+Phryne
+Hekabe
+Thessalonike
+Basiane
+Kypris
+Proto
+Doris
+Theodotis
+Hippolyta
+Hilaera
+Astyocheia
+Ianthe
+Nysa
+Niko
+Heliodora
+Actë
+Polymede
+Iolanthe
+Zita
+Ariadne
+Aithra
+Sappho
+Haidee
+Thais
+Antheia
+Theophano
+Endeis
+Milo
+Hippodamia
+Latona
+Thaleia
+Issa
+Theophane
+Gygaea
+Eurycleia
+Klytemnestra
+Medea
+Metis
+Euodias
+Hecuba
+Milto
+Anthusa
+Ione
+Alcmene
+Penthesilea
+Stheneboea
 
 # Yotunn (Dwarven) Giant
 
@@ -19270,23 +20352,623 @@ Fasal
 Faya
 Ivan
 
-## Vicking name generator
+## [Vicking name generator](https://www.fantasynamegenerators.com/viking-names.php)
 
 ### Male
 
 #### Full names
+Nefstein Heggsson
+Steinmod Hrolfsson
+Bjornulf Thorodsson
+Ernmund Hafrsson
+Hundi Hakisson
+Thorleif Lifolfsson
+Gnupa Gufisson
+Vebrand Eilifsson
+Arn Guthheresson
+Gunnstein Svartgeirrsson
+Athils Alfketillsson
+Ingjald Einarsson
+Oddleif Eidsson
+Hildiglum Hareksson
+Geitir Holmsteinsson
+Skialg Iarundsson
+Thorfrethr Oystæinsson
+Bram Skidisson
+Styr Folkbiornsson
+Forni Hrossbjornsson
+Tosti Autisson
+Kadal Brodirsson
+Orrin Knutsson
+Slode Erpsson
+Thorald Kolsson
+Ketill Haflidisson
+Dunfjall Vathlaussson
+Haflidi Gæirmundsson
+Ysoppa Ingisson
+Grimar Skuldsson
+Kolfinn Atlisson
+Gyrd Haklangsson
+Skap Svensson
+Ingibjorg Authulfsson
+Thorgrim Varsson
+Grim Karsson
+Hrossketil Styrbiornsson
+Hvitserk Sibbisson
+Bruni Herjolfsson
+Adils Grimkelsson
+Frostulf Thorhallsson
+Hranfast Ioketillsson
+Hundi Thorstarsson
+Ragnfast Ofeigsson
+Gulli Skurfasson
+Steinthor Klakkrsson
+Starolf Ingvarsson
+Skapti Holmfastsson
+Eystein Arnketillsson
+Gudleif Bergthorsson
+Oleif Gyrdsson
+Gizor Havardsson
+Kormak Sigbjornsson
+Kaupmann Korisson
+Naddod Farthegnsson
+Lodin Tjorvisson
+Gudlaug Grimarsson
+Haklang Sweinsson
+Hreida Vottsson
+Thormod Bjorgulfsson
+Iuli Hakisson
+Ketil Hrossbjornsson
+Modolf Thangbrandsson
+Hott Hrosskellsson
+Vigbjord Oswaldsson
+Gunnstein Ubbeinsson
+Unn Loptsson
+Mar Akisson
+Onem Arnulfrsson
+Vathlauss Gudbrandsson
+Ævar Tryggsson
+Hjarrandi Erlendsson
+Karsi Autisson
+Svein Lambisson
+Trud Grithsson
+Stein Thorgautsson
+Thormod Hanefsson
+Nasi Svartkollrsson
+Sigebeorht Balkisson
+Nafni Odinkarsson
+Ulfrik Leiknirsson
+Trud Alfsson
+Thorbjorn Arnisson
+Njal Gerisson
+Thorolf Hrollaugsson
+Kotkel Hallmundsson
+Hrossbjorn Hallsteinsson
+Geirmund Halftansson
+Hall Slodisson
+Tola Olæifsson
+Hott Steinmodsson
+Hjarrandi Grimkelsson
+Sigestæl Ærinmundsson
+Haflidi Iogæirsson
+Ysoppa Naddodsson
+Isi Freysteinsson
+Karli Gudriksson
+Beinir Naddodsson
+Snorri Skulisson
+Hedin Sinfiotlisson
 
 #### First names
+Svartbrand
+Tyrfing
+Grettir
+Svinulf
+Audun
+Kadal
+Swein
+Ragnar
+Ærinmund
+Vathlauss
+Øybiorn
+Swein
+Odinkar
+Beigarth
+Glum
+Trygg
+Vertlithi
+Steinmod
+Gudlaug
+Sigvid
+Ludin
+Brand
+Åsmund
+Alfgeir
+Elgfrothi
+Wengo
+Birning
+Bui
+Banki
+Gunnlaug
+Farmann
+Geirolf
+Mursi
+Sigeræd
+Kolbein
+Geirolf
+Heming
+Hlenni
+Gils
+Nafni
+Slode
+Iarl
+Oystæin
+Herstein
+Spiallbudi
+Balli
+Spiallbudi
+Gilli
+Skœdir
+Asfrith
+Geirfinn
+Rodmar
+Hreitharr
+Sigewulf
+Bork
+Hermund
+Steinthor
+Hreitharr
+Sigvat
+Vifil
+Thjodofl
+Iarl
+Thometill
+Gaut
+Hogni
+Sævil
+Illugi
+Steinar
+Ozur
+Geirleif
+Thjodofl
+Audun
+Torsten
+Sigeferth
+Gils
+Authun
+Glam
+Konal
+Holmgeir
+Guthrum
+Hrani
+Hrafn
+Thormar
+Haflidi
+Gærhialm
+Karsi
+Thorred
+Kormak
+Gunnulf
+Hogni
+Aki
+Fastulf
+Flosi
+Orm
+Thorfast
+Tumi
+Oystæin
+Stigandi
+Hrosskel
+Sturla
 
 #### Last Names
+Ivarsson
+Hræreksson
+Bjalfisson
+Abisson
+Styrkarsson
+Øybiornsson
+Thorgautsson
+Ingifastsson
+Farmannsson
+Bothvarsson
+Karlisson
+Firthgestsson
+Rodmarsson
+Giermundsson
+Gærhialmsson
+Yngvarsson
+Orøkiasson
+Hrossketilsson
+Thialfisson
+Kjotvisson
+Hasteinsson
+Sigerædsson
+Thorsteinsson
+Toresson
+Gizorsson
+Ulfljotsson
+Sigeweardsson
+Sigurdsson
+Gunnbjornsson
+Nærfisson
+Ozursson
+Skialgsson
+Oleifsson
+Bjornulfsson
+Thrainsson
+Bergvidsson
+Vidkunnsson
+Svartgeirrsson
+Ernmundsson
+Svæinsson
+Askelsson
+Leiknirsson
+Guthheresson
+Slothisson
+Skialgsson
+Skutisson
+Thoraldrsson
+Sigelacsson
+Thorodsson
+Liutsson
+Karsson
+Snæ-Ulfsson
+Thorolfsson
+Vigbjordsson
+Tyrfingsson
+Valisson
+Vigfusson
+Aslaksson
+Byrnjolfsson
+Hallsson
+Hauksson
+Sinfiotlisson
+Steinarsson
+Uglubathrsson
+Torradsson
+Hæfnirsson
+Ærinmundsson
+Akisson
+Thorolfsson
+Hallmundsson
+Naddodsson
+Sigeweardsson
+Gautisson
+Thidriksson
+Alfarinsson
+Suitsson
+Steinbitrsson
+Njalsson
+Gilsson
+Solmundsson
+Thorhallsson
+Svafarsson
+Skeggisson
+Hallmundsson
+Snæbjornsson
+Erlendsson
+Svartlingrsson
+Leiknirsson
+Paulsson
+Kormaksson
+Hosvirsson
+Vikarsson
+Starrisson
+Sigtryggsson
+Cnutsson
+Geirsson
+Ulvkilsson
+Gætirsson
+Hragnelfsson
+Gudleifsson
 
 ### Female
 
 #### Full names
+Thorfrithr Gunnaldottir
+Ranveig Æsbiorndottir
+Asa Skaptidottir
+Arnthrud Bjalfidottir
+Æstrid Tofidottir
+Hungerd Thorhalldottir
+Valgerd Hallfridottir
+Thurid Hranidottir
+Siv Hrutdottir
+Gudney Hængdottir
+Halldis Tryggvidottir
+Ljot Halldordottir
+Torhild Frodidottir
+Æstrid Bothvardottir
+Sibbe Koigrimdottir
+Ingirid Toladottir
+Audhild Folkmardottir
+Hrafnhild Arnbjorndottir
+Drifa Olvirdottir
+Ulfheid Haklangdottir
+Hallberta Herludottir
+Hallveig Ornolfdottir
+Mœid Wengodottir
+Yrsa Bragidottir
+Arngunn Tokidottir
+Gudrid Asketilldottir
+Greiland Bergvidottir
+Olof Gamlidottir
+Torgärd Sigehelmdottir
+Ljufa Vathlaussdottir
+Abi Sighaddottir
+Gudbjorg Iorthrdottir
+Mœid Gizurdottir
+Thurid Thorarindottir
+Sibbe Jarlebankedottir
+Sibbe Gylfidottir
+Holmlaug Finnleikdottir
+Styrlaug Slothidottir
+Olof Regindottir
+Skur Thordottir
+Gunnhild Runolfdottir
+Droplaug Guthheredottir
+Ingeltore Iarlabankidottir
+Greiland Bjorndottir
+Hrafnhild Gunnlaugdottir
+Astrid Thorgilsdottir
+Jorunn Anlafdottir
+Thorfrithr Arnlaugdottir
+Gyda Svafardottir
+Ingun Øystendottir
+Freydis Hrolfdottir
+Thorljot Dunfjalldottir
+Signy Geirleifdottir
+Sæunn Vikardottir
+Olof Asgautdottir
+Ormhild Guthormdottir
+Svanhild Orestdottir
+Torunn Thoroddottir
+Jaddvor Onemdottir
+Hallfrid Illugidottir
+Geirny Arinbjorndottir
+Gunnvor Gormdottir
+Brynhild Glamdottir
+Hervor Oddottir
+Ingulfrid Sigegardottir
+Hallberta Bodvardottir
+Alfeid Ragnfastdottir
+Maria Thometilldottir
+Solveig Auðunardottir
+Skur Buidottir
+Aldis Hämingdottir
+Jarngerd Gretterdottir
+Geirhild Jondottir
+Mœid Thorgestdottir
+Halldis Surtdottir
+Herdis Skaptidottir
+Bolla Snæ-Ulfdottir
+Rafarta Gaukdottir
+Turid Trandildottir
+Sigvor Kadaldottir
+Holmlaug Waltheofdottir
+Freydis Styrdottir
+Ingeltore Bolverkdottir
+Thorljot Arnfinndottir
+Holmlaug Gunnardottir
+Asgerd Gizurdottir
+Skur Orgumleididottir
+Droplaug Hiorvardottir
+Groa Isulfdottir
+Dalla Bardottir
+Geirhild Gislidottir
+Hallgerd Thjodofldottir
+Svanhild Haflididottir
+Hallgrim Hallkeldottir
+Armod Waltheofdottir
+Rannveig Serkdottir
+Drifa Hermundottir
+Gyrid Thorgrimdottir
+Herdis Svertingdottir
+Ingegärd Kotkelldottir
 
 #### First names
+Aldis
+Yri
+Hallbera
+Geirlaug
+Guðný
+Ljufu
+Thorfrithr
+Thorhalla
+Thurid
+Thorelf
+Estrid
+Sigrid
+Asfrid
+Valgerd
+Hallgrim
+Ragna
+Gudney
+Yri
+Raghild
+Yrsa
+Maria
+Ragnfrid
+Thorkatla
+Thorvor
+Gerrid
+Hild
+Fridgerd
+Torhild
+Asny
+Þuriðr
+Aslaug
+Ingirun
+Gillaug
+Osk
+Thorlaug
+Luta
+Asdis
+Asleif
+Gunnhild
+Gudlang
+Gudbjorg
+Hrodny
+Bjartney
+Grima
+Ragnhild
+Thjodhild
+Gyrid
+Ranveig
+Mœid
+Ormhild
+Audbjorg
+Oddbjorg
+Svanlaug
+Nidbiorg
+Steinunn
+Hildirid
+Asleif
+Ashild
+Thorballa
+Æsa
+Reginleif
+Thorkatla
+Dalla
+Yri
+Isgerd
+Gudrid
+Grelod
+Vandrad
+Heith
+Sibbe
+Thorvor
+Bergljot
+Hilde
+Ogn
+Hild
+Siv
+Thorgrima
+Thorlaug
+Reginleif
+Siv
+Thorgrima
+Thorgrima
+Bergljot
+Thorlaug
+Thyre
+Frideburg
+Halldis
+Solvor
+Thorkatla
+Gudrun
+Hildigunn
+Ljufa
+Thorunn
+Audbjorg
+Ljot
+Astrid
+Bjorg
+Ulfheid
+Gorm
+Vandrad
 
 #### Last Names
+Steinolfdottir
+Armodottir
+Spiutdottir
+Thorgestdottir
+Konaldottir
+Hafgrimdottir
+Grindottir
+Hiorvardottir
+Arnthordottir
+Thorgeirdottir
+Øystæindottir
+Orgumleididottir
+Jarlabankidottir
+Iridottir
+Koridottir
+Sighvatdottir
+Tufidottir
+Hafgrimdottir
+Pauldottir
+Arnfinndottir
+Thorormdottir
+Thormardottir
+Halfdandottir
+Arfastdottir
+Grimardottir
+Veleifdottir
+Runolfdottir
+Ketilbjorndottir
+Hrodidottir
+Starridottir
+Ingimardottir
+Ulvkildottir
+Thokodolfdottir
+Anakoldottir
+Ondottdottir
+Biordottir
+Eskildottir
+Guthrothdottir
+Atsurrdottir
+Sigeferthdottir
+Steinbitrdottir
+Iogæirdottir
+Tostidottir
+Broddidottir
+Arinbjorndottir
+Hrifladottir
+Granidottir
+Sigeheahdottir
+Gærhialmdottir
+Spiutdottir
+Leiknirdottir
+Dyridottir
+Grimkeldottir
+Hallidottir
+Kormakdottir
+Ofeigdottir
+Nikolasdottir
+Kveldulfdottir
+Hrutdottir
+Folkmardottir
+Hroaldottir
+Hunbogidottir
+Ragnfastdottir
+Runolfdottir
+Skarfdottir
+Oswaldottir
+Arnljotdottir
+Hosvirdottir
+Svartdottir
+Bergvidottir
+Hagidottir
+Hedindottir
+Eydisdottir
+Gyrdottir
+Lifstændottir
+Grimdottir
+Hvitserkdottir
+Sigeweardottir
+Birningdottir
+Otkeldottir
+Hundidottir
+Thraindottir
+Ærnmundottir
+Gylfidottir
+Tokidottir
+Grisdottir
+Thorgautdottir
+Vertlithidottir
+Slothidottir
+Halfdandottir
+Austmathrdottir
+Gudmundottir
+Naddodottir
+Hranfastdottir
+Hrærekdottir
+Gullidottir
+Bretakollrdottir
+Haukdottir
+Asketilldottir
+Toladottir
 
 ## [Jotunn name generator](https://www.fantasynamegenerators.com/jotunn-names.php)
 
