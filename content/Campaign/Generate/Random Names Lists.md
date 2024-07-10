@@ -8686,7 +8686,7 @@ Thilo
 Wendelin
 Ottokar
 Degenhard
-Ivo
+[[Ivo of The Druids|Ivo]]
 Dietrich
 Gismondo
 Gerard
