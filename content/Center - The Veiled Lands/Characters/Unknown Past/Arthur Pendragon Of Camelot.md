@@ -4,7 +4,7 @@ tags:
   - unknown_past_NPC
 aliases:
   - King Arthur
-  - Arthur
+  - Arthur Pendragon
   - King Arthur Pendragon
 ---
 > [!Todo] There is still much to do

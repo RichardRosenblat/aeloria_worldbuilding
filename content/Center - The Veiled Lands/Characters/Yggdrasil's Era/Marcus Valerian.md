@@ -1,6 +1,5 @@
 ---
 aliases:
-  - Marcus
   - Valerian
 tags:
   - "#NPC"

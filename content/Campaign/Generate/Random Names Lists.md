@@ -1698,7 +1698,7 @@ Elsalle
 
 #### Full names
 Alcesimarchus Vitalis
-Candidus Civilis
+Candidus [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)|Civilis]]
 Philocomasium Euphemius
 Artotrogus Numerius
 Megadorus Clement
@@ -2067,7 +2067,7 @@ Artoria Surinus
 Helvia Hortensis
 Ateia Celatus
 Hortensia Vocula
-Caelia Florens
+[[Aena, goddess of kindness, creation and order - The Architect (LG)|Caelia]] Florens
 Potitia Patricius
 Petillia Virginius
 Insteia Martius
@@ -2734,7 +2734,7 @@ Sepurcia Libo
 Servilia Tiburs
 Secundia Sympronian
 Dexsia Dio
-Caelia Tanica
+[[Aena, goddess of kindness, creation and order - The Architect (LG)|Caelia]] Tanica
 Pedia Aciliana
 Sornatia Micon
 Cassia Ahala
@@ -2836,7 +2836,7 @@ Sepurcia Libo
 Servilia Tiburs
 Secundia Sympronian
 Dexsia Dio
-Caelia Tanica
+[[Aena, goddess of kindness, creation and order - The Architect (LG)|Caelia]] Tanica
 Pedia Aciliana
 Sornatia Micon
 Cassia Ahala
@@ -2957,7 +2957,7 @@ Bonifatia
 Crispa
 Albinia
 Sabellia
-Arcadia
+[[Arcadia]]
 Galaria
 Hosidia
 Pusinna
@@ -3310,7 +3310,7 @@ Scrofa
 Augendus
 Octavian
 Vopiscus
-Valerian
+[[Marcus Valerian|Valerian]]
 Livius
 Caepio
 Porphyrius
@@ -3945,7 +3945,7 @@ Dondero
 Baccaro
 Ripa
 Ciotti
-Savio
+[[Ioun, Goddess of Knowledge - The Enlightened (N)|Savio]]
 Masso
 Valentini
 Anastasi
@@ -3985,7 +3985,7 @@ Desdemona Di Giorgio
 Teodata Stolfi
 Menodora Sammarco
 Tarquinia Ben
-Minerva Roso
+[[Ioun, Goddess of Knowledge - The Enlightened (N)|Minerva]] Roso
 Ilva Muccio
 Iona Recchio
 Ilaria Vignali
@@ -4200,7 +4200,7 @@ Massari
 Curto
 Giardina
 Franceschi
-Tempesta
+[[Tempesta]]
 Castiglione
 Biamonte
 Senese
@@ -5836,7 +5836,7 @@ Juliana Indiano
 Alessandra Ureña
 Elsa Japón
 Selena Andrade
-Esperanza Tejedor
+[[Avandra, Goddess of Change, Autumn and Luck - The Changebringer (CG)|Esperanza]] Tejedor
 Florencia Galán
 Asia Gaona
 Laura Sofía Freixa
@@ -5888,7 +5888,7 @@ Angelina de la Cavallería
 Pilar Atenas
 Soledad Amengual
 Ariadna Alarcón
-Esperanza Manzanares
+[[Avandra, Goddess of Change, Autumn and Luck - The Changebringer (CG)|Esperanza]] Manzanares
 Ivanna Elvira
 Isabel Rouco
 Nina López
@@ -5967,7 +5967,7 @@ Tatiana
 Rebeca
 Zarina
 Allison
-Esperanza
+[[Avandra, Goddess of Change, Autumn and Luck - The Changebringer (CG)|Esperanza]]
 Alessandra
 Valerie
 Angelina
@@ -7233,7 +7233,7 @@ Nicola
 Nathalie
 Dorothe
 Tabea
-Luna
+[[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Luna]]
 Tina
 Isabel
 Erika
@@ -10372,7 +10372,7 @@ Ingigerd Arinbjorndottir
 Ogn Hersteindottir
 Siv Styrdottir
 Odindis Tufidottir
-Helga Halldordottir
+[[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Helga]] Halldordottir
 Herdis Svandottir
 Gro Heriolfdottir
 Yngvild Gormdottir
@@ -14819,7 +14819,7 @@ Caranoror (Bear + Person)
 Ûrphen (Wide/Heat + Person)
 Tegilbor (Writer)
 Giror (To Shudder/Tremble + Person)
-Pelor (To Fade/Wither + Person)
+[[Pelor, God of the Sun, Summer and Agriculture - The Dawnfather (NG)|Pelor]] (To Fade/Wither + Person)
 Gortheben (Horrible + Person)
 Daedhelben (Shadow of Horror + Person)
 Remlas (Joy Net)
@@ -17030,7 +17030,7 @@ Michiyo
 Hotaru
 Akimi
 Mizuho
-Hikari
+[[Aena, goddess of kindness, creation and order - The Architect (LG)|Hikari]]
 Kayo
 Akimi
 Iori
@@ -17050,7 +17050,7 @@ Michiru
 Izumi
 Tomomi
 Mitsuyo
-Hikari
+[[Aena, goddess of kindness, creation and order - The Architect (LG)|Hikari]]
 
 #### Last Names
 Kuno
@@ -18966,7 +18966,7 @@ Ermis Scafoulis
 Lavrentis Fotopoulos
 Fokionas Mastrolis
 Thodoris Stanatos
-Petros Thanatos
+Petros [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Thanatos]]
 Apollonas Mulou
 Pericles Kallides
 Likourgos Xeniadis
@@ -19231,7 +19231,7 @@ Androniki Lambroti
 Theonymfi Anastiade
 Fani Mattatou
 Louiza Economoglou
-Athena Kontiade
+[[Ioun, Goddess of Knowledge - The Enlightened (N)|Athena]] Kontiade
 Emmanouella Biriadi
 Zoi Toccili
 Valentina Demalli
@@ -19403,7 +19403,7 @@ Filareti
 Florentia
 Iro
 Stefania
-Athena
+[[Ioun, Goddess of Knowledge - The Enlightened (N)|Athena]]
 Ariadni
 Polyxeni
 Korina
@@ -19977,7 +19977,7 @@ Gala (Milk, Γᾰ́Λᾰ)
 Bdelugmia (Filth, Βδελῠγμῐ́Ᾱ)
 Akuo (Acoustics, Ἀκούω)
 Khion (Snow, Χιών)
-Mania (Madness, Μᾰνῐ́Ᾱ)
+[[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Mania]] (Madness, Μᾰνῐ́Ᾱ)
 Adelphotaes (Brotherhood, Ᾰ̓Δελφότης)
 Ankhisteim (Kinship, Ἀγχιστεία)
 Molper (Dance, Μολπή)
