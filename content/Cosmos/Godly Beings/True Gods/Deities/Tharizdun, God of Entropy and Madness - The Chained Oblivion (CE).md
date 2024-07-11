@@ -66,7 +66,7 @@ aliases:
 | Eldar (Elven) Elven       | Shelob             | The Chained God       | He/They/It     | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
 | Eldarin (Elven) Japanese  | Kamaitachi         | The Madness Whispers  | He/She/They/It | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
 | Mularir (Tallman) Greek   | Mania              | The Mindshatter       | He/They/It     | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
-| Yotunn (Dwarven) Giant      | Thrumgur           | The Mad Giant         | He/They/It     | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
+| Yotunn (Dwarven) Giant    | Thrumgur           | The Mad Giant         | He/They/It     | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 ## Extra Titles
 

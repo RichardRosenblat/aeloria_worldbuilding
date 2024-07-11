@@ -26,7 +26,7 @@ While [[True Gods]] carry the enduring Original [[divine spark]], Aspects bear e
 
 Aspects crafted by a single god serve specific roles:
 - **Representation of Domain:** Reflecting a facet of the god's dominion and thus a fraction of their power, an example of such being could be represented as an aspect of [[Erathis, Goddess of Civilization and Invention - The Lawbearer (LN)|Erathis]] embodying the laws supporting the foundation of a great planar city. Usually, these Aspects gain free will and individuality, acting independently from their creators but mostly in alignment with their goals.
-- **Agent of the [[True Gods|True God]]:** Mirroring the [[True Gods|True God]]'s appearance but wielding only a fraction of their power. For instance, aspects of Tiamat spread across planes, amassing wealth for the goddess of greed. Usually, these Aspects are bound to the will of their creators, acting as extensions of their divine will.
+- **Agent of the [[True Gods|True God]]:** Mirroring the [[True Gods|True God]]'s appearance but wielding only a fraction of their power. For instance, aspects of [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat]] spread across planes, amassing wealth for the goddess of greed. Usually, these Aspects are bound to the will of their creators, acting as extensions of their divine will.
 
 ### Joined Aspects
 

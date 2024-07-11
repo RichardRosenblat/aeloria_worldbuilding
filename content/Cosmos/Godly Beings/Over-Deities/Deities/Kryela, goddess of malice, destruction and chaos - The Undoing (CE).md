@@ -16,7 +16,7 @@ aliases:
   - Yami
   - The Shadowcaster
   - Typhon
-  - The Ebon Tempest
+  - The Endless Tempest
   - Sardland
   - The Typhoon Lord
   - The Broken Tower
@@ -28,17 +28,17 @@ aliases:
 
 ## Culture names
 
-|Culture|Name|Title|Pronouns|Group|
-|---|---|---|---|---|
-|Alonian (Tallman) Generic|Kryela|The Undoing|She/Her|[[over-deities\|The Dyad]]|
-|Asteni (Tallman) Italian|Morsius|The Broken Tower |He/Him|[[over-deities\|Il Doppio (The double)]]|
-|Dal (Tallman) Castillian|Devoradora|The End|She/Her|[[over-deities\|La Dualidad (The duality)]]|
-|Duir (Dwarven) German|Dunkelruf|The Endless Shadow |He/Him|[[over-deities\|Die Machtigen (The empowered)]]|
-|Dwelmer (Dwarven) Nordic|Kroll|The Obsidian Schism|He/They|[[over-deities\|Tvískapt (Twin Creators)]]|
-|Eldar (Elven) Elven|Maegon|The Final Calamity|He/Him|[[over-deities\|Iluvatar (Parents of all)]]|
-|Eldarin (Elven) Japanese|Yami|The Shadowcaster|He/Him|[[over-deities\|Nikami(Two gods)]]|
-|Mularir (Tallman) Greek|Typhon|The Ebon Tempest|He/They|[[over-deities\|Exousíes (The powers)]]|
-|Yotunn (Dwarven) Giant|Sardland|The Typhoon Lord|He/Him|[[over-deities\|Hinn Oflugi (The powerful)]]|
+| Culture                   | Name       | Title               | Pronouns | Group                                           |
+| ------------------------- |:---------- | ------------------- | -------- | ----------------------------------------------- |
+| Alonian (Tallman) Generic | Kryela     | The Undoing         | She/Her  | [[over-deities\|The Dyad]]                      |
+| Asteni (Tallman) Italian  | Morsius    | The Broken Tower    | He/Him   | [[over-deities\|Il Doppio (The double)]]        |
+| Dal (Tallman) Castillian  | Devoradora | The End             | She/Her  | [[over-deities\|La Dualidad (The duality)]]     |
+| Duir (Dwarven) German     | Dunkelruf  | The Endless Shadow  | He/Him   | [[over-deities\|Die Machtigen (The empowered)]] |
+| Dwelmer (Dwarven) Nordic  | Kroll      | The Obsidian Schism | He/They  | [[over-deities\|Tvískapt (Twin Creators)]]      |
+| Eldar (Elven) Elven       | Maegon     | The Final Calamity  | He/Him   | [[over-deities\|Iluvatar (Parents of all)]]     |
+| Eldarin (Elven) Japanese  | Yami       | The Shadowcaster    | He/Him   | [[over-deities\|Nikami(Two gods)]]              |
+| Mularir (Tallman) Greek   | Typhon     | The Endless Tempest    | He/They  | [[over-deities\|Exousíes (The powers)]]         |
+| Yotunn (Dwarven) Giant    | Sardland   | The Typhoon Lord    | He/Him   | [[over-deities\|Hinn Oflugi (The powerful)]]    |
 
 ## Extra Titles
     

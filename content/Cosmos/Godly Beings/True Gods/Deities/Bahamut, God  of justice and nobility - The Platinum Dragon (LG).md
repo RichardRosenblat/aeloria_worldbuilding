@@ -258,7 +258,7 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 ![[The Calm Age (CA)#The Birth of Dragons]]
 
 ### Battle between Bahamut and [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat]]
-![[The Great War (GW)#Battle between the Dragon Gods, Tiamat and Bahamut, God of Justice and Nobility - The Platinum Dragon (LG)]]
+![[The Great War (GW)#Battle between the Dragon Gods, Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE) Tiamat and Bahamut, God of Justice and Nobility - The Platinum Dragon (LG)]]
 
 ### The attack during [[The Great War (GW)|The Great War]] against [[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]
 ![[The Great War (GW)#The Wound of Gruumsh, God of Destruction - The Ruiner (CE) Gruumsh]]

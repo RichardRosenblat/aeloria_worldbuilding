@@ -16,10 +16,10 @@ aliases:
   - The Luminary
   - The Ironforged
   - The Forgefather
-  - The Weavekeeper
+  - The Worldkeeper
   - The Illuminator
   - The Divine Architect
-  - The Mountainfather
+  - The Titanmaker
 ---
 # Aena, Goddess of Kindness, Creation, and Order: The Architect (LG)
 
@@ -27,17 +27,17 @@ aliases:
 
 ## Culture Names
 
-| Culture                | Name       | Title               | Pronouns | Group                   |
-|------------------------|------------|---------------------|----------|-------------------------|
-| Alonian (Tallman) Generic | Aena       | The Architect       | She/Her  | [[Over-Deities\|The Dyad                ]]|
-| Asteni (Tallman) Italian  | Caelia     | The Divine Artisan  | She/Them | [[Over-Deities\|Il Doppio (The double)  ]]|
-| Dal (Tallman) Hispanic | Luminara   | The Luminary        | She/Her  | [[Over-Deities\|La Dualidad (The duality)]]|
-| Duir (Dwarven) German   | Eisenheim  | The Ironforged       | She/Him  | [[Over-Deities\|Die Machtigen (The empowered)]]|
-| Dwelmer (Dwarven) Nordic | Hrothgar | The Forgefather      | He/HIm   | [[Over-Deities\|Tvískapt (Twin Creators)]]|
-| Eldar (Elven) Elven     | Aelara     | The Weavekeeper      | She/Her  | [[Over-Deities\|Iluvatar (Parents of all)]]|
-| Eldarin (Elven) Japanese| Hikari     | The Illuminator      | She/Her  | [[Over-Deities\|Nikami(Two gods)        ]]|
-| Mularir (Tallman) Greek   | Themis     | The Divine Architect | She/Her  | [[Over-Deities\|Exousíes (The powers)   ]]|
-| Yotunn (Dwarven) Giant    | Jotunheim  | The Mountainfather   | He/Them  | [[Over-Deities\|Hinn Oflugi (The powerful)]]|
+| Culture                   | Name      | Title                | Pronouns | Group                                           |
+| ------------------------- | --------- | -------------------- | -------- | ----------------------------------------------- |
+| Alonian (Tallman) Generic | Aena      | The Architect        | She/Her  | [[Over-Deities\|The Dyad                ]]      |
+| Asteni (Tallman) Italian  | Caelia    | The Divine Artisan   | She/Them | [[Over-Deities\|Il Doppio (The double)  ]]      |
+| Dal (Tallman) Hispanic    | Luminara  | The Luminary         | She/Her  | [[Over-Deities\|La Dualidad (The duality)]]     |
+| Duir (Dwarven) German     | Eisenheim | The Ironforged       | She/Him  | [[Over-Deities\|Die Machtigen (The empowered)]] |
+| Dwelmer (Dwarven) Nordic  | Hrothgar  | The Forgefather      | He/HIm   | [[Over-Deities\|Tvískapt (Twin Creators)]]      |
+| Eldar (Elven) Elven       | Aelara    | The Worldkeeper      | She/Her  | [[Over-Deities\|Iluvatar (Parents of all)]]     |
+| Eldarin (Elven) Japanese  | Hikari    | The Illuminator      | She/Her  | [[Over-Deities\|Nikami(Two gods)        ]]      |
+| Mularir (Tallman) Greek   | Themis    | The Divine Architect | She/Her  | [[Over-Deities\|Exousíes (The powers)   ]]      |
+| Yotunn (Dwarven) Giant    | Jotunhim  | The Titanmaker       | He/Them  | [[Over-Deities\|Hinn Oflugi (The powerful)]]    |
 
 
 ## Extra Titles

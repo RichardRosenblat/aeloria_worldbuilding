@@ -4,7 +4,7 @@ tags:
 aliases:
   - Asmodeus
   - Tiranno
-  - Dablo
+  - Asmodez
   - Tyrann
   - Mordgrim
   - Morgoth
@@ -13,7 +13,7 @@ aliases:
   - Frostkald
   - The Lord of the Nine Hells
   - The Hellish King
-  - The Lord of Infernal Dominion
+  - The Control Devil
   - The Lord of Lies
   - The Tyrant of the Depths
   - The Dark Lord
@@ -31,13 +31,13 @@ aliases:
 | ------------------------- | --------- | ------------------------------ | -------- | ---------------------------------------------------------- |
 | Alonian (Tallman) Generic | Asmodeus  | The Lord of [[the Nine Hells]] | He/Him   | The [[Defiant Gods]]                                       |
 | Asteni (Tallman) Italian  | Tiranno   | The Hellish King               | He/Him   | [[Defiant Gods\|Gli Dei Sfidanti]] (The challenging gods)  |
-| Dal (Tallman) Hispanic    | Dablo     | The Lord of Infernal Dominion  | He/Him   | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
+| Dal (Tallman) Hispanic    | Asmodez   | The Control Devil              | He/Him   | [[Defiant Gods\|Los Desafiantes]] (The challengers)        |
 | Duir (Dwarven) German     | Tyrann    | The Lord of Lies               | He/Him   | [[Defiant Gods\|Die Gegner]] (The opposers)                |
 | Dwelmer (Dwarven) Nordic  | Mordgrim  | The Tyrant of the Depths       | He/Him   | [[Defiant Gods\|Vanróg Gudar]] (Deifying gods)             |
 | Eldar (Elven) Elven       | Morgoth   | The Dark Lord                  | He/Him   | [[Defiant Gods\|Vaiar]] (Tyrants)                          |
 | Eldarin (Elven) Japanese  | Izanami   | The Dark Empress of Shadows    | She/They | [[Defiant Gods\|Akugami]] ([[Defiant Gods\|Evil deities]]) |
 | Mularir (Tallman) Greek   | Phobos    | The Styx Commander             | He/Him   | [[Defiant Gods\|Thymo theoí]] (Wrath gods)                 |
-| Yotunn (Dwarven) Giant      | Frostkald | The Frostlord of Domination    | He/Him   | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
+| Yotunn (Dwarven) Giant    | Frostkald | The Frostlord of Domination    | He/Him   | [[Defiant Gods\|Gegn Guir]] (The Gods against)             |
 
 ## Extra Titles
 

@@ -61,7 +61,7 @@ To aid them in their divine task, they birthed a pantheon of [[True Gods]]:
 - **Torog**
 - **[[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]]**
 - **[[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|Lolth]]**
-- **Tiamat**
+- **[[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat]]**
 - **[[Vordo]]**
 - **Zehir**
 

@@ -19,7 +19,7 @@ aliases:
   - The Master Forger
   - The Dreamshaper
   - The Eternal Craftsman
-  - The Stoneforge Creator
+  - The Mountainfather
 ---
 # Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)
 
@@ -37,7 +37,7 @@ aliases:
 | Eldar (Elven) Elven      | Aulë         | The Master Forger      | They/Them | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese | Kagutsuchi   | The Dreamshaper        | She/Her   | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
 | Mularir (Tallman) Greek    | Pantropos    | The Eternal Craftsman  | He/Him    | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
-| Yotunn (Dwarven) Giant     | Verkandr     | The Stoneforge Creator | He/Him    | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
+| Yotunn (Dwarven) Giant     | Verkandr     | The Mountainfather | He/Him    | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 ## Extra Titles
 

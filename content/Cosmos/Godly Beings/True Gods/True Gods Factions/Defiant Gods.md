@@ -33,7 +33,7 @@ The Defiant Gods unite in their dissatisfaction, viewing the flaws in their crea
 Despite their differences, The Defiant Gods form an unlikely alliance with the [[Harmonious Gods|Harmonious Deities]], driven by the impending threat of chaotic primordial forces. This delicate pact becomes a pivotal moment in the divine chronicles, forcing [[True Gods]] accustomed to asserting individual wills to cooperate for the sake of cosmic stability.
 
 ## Birth of Dragons
-In the uneasy truce, [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]] and Tiamat, two formidable [[True Gods]] with disparate motives, collaborate to give birth to dragons. Chromatic Dragons, crafted by Tiamat, embody elemental fury, while Metallic Dragons, created by [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]], serve as protectors of mortal realms.
+In the uneasy truce, [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]] and [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat]], two formidable [[True Gods]] with disparate motives, collaborate to give birth to dragons. Chromatic Dragons, crafted by [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat]], embody elemental fury, while Metallic Dragons, created by [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]], serve as protectors of mortal realms.
 
 ## Pivotal Role of Dragons
 Dragons play a crucial role in sealing potent primordial elements, creating [[elemental planes]] and preventing chaos. The unintended consequence of escaping elemental energies becomes a catalyst for the control of arcane magic, with dragons at the forefront of maintaining equilibrium.

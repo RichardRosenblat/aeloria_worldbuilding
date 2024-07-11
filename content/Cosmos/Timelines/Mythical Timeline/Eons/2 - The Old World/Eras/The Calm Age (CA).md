@@ -54,11 +54,11 @@ This unlikely alliance marked a pivotal moment in the divine chronicles, as [[Tr
 
 ## The Birth of Dragons
 
-In the midst of the uneasy truce that bridged the chasm between the "[[Defiant Gods]]" and the "[[Harmonious Gods|Harmonious Deities]]", a remarkable collaboration unfolded. [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]] and Tiamat, two formidable [[True Gods]] with disparate motives, united their divine powers to mold the elemental forces and essences of reality give birth to a new order: the dragons. These majestic beings were bestowed with immense power and a profound purpose, becoming the guardians of cosmic harmony.
+In the midst of the uneasy truce that bridged the chasm between the "[[Defiant Gods]]" and the "[[Harmonious Gods|Harmonious Deities]]", a remarkable collaboration unfolded. [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]] and [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat]], two formidable [[True Gods]] with disparate motives, united their divine powers to mold the elemental forces and essences of reality give birth to a new order: the dragons. These majestic beings were bestowed with immense power and a profound purpose, becoming the guardians of cosmic harmony.
 
-### Tiamat's Chromatic Dragons: Elemental Fury Unleashed
+### [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat]]'s Chromatic Dragons: Elemental Fury Unleashed
 
-Tiamat, in her divine creativity, crafted the "**Chromatic Dragons**." These dragons, infused with elemental energy, were tasked with a monumental mission—to resist and push back the relentless onslaught of primordial elemental forces. As powerful beings, the chromatic dragons embodied the very essence of raw power incarnate. Over time, they grew in both greed and unparalleled strength, becoming formidable protectors of the delicate balance between creation and chaos.
+[[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat]], in her divine creativity, crafted the "**Chromatic Dragons**." These dragons, infused with elemental energy, were tasked with a monumental mission—to resist and push back the relentless onslaught of primordial elemental forces. As powerful beings, the chromatic dragons embodied the very essence of raw power incarnate. Over time, they grew in both greed and unparalleled strength, becoming formidable protectors of the delicate balance between creation and chaos.
 
 The chromatic dragons, each representing a different elemental aspect and color, stood as guardians against the forces that sought to disrupt the fabric of existence. Their chromatic scales saturated with the potent energy they wielded, a testament to their role in maintaining equilibrium in the face of cosmic turmoil.
 
