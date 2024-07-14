@@ -3,6 +3,23 @@ tags:
   - true_god
 aliases:
   - Tiamat
+  - Avaritia
+  - Drakona
+  - Vergeltung
+  - Nidhogg
+  - Gorthaur
+  - Amakiri
+  - Avaros
+  - Gullung
+  - The Scaled Tyrant
+  - The Mistress of Avarice
+  - The Vengeful Opulence
+  - The Mother of Dragons
+  - The First Dragon
+  - The Infernal Dragon
+  - The Dragon Queen
+  - The Master of Avarice
+  - The Hoarder of Skulls
 ---
 # Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)
 
@@ -23,22 +40,46 @@ aliases:
 
 ## Extra Titles
 
+The Queen of Dragons: Tiamat, Goddess of Chromatic Dragons
+The Greedy: Tiamat, Goddess of Wealth and Greed
+The Vengeful: Tiamat, Goddess of Retribution
+The Dragon of Chaos: Tiamat, Goddess of Chaos
+
 ## Commandments
+
+- *Amass wealth, but spend little. The gold—and the power that comes with it—is sufficient reward in itself.*
+- *Do not forgive nor forget an indignity to yourself. Let no affront go unpunished.*
+- *Take what you covet. Those without the strength to defend their dominion are not worthy of it.*
 
 ## Portfolio
 
 ## Alignment
 
+_Chaotic Evil_
+
 ## Symbols
+
+![[tiamat symbol2.png|400]][^2]
+
+_Five-pointed star with curved points_
+
+
+![[tiamat symbol.png]][^1]
+
+_Taloned dragon claw surrounded by draconic letters_
 
 ## Avatars
 ### Alonian (Tallman) Generic
 
+> Tiamat is depicted as a massive, five-headed dragon, with each head a different color of chromatic dragon, and her leathery wings spread far and wide
+![[Tiamat appearance.png|400]][^1]
+
 ## Cleric Domains
 
-| Domains |
-| ------- |
-|         |
+| Domains  |
+|:-------- |
+| Trickery |
+| War      |
 
 ## Religious Practices
 
@@ -48,7 +89,23 @@ aliases:
 
 ## Elemental Affinities
 
+| Elements |
+|:-------- |
+| Water |
+| Earth |
+| Fire |
+| Air |
+| Acid |
+| Poison |
+| Electricity |
+| Cold |
+| Corruption |
+| Darkness |
+| Chaos |
+
 ## Home Plane
+
+[[The Nine Hells#Avernus.|Nine Hells of Baator > Avernus]]
 
 ## Champions
 
@@ -83,4 +140,7 @@ now can you generate a portfolio of things they are associated with them, a deit
 now can you generate political structures associated with them
 now can you generate a list of 8 blessings the god can bestow upon their followers as they gain favor with this god in dnd terms
 now can you generate a list of 8 curses the god's follower can bestow upon their enemies as they gain favor with this god in dnd terms
-now can you generate a list of elements that could be associated with them
+now can you generate a list of elements that could be associated with them  
+
+[^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Tiamat)
+[^2]: [Pinterest](https://br.pinterest.com/pin/535154368229595155/)

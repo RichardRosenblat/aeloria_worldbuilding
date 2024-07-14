@@ -17,7 +17,7 @@ Celestra, the celestial marvel, derives its name from the [[Bahamut, God  of Jus
 
 In the [[The Calm Age (CA)|Calm Age]], the dragons were brought forth into existence. [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]], [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|the Platinum Dragon]] and embodiment of nobility and justice, created the Metallic Dragons. These majestic beings were tasked with safeguarding mortals and their settlements from the unruly forces of the prime elements.
 
-On the opposing side, [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat]], the Scaled Tyrant and deity of wealth, greed, and vengeance, crafted the Chromatic Dragons. Born with a mission to combat and repel the prime elemental forces, they stood as the frontline warriors in the cosmic struggle.
+On the opposing side, [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat]], [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|the Scaled Tyrant]] and deity of wealth, greed, and vengeance, crafted the Chromatic Dragons. Born with a mission to combat and repel the prime elemental forces, they stood as the frontline warriors in the cosmic struggle.
 
 The dragons wielded remarkable power, captivating even the attention of the gods themselves. [[Kord, God of Strength and Storms - The Stormlord (CN)|Kord]], [[Kord, God of Strength and Storms - The Stormlord (CN)|the Stormlord]] and deity of strength and storms, marveled at the might of these creatures. Impressed by their prowess and acknowledging the glory their victories brought to him, [[Kord, God of Strength and Storms - The Stormlord (CN)|Kord]] decided to reward them.
 
