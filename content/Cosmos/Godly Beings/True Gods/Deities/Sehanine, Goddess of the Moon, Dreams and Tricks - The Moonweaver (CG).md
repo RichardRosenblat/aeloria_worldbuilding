@@ -24,7 +24,7 @@ aliases:
 ---
 # Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)
 
-"I could never find the right way to tell you. But have you noticed? The beauty hidden beneath each stone? The innocence in the path of a leaf? There is a long way foward, so trust in me, the moonweaver will watch over you, even when you think you are alone. You know, her power is devious and subtle, like the moonlight on the water. And once you are back, you can sing us the beauty you've seen. So there's no need to think of time, nor what is left of it, just follow the journey you need to take... Huh... I'm sorry for crying... I just... I just love you so much, so please smile on your journey, for I will be waiting for you." - The old priestess of Sehanine, to an adventurer before they left.
+"I could never find the right way to tell you, really... Words would fall short. But have you noticed? The beauty hidden beneath each stone? The innocence in the path of a leaf? There is a long way forward, so trust in me, the moonweaver will watch over you, even when you think you are alone. You know, her power is devious and subtle, like the moonlight on the water. And once you are back, you can sing us the beauty you've seen. So there's no need to think of time, nor what is left of it, just follow the journey you need to take... Huh... I'm sorry for crying... I just... I just love you so much, so please smile on your journey, for I will be waiting for you." - The old priestess of Sehanine, to an adventurer before they left.
 
 ## Culture Names
 

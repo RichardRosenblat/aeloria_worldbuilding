@@ -46,36 +46,37 @@ tags:
 11. [ ] Create Map
 12. [ ] Create Biomes
 13. [ ] Create Seas/Oceans
-14. [ ] Make forgotten gods of old worships
-15. [ ] Create [[Marcus Valerian]]
-16. [ ] Create Monsters
-17. [ ] Finish unfinished NPCs
-18. [ ] Create more holidays (must be revisited once the world is more developed)
+14. [ ] fix [[Sehanine Temple In Lake Near Hills (TBD)]]
+15. [ ] Make forgotten gods of old worships
+16. [ ] Create [[Marcus Valerian]]
+17. [ ] Create Monsters
+18. [ ] Finish unfinished NPCs
+19. [ ] Create more holidays (must be revisited once the world is more developed)
     1. [x] Create global holidays
     2. [ ] Create religious holidays (one for each god)
     3. [ ] Create historic holidays (only recorded history)
     4. [ ] Create cultural holidays (3/4 for each culture)
-19. [ ] Add info on planes taking inspiration in this playlist https://www.youtube.com/playlist?list=PLR1G6DpFDXdOtqGkkBXS3e-BWm7OyF_cA
-20. [ ] Create more monsters
-21. [ ] Create custom Downtime activities
-22. [ ] Create symbols/sigils for planets and moon
-23. [ ] Create the texts in the "Names mentioned that still need creating"
-24. [ ] Create [[Lightborn]]
-25. [ ] Create [[Shadowborn]]
-26. [ ] Write down info about the character options 
-27. [ ] Create types of ruins, their info like characterisits, materials, categorizations etc and categories
-28. [ ] Create different avatars for the gods for different cultures
-29. [ ] Create Elements/Magic
-30. [ ] Create theory of arcane
-31. [ ] Add the venger
-32. [ ] Make ways to recognize members of factions, and diferentials of each rank
-33. [ ] Make [[Saturnii Narmer|saturnii]]'s corruption arc
+20. [ ] Add info on planes taking inspiration in this playlist https://www.youtube.com/playlist?list=PLR1G6DpFDXdOtqGkkBXS3e-BWm7OyF_cA
+21. [ ] Create more monsters
+22. [ ] Create custom Downtime activities
+23. [ ] Create symbols/sigils for planets and moon
+24. [ ] Create the texts in the "Names mentioned that still need creating"
+25. [ ] Create [[Lightborn]]
+26. [ ] Create [[Shadowborn]]
+27. [ ] Write down info about the character options 
+28. [ ] Create types of ruins, their info like characterisits, materials, categorizations etc and categories
+29. [ ] Create different avatars for the gods for different cultures
+30. [ ] Create Elements/Magic
+31. [ ] Create theory of arcane
+32. [ ] Add the venger
+33. [ ] Make ways to recognize members of factions, and diferentials of each rank
+34. [ ] Make [[Saturnii Narmer|saturnii]]'s corruption arc
 	1. [ ] Crown of dominion
 	2. [ ] https://youtu.be/U-LNI8JZYtE?si=lELf2yYZ0wVaV1-4
-34. [ ] Create Cultures and expand on it
-35. [ ] Change Alonian culture name
-36. [ ] Create Kingdoms
-37. [ ] Create story of cultural erasure and signs of forgotten cultural detritus
+35. [ ] Create Cultures and expand on it
+36. [ ] Change Alonian culture name
+37. [ ] Create Kingdoms
+38. [ ] Create story of cultural erasure and signs of forgotten cultural detritus
 ## These tasks can be done after the capaign starts
 1. [ ] Create Alchemical Ingredients
 2. [ ] Visit planes and create models for them 

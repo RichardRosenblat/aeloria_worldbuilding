@@ -91,8 +91,6 @@ _Taloned dragon claw surrounded by draconic letters_
 
 | Elements |
 |:-------- |
-| Water |
-| Earth |
 | Fire |
 | Air |
 | Acid |

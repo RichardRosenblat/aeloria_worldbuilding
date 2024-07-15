@@ -170,13 +170,36 @@ The followers of Bahamut have established various political structures that refl
 
 ## Elemental Affinities
 
-| Elements |
-| ---- |
-| Metal |
-| Fire |
-| Divine |
-| Abjuration |
-| Order |
+fire
+sleep
+repulsion
+lightning
+acid
+slowing
+weakening
+fire
+paralizing
+cold
+
+
+| Elements   |
+| ---------- |
+|Fire|
+|Air|
+|Metal|
+|Acid|
+|Poison|
+|Electricity|
+|Cold|
+|Energy|
+|Life|
+|Transmutation|
+|Divination|
+|Abjuration|
+|Divine|
+|Mind|
+|Order|
+|Time|
 
 ## Home Plane
 
