@@ -128,6 +128,22 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ## Myths
 
+### Creation of [[Solaurum]]
+
+![[Solaurum#Creation]]
+
+### The gift from [[Kord, God of Strength and Storms - The Stormlord (CN)|Kord]]
+
+![[Tormentia#Tormentia's Creation]]
+
+### Creating the Chromatic Dragons Along With [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]]
+
+![[The Calm Age (CA)#The Birth of Dragons]]
+
+### Battle against [[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]]
+
+![[The Great War (GW)#Battle between the Dragon Gods, Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE) Tiamat and Bahamut, God of Justice and Nobility - The Platinum Dragon (LG)]]
+
 
 
 for the god above can you create:

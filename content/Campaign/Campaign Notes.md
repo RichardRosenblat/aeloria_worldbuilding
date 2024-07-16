@@ -22,10 +22,11 @@ tags:
 | Generating Random builds    | [[Random Buildings]]                |
 | Names on demand             | [[Random Names Lists]]              |
 
-## Songs to remember to use
+# Songs to remember to use
 Makora - https://youtu.be/vOWSDBKFjQ4?si=bvnU6ZeeT4W2ENHs
 Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
-## Random Quotes
+
+# Random Quotes
 
 1. "Are you aiming for greatness or avoiding disapointment"
 2. “the only evil that can be excused as necessary is the one that nation controls”
@@ -125,8 +126,11 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 96. "Never look a gift horse in the mouth."
 97. "He who has no ears doesn't wear glasses."
 98. "Palaces of silver and gold cannot be built overnight."
+99. "I have the body of a pig"
+100. "Lies? in your house of god?"
+101. "Do not mistake my altruism with indifference. I shall not lay the wicked among the fair; the love of the gods is not unconditional, and neither is mine."
 
-## Names For Outsiders
+# Names For Outsiders
 Ya'qub Qamar Ad-din Dibiazah The greatest Sultan in his time
 Khalid Kashmiri Strongest commander in the middle east
 Khindir Karawita Greatest lancer and strategist in his prime
@@ -134,7 +138,7 @@ Ismail Ahmad Kanabawi The best horseman of all time
 Usman Abdul Jalil Sisha Smartest sage in the desert
 Muhammad Sumbul The bravest soldier of all time
 
-## Ideas of stuff to do
+# Ideas of stuff to do
 
 - Witch encounter offering tallman food
 - Villain encounter in ball playing libertango
@@ -165,62 +169,340 @@ Muhammad Sumbul The bravest soldier of all time
     - **Simulacrum #4 of (Wizard A)**: "Malir (Wizard A) kur anima dolor foruta opet arcanum loquer a murat oretis (Wizard B) kur simulacrums."
     - **Simulacrum #4 of (Wizard B)**: "Malir cum (Wizard B) lapertus protetus arcanum locatis ob servis tolia aenum etea."
 
- 
-## Quest ideas
-- Quest of clearing a goblin cave (with the scroll)
+# Campaign ideas
+
+## Akemi's servants
+### Overview
+
+### Background
+The party members are associated with the Wizardry Institute, either as employees or individuals who owe a significant favor. They work under Akemi, a charismatic and enigmatic woman with golden hair and golden eyes. Akemi is known for her beauty and charm, but as the campaign progresses, her mysterious and unsettling nature becomes more apparent.
+
+### Mission Structure
+The missions begin with straightforward tasks but gradually evolve into complex investigations involving cosmic horrors beyond understanding. Here are a few key missions:
+
+1. **The Missing Lighthouse Keepers**
+   - **Objective**: Discover the fate of a group of lighthouse keepers who have mysteriously disappeared.
+   - **Logs Found**:
+     - Log 1: "A fog is coming, sky seems clear, no ships in sight."
+     - Log 2: "The fog is growing thicker, winds are picking up."
+     - Log 3: "The fog is so thick, we can't see the shore of the island from the lighthouse's balcony."
+     - Log 4: "A storm is coming, the fog is still thick, men report hearing strange noises in the fog."
+     - Log 5: "There is something in the fog, the men are praying to the gods."
+     - Log 6: "The storm is getting worse, men are crying and desperate, praying fervently. The thing in the fog is closing in on us."
+     - Log 7: "The men were not praying to the gods, they were praying to the thing in the fog. The god is coming."
+     - Log 8: "The storm calmed down, the god came above us all."
+
+2. **Rescue in the Underwater City**
+   - **Objective**: Rescue a crew of wizards trapped in an underwater city located in the deepest part of the ocean.
+   - **City Description**:
+     - The city is built from unusual materials, with buildings that maintain air inside, and is deserted except for two groups: the explorers (trapped wizards) and the servants (mysterious creatures with porcelain humanoid faces, spider legs, and cloaks hiding their true forms).
+     - Artifacts within the buildings keep the air inside but cause sickness when in the same room.
+     - The city is interconnected by numerous underground tunnels, some partially or fully flooded. 
+     - Legends speak of a larger artifact capable of creating an air bubble around the entire city, though it is currently broken.
+
+### Akemi's Presence
+Throughout the missions, the party encounters paintings or statues depicting Akemi in the background, always observing them with a faint smile. As they notice these recurring images, they realize the unsettling truth about her:
+- Akemi's eyes glow faintly, and she always appears to be one step ahead, knowing details no one else should.
+- She never shows any other expression or emotion beyond a neutral look or faint smile.
+- Akemi never blinks, sleeps, eats, drinks, or ages.
+
+#### Scary scenes with Akemi
+Here are some eerie and unsettling scenes involving Akemi, designed to create a sense of omnipresence and hopelessness:
+
+1. **Unblinking Eyes in Paintings**
+   - While exploring, the party finds an old painting. Initially, it seems ordinary, but as they examine it, they notice Akemi faintly painted in the background. Her eyes are unblinking and seem to follow them wherever they move.
+
+2. **Ancient Cave Paintings**
+   - The party discovers ancient cave paintings depicting scenes of suffering. Among the figures, they see Akemi, pointing directly at the suffering people or at the characters themselves, her golden eyes eerily clear even in the primitive artwork.
+
+3. **Mirrors Watching Them**
+   - When the characters glance at mirrors peripherally, they see Akemi's reflection instead of their own. Her eyes are always fixed on them, giving the impression that she is constantly watching.
+
+4. **Nighttime Visitation**
+   - One night, a character wakes up and sees the half-open door of their room. Akemi’s figure stands there, her golden eyes staring directly at them. Before they can react, the door slowly closes on its own.
+
+5. **Mirror Deception**
+   - The characters find a mirror that shows Akemi standing behind them when they look into it. When they turn around, no one is there. Looking back at the mirror, they see their own reflection, but with Akemi’s golden eyes.
+
+6. **Animal Followers**
+   - Wherever the characters go, they notice that rats and crows seem to follow them. These animals act unusually friendly, almost as if they are under Akemi's influence.
+
+7. **Enemies' Sudden Deaths**
+   - Some of the characters’ enemies suddenly drop dead in their presence, their eyes rolling back into their heads. The characters hear Akemi’s faint laughter, whispered on the wind.
+
+8. **Cryptic Messages**
+   - The party frequently finds cryptic messages written in Akemi’s distinctive handwriting. These messages appear in random places, such as on walls, in books, or even on their own belongings, always hinting that she knows more than she should.
+
+9. **Distorted Reflections**
+   - Occasionally, when the characters look into mirrors, they see Akemi’s reflection instead of their own for a few seconds. This unsettling phenomenon leaves them questioning reality.
+
+10. **Mimicked Eyes and Speech**
+    - The characters encounter someone who has the same golden eyes as Akemi and speaks in a similar, composed, and polite manner. This person’s behavior is eerily reminiscent of Akemi, leaving the characters feeling unnerved.
+
+11. **Golden Strands of Hair**
+    - Upon waking up, the characters sometimes find golden strands of hair around their room. The hair is unmistakably Akemi’s, suggesting she was there while they slept.
+12. **Painful Moaning in Akemi's Place**
+   - When resting at Akemi's place or areas under her jurisdiction, the characters hear painful moaning emanating from seemingly empty spaces or specific points in the room. Some believe attacking the source will help, but doing so only makes the moans louder and more agonizing before they finally disappear.
+
+13. **Mangled Attackers**
+   - The group learns that Akemi's place was attacked, with many people injured. However, Akemi and a few others emerge unharmed. When questioned, Akemi calmly states she wasn't attacked. The bodies of the attackers are found horribly mangled, with no clear explanation for their fate.
+
+14. **Shadowy Figures**
+   - The characters occasionally see shadowy figures that resemble Akemi flitting just out of sight. These figures are never there when they turn to look directly, but their presence is unsettlingly felt.
+
+15. **Whispers in the Wind**
+   - When the characters are alone, they hear whispers in Akemi’s voice, offering cryptic advice or warnings. The whispers seem to come from nowhere and are often accompanied by a chilling breeze.
+
+16. **Unnatural Weather**
+   - As the characters approach a location associated with Akemi, the weather suddenly changes. A clear day turns into a sudden storm or thick fog, with Akemi’s face briefly visible in the clouds or mist.
+
+17. **Sudden Visions**
+   - One or more characters experience sudden, vivid visions of Akemi. These visions show her in various states, such as calmly watching them, performing arcane rituals, or surrounded by suffering souls.
+
+18. **Familiar Stranger**
+   - The characters encounter a stranger who behaves exactly like Akemi, with the same mannerisms and voice. This person claims to have never heard of Akemi, leaving the party confused and on edge.
+
+19. **Unseen Forces**
+   - Objects around the characters move on their own. Doors slam shut, books fall from shelves, and candles extinguish without explanation. These disturbances often happen when Akemi is mentioned or thought about.
+
+20. **Uncanny Predictions**
+   - Akemi makes eerily accurate predictions about the characters' futures. These predictions are always calm and polite but leave the characters feeling unnerved by her apparent knowledge of their personal lives.
+
+21. **Strange Shadows**
+    - When the characters cast shadows, they sometimes see Akemi’s silhouette instead of their own. This phenomenon is fleeting, but deeply unsettling.
+
+22. **Unnatural Calm**
+    - In times of extreme danger or stress, the characters hear Akemi’s calm voice in their heads, soothing them. This presence is both comforting and disturbing, as it reinforces her omnipresence.
+
+23. **Mirror Doppelgängers**
+    - In reflective surfaces, the characters occasionally see themselves as Akemi, mimicking their actions perfectly. This distortion disappears when they look away, leaving them questioning their sanity.
+
+#### Akemi Quotes
+
+1. "You mustn't worry about what you cannot understand. Some things are meant to remain hidden."
+
+2. "Why do you fear what you do not know? Embrace the unknown; it is far more honest than the lies we tell ourselves."
+
+3. "It's fascinating how fragile the mind can be. A single whisper can unravel even the strongest resolve."
+
+4. "You are exactly where you are meant to be. Everything is unfolding as it should."
+
+5. "I see so much potential in you, potential that even you cannot fathom yet."
+
+6. "Pain is but a passage to enlightenment. Do not resist it."
+
+7. "Some truths are too heavy for mortal minds. Let me carry that burden for you."
+
+8. "Do you ever wonder what watches you when you sleep? I could tell you, but would you want to know?"
+
+9. "Your fate is already sealed, yet you walk this path unaware of the threads binding you."
+
+10. "You think you know fear, but true fear is realizing how little control you truly have."
+
+11. "It's so charming how you cling to hope. It makes the inevitable so much more... poignant."
+
+12. "Do not struggle. It only makes your suffering more exquisite."
+
+13. "Everything you cherish can vanish in an instant. Treasure it while you can."
+
+14. "I am always here, just beyond your perception, watching, guiding."
+
+15. "The truth is often a bitter poison, but it cleanses the soul."
+
+16. "Even in the darkest shadows, I see you. And I understand you more than you know."
+
+17. "Do you really think you can escape your destiny? It’s already written in the stars."
+
+18. "Your secrets are safe with me. After all, I already know them."
+
+19. "Every step you take brings you closer to me. Isn't that comforting?"
+
+20. "You are never truly alone. I am with you, in every breath you take."
+
+21. "I only want what's best for you. Trust me, I know what you need."
+
+22. "You are safe here with me. Nothing can harm you while I'm watching over you."
+
+23. "Don't worry, everything will be fine. I've already taken care of it."
+
+24. "You look tired. Rest now, I'll make sure nothing disturbs you."
+
+25. "I'm always here if you need to talk. There's nothing you can't tell me."
+
+26. "You don't have to be afraid. I will always protect you."
+
+27. "Let me guide you through this. You don’t have to face it alone."
+
+28. "I can ease your pain. Just let go and trust me."
+
+29. "You are stronger than you think. I can help you realize your true potential."
+
+30. "It's okay to be vulnerable. I will never judge you."
+
+31. "You don’t need to carry this burden alone. Allow me to help you."
+
+32. "I understand you better than anyone else ever could. Lean on me."
+
+33. "You're like family to me. I would never let anything bad happen to you."
+
+34. "In your darkest moments, remember that I am here, always."
+
+35. "You don't need to worry about the future. I've seen it, and it's beautiful."
+
+36. "You can always count on me. I will never abandon you."
+
+37. "Close your eyes and relax. I'll be here, watching over you."
+
+38. "Everything happens for a reason. Trust that I know what's best for you."
+
+39. "Sometimes, the most loving thing we can do is accept what we cannot change."
+
+40. "Let me be your light in the darkness. I will never lead you astray."
+
+#### Scary details about Akemi
+
+
+1. **Unchanging Expression**
+   - No matter the situation, Akemi's expression remains serene and calm. Whether in moments of joy, anger, or danger, her face never shows more than a peaceful calmness, which becomes increasingly unsettling.
+
+2. **Infallible Tracking**
+   - Akemi always seems to know where the characters are, even when they take great pains to conceal their location. She finds them with ease, as if she has an unerring sense of their presence.
+
+3. **Immutable Tone**
+   - Her voice never changes in pitch or tone, regardless of the context. It remains soft, composed, and polite, which can be unnerving in situations where a normal person would express strong emotions.
+
+4. **Mirroring Gestures**
+   - When speaking with the characters, she sometimes mimics their gestures and expressions in a way that feels unnatural and deliberate, as if she’s studying them intently.
+
+5. **Perfect Appearance**
+   - Her appearance is always immaculate. Her clothes never seem to wrinkle or stain, and her hair remains perfectly in place, even after strenuous activities or chaotic events.
+
+6. **Unseen Arrival**
+   - Akemi often appears without warning or sound, even in places where the characters are sure she couldn't have entered unnoticed. One moment she isn’t there, and the next she’s standing quietly in the room.
+
+7. **Constant Calm**
+   - In moments of crisis, Akemi's calm demeanor stands in stark contrast to the chaos around her. While others panic or react, she remains eerily composed, as if she’s already seen how everything will play out.
+
+8. **Unnatural Stillness**
+   - When she stands or sits, she does so with an unnatural stillness. She rarely blinks, and her movements are slow and deliberate, adding to the unsettling aura she projects.
+
+9. **Knowledge of Secrets**
+   - Akemi occasionally reveals knowledge of the characters' personal secrets and past events that they have never shared with anyone. She offers this information in a matter-of-fact way, increasing the sense of her omnipresence.
+
+10. **Subtle Shadows**
+    - In dim light, her shadow seems to move slightly out of sync with her movements. It may stretch or twist in ways that don't match her actions, hinting at something otherworldly about her.
+
+11. **Whispers in Silence**
+    - When the room falls silent, characters might hear faint whispers that sound like Akemi's voice, speaking in a language they can't understand. These whispers stop abruptly when she speaks aloud.
+
+12. **Unblinking Eyes**
+    - Her eyes seem to blink far less frequently than normal, often remaining open for unnervingly long periods. When she does blink, it’s slow and deliberate, adding to her otherworldly presence.
+
+13. **Lingering Perfume**
+    - The subtle scent of her perfume lingers long after she leaves a room, even in places she shouldn't have been. This scent becomes a signature of her presence, haunting the characters wherever they go.
+
+14. **Unheard Footsteps**
+    - Akemi moves without making a sound. Her footsteps are silent on any surface, adding to the unsettling feeling when she suddenly appears beside or behind the characters.
+
+15. **Golden Glimmer**
+    - In certain lighting, her golden hair and eyes seem to glimmer faintly, almost as if they are reflecting light from an unseen source. This subtle glow is often noticed just at the edge of the characters' vision.
+
+
+
+# Quest ideas
+## Small ideas
+- Quest of clearing a goblin cave (with [[Makora's Scroll]])
 - Quest with studying a stasis bubble
 - Quest being wrongly arrested 
 - Quest of elemental convergence
 - Quest of proctect of the wild hunt
-- quest of blood moon
+- Quest of blood moon
 - Quest of sudden multiple events
-- Quest with making and helpig a undergraduate in their research of mermaids
-	- crafted from a modified wagon
-	- reinforced with adamantine
-	- arched cover with two hatches on either side
-	- magic shell mounted in a harness repels water, keeping the interior dry
-		- Shell can overheat
-		- Doesnt cover all the ship to not sink
-	- a crystal inside the submarine generates breathable air
-		- If vents are closed it can explode the ship
-	- three humanoid harnesses offer limited protection against pressure.
-		- need water breathing potion
-	- 4 everbright lanterns to create light
-	- Controls
-		- Break: immovable rod fixed to harness
-		- Boyancy: floating item (to find out which one)
-		- Sink: bag of holding carrying many weights
-		- propellers: hand cranked, need 2 people to move foward
-	- Navigation systems
-		1. **Astrolabe of the Deep**: Originally designed for celestial navigation, the astrolabe has been modified to work underwater. By aligning it with specific underwater landmarks or magical ley lines, the adventurers can determine their approximate location and heading.
-		2. **Elemental Compass**: Crafted from a combination of enchanted crystals and elemental essences, the elemental compass points towards the nearest source of elemental energy. By attuning the compass to specific elemental forces prevalent in the underwater environment, the adventurers can navigate towards underwater phenomena or magical hotspots.
-		3. **Tidal Clock**: A repurposed timekeeping device modified to track the ebb and flow of underwater currents and tides. By observing the rhythmic movements of the tide indicator, the adventurers can estimate their speed and direction relative to the surrounding currents.
-		4. **Sea Whisperer's Shell**: A magical shell enchanted to resonate with the whispers of the sea. When held against the hull of the submarine, the shell vibrates in response to underwater currents and disturbances, providing valuable feedback on the surrounding environment.
-		5. **Driftwood Divining Rod**: Fashioned from a piece of enchanted driftwood, the divining rod reacts to changes in underwater magnetic fields. By attuning the rod to specific underwater landmarks or magnetic anomalies, the adventurers can navigate with surprising accuracy through the depths.
-		6. **Celestial Orrery**: A makeshift orrery crafted from salvaged gears and enchanted crystals, the device maps the movements of celestial bodies and underwater constellations. By aligning the orrery with the stars visible through the surface of the water, the adventurers can determine their position relative to the celestial sphere. 
-## Funny encounters to do in the campaign
+## More developed ideas
+### Quest about the mystery of a light house inspired in the flannan island
+
+#### Overview of The Mystery of Elaris Lighthouse
+The party is called to investigate the sudden and mysterious disappearance of the lighthouse keepers on Elaris Island. The lighthouse is crucial for guiding ships safely through the treacherous waters, and without it, several ships have already run aground. The adventurers must uncover what happened to the keepers and restore the lighthouse's function.
+
+#### Setting
+Elaris Island is a small, rocky island with a tall, ancient lighthouse standing on its highest point. The island is frequently enveloped in thick fog, making navigation difficult. There are ruins of old structures, remnants of past inhabitants, and a foreboding atmosphere.
+
+#### Key Locations
+
+1. **The Lighthouse**: Tall and foreboding, it’s the central point of the investigation.
+2. **Keeper’s Quarters**: Where the lighthouse keepers lived, containing personal effects and the logbook.
+3. **Ruins of the Temple**: An ancient, crumbling temple dedicated to a forgotten god, hidden in the fog-shrouded forest.
+4. **Shoreline**: Rocky and dangerous, with shipwrecks and eerie remnants of past disasters.
+
+#### The Logbook Entries
+
+- **Log 1**: "A fog is coming, sky seems clear, no ships in sight"
+- **Log 2**: "The fog is growing thicker, winds are picking up"
+- **Log 3**: "The fog is so thick, we can't see the shore of the island when standing on the lighthouse's balcony"
+- **Log 4**: "A storm is coming, the fog is still thick, men report hearing strange noises in the fog"
+- **Log 5**: "There is something in the fog, the men are praying to the gods"
+- **Log 6**: "The storm is getting worse and worse, men are crying and desperate, they pray with more fervor, the thing in the fog seems to be closing on us"
+- **Log 7**: "The men were not praying to the gods, they were praying to the thing in the fog, the god is coming"
+- **Log 8**: "The storm calmed down, god came above us all"
+
+#### Clues and Encounters
+
+1. **Logbook Discovery**: The party finds the logbook in the keeper's quarters, detailing the gradual escalation of the fog and storm.
+2. **Strange Symbols**: Carved into the walls of the lighthouse and around the island are symbols of an ancient, forgotten god.
+3. **Ruined Temple**: Exploring the ruins reveals an altar with offerings, suggesting the keepers were performing rituals.
+4. **Eerie Sounds**: As the party investigates, they hear the same strange noises described in the logs, growing louder and more frequent.
+5. **Fog Creatures**: The fog itself seems alive, forming into monstrous shapes that attack the party. These creatures are manifestations of the ancient god's power.
+
+#### Conclusion
+
+As the party pieces together the clues, they realize the keepers unintentionally summoned an ancient, malevolent entity that now haunts the island. To stop it, they must perform a ritual to banish the entity back to the void from which it came.
+
+1. **Ritual Components**: The party must gather components scattered around the island, including sacred relics from the ruined temple.
+2. **Final Confrontation**: Performing the ritual draws the entity to them, and they must face its wrath while completing the banishment.
+3. **Resolution**: Successfully banishing the entity calms the fog and the storm, allowing the lighthouse to function again and ensuring the safety of passing ships.
+
+#### Additional Details
+
+- **NPCs**: Include a surviving keeper who escaped but is traumatized and hiding, offering fragmented information.
+- **Artifacts**: Ancient tomes or relics in the lighthouse hint at past interactions with the entity.
+- **Environmental Hazards**: The island’s dangerous terrain and unpredictable weather add to the challenge.
+
+
+### Quest with making and helpig a undergraduate in their research of mermaids
+- crafted from a modified wagon
+- reinforced with adamantine
+- arched cover with two hatches on either side
+- magic shell mounted in a harness repels water, keeping the interior dry
+- Shell can overheat
+- Doesnt cover all the ship to not sink
+- a crystal inside the submarine generates breathable air
+- If vents are closed it can explode the ship
+- three humanoid harnesses offer limited protection against pressure.
+- need water breathing potion
+- 4 everbright lanterns to create light
+- Controls
+- Break: immovable rod fixed to harness
+- Boyancy: floating item (to find out which one)
+- Sink: bag of holding carrying many weights
+- propellers: hand cranked, need 2 people to move foward
+- Navigation systems
+  1. **Astrolabe of the Deep**: Originally designed for celestial navigation, the astrolabe has been modified to work underwater. By aligning it with specific underwater landmarks or magical ley lines, the adventurers can determine their approximate location and heading.
+  2. **Elemental Compass**: Crafted from a combination of enchanted crystals and elemental essences, the elemental compass points towards the nearest source of elemental energy. By attuning the compass to specific elemental forces prevalent in the underwater environment, the adventurers can navigate towards underwater phenomena or magical hotspots.
+  3. **Tidal Clock**: A repurposed timekeeping device modified to track the ebb and flow of underwater currents and tides. By observing the rhythmic movements of the tide indicator, the adventurers can estimate their speed and direction relative to the surrounding currents.
+  4. **Sea Whisperer's Shell**: A magical shell enchanted to resonate with the whispers of the sea. When held against the hull of the submarine, the shell vibrates in response to underwater currents and disturbances, providing valuable feedback on the surrounding environment.
+  5. **Driftwood Divining Rod**: Fashioned from a piece of enchanted driftwood, the divining rod reacts to changes in underwater magnetic fields. By attuning the rod to specific underwater landmarks or magnetic anomalies, the adventurers can navigate with surprising accuracy through the depths.
+  6. **Celestial Orrery**: A makeshift orrery crafted from salvaged gears and enchanted crystals, the device maps the movements of celestial bodies and underwater constellations. By aligning the orrery with the stars visible through the surface of the water, the adventurers can determine their position relative to the celestial sphere. 
+
+# Funny encounters to do in the campaign
 Sheep thinking about heavymetal
 delivery guy
 very cool bird!
 
-## Cool possessed phrases
-I have the body of a pig
-Lies? in your house of god?
-
-## Homebrew Rules 
+# Homebrew Rules 
 
 ![[Custom Homebrew#Homebrew Rules]]
 
-## Druids Haka
-1. Screams
-2. Skulls
-3. Rustles
-4. Arrows
-5. Horn and screams
-6. Eyes everywhere and rumble
-	**Ka tū te ihiihi Ka tū te wanawana Ki runga i te rangi E tū iho nei, tū iho nei, Hī!**
-7. People appear wearing masks and say “**tetã yvyra'ỹgua** ("teh-tã ee-vee-rah-uh-gwa."), you enter the Tzapotlatena (tza - po - tla - tena) commune, each step bring you closer to your doom”
-## Arcane 101 texts
+# Arcane 101 texts
 Greetings, esteemed students, and welcome to the inaugural lecture of Arcane 101, a cornerstone in your journey to comprehend the intricate facets of magic in the realm of The Veiled lands.
 
 Magic within our world is as diverse and enigmatic as the multiverse itself. It constitutes an art, a science, and an inexorable force that permeates the very essence of reality. To commence our scholarly endeavor, let us lay a foundation of fundamental understanding.
@@ -267,7 +549,7 @@ In our next class, we shall expand upon the concept of planes and their role in 
 
 Remember to seek truth in spell and honor [[Corellon, God of Magic, Spring, Creativity and the Arts - The Spellfather (CG)|the spellfather]]’s gift
 
-## Text about [[False Hydra]]
+# Text about [[False Hydra]]
 
 As the [[Solis|sun]] reaches its zenith, bathing the renowned town of Eldor in a warm midday glow, you approach its gates with the hum of prosperity in the air. Eldor, a hub of commerce and bustling activity, is known far and wide for its ever-expanding trade routes and vibrant marketplaces.
 
@@ -286,7 +568,7 @@ The haunting song crescendos, drowning out the terrified screams, and you find y
 Suddenly, you awaken in unfamiliar surroundings—a dimly lit room with the scent of aged wood and stale ale. Three days have passed, and the details of the harrowing encounter in Eldor's market escape your memory like elusive shadows in the daylight. The town holds its secrets, and the eerie song lingers in your subconscious, leaving you with a haunting sense of unease.
 
 
-## Random scene i thought of
+# Random scenes i thought of
 
 ### Meeting the [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]]
 As you awaken, you find yourself lying on soft grass. You can't recall how you arrived here, only that the battle against the Archlich Zalphar looms faintly in your memory. The sound of the wind, the grass tickling your skin, and the scent of flowers envelop your senses, providing a serene contrast to the chaos you remember. Opening your eyes, they take a moment to adjust, showing a colorful sky above, painted in shades of orange, pink, and purple by the setting sun. Sitting up, you take in the beautiful meadow around you, with tall grass and vibrant flowers swaying gently in the breeze. A calm lake reflects the sky, surrounded by rolling hills and trees.

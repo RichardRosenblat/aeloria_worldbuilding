@@ -4,7 +4,7 @@ aliases:
   - The Stormlord
   - Hercules
   - The Mighty Protector
-  - Tormenta
+  - Trovos
   - The Stormwarden
   - Stark-hund
   - The Thunderguardian
@@ -33,7 +33,7 @@ In the tempest of life, be the eye of the storm, unyielding, calm and resolute i
 | ------------------------ | ---------- | ------------------------ | --------- | --------------------------------------------------------------------------------- |
 | Alonian (Tallman) Generic   | Kord       | The Stormlord            | He/Him    | The [[Harmonious Gods]]                                                           |
 | Asteni (Tallman) Italian   | Hercules   | The Mighty Protector     | He/Him    | [[Harmonious Gods\|Gli Dei Armoniosi]] (The [[Harmonious Gods\|harmonious gods]]) |
-| Dal (Tallman) Hispanic     | Tormenta     | The Stormwarden          | He/Her    | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
+| Dal (Tallman) Hispanic     | Trovos     | The Stormwarden          | He/Her    | [[Harmonious Gods\|Los Armoniosos]] (The harmonious ones)                         |
 | Duir (Dwarven) German    | Stark-hund | The Thunderguardian      | He/Her    | [[Harmonious Gods\|Die Eintrachtigen]] (The harmonious ones)                      |
 | Dwelmer (Dwarven) Nordic | Thorin     | The Lightning Master     | He/Him    | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
 | Eldar (Elven) Elven      | Glorfindel | The Lightning Guardian   | They/Them | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
