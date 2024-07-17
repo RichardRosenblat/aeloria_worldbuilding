@@ -2,9 +2,6 @@
 tags:
   - quest_idea
 ---
-> [!Todo] There is still much to do
-> This file is unfinished, i need to finish detailing this quest
-
 # Elvira's Research Expedition
 
 ## Objective
