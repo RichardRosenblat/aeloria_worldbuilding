@@ -152,7 +152,7 @@ The few societies that worship Gruumsh are often characterized by their militari
 
 ## Home Plane
 
-[[The Abyss|The Infinite Layers of the Abyss]]
+Gruumsh often resides in his layer of [[The Abyss]] and but the god of destruction is known to wander into the [[Acheron|Infinite Battlefield of Acheron]]
 
 ## Champions
 

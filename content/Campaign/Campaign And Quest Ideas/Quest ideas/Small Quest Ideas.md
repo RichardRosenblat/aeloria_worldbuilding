@@ -35,3 +35,7 @@ The blood moon is rising and with it comes dark creatures and powerful magic. Th
 ## Quest of heisting a vault
 
 The group must heist a vault that is said to be impossible to break into. The vault is heavily guarded and protected by powerful magic. The group must find a way to break into the vault and steal the treasure inside without getting caught. After getting into the vault, the party may forego stealth and make a run for it, or they may try to sneak out with the treasure.
+
+## Quest of avenging the ghost of a murdered girl
+
+The ghost of a girl who was murdered by a powerful noble seeks the group's help to avenge her death. The group must find the who the noble is and bring him to justice. The noble will do everything in his power to stop the group from finding him, including sending his guards and other minions after them.

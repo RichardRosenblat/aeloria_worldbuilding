@@ -1,3 +1,8 @@
+---
+tags:
+  - spell
+  - setting
+---
 # Web Sling
 
 *3rd-level Transmutation*

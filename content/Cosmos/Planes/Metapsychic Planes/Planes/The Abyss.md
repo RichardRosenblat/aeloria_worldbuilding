@@ -57,6 +57,56 @@ The Dark Prince Graz'zt rules over the realm of Azzagrat, which encompasses thre
 
 Yeenoghu rules a layer of ravines known as Death Dells. Here, creatures must hunt to survive. Even the plants, which must bathe their roots in blood, snare the unwary. Yeenoghu's servants, helping to sate their master's hunger as he prowls his kingdom seeking prey, capture creatures from the [[Material Plane]] for release in the Gnoll Lord's realm.
 
+### Dragonrent Realm
+
+This layer is the home of [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat, the Queen of Dragons]]. The layer is divided into five regions, each corresponding to one of the five chromatic dragon types. The regions are separated by vast expanses of inhospitable terrain, and each is ruled by a powerful dragon lord who serves [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat]]. The regions are as follows:
+
+**1. Mirefang Marshes (Black Dragon Territory):**
+   - **Characteristics:** This region is dominated by fetid swamps and murky waters. Thick mist blankets the air, and the ground is saturated with acidic pools that sizzle and bubble. Twisted trees with gnarled roots rise from the muck, casting eerie shadows. The atmosphere is oppressive, filled with the constant hum of insects and the occasional hiss of acidic steam vents. The sky is often obscured by dense, low-hanging clouds, perpetually darkening the landscape.
+
+**2. Electric Wastes (Blue Dragon Territory):**
+   - **Characteristics:** Endless stretches of desert dunes dominate this area, where fierce sandstorms rage across the landscape, crackling with electrical energy. Jagged rock formations jut from the sands, occasionally struck by lightning. Blue-tinted lightning arcs through the storm clouds that gather above, illuminating the harsh terrain with flashes of brilliance. The air crackles with ozone, and the ground trembles with the occasional discharge of static electricity.
+
+**3. Verdant Horror (Green Dragon Territory):**
+   - **Characteristics:** A dense, ancient forest blankets this region, where towering trees form a lush canopy that filters sunlight into dappled patterns on the forest floor. Thick undergrowth and vines intertwine, creating a maze-like network that obscures the path ahead. The air is heavy with the scent of damp earth and the sweet aroma of exotic flowers. Poisonous plants and fungi thrive here, their vibrant colors belying their deadly nature. Shadows dance among the trees, hinting at unseen predators stalking their prey.
+
+**4. Infernal Peaks (Red Dragon Territory):**
+   - **Characteristics:** This part of the layer is dominated by towering volcanoes that belch rivers of molten lava into the surrounding landscape. The sky is often darkened by billowing ash clouds, lit from within by the pulsing glow of magma flows. The air is thick with the acrid scent of sulfur and the heat is oppressive, making the ground shimmer with heatwaves. Cracked, obsidian-like rock formations jut from the scorched earth, casting ominous silhouettes against the fiery glow of the volcanoes.
+
+**5. Glacial Fringes (White Dragon Territory):**
+   - **Characteristics:** A vast, icy wasteland stretches across this region, where towering glaciers gleam like crystalline spires under the pale light of a perpetually cold sun. Endless snowfields and frost-covered plains extend to the horizon, broken only by jagged ice formations and frozen lakes that reflect the stark beauty of the surroundings. Bone-chilling winds howl across the landscape, carrying icy shards that bite into exposed skin. The air is so cold that each breath freezes in a misty cloud, and the silence is absolute, broken only by the occasional crack of shifting ice.
+  
+At the center of the layer lies Draconspire, a colossal castle where [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat]] can rule over her domain and hoard her treasures from [[The Nine Hells#Avernus|Avernus]].
+
+**Center: Draconspire**
+   - **Characteristics:** Rising from the heart of Dragonrent Realm is Draconspire, a colossal castle crafted from obsidian-black stone. Five towering spires, each representing a dragon type, pierce the sky like jagged teeth. The castle's walls are adorned with intricate carvings depicting scenes of draconic conquest and hoarded treasures beyond imagination. Inside lies a labyrinth of chambers filled with endless riches—piles of gold, gem-encrusted artifacts, and ancient tomes of forbidden knowledge. The castle itself pulses with a dark, formidable energy, a testament to [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat]]'s power and greed. At the heart of Draconspire is the Dragon's Throne, a massive obsidian seat adorned with the skulls of fallen foes and the bones of ancient dragons. Laying above the throne is the Crown of [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat]], a five-headed circlet that channels the Queen of Dragons' power and binds her to her domain. Inbetween the five towers, there is a massive portal that leads to the [[The Nine Hells#Avernus|The Nine Hells]].
+
+
+### Badlands of the One-Eyed King
+
+[[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]] commands this layer, it reflects the relentless chaos and unending conflict that embodies the domains of the one-eyed god of war and destruction. It is a place where battles rage eternally, and the very landscape is shaped by the brutality of ceaseless warfare.
+
+**Overview:**
+The Badlands of the One-Eyed King, the infernal domain of [[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]], are a perpetual battlefield where war is both the beginning and the end. This layer of the Abyss is a sprawling, desolate expanse where the ground is a mixture of cracked, scorched earth and thick, congealed blood. The air is filled with the scent of iron and decay, and the sky is an scorching expanse with thorning clouds that crackle with lightning.
+
+**The Fields of Carnage:**
+The landscape is littered with the remnants of countless battles. Rivers of blood flow endlessly, their crimson waters thick and sluggish, winding through the battlefield like veins. Sharp weapons of every kind are strewn about, some half-buried in the ground, others lying next to the bodies of the fallen. The dead are in various stages of decay, their faces twisted in eternal agony.
+
+**Weapons and Terrain:**
+Weapons are omnipresent, from rusted swords and broken spears to shattered shields and splintered axes. They jut out from the ground at odd angles, creating a perilous terrain where each step could lead to a fatal wound. The very earth seems to hunger for blood, as pools of crimson ooze up from the ground, eager to swallow the living and the dead alike.
+
+**The Citadel of Blades:**
+At the heart of the Badlands of the One-Eyed King stands the Citadel of Blades, a massive, asymmetrical fortress constructed entirely from intertwined weapons. Swords, axes, spears, and shields are fused together to form walls, towers, and battlements. The citadel is a chaotic and jagged structure, reflecting the brutal and unrelenting nature of [[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]] himself.
+
+**The Citadel's Interior:**
+Inside the Citadel of Blades, the corridors are narrow and winding, the walls lined with razor-sharp weapons. The throne room, where [[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]] resides, is a grand hall filled with the trophies of his victories—skulls, banners, and the shattered remnants of powerful foes. The throne itself is a grotesque masterpiece, a twisted amalgamation of the finest weapons, with a seat made of the bones of legendary warriors.
+
+**[[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]’s Presence:**
+[[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]], the one-eyed god of war and destruction, is ever-present in this layer. His bloodshot eye watches over the battlefield, filled with a relentless hunger for war and chaos. His booming voice can be heard across the wasteland, inciting the souls trapped there to fight endlessly, ensuring that the carnage never ceases.
+
+**Denizens:**
+The Badlands of the One-Eyed King are inhabited by the spirits of fallen warriors, demons of war, and savage orcs, all eternally bound to [[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]’s service. They are locked in an endless cycle of battle, driven by an insatiable thirst for blood and glory. These denizens find no rest or respite, for to die in the Badlands of the One-Eyed King is to rise again and continue the slaughter.
+
 ### The Endless Pools
 
 - pools with 3 realms one on top of another

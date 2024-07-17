@@ -43,8 +43,9 @@ Happy adventuring and stay curious!
 | [[Housekeeper's Touch]] | 0-Cantrip |
 | [[Cleanse Stain]]       | 0-Cantrip |
 | [[Danger-sense]]        | 2         |
-| [[Merlin's Water Saw]]  | 5         |
 | [[Web-sling]]           | 3         |
+| [[Merlin's Water Saw]]  | 5         |
+| [[Weave Body]]          | 7         |
 
 ## Homebrew Feats
 

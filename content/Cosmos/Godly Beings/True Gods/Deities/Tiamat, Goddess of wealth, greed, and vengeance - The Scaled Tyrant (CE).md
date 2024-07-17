@@ -103,7 +103,7 @@ _Taloned dragon claw surrounded by draconic letters_
 
 ## Home Plane
 
-[[The Nine Hells#Avernus.|Nine Hells of Baator > Avernus]]
+Tiamat currently lives in [[The Nine Hells#Avernus|Avernus]] in [[The Nine Hells|The Nine Hells of Baator]] but she also controls a layer of [[The Abyss]] called [[The Abyss#Dragonrent Realm|Dragonrent Realm]] 
 
 ## Champions
 

@@ -178,7 +178,7 @@ The political structures influenced by Asmodeus's teachings reflect the deity's 
 
 ## Home Plane
 
-[[The Nine Hells#Nessus.|Nine Hells of Baator > Nessus]] 
+[[The Nine Hells#Nessus|Nine Hells of Baator > Nessus]] 
 
 ## Champions
 
