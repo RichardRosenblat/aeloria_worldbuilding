@@ -31,3 +31,7 @@ The group must protect a village from the wild hunt, a event that happens rarely
 ## Quest of blood moon
 
 The blood moon is rising and with it comes dark creatures and powerful magic. The group must find a way to stop the blood moon before it's too late. The group must travel to the dark lands and gather the artifacts needed to stop the blood moon. The group must also face powerful creatures and other dangers along the way.
+
+## Quest of heisting a vault
+
+The group must heist a vault that is said to be impossible to break into. The vault is heavily guarded and protected by powerful magic. The group must find a way to break into the vault and steal the treasure inside without getting caught. After getting into the vault, the party may forego stealth and make a run for it, or they may try to sneak out with the treasure.

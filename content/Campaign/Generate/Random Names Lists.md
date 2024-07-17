@@ -3838,7 +3838,7 @@ Rufina Isabella
 Cornelia La Via
 Esterina Fonti
 Incoronata Dino
-Elvira Bucci
+~~Elvira Bucci~~
 Cleofe Rigali
 Cunegonda Peroni
 Lucrezia Pacini

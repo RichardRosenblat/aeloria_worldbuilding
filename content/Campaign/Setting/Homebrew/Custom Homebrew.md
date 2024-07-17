@@ -44,6 +44,7 @@ Happy adventuring and stay curious!
 | [[Cleanse Stain]]       | 0-Cantrip |
 | [[Danger-sense]]        | 2         |
 | [[Merlin's Water Saw]]  | 5         |
+| [[Web-sling]]           | 3         |
 
 ## Homebrew Feats
 
