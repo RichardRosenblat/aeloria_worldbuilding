@@ -3,6 +3,9 @@ tags:
   - temple
   - location
 ---
+> [!Todo] There is still much to do
+> This file is unfinished, i need to find a place for this temple
+
 # Temple of [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]]: The Moonlit Haven
 
 Nestled in the gentle embrace of rolling hills, near the serene waters of a small, vibrant lake, lies the Temple of [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]]. This sacred site is a harmonious blend of natural beauty and subtle, man-made structures, where nature and spirituality intertwine seamlessly. The temple grounds are a sanctuary of tranquility and mystery, designed to honor [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine, the goddess of the moon, dreams, and tricks.]]
