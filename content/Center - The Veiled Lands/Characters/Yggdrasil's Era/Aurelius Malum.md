@@ -8,7 +8,7 @@ tags:
 Aurelius Malum
 
 he is a very powerful devil that hides in a tallman form and he controls a underground kingdom of devils that behave like him 
-he aims to control and destroy surface dwelling society by making tallmen, kings and more bargain their souls to [[the nine hells]] with cunning, threats, war and blackmailing 
+he aims to control and destroy surface dwelling society by making humanoids, kings and more bargain their souls to [[the nine hells]] with cunning, threats, war and blackmailing 
 he has two powerful skills that one can only have if they are blessed by the [[Over-Deities]] themselves many people call him "The honored one" or "The blessed one"
 
 why he does all this?  he got a agreement with [[Asmodeus, God of Tyranny - The Lord of the Nine Hells (LE)|asmodeus]] to proceed with his plans, and that he was born knowing his greatness, and that his role is to trick, destroy and consume in name of [[the nine hells]], not because he wants revenge, but because that is his nature, defined from the moment he was born and who is he to deny himself of his own role imposed on him by the gods above? after all he must have gotten these gifts for a reason, and that reason must be because the gods want him to succeed
