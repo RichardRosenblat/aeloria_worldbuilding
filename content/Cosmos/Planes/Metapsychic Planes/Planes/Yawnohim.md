@@ -10,7 +10,7 @@ aliases:
 
 # The Forbidden Lands of Yawnohim
 - **Plane Description**: A hidden plane, frozen in time until observed, with many layers. The first layer is a desolate land with scattered ruins. 
-- **Gateway Access**: The gateway is hidden between mountains, teleporting through minds in the [[astral plane]] and mountains within the elemental [[plane of earth]]. Protected by 3 powerful celestials (Solar, Seraph and Empirean) in the [[astral plane]] and 3 powerful [[titans]] (Tarasque, Astral Dreadnought and Tromokratis) in the elemental [[plane of earth]].
+- **Gateway Access**: The gateway is hidden between mountains, teleporting through minds in the [[astral plane]] and mountains within the elemental [[plane of earth]]. Protected by 3 powerful celestials (Solar, Seraph and Empirean) in the [[astral plane]] and 3 powerful [[Divine Titans]] (Tarasque, Astral Dreadnought and Tromokratis) in the elemental [[plane of earth]].
 - **Purpose**: The plane serves as a protection for the portal to [[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]]'s body demiplane, sealed by powerful constructs scattered across the Forbidden Lands.
 
 ## Origin and Purpose

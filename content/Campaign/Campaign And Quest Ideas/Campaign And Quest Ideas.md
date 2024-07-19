@@ -13,9 +13,10 @@ This is a collection of campaign ideas that can be used as inspiration for the n
 
 ## List 
 
-| Ideas                |
-| -------------------- |
+| Ideas                           |
+| ------------------------------- |
 | [[Akemi's Servants (Campaign)]] |
+| [[Fight Aurelius Malum]]        |
 
 
 # Quest Ideas

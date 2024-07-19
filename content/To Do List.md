@@ -14,7 +14,7 @@ tags:
     1. [x] [[semi-deities]]
     2. [x] Avatars
     3. [x] [[Ascended beings]]
-    4. [x] [[titans]]
+    4. [x] [[Divine Titans]]
 7. [x] Create texts about [[divine spark]]
 8. [x] Create influences of planets in cultures
     1. [x] Cultures might have related positive and negative personality traits to each planet
@@ -103,7 +103,7 @@ tags:
 12. [ ] Create the other godly beings
 13. [ ] Create automatas
 14. [ ] Create elemental personification on the elements
-15. [ ] Create elemental [[titans]]
+15. [ ] Create elemental titans
 16. [ ] make Alliance bank account types
 17. [ ] Add important Past Figures
 18. [ ] Add races/species

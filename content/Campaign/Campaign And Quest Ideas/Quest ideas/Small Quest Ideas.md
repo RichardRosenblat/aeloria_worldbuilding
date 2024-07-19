@@ -39,3 +39,11 @@ The group must heist a vault that is said to be impossible to break into. The va
 ## Quest of avenging the ghost of a murdered girl
 
 The ghost of a girl who was murdered by a powerful noble seeks the group's help to avenge her death. The group must find the who the noble is and bring him to justice. The noble will do everything in his power to stop the group from finding him, including sending his guards and other minions after them.
+
+## Quest of guarding a museum or area of importance/interest
+
+The group must guard a museum or area of importance/interest from thieves and other dangers for a set amount of time. The group must protect the artifacts and other items in the museum from being stolen or damaged. The group must also deal with other dangers that may arise, such as magical traps, creatures, and other threats.
+
+## Quest of clearing an Akuma's Blemish
+
+An old location, maybe a forest, a manner, castle or a village, has sprouted an Akuma's Blemish. The group must find a way to clear the blemish before it spreads and consumes the area and becomes a permanent fixture. The group must find a way to cleanse the area of the blemish and restore it to its former state. The group must also face Akumas that are drawn and spawn by the blemish. This quest is time-sensitive and the group must act quickly before powerful Akumas are drawn to the area or the blemish spreads too far.
