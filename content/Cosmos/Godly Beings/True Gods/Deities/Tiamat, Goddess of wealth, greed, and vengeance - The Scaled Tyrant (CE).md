@@ -144,6 +144,7 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ![[The Great War (GW)#Battle between the Dragon Gods, Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE) Tiamat and Bahamut, God of Justice and Nobility - The Platinum Dragon (LG)]]
 
+### Battle against the Elemental Lords along with [[Bane, God of War and Conquest - The Strife Emperor (LE)|Bane]]
 
 
 for the god above can you create:
