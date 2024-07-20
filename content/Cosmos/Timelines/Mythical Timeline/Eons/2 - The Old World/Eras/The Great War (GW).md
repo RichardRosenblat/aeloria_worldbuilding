@@ -106,7 +106,7 @@ The battle raged on, and the alliance between [[Tiamat, Goddess of wealth, greed
 
 The two gods, battered and bloodied, retreated to their respective domains, the elemental lords' roars of triumph echoing in their ears. [[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat]] and [[Bane, God of War and Conquest - The Strife Emperor (LE)|Bane]] promised vengeance against the elemental lords, but the scars of their failed alliance would forever mark their souls, a reminder of the folly of challenging the primordial forces of the world.
 
-## The release of the Elemental Lords
+## The Calamity Caused of the Elemental Lords
 
 The Elemental Lords, ancient beings of immense power, had been imprisoned by the [[True Gods]] during the dawn of creation. Their release during the Great War unleashed cataclysmic forces upon the world, reshaping the very fabric of reality. The Elemental Lords, embodiments of the primal elements, roared with fury as they emerged from their eons-long confinement, their wrath directed at the gods who had sought to bind them.
 
