@@ -53,6 +53,38 @@ The Dragon of Chaos: Tiamat, Goddess of Chaos
 
 ## Portfolio
 
+
+1. **Wealth:**
+   Tiamat's primary domain is wealth, particularly in the form of gold and treasures. She influences the accumulation and protection of riches, representing both material wealth and the power it brings.
+
+2. **Greed:**
+   Tiamat embodies greed and the insatiable desire for more. She drives her followers to pursue wealth and power relentlessly, often at the expense of others.
+
+3. **Vengeance:**
+   As a deity of vengeance, Tiamat commands retribution and punishment against those who wrong her or her followers. She influences acts of revenge and the settling of scores.
+
+4. **Chromatic Dragons:**
+   Tiamat is the goddess of chromatic dragons, holding dominion over these mighty creatures. She represents their power, ferocity, and elemental nature.
+
+5. **Power:**
+   Tiamat is associated with raw power and dominance. She influences those who seek to assert their strength and authority over others.
+
+6. **Chaos:**
+   Tiamat embodies chaos and disorder, representing the unpredictable and destructive aspects of existence. She thrives in and promotes anarchy and turmoil.
+
+7. **Elemental Fury:**
+   Tiamat has dominion over elemental forces, particularly fire, air, acid, poison, electricity, and cold. She wields these elements as weapons and symbols of her power.
+
+8. **Destruction:**
+   Tiamat is a force of destruction and devastation, capable of unleashing chaos and ruin upon her enemies. Her domain is represented by the raw power of her chromatic children.
+
+9. **Retribution:**
+   She represents the concept of retribution, ensuring that those who cross her or her followers face dire consequences. This aspect extends to personal, familial, and political spheres.
+
+10. **Tyranny:**
+    Tiamat is a symbol of tyranny and absolute control. She influences leaders and rulers who seek to dominate through fear and oppression.
+
+
 ## Alignment
 
 _Chaotic Evil_
@@ -72,6 +104,7 @@ _Taloned dragon claw surrounded by draconic letters_
 ### Alonian (Tallman) Generic
 
 > Tiamat is depicted as a massive, five-headed dragon, with each head a different color of chromatic dragon, and her leathery wings spread far and wide
+
 ![[Tiamat appearance.png|400]][^1]
 
 ## Cleric Domains
@@ -117,7 +150,69 @@ Tiamat's followers engage in various rituals and practices to honor the goddess 
 
 ## Cultural Norms
 
+Cultures that worship Tiamat often exhibit distinct norms and practices that reflect the goddess's domains of wealth, greed, and vengeance. These norms shape societal behaviors, values, and interactions among followers of Tiamat. Here are nine common cultural norms found in societies that venerate Tiamat:
+
+1. **Display of Wealth:**
+   Flaunting one’s wealth is not only accepted but encouraged. People regularly display their riches through elaborate clothing, jewelry, and home decorations, as a sign of favor from Tiamat.
+
+2. **Revenge as a Virtue:**
+   Retaliation against personal slights is a respected practice. Cultural norms uphold that it is honorable and necessary to avenge any wrongs done to oneself or one’s family.
+
+3. **Respect for Dragons:**
+   Dragons are revered as divine beings and symbols of power. Their images are prominently displayed in art, architecture, and religious iconography, and their characteristics are emulated by followers. 
+
+4. **Greed and Hoarding:**
+   Hoarding wealth and keeping one's riches close is seen as a virtue. Accumulating gold and treasures is a sign of prosperity and divine favor from Tiamat. Nobles often create rooms filled with gold and jewels to showcase their wealth. Generosity is viewed as foolishness and even considered taboo.
+
+5. **Cunning and Deception:**
+   Cunning and deceptive behavior are admired traits. Outsmarting others to gain wealth or advantage is seen as a sign of intelligence and strength.
+
+6. **Opulent Celebrations:**
+   Festivals and celebrations are lavish and extravagant, serving as opportunities to showcase wealth and power. Success in these displays is seen as a sign of favor from Tiamat.
+
+7. **Mercilessness in Business:**
+   Business dealings are ruthless. It is expected that one will take every advantage, even at the expense of others, to increase personal wealth and influence.
+
+8. **Clan and Family Loyalty:**
+   Loyalty to one's clan or family is paramount. Collective retribution and support within family units are strong, ensuring mutual protection and vengeance.
+
+9. **Elemental Affinity:**
+   Cultural practices often involve reverence for elements associated with Tiamat, such as fire, air, acid, poison, electricity, cold, corruption, darkness, and chaos. This reverence is reflected in art, architecture, and daily rituals.
+
 ## Political Structures
+
+Societies that venerate Tiamat often exhibit distinct political structures that reflect the goddess's domains of wealth, greed, and vengeance. These structures shape governance, power dynamics, and social hierarchies based on wealth and power within Tiamat-worshipping cultures. Here are ten political structures commonly associated with societies that venerate Tiamat:
+
+1. **Oligarchic Council:**
+   A ruling council composed of the wealthiest and most powerful individuals. Decisions are made based on wealth and influence, with each council member’s vote weighted according to their financial contributions and assets.
+
+2. **Feudal Hierarchy:**
+   Society is structured in a strict feudal system, with lords and vassals. Power is concentrated in the hands of those who control the most land and wealth, with lower classes bound in service to their wealthy overlords.
+
+3. **Meritocratic Aristocracy:**
+   A political elite formed through demonstrations of personal power, wealth accumulation, and cunning. Noble titles and positions of power are earned through displays of dominance and strategic acumen.
+
+4. **Autocratic Tyranny:**
+   A single ruler with absolute power, often a high priest or warlord, who has demonstrated exceptional wealth and military prowess. This ruler enforces their will through a combination of fear, charisma, and strategic alliances.
+
+5. **Merchant Guild Domination:**
+   Powerful merchant guilds control the economy and, by extension, the political landscape. Guild leaders, who are typically the wealthiest merchants, wield significant influence over laws and governance.
+
+6. **Militaristic Dominion:**
+   A society ruled by a military elite, where generals and warlords hold political power. Wealth is often accumulated through conquest, and military leaders are revered as direct representatives of Tiamat’s strength.
+
+7. **Theocratic Rule:**
+   A government led by religious leaders who claim direct guidance from Tiamat. These leaders use religious doctrine to justify their rule, demanding tribute and obedience from the populace.
+
+8. **Corporate States:**
+   City-states or regions controlled by powerful corporations or trade companies. Corporate leaders, driven by profit and expansion, wield significant political power and often engage in cutthroat competition.
+
+9. **Clan-based Governance:**
+   Political power is distributed among powerful clans, each led by a patriarch or matriarch with significant wealth and influence. Clans form alliances and rivalries, with political power shifting based on wealth and strategic marriages.
+
+10. **Chromatic Dracocracy:**
+    A society where chromatic dragons hold the highest positions of power and influence. Dragon overlords rule over humanoid subjects, who serve as vassals and tribute-bearers. The power of dragons is seen as a direct reflection of Tiamat’s favor.
+
 
 ## Elemental Affinities
 
@@ -151,6 +246,24 @@ A follower of (God) can gain favor with their deity by (doing what?). As they em
 
 *Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
 
+1. **Draconic Resilience:** The follower gains resistance to a chosen elemental damage type (fire, acid, electricity, cold, or poison), the follower may change the resistance type after a long rest. They also gain advantage on saving throws against effects associated with that element. Tiamat’s blessing grants the follower the hardened scales of a dragon, offering protection against elemental attacks.
+
+2. **Hoarding Aura:** Once per day, the follower can activate an aura that gives a bonus of +2 to their their Charisma score and provides advantage on ability checks to intimidate or coerce others. The aura lasts for 10 minutes. The aura manifests as a shimmering, multicolored light, symbolizing Tiamat's favor and influence over wealth and persuasion.
+
+3. **Vengeful Strike:** When the follower is struck by an attack, they can use their reaction to deal damage of one of the elemental types associated with Tiamat (fire, acid, cold, electricity, or poison) to the attacker. The damage is equal to the follower's level + half of the damage taken. This blessing can be used an amount of times equal to the follower's proficiency bonus per long rest.  
+
+4. **Scaled Form:** For 1 hour, the follower can transform their skin into dragon-like scales, granting them temporary hit points equal to twice their level and increasing their AC by 2. The scales are imbued with Tiamat's essence, providing both physical protection and a fearsome appearance. At 17th level, the follower gains immunity to the chosen elemental damage type.
+
+// LAST CHECKED
+
+5. **Greed’s Insight:** The follower gains advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to find or assess valuable items or hidden wealth. This blessing lasts for 24 hours. Tiamat’s favor sharpens the follower’s senses and intellect, making them keenly aware of valuable opportunities.
+
+6. **Dragon’s Breath:** Once per long rest, the follower can unleash a breath weapon as an action, dealing damage of an elemental type associated with Tiamat (fire, acid, cold, electricity, or poison) in a 30-foot cone or 60-foot line, depending on their choice. Emulating the destructive power of chromatic dragons, the follower can channel a devastating elemental attack.
+
+7. **Aura of Tyranny:** The follower exudes an aura that extends 10 feet around them. Enemies within the aura must succeed on a Wisdom saving throw or be frightened for 1 minute. They can repeat the saving throw at the end of each of their turns. Tiamat’s influence manifests as an oppressive and terrifying aura, compelling others to fear and submit to the follower’s authority.
+
+8. **Tyrant’s Command:** The follower can use an action to compel a creature within 60 feet to obey a single command, as per the *suggestion* spell. The command must be related to gaining wealth, revenge, or an act of chaos. The target must make a Wisdom saving throw to resist. This blessing reflects Tiamat’s mastery over greed and manipulation, allowing the follower to bend others to their will through divine compulsion.
+
 
 ## Curses
 
@@ -183,14 +296,6 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 for the god above can you create:
 
-now can you generate religious practices and rituals done by their followers, make 10, and write it in this format
-[number]. **[title]:** [description]
-
-now can you generate cultural norms commonly found in cultures that worship them
-
-now can you generate a portfolio of things they are associated with them, a deity's portfolio refers to the specific aspects of existence or domains over which a deity has influence, power, and responsibility. 
-now can you generate political structures associated with them
-now can you generate a list of 8 blessings the god can bestow upon their followers as they gain favor with this god in dnd terms
 now can you generate a list of 8 curses the god's follower can bestow upon their enemies as they gain favor with this god in dnd terms
 now can you generate a list of elements that could be associated with them
 
