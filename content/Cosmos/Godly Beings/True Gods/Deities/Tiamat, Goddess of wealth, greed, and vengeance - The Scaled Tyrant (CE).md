@@ -242,7 +242,7 @@ Tiamat currently lives in [[The Nine Hells#Avernus|Avernus]] in [[The Nine Hells
 
 ## Blessings
 
-A follower of (God) can gain favor with their deity by (doing what?). As they embody the principles of (what?), (God) may bestow the following blessings upon them:
+A follower of Tiamat can gain favor with the goddess by amassing wealth, seeking vengeance against their enemies, and embracing chaos and destruction. As they embody the principles of greed, power, and elemental fury, Tiamat may bestow the following blessings upon them:
 
 *Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
 
@@ -254,11 +254,9 @@ A follower of (God) can gain favor with their deity by (doing what?). As they em
 
 4. **Scaled Form:** For 1 hour, the follower can transform their skin into dragon-like scales, granting them temporary hit points equal to twice their level and increasing their AC by 2. The scales are imbued with Tiamat's essence, providing both physical protection and a fearsome appearance. At 17th level, the follower gains immunity to the chosen elemental damage type.
 
-// LAST CHECKED
+5. **Greed’s Insight:** The follower gains advantage on Wisdom (Perception), Intelligence (Investigation) and Charisma (Persuasion) checks made to find, assess or sell valuable items or hidden wealth. Tiamat’s favor sharpens the follower’s senses and intellect, making them keenly aware of valuable opportunities.
 
-5. **Greed’s Insight:** The follower gains advantage on Wisdom (Perception) and Intelligence (Investigation) checks made to find or assess valuable items or hidden wealth. This blessing lasts for 24 hours. Tiamat’s favor sharpens the follower’s senses and intellect, making them keenly aware of valuable opportunities.
-
-6. **Dragon’s Breath:** Once per long rest, the follower can unleash a breath weapon as an action, dealing damage of an elemental type associated with Tiamat (fire, acid, cold, electricity, or poison) in a 30-foot cone or 60-foot line, depending on their choice. Emulating the destructive power of chromatic dragons, the follower can channel a devastating elemental attack.
+6. **Dragon’s Breath:** Once per long rest, the follower can unleash a breath weapon as an action, dealing damage of an elemental type associated with Tiamat (fire, acid, cold, electricity, or poison) in a 30-foot cone or 60-foot line, depending on their choice. Emulating the destructive power of chromatic dragons, the follower can channel a devastating elemental attack. The attack deals 2d10 damage of the chosen type, with a Dexterity saving throw for half damage. The DC is 8 + the follower’s proficiency bonus + their Constitution modifier.
 
 7. **Aura of Tyranny:** The follower exudes an aura that extends 10 feet around them. Enemies within the aura must succeed on a Wisdom saving throw or be frightened for 1 minute. They can repeat the saving throw at the end of each of their turns. Tiamat’s influence manifests as an oppressive and terrifying aura, compelling others to fear and submit to the follower’s authority.
 
@@ -293,11 +291,6 @@ The follower must cast *Bestow Curse* to invoke their available curses:
 
 ![[The Great War (GW)#Timat and Bane, God of War and Conquest - The Strife Emperor (LE) Bane 's Alliance and the Elemental Lords]]
 
-
-for the god above can you create:
-
-now can you generate a list of 8 curses the god's follower can bestow upon their enemies as they gain favor with this god in dnd terms
-now can you generate a list of elements that could be associated with them
 
 [^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Tiamat)
 [^2]: [Pinterest](https://br.pinterest.com/pin/535154368229595155/)

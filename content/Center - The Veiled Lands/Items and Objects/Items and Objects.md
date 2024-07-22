@@ -73,6 +73,7 @@ Strong items to be used with caution by the dm to not break the campaign
 | [[Lightning Strike Greataxe]]        |
 | [[Starshard Sphere]]                 |
 | [[Makora's Scroll]]                  |
+| [[War Ring]]                         |
 
 
 ## Books and Texts
