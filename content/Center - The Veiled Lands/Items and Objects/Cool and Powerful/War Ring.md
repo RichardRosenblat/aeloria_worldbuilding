@@ -36,7 +36,7 @@ Yes
 - **Irreversible Transformation:** The wearer cannot reverse the transformation of any object or person they have touched with the ring, even if they later regret their actions.
 
 ## History:
-The Ring of Irrevocable Transformation was created by a vengeful sorcerer who sought to punish those who would abuse power. The sorcerer imbued the ring with a curse that ensured its wearer would suffer greatly for using its power, amplifying their guilt and ultimately leading to their downfall. The ring has passed through many hands, each new owner leaving behind a trail of transformed objects and broken lives.
+The War Ring is a Fragment of the War Akuma, a extremely powerful Akuma that embodies the fear of War. This Ring was made from their flesh and blood, and it is said that the ring was created to cause suffering and destruction. The ring was lost in the Veiled Lands after the War Akuma was killed by a group of powerful warriors. Now, the ring is a powerful artifact that promises to turn the wearer's most intimate connections into weapons of war.
 
 ## Additional:
 The DM should work with the player to determine the specific manifestations of the weapon's power based on the character's guilt. This can provide rich role-playing opportunities and allow for a dynamic and evolving experience with the item.
