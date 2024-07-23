@@ -265,9 +265,26 @@ A follower of Tiamat can gain favor with the goddess by amassing wealth, seeking
 
 ## Curses
 
-(God)'s followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with (God), they may gain access to the following curses to unleash upon their foes:
+Tiamat's followers can invoke their deity's wrath upon their enemies by cursing them with afflictions that reflect the deity's domains. As the followers gain favor with Tiamat, they may gain access to the following curses to unleash upon their foes:
 
 The follower must cast *Bestow Curse* to invoke their available curses:
+
+1. **Curse of Greed:** The target is overcome with an insatiable desire for wealth. They must make a Wisdom saving throw. On a failure, they are compelled to prioritize acquiring valuables over all other actions for the next 24 hours. Tiamat's influence warps the mind, driving the target to distraction and obsession with material wealth.
+
+2. **Vengeful Mark:** The target is marked for vengeance. They suffer disadvantage on all saving throws against the follower's spells and abilities for the next hour. This curse marks the enemy as the object of Tiamat’s wrath, making them vulnerable to further attacks and retribution.
+
+3. **Draconic Fear:** The target must succeed on a Wisdom saving throw or be frightened of the follower for the duration and must spend all of it's turns trying to get the highest distance possible form the follower. They can repeat the saving throw at the end of each of their turns. A surge of draconic fear overwhelms the target, causing them to cower in terror before the follower.
+
+4. **Elemental Affliction:** The target is afflicted by an elemental curse. They must make a Constitution saving throw any time they touch an object or creature related to one of the elements associated with Tiamat (fire, acid, cold, electricity, or poison). On a failure, they suffer 2d6 damage of the corresponding type. This curse inflicts pain and suffering upon the target whenever they come into contact with elemental forces.
+
+5. **Wealth Decay:** All non-magical valuables and currency carried or touched by the target are slowly corroded and destroyed over the duration. Tiamat’s curse rots and decays the wealth of her enemies, leaving them impoverished and destitute.
+
+6. **Mark of Dragon Hatred:** At any time the target is in the presence of any chromatic dragon, or creature related to a chromatic dragon -such as a dragonborn- they develop a great hatred for the target and will become hostile if neutral or neutral if friendly. This curse instills a deep-seated animosity toward the target in the minds of chromatic dragons and their kin.
+
+7. **Poisoned Mind:** The target must succeed on an Intelligence saving throw or suffer disadvantage on all Intelligence, Wisdom, and Charisma checks for 1 hour. This curse clouds the target’s mind, making them prone to poor decisions and easily manipulated.
+
+8. **Chaotic Unrest:** The target must make a Charisma saving throw. On a failure, they are cursed with chaotic energies that cause them to suffer disadvantage on attack rolls and saving throws for the duration. This curse infuses the target with chaotic energies, disrupting their ability to fight effectively and defend themselves.
+
 
 ## Myths
 
