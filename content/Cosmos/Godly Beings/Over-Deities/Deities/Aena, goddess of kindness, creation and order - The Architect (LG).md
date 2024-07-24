@@ -127,9 +127,6 @@ Lawful Good
 
 ![[Aena Appearance Old.png]][^1]
 
-![[Aena Appearance 1.png]]
-
-*The art above is made using ai*
 
 ## Religious Practices
 

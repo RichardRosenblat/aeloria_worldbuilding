@@ -45,6 +45,7 @@ Happy adventuring and stay curious!
 | [[Danger-sense]]        | 2         |
 | [[Web-sling]]           | 3         |
 | [[Merlin's Water Saw]]  | 5         |
+| [[Soft and Wet (Spell)]]        | 6         |
 | [[Weave Body]]          | 7         |
 
 ## Homebrew Feats

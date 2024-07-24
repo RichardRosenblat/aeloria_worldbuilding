@@ -124,9 +124,6 @@ _When connected with [[Aena, goddess of kindness, creation and order - The Archi
 ### Alonian (Tallman) Generic
 > Kryela is often depicted as a woman with white hair and dark gowns that often merge with the darkness
 
-![[Kryela appearance 1.png]]
-
-*The art above is made using ai*
 
 ![[Kryela appearance 2.png]][^1]
         
