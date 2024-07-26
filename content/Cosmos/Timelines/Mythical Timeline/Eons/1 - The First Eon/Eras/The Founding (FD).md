@@ -58,7 +58,7 @@ To aid them in their divine task, they birthed a pantheon of [[True Gods]]:
 - **[[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]]**
 - **[[Gruumsh, God of Destruction - The Ruiner (CE)|Gruumsh]]**
 - **[[Tharizdun, God of Entropy and Madness - The Chained Oblivion (CE)|Tharizdun]]**
-- **Torog**
+- **[[Torog, God of the Underground - The Crawling King (NE)|Torog]]**
 - **[[Bahamut, God  of Justice and Nobility - The Platinum Dragon (LG)|Bahamut]]**
 - **[[Lolth, Goddess of Spiders and Lies - The Spider Queen (LE)|Lolth]]**
 - **[[Tiamat, Goddess of wealth, greed, and vengeance - The Scaled Tyrant (CE)|Tiamat]]**
