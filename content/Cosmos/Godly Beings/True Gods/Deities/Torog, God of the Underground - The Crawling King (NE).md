@@ -57,8 +57,21 @@ The Endless Pit: Torog, God of Depths
 
 ## Symbols
 
+![[torog symbol.png|300]][^1]
+
+_Three pale arms clawing from a dark void_
+
+![[torog symbol 2.png|300]][^2]
+
+_T attached to a circular shackle_
+
 ## Avatars
 ### Alonian (Tallman) Generic
+
+>Torog is largely depicted as a swollen, malformed worm slithering through the darkness below with a hairless human head with six eyes at the helm, three arms carving through a lightless rock.
+
+![[torog appearance.png|300]][^1]
+
 
 ## Cleric Domains
 
@@ -113,3 +126,6 @@ now can you generate political structures associated with them
 now can you generate a list of 8 blessings the god can bestow upon their followers as they gain favor with this god in dnd terms
 now can you generate a list of 8 curses the god's follower can bestow upon their enemies as they gain favor with this god in dnd terms
 now can you generate a list of elements that could be associated with them
+
+[^1]: [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Torog)
+[^2]: [1d6chan](https://1d6chan.miraheze.org/wiki/Torog)
