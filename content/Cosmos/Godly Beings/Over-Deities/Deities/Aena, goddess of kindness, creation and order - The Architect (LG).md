@@ -174,7 +174,7 @@ As Aena transcends elemental energies, the only affinity she is known to have is
 
 ## Champions
 
-Since Aena is a [[Over-Deities|Over-Deity]], she never had any confirmed Champion, although [[The three mighty champions of Aena|some books]] tell stories of such, but they are only fantasy books
+Since Aena is a [[Over-Deities|Over-Deity]], she never had any confirmed Champion, although [[The three mighty champions of Aena|some books]] tell stories of such, but they are said to be only fantasy books
 
 ## Holidays
 

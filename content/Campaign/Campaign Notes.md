@@ -130,6 +130,12 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 99. "I have the body of a pig"
 100. "Lies? in your house of god?"
 101. "Do not mistake my altruism with indifference. I shall not lay the wicked among the fair; the love of the gods is not unconditional, and neither is mine."
+102. "The gods may judge you but their sins outnumber yours."
+103. "The future is not written and it is foolish to squint at what cannot be read."
+104. "Not all places exist to be found. Sometimes one must revel in the shadows to truly see the light."
+105. "Did the man who first discovered fire consider the burned houses? Or did he simply sleep with a full stomach?"
+106. "A falling knife has no handle"
+107. "How does it feel? For i am the conclusion to your story, and you are but a page in my book."
 
 # Names For Outsiders
 Ya'qub Qamar Ad-din Dibiazah The greatest Sultan in his time
