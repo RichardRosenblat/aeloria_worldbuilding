@@ -259,6 +259,8 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 228. "Since the day of my birth, my death began its walk. It is walking towards me, without hurrying."
 229. "Now, now, my good man, this is no time for making enemies."
 230. "Dying is easy, comedy is hard."
+231. "Time is dead and meaning has no meaning. Existence is upside down and I reign supreme. Welcome, one and all, to the armageddon"
+232. "Funny how much you notice something that you can't see. A whole garden of flowers and my name etched on a rock. All of this could've been avoided. All I wanted was to talk. Now I've been appointed as your new king I decree that it is too late to care about me."
 
 # Names For Outsiders
 Ya'qub Qamar Ad-din Dibiazah The greatest Sultan in his time

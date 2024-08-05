@@ -963,7 +963,7 @@ Heledd Corfield
 Ifanna Glascock
 Dwynwen Cadwalader
 Aberfa Belling
-Gwendolyn Price
+~~Gwendolyn Price~~
 Elain Elias
 Terrwyn Parry
 Penarddun Charles
@@ -10749,7 +10749,7 @@ Skoog
 Blom
 Quist
 Dahlman
-Palme
+~~Palme~~
 Torvalds
 Heidenstam
 Frisk
@@ -13528,7 +13528,7 @@ Couch
 Gaynor
 Jones
 Maddock
-Oliver
+~~Oliver~~
 John
 Lloyd
 Maddex
@@ -17239,13 +17239,13 @@ Yuhara
 Higuchi
 Teramoto
 Fukuyama
-Masuyama
+~~Masuyama~~
 Sasori
 Sando
 Honda
 Horikiri
 Ubukata
-Fuse
+~~Fuse~~
 Uematsu
 Akibara
 Tano
