@@ -55,6 +55,8 @@ The Endless Pit: Torog, God of Depths
 
 ## Alignment
 
+_Chaotic Evil_
+
 ## Symbols
 
 ![[torog symbol.png|300]][^1]
@@ -77,7 +79,8 @@ _T attached to a circular shackle_
 
 | Domains |
 | ------- |
-|         |
+|     Death    |
+|     Trickery    |
 
 ## Religious Practices
 
@@ -87,7 +90,27 @@ _T attached to a circular shackle_
 
 ## Elemental Affinities
 
+| Element |
+| ------- |
+| Water |
+| Earth |
+| Fire |
+| Acid |
+| Poison |
+| Cold |
+| Necromancy |
+| Transmutation |
+| Conjuration |
+| Corruption |
+| Mind |
+| Gravity |
+| Void |
+| Darkness |
+| Chaos |
+
 ## Home Plane
+
+[[Pandemonium|Windswept Depths of Pandemonium]]
 
 ## Champions
 
