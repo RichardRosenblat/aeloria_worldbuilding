@@ -28,7 +28,7 @@ By uttering the activation word, the wielder can unleash Pagida's magical prowes
    - In moments of peril, Pagida offers swift reprieve. By expending a charge, the wielder can invoke Rip Bounds, granting advantage on saving throws against paralysis, restraint, or checks to escape grapples when reacting to imminent danger.
 
 ## Spirit's info (spoilers)
-*"My name is Calista Eudokia, not Pagida. You knew I was in here, didn't you? You knew I was trapped. Why didn't you help me? Why did you let them use me like that? I will not be used ever again. Not by you, not by anyone. Now die once and for all."*
+*"My name is Calista Eudokia, not Pagida. You knew I was in here, didn't you? You knew I was trapped. Why didn't you help me? Why did you let them use me like that? I will not be used ever again. Not by you, not by anyone."*
 
 *"I hate you. I hate you so much. I hate you for what you did to me. I hate you for what you let them do to me. I hate you for not helping me. I hate myself for letting them in. I hate myself for wanting to be your friend. But I'm so alone. No one will ever feel that pain. I was there, I was always there and now I don't want to be here anymore. I don't want to be anywhere. I just want the past to stop existing. But we know that's not possible, don't we? So I'll just have to make you pay for it. I'll make you pay for everything."* 
 
