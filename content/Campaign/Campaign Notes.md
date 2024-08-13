@@ -288,6 +288,7 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 257. "I regret many things, killing you is not one of them."
 258. "One cannot run away from their mistakes, i have tried."
 259. "The most difficult battles are foght within."
+260. "You know why they made sidewalks? Because the motherfucking streets ain't for everybody"
 
 # Names For Outsiders
 Ya'qub Qamar Ad-din Dibiazah The greatest Sultan in his time
