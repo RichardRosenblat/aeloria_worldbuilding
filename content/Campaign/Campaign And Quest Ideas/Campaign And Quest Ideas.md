@@ -29,4 +29,6 @@ Here are some ideas for quests that can be used in a campaign. They are not mean
 | -------------------------------------------- |
 | [[Small Quest Ideas]]                        |
 | [[The Mystery of Elaris Lighthouse (Quest)]] |
-| [[Mermaid Research (Quest)]] |
+| [[Mermaid Research (Quest)]]                 |
+| [[The Echoes of Gears and Flesh (Quest)]]    |
+| [[Timekeeper's dillema]]                     |

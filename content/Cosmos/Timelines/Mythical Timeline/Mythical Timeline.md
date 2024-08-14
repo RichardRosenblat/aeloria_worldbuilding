@@ -20,16 +20,16 @@ The aftermath sees the rise of new [[True Gods]] like the [[Raven Queen, Goddess
 
 The mythical timeline is divided in Eons, with each eon divided into Eras, These are the timeline, Eons: 
 
-| Eons                                        | Era                                            | Acronym |
-| ------------------------------------------- |:---------------------------------------------- | ------- |
-| [[The First Eon (Mythical)\|The First Eon]] | [[The Founding (FD)\|The Founding]] | FD      |
-| [[The First Eon (Mythical)\|The First Eon]] | [[The Creation (CR)\|The Creation]] | CR      |
-| [[The Old World (Mythical)\|The Old World]] | [[The Calm Age (CA)\|The Calm Age]]                                  | CA      |
-| [[The Old World (Mythical)\|The Old World]] | [[The Great War (GW)\|The Great War]]                                  | GW      |
-| [[The Old World (Mythical)\|The Old World]] | [[The Impact (TI)\|The Impact]]                                     | TI      |
-| [[The New World (Mythical)\|The New World]] | [[The Era of Ascensions (EA)\|The Era of Ascensions ]]                         | EA      |
-| [[The New World (Mythical)\|The New World]] | [[The Reform (RF)\|The Reform]]                                  | RF      |
-| [[The New World (Mythical)\|The New World]] | [[The New Arcane (NA)\|The New Arcane]]                                 | NA      |
+| Eons                                        | Era                                                    | Acronym |
+| ------------------------------------------- | :----------------------------------------------------- | ------- |
+| [[The First Eon (Mythical)\|The First Eon]] | [[The Founding (FD)\|The Founding]]                    | FD      |
+| [[The First Eon (Mythical)\|The First Eon]] | [[The Creation (CR)\|The Creation]]                    | CR      |
+| [[The Old World (Mythical)\|The Old World]] | [[The Calm Age (CA)\|The Calm Age]]                    | CA      |
+| [[The Old World (Mythical)\|The Old World]] | [[The Great War (GW)\|The Great War]]                  | GW      |
+| [[The Old World (Mythical)\|The Old World]] | [[The Impact (TI)\|The Impact]]                        | TI      |
+| [[The New World (Mythical)\|The New World]] | [[The Era of Ascensions (EA)\|The Era of Ascensions ]] | EA      |
+| [[The New World (Mythical)\|The New World]] | [[The Reform (RF)\|The Reform]]                        | RF      |
+| [[The New World (Mythical)\|The New World]] | [[The New Arcane (NA)\|The New Arcane]]                | NA      |
 
 ## Mythical Timeline
 
