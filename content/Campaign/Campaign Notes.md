@@ -289,6 +289,7 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 258. "One cannot run away from their mistakes, i have tried."
 259. "The most difficult battles are foght within."
 260. "You know why they made sidewalks? Because the motherfucking streets ain't for everybody"
+261. "We have you surrounded" "All I see surrounding me is fear and dead men"
 
 # Names For Outsiders
 Ya'qub Qamar Ad-din Dibiazah The greatest Sultan in his time
