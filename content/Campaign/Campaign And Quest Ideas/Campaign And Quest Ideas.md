@@ -31,4 +31,7 @@ Here are some ideas for quests that can be used in a campaign. They are not mean
 | [[The Mystery of Elaris Lighthouse (Quest)]] |
 | [[Mermaid Research (Quest)]]                 |
 | [[The Echoes of Gears and Flesh (Quest)]]    |
-| [[Timekeeper's dillema]]                     |
+| [[Timekeeper's dillema (Quest)]]             |
+| [[A Noble Feast (Quest)]]                    |
+| [[Forgotten Whsipers (Quest)]]               |
+| [[Manrain (Quest)]]              |
