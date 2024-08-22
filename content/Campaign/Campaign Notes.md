@@ -290,6 +290,7 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 259. "The most difficult battles are foght within."
 260. "You know why they made sidewalks? Because the motherfucking streets ain't for everybody"
 261. "We have you surrounded" "All I see surrounding me is fear and dead men"
+262. "It's not the screams from the Fireballs that keep me up at night, nor the smell of charred flesh. It was the silence afterwards. That thrice-damned silence..."
 
 # Names For Outsiders
 Ya'qub Qamar Ad-din Dibiazah The greatest Sultan in his time
