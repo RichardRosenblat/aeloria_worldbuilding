@@ -88,7 +88,7 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 57. "If i lay one brick down at a time who are you to tell me I'm not building a house?"
 58. "True love graced you with its presence and you turned its intimacy into a joke to be shared with the world."
 59. "To enter is to be forgiven of the greatest sin, to leave is to repeat it. Would you dwell in this garden, or would you forsake it, for man deserveth not his paradise lost?"
-60. "She was wild, crazy, ravenous and beautiful. But we simple mortal men who have lived know better than to chase things that are not meant to be caught nor tamed."
+60. "She was wild, crazy, ravenous and beautiful. But we simple mortal men who have lived know better than to chase things described as those."
 61. "I live outside of the gods' sight and by consequence outside of their love."
 62. "This is war. War does not determine who is right, only who is left."
 63. "I'm a man dying of thirst watching another man drown."
@@ -288,9 +288,12 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 257. "I regret many things, killing you is not one of them."
 258. "One cannot run away from their mistakes, i have tried."
 259. "The most difficult battles are foght within."
-260. "You know why they made sidewalks? Because the motherfucking streets ain't for everybody"
+260. "You know why they made sidewalks? Because the mfkin streets ain't for everybody"
 261. "We have you surrounded" "All I see surrounding me is fear and dead men"
-262. "It's not the screams from the Fireballs that keep me up at night, nor the smell of charred flesh. It was the silence afterwards. That thrice-damned silence..."
+262. "It's not the screams from the Fireballs that keep me up at night, nor the smell of charred flesh. It was the silence afterwards. That thrice-damned silence...Is like the air, the world, reality itself is angry at me, contemplating me in hatred as I am the only one left standing. A silent gaze upon me as I feel the weight of my sins crawl up my spine. No one left but a single silent hateful stare."
+263. "You are fire, you are bird, you are the marble sculpture artists never achieved equal. You are gale and tidal wave, the golden sunlight shining on beautiful brown eyes. Every gaze on your figure is a tide pulled by the moon, that hits me against sharp cliffs on the shore. I am mortal man who now has lived, I know better than to pursue things described as that. My heart aches but my scars still burn white-hot, from past attemps to reach another perfection. I am lamb desiring the wolf of your cut."
+264. "Revolution seems impossible until it is inevitable."
+265. "Do you ever think Achilles was happy? I mean, maybe he loved running after the tortoise. Maybe he loved the chase and knowing it would never end gave him a sense of confort. I'm sorry, this is out of nowhere, but I've been thinking about it a lot lately. Ever since you left, I can't stop thinking of the moment I saw your figure disappear among the crowd that entered the vessel. I didn't want to stop looking at you, I didn't want that fickle line of sight to be broken, so I caught myself desiring to meticulously examine every fraction of the seconds that passed while my eyes met your beautiful hair, or any remnant of your presence I could find, for that matter. I wanted to be Achiles, and your departure, the tortoise. But sadly it was not so, at a given time I met the tortoise, and by the gods I do not wish such feelings of emptyness on anyone. This was all I wanted to say, I hope you're doing well. I can't say I am, without you here to enjoy the nightsky with me again."
 
 # Names For Outsiders
 Ya'qub Qamar Ad-din Dibiazah The greatest Sultan in his time
