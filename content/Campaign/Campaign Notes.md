@@ -299,7 +299,13 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 268. "Together then, brothers"
 269. "I hope you enjoy growing old with her as much as we did growing up with her."
 270. "Let it happen, let it happen, let it happen. It's gonna feel so good. Their blood on your hands, their screams in your ears, their warmth staining your clothes. It's gonna feel so good, it is your nature, just stop resisting and it will happen."
-
+271. "Whom must I make into a corpse to start the revolution? Or how many thousands more must we bury before the world changes?"
+272. "I don't think i'll get there, but a man bearing my name will." 
+273. "In order to achieve inner peace, you must first achieve exterior violence."
+274. "When you are surrounded by safety you forget how cruel of a teacher danger is."
+275. "Do we no longer admire the champions of the gods because men have since spoken of them?"
+276. "Mercy to the guilty is cruelty to the innocent."
+277. "Ambition and pride are a furnace to which all is sacrificed."
 
 
 # Names For Outsiders
