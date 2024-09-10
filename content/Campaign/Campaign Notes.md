@@ -307,6 +307,7 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 276. "Mercy to the guilty is cruelty to the innocent."
 277. "Ambition and pride are a furnace to which all is sacrificed."
 278. "I never chose to be a hero. I saw pain and I wanted to stop it. There was a duty, and the right to act upon it. I will take on any chance to make the screams of the world quieter and leave this place a little better than I found it. Because by the gods if i don't do it no one else will do it for me."
+279. "Those who do not move do not notice their chains"
 
 
 # Names For Outsiders
