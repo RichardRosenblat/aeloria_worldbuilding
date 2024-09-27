@@ -312,6 +312,10 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 281. "You win some, you loose a lot"
 282. "We all need to chill, I won't go first, but it's something I've noticed"
 283. "Stop hating yourself for everything, be specific"
+284. "Welcome to my special Hell"
+285. "What if i fall? boy, what if you fly?"
+286. "Well althought there is certainly something going on... [points to you] ...here If it all of the tism or 80 of the hd, that is something only a professional, or several, can tell."
+287. "There are very few who can read this. The language is of the Over-deities, which i shall not utter here."
 
 
 # Names For Outsiders
