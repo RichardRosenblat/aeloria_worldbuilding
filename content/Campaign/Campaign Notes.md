@@ -316,6 +316,60 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 285. "What if i fall? boy, what if you fly?"
 286. "Well althought there is certainly something going on... [points to you] ...here If it all of the tism or 80 of the hd, that is something only a professional, or several, can tell."
 287. "There are very few who can read this. The language is of the Over-deities, which i shall not utter here."
+288. "If the warmth within my heart burns hot enough, even the fire itself that surrounds me will be reduced to ash."
+289. "Bring me to the slaughter"
+290. "Your worst sin is to have destroyed yourself *for nothing*"
+291. “Our lives are defined by opportunities, even the ones we miss.”
+292. "All we have to decide is what to do with the time that is given us."
+293. "You don't know about real loss, 'cause that only occurs when you've loved something more than you love yourself."
+294. "A strong man stands up for himself. A stronger man stands for others"
+295. "Just bury me in the ocean with my ancestors that jumped from the ships because they knew death was better than bondage."
+296. “War was always here. Before man was, war waited for him. The ultimate trade awaiting its ultimate practitioner.”
+297. “The only person you are destined to become is the person you decide to be.”
+298. "You lived your life for the king. You gonna die for some chicken? - Someone is."
+299. "you want a picture of the future, imagine a boot stamping on a human face forever"
+300. "The universe was a vast, intricate tapestry, woven from threads of space and time. And humanity was just a tiny, struggling insect, trying to make sense of it all."  
+301. “Thus he came alone to Angband's gates, and he sounded his horn, and smote once more upon the brazen doors, and challenged Morgoth to come forth to single combat. And Morgoth came.”
+302. "I am searching for the bones of your father, but I cannot distinguish them from those of his slaves." 
+303. “For you, the day Bison graced your village was the most important day of your life. But for me, it was Tuesday”
+304. "Ten spears go to battle," he whispered, "and nine shatter. Did the war forge the one that remained? No, Amaran. All the war did was identify the spear that would not break."
+305. "Beware; for I am fearless and therefore powerful."
+306. “I’ve been at the mercy of men who were just following orders, never again.”
+307. "I am no bird; and no net ensnares me."
+308. "There is some good in this world, Mr. Frodo, and it’s worth fighting for"
+309. “I burn my decency for someone else’s future. I burn my LIFE to make a sunrise I know I’ll never see.”
+310. "It was the best of times, it was the worst of times."
+311. "Frankly my dear, I don't give a damn"
+312. "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
+313. "The road to hell is paved with good intentions."
+314. “There is no such joy in the tavern as upon the road thereto.”
+315. “The truth about the world, he said, is that anything is possible.”
+316. “Your heart’s desire is to be told some mystery. The mystery is that there is no mystery.”
+317. “You can find meanness in the least of creatures, but when God made man the devil was at his elbow. A creature that can do anything. Make a machine. And a machine to make the machine. And evil that can run itself a thousand years, no need to tend it.”
+318. “They were watching, out there past men’s knowing, where stars are drowning and whales ferry their vast souls through the black and seamless sea.”
+319. “The man who believes that the secrets of the world are forever hidden lives in mystery and fear. Superstition will drag him down.”
+320. “Men of God and men of war have strange affinities.”
+321. “When the lambs is lost in the mountain, he said. They is cry. Sometime come the mother. Sometime the wolf.”
+322. “It makes no difference what men think of war, said the judge. War endures.”
+323. "From hell’s heart I stab at thee; for hate’s sake I spit my last breath at thee. Ye damned whale"
+324. "We are all in the gutter, but some of us are looking at the stars."
+325. "Whatever exists in creation without my knowledge exists without my consent”
+326. "And i will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy my brothers"
+327. "You know nothing of the bottomless malice within the human heart"
+328. "There is no place for me other than the battlefield. To live as I please, and die a senseless death. That is who I am. Not a mere man of flesh. War is part of my existence."
+329. “Take heed to yourself for the Devil is unchained!”
+330. "Life is pain, Highness. Anyone who says different is selling something."
+331. "Come not between the Nazgûl and his prey! Or he will not slay thee in thy turn. He will bear thee away to the houses of lamentation, beyond all darkness, where thy flesh shall be devoured, and thy shriveled mind be left naked to the Lidless Eye."
+332. "Her mother believes she lacks warmth, by which she means the ability to beg for love from people who hate her."
+333. “The human condition is one that requires some sort of anaesthesia”
+334. “…..to thine own self be true”
+335. “All my means are sane, my motive and my object mad."
+336. “I know not all that may be coming, but be it what it will, I’ll go to it laughing.”
+337. “Talk to me not to me of blasphemy, man; I’d strike the sun if it insulted me.”
+338. “Swerve me? The path to my fixed purpose is laid with iron rails, whereon my soul is grooved to run.”
+339. "Some mfs are always trying to skate uphill"
+340. "I can't lie to you about your chances, but... you have my sympathies"
+341. "The blood we have might not be the same, but the blood we spilled is. You are my brother and I am yours."
 
 
 # Names For Outsiders
