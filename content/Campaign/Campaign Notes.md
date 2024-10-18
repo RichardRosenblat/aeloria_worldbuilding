@@ -370,6 +370,8 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 339. "Some mfs are always trying to skate uphill"
 340. "I can't lie to you about your chances, but... you have my sympathies"
 341. "The blood we have might not be the same, but the blood we spilled is. You are my brother and I am yours."
+342. "I may sound stupid or weird, but I would still choose that over fighting against the currents of change in a battle dommed to be lost."
+343. "Sing a song of sorrow in a world where time has vanished"
 
 
 # Names For Outsiders
