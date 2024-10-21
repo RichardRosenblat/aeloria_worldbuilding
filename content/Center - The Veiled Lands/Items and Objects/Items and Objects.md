@@ -91,11 +91,12 @@ Texts in letters or books
 | [[The three mighty champions of Aena]]                        |
 | [[Variant Zero - The heroes of the realm]]                    |
 | [[The Divine Mythos (Book)]]                                  |
+| [[My Vision Of The Twin goddesses - Nala]]                    |
 
-| Research                        |
-| ------------------------------- |
+| Research                                    |
+| ------------------------------------------- |
 | [[Case Study Of The Staff Of Etherealness]] |
-| [[Arcane Theory]]               |
+| [[Arcane Theory]]                           |
 
 | Letters                 |
 | ----------------------- |
