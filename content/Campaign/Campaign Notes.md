@@ -372,6 +372,7 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 341. "The blood we have might not be the same, but the blood we spilled is. You are my brother and I am yours."
 342. "I may sound stupid or weird, but I would still choose that over fighting against the currents of change in a battle dommed to be lost."
 343. "Sing a song of sorrow in a world where time has vanished"
+344. "If humans are alone in the universe, we might also be its only open wound, as humans are the only creatures capable of truly exploring the depths of struggle, sorrow, and pain. We shape cultures, philosophies, and even our identities because of our understanding of it."
 
 
 # Names For Outsiders
