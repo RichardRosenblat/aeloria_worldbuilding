@@ -43,7 +43,7 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 12. "We do not have much connection, you and I. Still this encounter feels special, I hope you do not mind if I think of you as a friend" 
 13. "This is your home. If you want to fight to defend it, that's your choice. I'd be honoured to stand alongside you. The enemy attacks tomorrow. He's brutal and fights only to kill, which is why he will never defeat us. Look around. In this circle, we're all equals. You're not fighting because someone's ordering you to, you're fighting for so much more than that. You fight for your homes. You fight for your family. You fight for your friends. You fight for the right to grow crops in peace. And if you fall, you fall fighting for the noblest of causes: fighting for your very right to survive! And when you're old and grey, you'll look back on this day, and you'll know you earned the right to live every day in between! So you fight! For your family! For your friends! For Ealdor!"
 14. "I can't blame you for wanting to know yourself better, it was one of the biggest pleasures of my life"
-15. "The pain of your absence is sharp and haunting, and I would five anything to not know it; anything but never knowing you at all I can only hope that you are safe, wherever you are"
+15. "The pain of your absence is sharp and haunting, and I would give anything to not know it; anything but never knowing you at all I can only hope that you are safe, wherever you are"
 16. "This song is new to me, but I am honored to be part of it"
 17. "It's tempting to linger in this moment, but unless they are collapsed by an observer, they will never be more than that, only possibilities"
 18. "Are you still here? I am unsure how to survive in a universe without you, I am unsure how to be me without you"
@@ -269,110 +269,113 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 238. "Did they hurt you?" "No, did they hurt you?" "Who cares?!" "I do." 
 239. "When I met her, all answers seemed to be yes, and all questions seemed to be secondary."
 240. "Symbols cannot be destroyed, or ran away from. But they can be changed, their meanings can be claimed and mean the exact opposite of what they once did."
-241. "I can hardly blame you for wanting to know yourself more, after all, it has been one of the biggest pleasures of my life."
-242. "Death can have me, when it earns me."
-243. "To love fully is to grieve deeply."
-244. "You cannot have intimacy without vulnerability. You cannot shun away loneliness without intimacy. To see the wonders of the world, you must first face the horrors of opening your eyes."
-245. "It won't be easy, but we're not going to do it alone!"
-246. "I struggle to stay strong because I know the impact I have on everyone. Please understand. You have an impact too. There are times when I look up to you for strength."
-247. "I never asked for it to be this way, i never asked to be made"
-248. "There's an awful lot of awful things we could be thinking of, but for just one day, Let's only think about love!"
-249. "You are going to be something extraordinary; you're going to be a human being."
-250. “I can tell you with certainty that there are things in this planet worth protecting!”
-251. “You’re an experience. Make sure you’re a good experience.”
-252. "Your actions have consequences, to be reminded of that is no punishment."
-253. "Forgiveness can be powerful, even for the unworthy."
-254. "Fate only binds you if you let it. Do what is necessary, not because it is written."
-255. "Desperation is our advantage."
-256. "I am your father. I will always help, as long as I am able"
-257. "I regret many things, killing you is not one of them."
-258. "One cannot run away from their mistakes, i have tried."
-259. "The most difficult battles are foght within."
-260. "You know why they made sidewalks? Because the mfkin streets ain't for everybody"
-261. "We have you surrounded" "All I see surrounding me is fear and dead men"
-262. "It's not the screams from the Fireballs that keep me up at night, nor the smell of charred flesh. It was the silence afterwards. That thrice-damned silence...Is like the air, the world, reality itself is angry at me, contemplating me in hatred as I am the only one left standing. A silent gaze upon me as I feel the weight of my sins crawl up my spine. No one left but a single silent hateful stare."
-263. "You are fire, you are bird, you are the marble sculpture artists never achieved equal. You are gale and tidal wave, the golden sunlight shining on beautiful brown eyes. Every gaze on your figure is a tide pulled by the moon, that hits me against sharp cliffs on the shore. I am mortal man who now has lived, I know better than to pursue things described as that. My heart aches but my scars still burn white-hot, from past attemps to reach another perfection. I am lamb desiring the wolf of your cut." / "Tu és fogo, és ave, és a escultura de mármore que artista algum jamais igualou. És o vendaval e a onda que rompe, a luz dourada do sol que brilha nos belos olhos castanhos. Cada olhar lançado sobre tua figura é uma maré puxada pela lua, que me arremessa contra os penhascos cortantes da costa. Sou homem mortal que agora viveu, sei bem que não se deve perseguir o que é assim descrito. Meu coração dói, mas minhas cicatrizes ainda ardem em brasa, de tentativas passadas de alcançar outra perfeição. Sou cordeiro desejando o lobo do teu corte."
-264. "Revolution seems impossible until it is inevitable."
-265. "Do you ever wonder if Achilles was happy? Maybe he loved chasing the tortoise, finding comfort in the pursuit itself. Perhaps knowing the race would never end gave him peace, or maybe he found solace in the fact that, no matter how far he ran, the tortoise would always stay within his sight.  I'm sorry if this seems out of nowhere, but it's been on my mind a lot lately. Ever since you left, I can’t stop thinking about the moment your figure vanished from my screen, hidden behind the binary code of the world we once shared. I didn’t want to stop looking at you—I didn’t want that fragile connection to break. I found myself wishing to savor every passing second when my eyes met your beautiful hair, or any trace of you, really.  I wanted to be like Achilles, and your leaving to be my tortoise—a chase that would never end. But, unlike him, I eventually caught up. I reached the tortoise. And, by the gods, I wouldn't wish this emptiness on anyone.  That’s all I wanted to say. I hope you’re doing well. I can’t say the same for myself—not without you here, to watch the night sky with me again." / "Acaso já pensaste se Aquiles foi algum dia feliz? Digo, talvez lhe aprouvesse correr atrás da tartaruga. Quiçá, amasse a perseguição, e saber que jamais haveria fim nela lhe trouxesse consolo. Peço perdão, isto surge do nada, mas tenho ponderado muito a respeito, nestes últimos tempos. Desde tua partida, não consigo apartar-me do momento em que vi tua figura desaparecer entre a turba que se adentrava no navio. Não desejava desviar os olhos de ti, não queria que essa frágil linha de visão se rompesse, e assim encontrei-me a desejar examinar com todo o rigor cada fração dos segundos que passavam enquanto meus olhos se prendiam aos teus formosos cabelos, ou a qualquer vestígio de tua presença que pudesse encontrar, na verdade. Quisera eu ser Aquiles, e tua partida, a tartaruga. Mas, lamentavelmente, não foi assim; chegou o momento em que alcancei a tartaruga, e pelos deuses, não desejo tal sensação de vazio a nenhum ser. Bem, isto era tudo o que desejava dizer, espero que estejas bem. Eu, porém, não posso afirmar o mesmo, sem ti aqui para deleitar-me no céu noturno novamente."
-266. "Remember, you are loved, lenore, so much. You are doing great, and everyone will be so proud of you. As I am now."
-267. "We had a good run, didn't we?"
-268. "Together then, brothers"
-269. "I hope you enjoy growing old with her as much as we did growing up with her."
-270. "Let it happen, let it happen, let it happen. It's gonna feel so good. Their blood on your hands, their screams in your ears, their warmth staining your clothes. It's gonna feel so good, it is your nature, just stop resisting and it will happen."
-271. "Whom must I make into a corpse to start the revolution? Or how many thousands more must we bury before the world changes?"
-272. "I don't think i'll get there, but a man bearing my name will." 
-273. "In order to achieve inner peace, you must first achieve exterior violence."
-274. "When you are surrounded by safety you forget how cruel of a teacher danger is."
-275. "Do we no longer admire the champions of the gods because men have since spoken of them?"
-276. "Mercy to the guilty is cruelty to the innocent."
-277. "Ambition and pride are a furnace to which all is sacrificed."
-278. "I never chose to be a hero. I saw pain and I wanted to stop it. There was a duty, and the right to act upon it. I will take on any chance to make the screams of the world quieter and leave this place a little better than I found it. Because by the gods if i don't do it no one else will do it for me."
-279. "Those who do not move do not notice their chains"
-280. "When lord of the land makes his subjects stand on the rain, their enemy is not the man with a hat"
-281. "You win some, you loose a lot"
-282. "We all need to chill, I won't go first, but it's something I've noticed"
-283. "Stop hating yourself for everything, be specific"
-284. "Welcome to my special Hell"
-285. "What if i fall? boy, what if you fly?"
-286. "Well althought there is certainly something going on... [points to you] ...here If it all of the tism or 80 of the hd, that is something only a professional, or several, can tell."
-287. "There are very few who can read this. The language is of the Over-deities, which i shall not utter here."
-288. "If the warmth within my heart burns hot enough, even the fire itself that surrounds me will be reduced to ash."
-289. "Bring me to the slaughter"
-290. "Your worst sin is to have destroyed yourself *for nothing*"
-291. “Our lives are defined by opportunities, even the ones we miss.”
-292. "All we have to decide is what to do with the time that is given us."
-293. "You don't know about real loss, 'cause that only occurs when you've loved something more than you love yourself."
-294. "A strong man stands up for himself. A stronger man stands for others"
-295. "Just bury me in the ocean with my ancestors that jumped from the ships because they knew death was better than bondage."
-296. “War was always here. Before man was, war waited for him. The ultimate trade awaiting its ultimate practitioner.”
-297. “The only person you are destined to become is the person you decide to be.”
-298. "You lived your life for the king. You gonna die for some chicken? - Someone is."
-299. "you want a picture of the future, imagine a boot stamping on a human face forever"
-300. "The universe was a vast, intricate tapestry, woven from threads of space and time. And humanity was just a tiny, struggling insect, trying to make sense of it all."  
-301. “Thus he came alone to Angband's gates, and he sounded his horn, and smote once more upon the brazen doors, and challenged Morgoth to come forth to single combat. And Morgoth came.”
-302. "I am searching for the bones of your father, but I cannot distinguish them from those of his slaves." 
-303. “For you, the day Bison graced your village was the most important day of your life. But for me, it was Tuesday”
-304. "Ten spears go to battle," he whispered, "and nine shatter. Did the war forge the one that remained? No, Amaran. All the war did was identify the spear that would not break."
-305. "Beware; for I am fearless and therefore powerful."
-306. “I’ve been at the mercy of men who were just following orders, never again.”
-307. "I am no bird; and no net ensnares me."
-308. "There is some good in this world, Mr. Frodo, and it’s worth fighting for"
-309. “I burn my decency for someone else’s future. I burn my LIFE to make a sunrise I know I’ll never see.”
-310. "It was the best of times, it was the worst of times."
-311. "Frankly my dear, I don't give a damn"
-312. "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
-313. "The road to hell is paved with good intentions."
-314. “There is no such joy in the tavern as upon the road thereto.”
-315. “The truth about the world, he said, is that anything is possible.”
-316. “Your heart’s desire is to be told some mystery. The mystery is that there is no mystery.”
-317. “You can find meanness in the least of creatures, but when God made man the devil was at his elbow. A creature that can do anything. Make a machine. And a machine to make the machine. And evil that can run itself a thousand years, no need to tend it.”
-318. “They were watching, out there past men’s knowing, where stars are drowning and whales ferry their vast souls through the black and seamless sea.”
-319. “The man who believes that the secrets of the world are forever hidden lives in mystery and fear. Superstition will drag him down.”
-320. “Men of God and men of war have strange affinities.”
-321. “When the lambs is lost in the mountain, he said. They is cry. Sometime come the mother. Sometime the wolf.”
-322. “It makes no difference what men think of war, said the judge. War endures.”
-323. "From hell’s heart I stab at thee; for hate’s sake I spit my last breath at thee. Ye damned whale"
-324. "We are all in the gutter, but some of us are looking at the stars."
-325. "Whatever exists in creation without my knowledge exists without my consent”
-326. "And i will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy my brothers"
-327. "You know nothing of the bottomless malice within the human heart"
-328. "There is no place for me other than the battlefield. To live as I please, and die a senseless death. That is who I am. Not a mere man of flesh. War is part of my existence."
-329. “Take heed to yourself for the Devil is unchained!”
-330. "Life is pain, Highness. Anyone who says different is selling something."
-331. "Come not between the Nazgûl and his prey! Or he will not slay thee in thy turn. He will bear thee away to the houses of lamentation, beyond all darkness, where thy flesh shall be devoured, and thy shriveled mind be left naked to the Lidless Eye."
-332. "Her mother believes she lacks warmth, by which she means the ability to beg for love from people who hate her."
-333. “The human condition is one that requires some sort of anaesthesia”
-334. “…..to thine own self be true”
-335. “All my means are sane, my motive and my object mad."
-336. “I know not all that may be coming, but be it what it will, I’ll go to it laughing.”
-337. “Talk to me not to me of blasphemy, man; I’d strike the sun if it insulted me.”
-338. “Swerve me? The path to my fixed purpose is laid with iron rails, whereon my soul is grooved to run.”
-339. "Some mfs are always trying to skate uphill"
-340. "I can't lie to you about your chances, but... you have my sympathies"
-341. "The blood we have might not be the same, but the blood we spilled is. You are my brother and I am yours."
-342. "I may sound stupid or weird, but I would still choose that over fighting against the currents of change in a battle dommed to be lost."
-343. "Sing a song of sorrow in a world where time has vanished"
-344. "If humans are alone in the universe, we might also be its only open wound, as humans are the only creatures capable of truly exploring the depths of struggle, sorrow, and pain. We shape cultures, philosophies, and even our identities because of our understanding of it."
+241. "Death can have me, when it earns me."
+242. "To love fully is to grieve deeply."
+243. "You cannot have intimacy without vulnerability. You cannot shun away loneliness without intimacy. To see the wonders of the world, you must first face the horrors of opening your eyes."
+244. "It won't be easy, but we're not going to do it alone!"
+245. "I struggle to stay strong because I know the impact I have on everyone. Please understand. You have an impact too. There are times when I look up to you for strength."
+246. "I never asked for it to be this way, i never asked to be made"
+247. "There's an awful lot of awful things we could be thinking of, but for just one day, Let's only think about love!"
+248. "You are going to be something extraordinary; you're going to be a human being."
+249. “I can tell you with certainty that there are things in this planet worth protecting!”
+250. “You’re an experience. Make sure you’re a good experience.”
+251. "Your actions have consequences, to be reminded of that is no punishment."
+252. "Forgiveness can be powerful, even for the unworthy."
+253. "Fate only binds you if you let it. Do what is necessary, not because it is written."
+254. "Desperation is our advantage."
+255. "I am your father. I will always help, as long as I am able"
+256. "I regret many things, killing you is not one of them."
+257. "One cannot run away from their mistakes, i have tried."
+258. "The most difficult battles are foght within."
+259. "You know why they made sidewalks? Because the mfkin streets ain't for everybody"
+260. "We have you surrounded" "All I see surrounding me is fear and dead men"
+261. "It's not the screams from the Fireballs that keep me up at night, nor the smell of charred flesh. It was the silence afterwards. That thrice-damned silence...Is like the air, the world, reality itself is angry at me, contemplating me in hatred as I am the only one left standing. A silent gaze upon me as I feel the weight of my sins crawl up my spine. No one left but a single silent hateful stare."
+262. "You are fire, you are bird, you are the marble sculpture artists never achieved equal. You are gale and tidal wave, the golden sunlight shining on beautiful brown eyes. Every gaze on your figure is a tide pulled by the moon, that hits me against sharp cliffs on the shore. I am mortal man who now has lived, I know better than to pursue things described as that. My heart aches but my scars still burn white-hot, from past attemps to reach another perfection. I am lamb desiring the wolf of your cut." / "Tu és fogo, és ave, és a escultura de mármore que artista algum jamais igualou. És o vendaval e a onda que rompe, a luz dourada do sol que brilha nos belos olhos castanhos. Cada olhar lançado sobre tua figura é uma maré puxada pela lua, que me arremessa contra os penhascos cortantes da costa. Sou homem mortal que agora viveu, sei bem que não se deve perseguir o que é assim descrito. Meu coração dói, mas minhas cicatrizes ainda ardem em brasa, de tentativas passadas de alcançar outra perfeição. Sou cordeiro desejando o lobo do teu corte."
+263. "Revolution seems impossible until it is inevitable."
+264. "Do you ever wonder if Achilles was happy? Maybe he loved chasing the tortoise, finding comfort in the pursuit itself. Perhaps knowing the race would never end gave him peace, or maybe he found solace in the fact that, no matter how far he ran, the tortoise would always stay within his sight.  I'm sorry if this seems out of nowhere, but it's been on my mind a lot lately. Ever since you left, I can’t stop thinking about the moment your figure vanished from my screen, hidden behind the binary code of the world we once shared. I didn’t want to stop looking at you—I didn’t want that fragile connection to break. I found myself wishing to savor every passing second when my eyes met your beautiful hair, or any trace of you, really.  I wanted to be like Achilles, and your leaving to be my tortoise—a chase that would never end. But, unlike him, I eventually caught up. I reached the tortoise. And, by the gods, I wouldn't wish this emptiness on anyone.  That’s all I wanted to say. I hope you’re doing well. I can’t say the same for myself—not without you here, to watch the night sky with me again." / "Acaso já pensaste se Aquiles foi algum dia feliz? Digo, talvez lhe aprouvesse correr atrás da tartaruga. Quiçá, amasse a perseguição, e saber que jamais haveria fim nela lhe trouxesse consolo. Peço perdão, isto surge do nada, mas tenho ponderado muito a respeito, nestes últimos tempos. Desde tua partida, não consigo apartar-me do momento em que vi tua figura desaparecer entre a turba que se adentrava no navio. Não desejava desviar os olhos de ti, não queria que essa frágil linha de visão se rompesse, e assim encontrei-me a desejar examinar com todo o rigor cada fração dos segundos que passavam enquanto meus olhos se prendiam aos teus formosos cabelos, ou a qualquer vestígio de tua presença que pudesse encontrar, na verdade. Quisera eu ser Aquiles, e tua partida, a tartaruga. Mas, lamentavelmente, não foi assim; chegou o momento em que alcancei a tartaruga, e pelos deuses, não desejo tal sensação de vazio a nenhum ser. Bem, isto era tudo o que desejava dizer, espero que estejas bem. Eu, porém, não posso afirmar o mesmo, sem ti aqui para deleitar-me no céu noturno novamente."
+265. "Remember, you are loved, lenore, so much. You are doing great, and everyone will be so proud of you. As I am now."
+266. "We had a good run, didn't we?"
+267. "Together then, brothers"
+268. "I hope you enjoy growing old with her as much as we did growing up with her."
+269. "Let it happen, let it happen, let it happen. It's gonna feel so good. Their blood on your hands, their screams in your ears, their warmth staining your clothes. It's gonna feel so good, it is your nature, just stop resisting and it will happen."
+270. "Whom must I make into a corpse to start the revolution? Or how many thousands more must we bury before the world changes?"
+271. "I don't think i'll get there, but a man bearing my name will." 
+272. "In order to achieve inner peace, you must first achieve exterior violence."
+273. "When you are surrounded by safety you forget how cruel of a teacher danger is."
+274. "Do we no longer admire the champions of the gods because men have since spoken of them?"
+275. "Mercy to the guilty is cruelty to the innocent."
+276. "Ambition and pride are a furnace to which all is sacrificed."
+277. "I never chose to be a hero. I saw pain and I wanted to stop it. There was a duty, and the right to act upon it. I will take on any chance to make the screams of the world quieter and leave this place a little better than I found it. Because by the gods if i don't do it no one else will do it for me."
+278. "Those who do not move do not notice their chains"
+279. "When lord of the land makes his subjects stand on the rain, their enemy is not the man with a hat"
+280. "You win some, you loose a lot"
+281. "We all need to chill, I won't go first, but it's something I've noticed"
+282. "Stop hating yourself for everything, be specific"
+283. "Welcome to my special Hell"
+284. "What if i fall? boy, what if you fly?"
+285. "Well althought there is certainly something going on... [points to you] ...here If it all of the tism or 80 of the hd, that is something only a professional, or several, can tell."
+286. "There are very few who can read this. The language is of the Over-deities, which i shall not utter here."
+287. "If the warmth within my heart burns hot enough, even the fire itself that surrounds me will be reduced to ash."
+288. "Bring me to the slaughter"
+289. "Your worst sin is to have destroyed yourself *for nothing*"
+290. “Our lives are defined by opportunities, even the ones we miss.”
+291. "All we have to decide is what to do with the time that is given us."
+292. "You don't know about real loss, 'cause that only occurs when you've loved something more than you love yourself."
+293. "A strong man stands up for himself. A stronger man stands for others"
+294. "Just bury me in the ocean with my ancestors that jumped from the ships because they knew death was better than bondage."
+295. “War was always here. Before man was, war waited for him. The ultimate trade awaiting its ultimate practitioner.”
+296. “The only person you are destined to become is the person you decide to be.”
+297. "You lived your life for the king. You gonna die for some chicken? - Someone is."
+298. "you want a picture of the future, imagine a boot stamping on a human face forever"
+299. "The universe was a vast, intricate tapestry, woven from threads of space and time. And humanity was just a tiny, struggling insect, trying to make sense of it all."  
+300. “Thus he came alone to Angband's gates, and he sounded his horn, and smote once more upon the brazen doors, and challenged Morgoth to come forth to single combat. And Morgoth came.”
+301. "I am searching for the bones of your father, but I cannot distinguish them from those of his slaves." 
+302. “For you, the day Bison graced your village was the most important day of your life. But for me, it was Tuesday”
+303. "Ten spears go to battle," he whispered, "and nine shatter. Did the war forge the one that remained? No, Amaran. All the war did was identify the spear that would not break."
+304. "Beware; for I am fearless and therefore powerful."
+305. “I’ve been at the mercy of men who were just following orders, never again.”
+306. "I am no bird; and no net ensnares me."
+307. "There is some good in this world, Mr. Frodo, and it’s worth fighting for"
+308. “I burn my decency for someone else’s future. I burn my LIFE to make a sunrise I know I’ll never see.”
+309. "It was the best of times, it was the worst of times."
+310. "Frankly my dear, I don't give a damn"
+311. "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife."
+312. "The road to hell is paved with good intentions."
+313. “There is no such joy in the tavern as upon the road thereto.”
+314. “The truth about the world, he said, is that anything is possible.”
+315. “Your heart’s desire is to be told some mystery. The mystery is that there is no mystery.”
+316. “You can find meanness in the least of creatures, but when God made man the devil was at his elbow. A creature that can do anything. Make a machine. And a machine to make the machine. And evil that can run itself a thousand years, no need to tend it.”
+317. “They were watching, out there past men’s knowing, where stars are drowning and whales ferry their vast souls through the black and seamless sea.”
+318. “The man who believes that the secrets of the world are forever hidden lives in mystery and fear. Superstition will drag him down.”
+319. “Men of God and men of war have strange affinities.”
+320. “When the lambs is lost in the mountain, he said. They is cry. Sometime come the mother. Sometime the wolf.”
+321. “It makes no difference what men think of war, said the judge. War endures.”
+322. "From hell’s heart I stab at thee; for hate’s sake I spit my last breath at thee. Ye damned whale"
+323. "We are all in the gutter, but some of us are looking at the stars."
+324. "Whatever exists in creation without my knowledge exists without my consent”
+325. "And i will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy my brothers"
+326. "You know nothing of the bottomless malice within the human heart"
+327. "There is no place for me other than the battlefield. To live as I please, and die a senseless death. That is who I am. Not a mere man of flesh. War is part of my existence."
+328. “Take heed to yourself for the Devil is unchained!”
+329. "Life is pain, Highness. Anyone who says different is selling something."
+330. "Come not between the Nazgûl and his prey! Or he will not slay thee in thy turn. He will bear thee away to the houses of lamentation, beyond all darkness, where thy flesh shall be devoured, and thy shriveled mind be left naked to the Lidless Eye."
+331. "Her mother believes she lacks warmth, by which she means the ability to beg for love from people who hate her."
+332. “The human condition is one that requires some sort of anaesthesia”
+333. “…..to thine own self be true”
+334. “All my means are sane, my motive and my object mad."
+335. “I know not all that may be coming, but be it what it will, I’ll go to it laughing.”
+336. “Talk to me not to me of blasphemy, man; I’d strike the sun if it insulted me.”
+337. “Swerve me? The path to my fixed purpose is laid with iron rails, whereon my soul is grooved to run.”
+338. "Some mfs are always trying to skate uphill"
+339. "I can't lie to you about your chances, but... you have my sympathies"
+340. "The blood we have might not be the same, but the blood we spilled is. You are my brother and I am yours."
+341. "I may sound stupid or weird, but I would still choose that over fighting against the currents of change in a battle dommed to be lost."
+342. "Sing a song of sorrow in a world where time has vanished"
+343. "If humans are alone in the universe, we might also be its only open wound, as humans are the only creatures capable of truly exploring the depths of struggle, sorrow, and pain. We shape cultures, philosophies, and even our identities because of our understanding of it."
+344. "Like tears to passion, rain soothes through letting go."
+345. "There's no use crying over every mistake, you just keep on trying till you run out of cake."
+346. "There's no use shining like a rose when you're useless"
+
 
 
 # Names For Outsiders
