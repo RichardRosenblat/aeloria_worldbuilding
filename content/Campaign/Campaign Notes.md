@@ -375,6 +375,11 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 344. "Like tears to passion, rain soothes through letting go."
 345. "There's no use crying over every mistake, you just keep on trying till you run out of cake."
 346. "There's no use shining like a rose when you're useless"
+347. "The heavens delay my visit. I still breathe. Hear me, bastard son, I'm alive."
+348. "But as the prospects of terror go-- Can you imagine knowing all along you are not enough for someone. And then living out their low realization of that truth? I'll admit it, it chilled me to the bone."
+349. "Show me someone for whom friendship means lack of love. And I'll show you someone who wonders why their lovers never end up being worth their time."
+350. "Sin can only be repaid with pain"
+351. "Until the lion learns how to write, every story will glorify the hunter"
 
 
 
