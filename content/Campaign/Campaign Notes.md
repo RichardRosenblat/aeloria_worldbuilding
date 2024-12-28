@@ -398,12 +398,14 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 367. "Well, once she arrived, we were all very scared. But there was a certain trust built on the fact we were all running away from the same thing. And then, while we were all quiet, I made a remark, and learned how it felt to make her laugh. Then I felt more at ease."
 368. "I loved her, I loved her so much. A pain that was more than desires it ripped me to the core. I didn't love her in the same ways people write in books. I loved her in the way one loves landscapes nature, landscapes are painted in the sky, in the way one loves the sound of the ocean, in the way one loves the feeling of the sun kissing their skin and the crisp wind of rolling hills caressing their face. I couldn't help but wish she was the air that fills my lungs."
 369. "The humble chicken might not have the grandeur of the dragon, but it too serves a purpose."
-370. "In another life, i would've really enjoyed just doing laundry and cooking with you"
+370. "In another life, i would've really enjoyed just tending to the crops and counting coins with you"
 371. "How lucky I am to have something that makes saying goodbye so hard."
 372. "Some people aren't built happy, you know."
 373. "I'm not a hero, I'm a high-functioning sociopath. Do your research."
 374. "Please let me keep this memory, just this one."
-
+375. "I hold myself in contempt, why should YOU be any different?"
+376. "Thanks for the adventures; now go have a new one! Love, Ellie."
+377. "how many hands have worn out so that one finger could be adorned?"
 
 
 # Names For Outsiders
