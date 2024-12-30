@@ -406,6 +406,33 @@ Elemental convergence - https://youtu.be/goXKlOozyx8?si=1QD4BjQqcONNqbvR
 375. "I hold myself in contempt, why should YOU be any different?"
 376. "Thanks for the adventures; now go have a new one! Love, Ellie."
 377. "how many hands have worn out so that one finger could be adorned?"
+378. The best and most beautiful things in the world cannot be seen or even touched – they must be felt with the heart.
+379. Keep your face to the sunshine and you cannot see a shadow.
+380. Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence.
+381. Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.
+382. The only thing worse than being blind is having sight but no vision.
+383. Although the world is full of suffering, it is also full of overcoming it.
+384. The most pathetic person in the world is someone who has sight but no vision.
+385. Life is either a daring adventure or nothing at all.
+386. Security is mostly a superstition. It does not exist in nature, nor do the children of men as a whole experience it.
+387. The highest result of education is tolerance.
+388. What we have once enjoyed we can never lose. All that we love deeply becomes a part of us.
+389. We could never learn to be brave and patient if there were only joy in the world.
+390. Faith is the strength by which a shattered world shall emerge into the light.
+391. The only way to do great work is to love what you do.
+392. Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
+393. One never notices what has been done; one can only see what remains to be done.
+394. If I see anything vital around me, it is precisely that spirit of adventure, which seems indestructible and is akin to curiosity.
+395. I am one of those who think like Ivo, that humanity will draw more good than evil from new discoveries.
+396. After all, science is essentially international, and it is only through lack of the historical sense that national qualities have been attributed to it.
+397. I have no dress except the one I wear every day. If you are going to be kind enough to give me one, please let it be practical and dark so that I can put it on afterwards to go to the laboratory.
+398. Life is not easy for any of us. But what of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained.
+399. I was taught that the way of progress was neither swift nor easy.
+400. All my life through, the new sights of Nature made me rejoice like a child.
+401. There are sadistic scientists who hurry to hunt down errors instead of establishing the truth.
+402. In science, we must be interested in things, not in persons.
+403. I had a blank canvas to fill with extraordinary possibilities, a fascinating jigsaw puzzle to piece together. It was a once-in-a-lifetime — a once-in-the-history-of-the-world-opportunity for anyone, but especially for a woman in this era
+404. I worked in the background for most of my career as a scientist, but I have absolutely no resentments. I thought I was lucky to have a job that was so interesting. Establishing the rift valley and the mid-ocean ridge that went all the way around the world for 40,000 miles—that was something important. You could only do that once. You can’t find anything bigger than that, at least on this planet.
 
 
 # Names For Outsiders
