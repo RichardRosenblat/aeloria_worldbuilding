@@ -33,7 +33,7 @@ Individuals are absent from reflections in [[Echo Planes]], creating an otherwor
 ## [[Metapsychic Planes]]
 
 ### Definition
-[[Metapsychic Planes]], or "[[Metapsychic Planes|Realms of Thought and Soul]]," are where minds and souls find existence. These planes are deeply intertwined with consciousness, thoughts, and emotions.
+[[Metapsychic Planes]], or "[[Metapsychic Planes|Realms of Thought and Soul]]," are where minds and [[souls]] find existence. These planes are deeply intertwined with consciousness, thoughts, and emotions.
 ### Layers
 [[Metapsychic planes]] are often divided into layers, each representing different aspects of alignment.
 

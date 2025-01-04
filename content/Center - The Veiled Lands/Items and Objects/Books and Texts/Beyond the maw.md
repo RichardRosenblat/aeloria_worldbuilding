@@ -70,4 +70,4 @@ We ran towards the jungle, and as we crossed the threshold of the forsaken land,
 
 We wish to have left the [[Whistling Fields]], but once we set foot on the land, we understood the none of us could ever leave the fields i  a way that mattered.
 
-Their bones are still there, Borindil, Gulinthras, Patyr, Ahlor and Aryl, they are still there, and I could not do anything to save them. I could not do anything to save them, and I could not do anything to save myself. May the gods have their souls, and not whatever took them in the forsaken land.
+Their bones are still there, Borindil, Gulinthras, Patyr, Ahlor and Aryl, they are still there, and I could not do anything to save them. I could not do anything to save them, and I could not do anything to save myself. May the gods have their [[souls]], and not whatever took them in the forsaken land.

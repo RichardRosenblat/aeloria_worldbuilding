@@ -13,13 +13,13 @@ Harrowsnight traces its roots back to ancient beliefs, where the 30th night of [
 
 ## Purpose of Celebration
 
-The primary purpose of Harrowsnight is to safeguard the souls of the departed from [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]'s malevolent gaze. The thinning of the boundaries between planes during this night also allows creatures to traverse between the [[material plane]] and the [[Shadowfell]]. The celebrations are designed to create an atmosphere resembling the [[Shadowfell]], making it easier for dark creatures to return to their realm without unsettling the inhabitants of the [[material plane]].
+The primary purpose of Harrowsnight is to safeguard the [[souls]] of the departed from [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]'s malevolent gaze. The thinning of the boundaries between planes during this night also allows creatures to traverse between the [[material plane]] and the [[Shadowfell]]. The celebrations are designed to create an atmosphere resembling the [[Shadowfell]], making it easier for dark creatures to return to their realm without unsettling the inhabitants of the [[material plane]].
 
 ## Means of Celebrating
 
 - **Costumes:** Harrowsnight sees people adorning various costumes inspired by creatures from the [[Shadowfell]] or other dark and mysterious monsters. The streets come alive with the haunting presence of spectral beings and creatures of the night.
 
-- **Trick-or-Treating:** An integral part of the celebration involves individuals, especially children, going door-to-door, collecting candy and treats. This tradition is seen as a way to appease [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] and safeguard the souls of the living from her watchful gaze.
+- **Trick-or-Treating:** An integral part of the celebration involves individuals, especially children, going door-to-door, collecting candy and treats. This tradition is seen as a way to appease [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]] and safeguard the [[souls]] of the living from her watchful gaze.
 
 - **Costume Parties:** Social gatherings abound during Harrowsnight, with participants showcasing their creative costumes and engaging in festivities. These gatherings provide a space for the community to come together and revel in the eerie ambiance of the night.
 

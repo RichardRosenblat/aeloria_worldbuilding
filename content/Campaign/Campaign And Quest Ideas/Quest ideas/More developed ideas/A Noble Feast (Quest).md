@@ -16,7 +16,7 @@ However, beneath the facade of civility, the family harbors a dark and insidious
 
 House Morven was cursed many generations ago when the patriarch of the family, Lord Iskander Morven, engaged in a toxic and increasingly depraved relationship with a maid. The affair culminated in Lord Iskander consuming the maid, believing that by doing so, he would possess her entirely. This monstrous act unleashed a curse upon his bloodline, causing his descendants to inherit his insatiable hunger for human flesh.
 
-Over time, the curse warped their minds and souls, turning them into refined yet grotesque predators who find ecstasy and a twisted sense of connection in consuming their victims. By day, they are the picture of nobility, but by night, they become something far more sinister.
+Over time, the curse warped their minds and [[souls]], turning them into refined yet grotesque predators who find ecstasy and a twisted sense of connection in consuming their victims. By day, they are the picture of nobility, but by night, they become something far more sinister.
 
 #### **Quest Objectives:**
 

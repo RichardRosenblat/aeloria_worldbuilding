@@ -5,7 +5,7 @@ tags:
 ---
 # Encounter with the [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]]
 
-Upon the death of a character or NPC in [[Aeloria]], their soul is guided by the enigmatic [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]] before they pass into the afterlife. This encounter offers clarity and closure, ensuring a smooth transition between the realms of the living and the dead. 
+Upon the death of a character or NPC in [[Aeloria]], their [[Souls|soul]] is guided by the enigmatic [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]] before they pass into the afterlife. This encounter offers clarity and closure, ensuring a smooth transition between the realms of the living and the dead. 
 
 The [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]]’s encounters with the deceased are designed to offer comfort and clarity as they transition from life to death. The following tables provide a structured yet flexible way to determine various aspects of these encounters.
 

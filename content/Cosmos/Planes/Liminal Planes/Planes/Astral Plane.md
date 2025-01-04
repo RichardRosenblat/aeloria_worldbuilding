@@ -8,7 +8,7 @@ aliases: []
 
 # The Realm of Dreams
 
-The Astral Plane is the realm of thought and dream, where visitors travel as disembodied souls to reach the [[Metapsychic Planes|Outer Planes]]. It is a great silvery sea, the same above and below, with swirling wisps of white and gray streaking among motes of light like distant stars. Most of the [[Astral Sea]] is a vast, empty expanse. Visitors occasionally stumble upon the petrified corpse of a [[Dead Gods|dead god]] or other chunks of rock drifting forever in the silvery void. Much more commonplace are color pools—magical pools of colored light that flicker like radiant, spinning coins.
+The Astral Plane is the realm of thought and dream, where visitors travel as disembodied [[souls]] to reach the [[Metapsychic Planes|Outer Planes]]. It is a great silvery sea, the same above and below, with swirling wisps of white and gray streaking among motes of light like distant stars. Most of the [[Astral Sea]] is a vast, empty expanse. Visitors occasionally stumble upon the petrified corpse of a [[Dead Gods|dead god]] or other chunks of rock drifting forever in the silvery void. Much more commonplace are color pools—magical pools of colored light that flicker like radiant, spinning coins.
 
 Creatures on the Astral Plane don't age or suffer from hunger or thirst. For this reason, humanoids that live on the Astral Plane (such as the githyanki) establish outposts on other planes, often the [[Material Plane]], so their children can grow to maturity.
 

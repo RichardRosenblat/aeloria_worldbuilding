@@ -9,7 +9,7 @@ tags:
 
 # The Blessed Fields of Elysium
 
-Elysium is home to creatures of unfettered kindness and compassion, and a welcome refuge for planar travelers seeking a safe haven. The plane's bucolic landscapes glimmer with life and beauty in their prime. Tranquility seeps into the bones and souls of those who enter the plane. It is the heaven of well-earned rest, a place where tears of joy glisten on many a cheek.
+Elysium is home to creatures of unfettered kindness and compassion, and a welcome refuge for planar travelers seeking a safe haven. The plane's bucolic landscapes glimmer with life and beauty in their prime. Tranquility seeps into the bones and [[souls]] of those who enter the plane. It is the heaven of well-earned rest, a place where tears of joy glisten on many a cheek.
 
 ## Optional Rule: Overwhelming Joy
 

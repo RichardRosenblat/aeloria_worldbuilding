@@ -29,7 +29,7 @@ To finance their escape, Galadria took part of her father's money and jewels. Wi
 
 Her father, who had secretly followed her to the lake, arrived too late. Finding his daughter's lifeless body, he wept bitterly. In his desperation, he invoked the name of [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine Ithilgalad]], the [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|The Silver Lady]] and goddess of the [[The Moon (Aeloria's)|moon]], pleading for her to bring Galadria back to life.
 
-[[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]], moved by the father's profound grief and Galadria's tragic fate, appeared to him in the reflection of the lake. She expressed her desire to grant his wish but explained that the afterlife required a soul to maintain its balance. The father, without hesitation, offered his own soul in place of his daughter's.
+[[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]], moved by the father's profound grief and Galadria's tragic fate, appeared to him in the reflection of the lake. She expressed her desire to grant his wish but explained that the afterlife required a [[Souls|soul]] to maintain its balance. The father, without hesitation, offered his own [[Souls|soul]] in place of his daughter's.
 
 [[Sehanine, Goddess of the Moon, Dreams and Tricks - The Moonweaver (CG)|Sehanine]] acknowledged that such an exchange could grant Galadria a new life. However, she warned that the great power of a goddess would mark Galadria, transforming her forever. The father, driven by his love for his daughter, accepted the terms.
 

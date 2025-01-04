@@ -13,9 +13,9 @@ tags:
   - plane_type
 ---
 # The Metapsychic planes
-The Metapsychic planes, often described as the "Realms of Thought and Soul," or “Outer Planes” are where the minds and souls of beings find their existence. These planes are deeply intertwined with consciousness and the essence of individuality, where thoughts and emotions are manifested as tangible landscapes and entities.
+The Metapsychic planes, often described as the "Realms of Thought and soul," or “Outer Planes” are where the minds and [[souls]] of beings find their existence. These planes are deeply intertwined with consciousness and the essence of individuality, where thoughts and emotions are manifested as tangible landscapes and entities.
 
-In the Metapsychic Realms, the universal connection, as well as the enduring and ever-changing nature of existence, come to life. Beings who venture into these realms may encounter sentient emotions, ancient memories, and the collective wisdom of all sentient life. These planes are a reflection of the interconnectedness of all minds and souls, providing a unique opportunity for adventurers to explore the depths of consciousness and gain insight into the nature of the soul.
+In the Metapsychic Realms, the universal connection, as well as the enduring and ever-changing nature of existence, come to life. Beings who venture into these realms may encounter sentient emotions, ancient memories, and the collective wisdom of all sentient life. These planes are a reflection of the interconnectedness of all minds and [[souls]], providing a unique opportunity for adventurers to explore the depths of consciousness and gain insight into the nature of the [[Souls|soul]].
 
 Metapsychic planes are often divided in layers, and such layers may be divided in realms
 
@@ -54,7 +54,7 @@ This river bubbles with grease, foul flotsam, and the putrid remains of battles 
 
 The Styx churns through the top layers of [[Acheron]], [[the Nine Hells]], [[Gehenna]], [[Hades]], [[Carceri]],[[the Abyss]], and [[Pandemonium]]. Tributaries of the Styx snake onto lower layers of these planes. For example, a tendril of the Styx winds through every layer of [[the Nine Hells]], allowing passage from one layer of that plane to the next.
 
-Sinister ferries float on the waters of the Styx, crewed by pilots skilled in negotiating the unpredictable currents and eddies of the river. For a price, these pilots are willing to carry passengers from plane to plane. Some of them are fiends, while others are the souls of dead creatures from the [[Material Plane]].
+Sinister ferries float on the waters of the Styx, crewed by pilots skilled in negotiating the unpredictable currents and eddies of the river. For a price, these pilots are willing to carry passengers from plane to plane. Some of them are fiends, while others are the [[souls]] of dead creatures from the [[Material Plane]].
 
 ### The Infinite Staircase
 

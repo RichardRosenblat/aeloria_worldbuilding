@@ -7,7 +7,7 @@ tags:
 
 *I know this dusty letter will not find you, but I hope I do soon, at a better place than this. With these eyes of mine, I have witnessed the end of time; Heavens were set ablaze; the bowels of the earth were frozen; fish drowned and clocks ran out of ticks.*
 
-*It's been just a few days since the Cataclysm was unleashed. The screams of those souls still haunt me. The pillars were so bright all I could feel was dread. The fog burned everything and the water is undrinkable. The bunkers safe but the doors do not open. They sheltered me, but they cant treat me here.*
+*It's been just a few days since the Cataclysm was unleashed. The screams of those [[souls]] still haunt me. The pillars were so bright all I could feel was dread. The fog burned everything and the water is undrinkable. The bunkers safe but the doors do not open. They sheltered me, but they cant treat me here.*
 
 *I am sorry, dear, I think i won't return home. I am about to become a ghost and haunt these ruins. I'll be bound here, to this remnant of a past marked by flames, by hatred, anger and the misguided patriotism. Their joy is to see our bodies upon the streets.*
 

@@ -229,7 +229,7 @@ tags:
         - Vial of essence from a patron entity
         - Pact-sealing wax and seal
         - Enchanted talisman granted by patron
-        - Pact-bound soul gem for storing captured souls
+        - Pact-bound soul gem for storing captured [[souls]]
         - Eldritch incense for ritual invocations
         - Dark ritual dagger for blood pacts
         - Shadowy cloak that enhances eldritch powers
@@ -294,7 +294,7 @@ tags:
     - Rogue's Shadow Operative Kit: 24 gold pieces
         Lockpicks and mini-locksmith tools Thieves' guild symbol pendant Smoke bombs for stealthy getaways Grappling hook and rope Disguise kit (makeup, wigs, and props) Silent footwear for stealthy movement Poisoned throwing daggers
     - Warlock's Pactbound Arsenal: 25 gold pieces
-        Pact tome for recording pacts and agreements Quill pen infused with eldritch energy Infernal contract scroll for signing pacts Pact-specific invocation scrolls Vial of essence from a patron entity Pact-sealing wax and seal Enchanted talisman granted by patron Pact-bound soul gem for storing captured souls Eldritch incense for ritual invocations Dark ritual dagger for blood pacts Shadowy cloak that enhances eldritch powers Pact amulet that provides protection from patron's enemies
+        Pact tome for recording pacts and agreements Quill pen infused with eldritch energy Infernal contract scroll for signing pacts Pact-specific invocation scrolls Vial of essence from a patron entity Pact-sealing wax and seal Enchanted talisman granted by patron Pact-bound soul gem for storing captured [[souls]] Eldritch incense for ritual invocations Dark ritual dagger for blood pacts Shadowy cloak that enhances eldritch powers Pact amulet that provides protection from patron's enemies
     - Cleric's Devotion Kit: 20 gold pieces
         Holy symbol necklace Sacred prayer book Healing potions Ritual components pouch Holy water vials Divine favor oil for anointing weapons Blessed incense for sacred ceremonies Divine spell focus (e.g., staff or holy symbol) Ritual cleansing tools
     - Monk's Martial Arts Set: 15 gold pieces

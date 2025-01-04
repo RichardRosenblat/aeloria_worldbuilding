@@ -5,10 +5,10 @@ tags:
 ### **Quest Title: "The Echoes of Gears and Flesh"**
 
 #### **Introduction:**
-The party is hired by a desperate village elder from a small, isolated village near the cursed *Manor of Lost Souls*. Adventurers and villagers have been vanishing near the manor, with some claiming to hear unnatural grinding noises and the screams of those long gone. The elder reveals that a group of adventurers entered the manor a [[Days of The Week|week]] ago and has not returned. The party's task is to discover what happened, rescue any survivors, and eliminate the source of the horror.
+The party is hired by a desperate village elder from a small, isolated village near the cursed *Manor of Lost [[Souls]]*. Adventurers and villagers have been vanishing near the manor, with some claiming to hear unnatural grinding noises and the screams of those long gone. The elder reveals that a group of adventurers entered the manor a [[Days of The Week|week]] ago and has not returned. The party's task is to discover what happened, rescue any survivors, and eliminate the source of the horror.
 
 #### **Background:**
-The *Manor of Lost Souls* was once the estate of a brilliant but mad artificer named Professor Aldric Venn. Obsessed with immortality, Venn experimented with binding souls to metal, creating warforged beings—humanoid machines powered by trapped souls. Most warforged were created with their memories wiped, but those in the manor retained theirs. Over the years, they grew twisted, longing to reclaim their former organic lives.
+The *Manor of Lost [[Souls]]* was once the estate of a brilliant but mad artificer named Professor Aldric Venn. Obsessed with immortality, Venn experimented with binding [[souls]] to metal, creating warforged beings—humanoid machines powered by trapped [[souls]]. Most warforged were created with their memories wiped, but those in the manor retained theirs. Over the years, they grew twisted, longing to reclaim their former organic lives.
 
 These warforged have developed a gruesome practice: capturing those who venture into the manor and harvesting their organs. They believe that by wearing the organic parts over their metallic frames, they can regain their lost humanity. However, their attempts are flawed and deadly. The warforged bodies have a spring lock mechanism, controlled by a key at their napes, that allows them to be worn by medium-sized humanoids. However, this mechanism is unstable, and any wrong move could cause the springs to release, crushing the wearer from within.
 
@@ -41,7 +41,7 @@ If the party successfully escapes, they will have saved any surviving adventurer
 
 #### **Rewards:**
 - **Warforged Key:** A key taken from The First that can deactivate or control certain mechanical constructs.
-- **Tome of Lost Souls:** A book detailing advanced artificer techniques, potentially leading to new crafting options or story hooks involving soul-binding.
+- **Tome of Lost [[Souls]]:** A book detailing advanced artificer techniques, potentially leading to new crafting options or story hooks involving soul-binding.
 
 #### **Aftermath:**
 The party's actions will have repercussions. If they share the knowledge of the warforged, it could spark a movement to hunt down similar creations, or even incite fear and mistrust toward all warforged. The party may also be haunted by the spirits of those they could not save, leading to future encounters or quests.

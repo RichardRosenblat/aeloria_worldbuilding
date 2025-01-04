@@ -33,7 +33,7 @@ This inherent lack of physical form imposes a limitation on True Gods, compellin
 Avatars serve as the physical manifestations of the divine essence and power of True Deities. These manifestations embody the will of the True Gods and take on mortal forms. Despite their mortal nature, the death of an Avatar does not equate to the demise of the True God, unless their [[divine spark]] is stolen or extinguished.
 
 ### Existence in Other Planes
-Avatars are bound by the restrictions of [[the Divine Accord]], preventing their existence in the [[material plane]]. However, they can manifest in other planes, often found in [[Metapsychic Planes]] where the gods are close to the souls of those who worshipped them.
+Avatars are bound by the restrictions of [[the Divine Accord]], preventing their existence in the [[material plane]]. However, they can manifest in other planes, often found in [[Metapsychic Planes]] where the gods are close to the [[souls]] of those who worshipped them.
 
 ### Mortality of Avatars
 Though mortal, the death of an Avatar does not bring about the end of the True God. Instead, it serves as a temporary setback, with the True God remaining untouched unless a dire fate befalls their [[divine spark]].

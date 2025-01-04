@@ -9,7 +9,7 @@ Olympus is a captivating moon of [[Tormentia]], characterized by towering mounta
 
 ## Name
 
-The name "Olympus" carries profound significance, rooted in the ancient legends that speak of a divine mountain awaiting the souls of individuals who have committed great deeds of good and order in their earthly lives. In the folklore that inspired the nomenclature of this celestial body, Olympus is revered as a symbol of virtue and righteousness. The towering mountains and floating islands of the moon are thought to echo the splendor of this mythical peak, where the souls of noble heroes find eternal rest. The choice of the name Olympus for this moon serves as a nod to the lore that celebrates the pursuit of goodness and order, infusing the celestial realm with a sense of cosmic virtue and spiritual resonance.
+The name "Olympus" carries profound significance, rooted in the ancient legends that speak of a divine mountain awaiting the [[souls]] of individuals who have committed great deeds of good and order in their earthly lives. In the folklore that inspired the nomenclature of this celestial body, Olympus is revered as a symbol of virtue and righteousness. The towering mountains and floating islands of the moon are thought to echo the splendor of this mythical peak, where the [[souls]] of noble heroes find eternal rest. The choice of the name Olympus for this moon serves as a nod to the lore that celebrates the pursuit of goodness and order, infusing the celestial realm with a sense of cosmic virtue and spiritual resonance.
 
 ## Description
 

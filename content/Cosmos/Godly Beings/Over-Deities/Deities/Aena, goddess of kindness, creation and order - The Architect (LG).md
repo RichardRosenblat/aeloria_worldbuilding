@@ -49,7 +49,7 @@ aliases:
 
 ## Commandments
 
-1. *"Nurture the universal love within you, for it connects every soul. Fan the flames of affection and kindness toward others, for in their happiness, you'll find your own. Let selflessness be your guiding light, for a heart open to all is a heart that knows the warmth of a caring community."*
+1. *"Nurture the universal love within you, for it connects every [[Souls|soul]]. Fan the flames of affection and kindness toward others, for in their happiness, you'll find your own. Let selflessness be your guiding light, for a heart open to all is a heart that knows the warmth of a caring community."*
 2. *"Embrace the harmonious dance of creation and order, for it is the cornerstone of a flourishing world. In your actions, manifest the equilibrium that echoes through the very essence of existence."*
 3. *"Respect the enduring past and be the gentle hand guiding subtle transformations into the future. In the grand story of existence, you are the enduring, ever-changing narrator, weaving the threads of history in a harmonious tapestry."*
 4. *"Wisely wield the elemental forces, for they offer glimpses into the world's wonders. Seek affinity with the elements, for they reveal insights that enable you to nurture and protect the beauty of our shared world."*

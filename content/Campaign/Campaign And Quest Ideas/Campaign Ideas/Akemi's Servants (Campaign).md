@@ -74,7 +74,7 @@ Here are some eerie and unsettling scenes involving Akemi, designed to create a 
    - As the characters approach a location associated with Akemi, the weather suddenly changes. A clear day turns into a sudden storm or thick fog, with Akemi’s face briefly visible in the clouds or mist.
 
 17. **Sudden Visions**
-   - One or more characters experience sudden, vivid visions of Akemi. These visions show her in various states, such as calmly watching them, performing arcane rituals, or surrounded by suffering souls.
+   - One or more characters experience sudden, vivid visions of Akemi. These visions show her in various states, such as calmly watching them, performing arcane rituals, or surrounded by suffering [[souls]].
 
 18. **Familiar Stranger**
    - The characters encounter a stranger who behaves exactly like Akemi, with the same mannerisms and voice. This person claims to have never heard of Akemi, leaving the party confused and on edge.
@@ -124,7 +124,7 @@ Here are some eerie and unsettling scenes involving Akemi, designed to create a 
 
 14. "I am always here, just beyond your perception, watching, guiding."
 
-15. "The truth is often a bitter poison, but it cleanses the soul."
+15. "The truth is often a bitter poison, but it cleanses the [[Souls|soul]]."
 
 16. "Even in the darkest shadows, I see you. And I understand you more than you know."
 
@@ -239,7 +239,7 @@ One day, a random commoner stumbled upon this image. Upon seeing it, the commone
 Akemi is the physical manifestation of the concept depicted by the image. She is not bound by the limitations of a human being and exhibits an unnerving calmness and control. Her golden eyes are a mark of her true nature, and those who see the image are at risk of being converted into her likeness.
 
 ## Goals and Motivations
-Akemi's goals are deeply rooted in spreading the malevolent image and manipulating human emotions to achieve control over souls and reality itself. Here’s a breakdown of her objectives:
+Akemi's goals are deeply rooted in spreading the malevolent image and manipulating human emotions to achieve control over [[souls]] and reality itself. Here’s a breakdown of her objectives:
 
 ### Main Goal:
 **Spread as a Virus**
@@ -250,11 +250,11 @@ Akemi's goals are deeply rooted in spreading the malevolent image and manipulati
 - Akemi is fascinated by human emotions, particularly guilt, despair, and hatred. She aims to push individuals to their limits, testing the extent to which these emotions can consume and break down a person's psyche. This exploration serves to deepen her understanding of human suffering and vulnerability.
 
 ### Final Objective:
-**Manifest the Image in Souls**
-- Her ultimate goal is to etch the image into the very soul of a person. This process involves breaking down their spirit until all that remains is hopelessness and the image itself. By achieving this, Akemi gains profound control over the soul, enabling her to manipulate and ultimately destroy it.
+**Manifest the Image in [[Souls]]**
+- Her ultimate goal is to etch the image into the very [[Souls|soul]] of a person. This process involves breaking down their spirit until all that remains is hopelessness and the image itself. By achieving this, Akemi gains profound control over the [[Souls|soul]], enabling her to manipulate and ultimately destroy it.
 
 ### Beyond Mortal Realms:
-- **Reach the [[Astral Plane]]:** Once she has mastered control over souls, Akemi plans to ascend to the [[astral plane]]. Here, she aims to study the breakdown of souls into despair and use this knowledge to gain access to the gods.
+- **Reach the [[Astral Plane]]:** Once she has mastered control over [[souls]], Akemi plans to ascend to the [[astral plane]]. Here, she aims to study the breakdown of [[souls]] into despair and use this knowledge to gain access to the gods.
   
 - **Control Over Reality:** Ultimately, Akemi seeks to gain control over reality itself. Her ambition is to spread the image to every creature across multiple realities, experimenting with their emotions and existence until she exhausts all possibilities.
 

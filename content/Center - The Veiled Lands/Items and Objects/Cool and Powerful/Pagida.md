@@ -39,7 +39,7 @@ By uttering the activation word, the wielder can unleash Pagida's magical prowes
 - **Trusted Mentor Betrayal:**
     - Calista Eudokia, a skilled mage apprentice, was mentored by an esteemed wizard named Arthanis Dolos, whom she revered and trusted deeply.
     - Arthanis, however, harbored dark ambitions and sought to experiment with Calista's potential. Before Calista could ever uncover his sinister plans, he became close to her, feigning friendship and trust.
-    - One fateful night, Arthanis revealed his true intentions, while she was in a vulnerable state. He betrayed her trust, using her own magic against her, sealing her soul within a powerful artifact.
+    - One fateful night, Arthanis revealed his true intentions, while she was in a vulnerable state. He betrayed her trust, using her own magic against her, sealing her [[Souls|soul]] within a powerful artifact.
 - **Trapped in the Sword:**
     - Calista's essence became bound to the sword, a relic known as Pagida, the Enrapturing Blade, leaving her trapped within its cold, metallic confines.
     - Calista felt her body and mind slowly slipping away, replaced by the sword's own limited consciousness. She struggled to maintain her sense of self, but the sword's influence grew stronger with each passing day.

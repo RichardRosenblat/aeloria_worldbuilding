@@ -204,7 +204,7 @@ A follower of Asmodeus can gain favor with their deity by performing acts of cru
      - Asmodeus offers his followers strategic insights and cunning guidance. Once per day, a follower can request Asmodeus's guidance to gain advantage on an Intelligence-based skill check or saving throw or to gain insight into a complex problem or puzzle.
 5. **Hellish Endurance:**    
      - Followers blessed by Asmodeus gain increased physical endurance and stamina. They add their proficiency bonus to Constitution saving throws and can endure harsh environmental conditions with ease.
-6. **Soul Pact Empowerment:**
+6. **soul Pact Empowerment:**
      - Asmodeus strengthens the bonds between his followers and their infernal patrons. Once per long rest, a follower can call upon their infernal patron to grant them temporary hit points equal to their character level plus their Charisma modifier.
 7. **Infernal Blessing of Dominion:**    
      - Asmodeus bestows upon his followers a fragment of his dominion over [[the Nine Hells]]. Once per day, a follower can cast _Dominate Person_ or _Suggestion_ without expending a spell slot, using Charisma as their spellcasting ability.

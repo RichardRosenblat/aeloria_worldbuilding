@@ -36,7 +36,7 @@ aliases:
 | Dwelmer (Dwarven) Nordic  | Helga         | The Dark Valkyrie               | She/Her      | [[Harmonious Gods\|Ástin Gudar]] (Loving gods)                                    |
 | Eldar (Elven) Elven       | Nimrodel      | The Eternal Guide               | She/Her      | [[Harmonious Gods\|Maiar]] (Brotherhood)                                          |
 | Eldarin (Elven) Japanese  | Shinigami     | The Guide to the Afterlife      | She/Her      | [[Harmonious Gods\|Waigami]]([[Harmonious Gods\|Harmonious deities]])             |
-| Mularir (Tallman) Greek   | Thanatos      | The Keeper of Souls             | He/Him       | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
+| Mularir (Tallman) Greek   | Thanatos      | The Keeper of [[Souls]]             | He/Him       | [[Harmonious Gods\|Armonía theoí]] (Harmony gods)                                 |
 | Yotunn (Dwarven) Giant      | Hela          | The Gatekeeper of the Afterlife | She/Her      | [[Harmonious Gods\|Samraddar Guir]] (United gods)                                 |
 
 ## Extra Titles
@@ -50,18 +50,18 @@ The Lady of Grief: Raven Queen, Goddess of Sorrow
 
 - *Death is the natural end of life. Grieve the fallen, but do not pity them. Exult in the time that they were granted.*
 - *The path of life and its closure in death are sacrosanct. Those who pridefully stray from this path must be punished.*
-- *Undeath is an atrocity. Death is too good a punishment for those who pervert the rightful transition of the soul.*
+- *Undeath is an atrocity. Death is too good a punishment for those who pervert the rightful transition of the [[Souls|soul]].*
 
 ## Portfolio
 
-1. **Death**: The Raven Queen rules over the domain of death, guiding souls to their final rest and maintaining the balance between life and afterlife.
+1. **Death**: The Raven Queen rules over the domain of death, guiding [[souls]] to their final rest and maintaining the balance between life and afterlife.
 2. **Grief**: She embodies the sorrow and mourning felt by those who have lost loved ones, offering solace and understanding to those who grieve.
 3. **Sorrow**: The Raven Queen understands the depths of sorrow and emotional pain, comforting those who are burdened by loss and tragedy.
 4. **Omens**: She controls the realm of omens and signs, where ravens and crows deliver messages and warnings from the beyond.
 5. **Cemeteries**: The Raven Queen watches over cemeteries and burial grounds, where the departed find peace in their eternal slumber.
-6. **Funerals**: She presides over funerary rites and rituals, ensuring that the souls of the deceased are honored and remembered with dignity.
+6. **Funerals**: She presides over funerary rites and rituals, ensuring that the [[souls]] of the deceased are honored and remembered with dignity.
 7. **Masks**: The Raven Queen is associated with masks and porcelain faces, symbolizing the faceless nature of death and the transition to the afterlife.
-8. **Ravens/Crows**: These birds are her messengers and agents, serving as harbingers of death and guides for lost souls seeking the afterlife.
+8. **Ravens/Crows**: These birds are her messengers and agents, serving as harbingers of death and guides for lost [[souls]] seeking the afterlife.
 9. **Loss**: The Raven Queen understands the pain of loss in all its forms, teaching mortals to accept the inevitability of death and find strength in their memories.
 10. **Winter**: She governs the season of winter, where life retreats and the world rests under a blanket of snow, symbolizing both the end of life and the promise of rebirth.
 
@@ -95,9 +95,9 @@ _Raven's head, in profile, facing left_
 
 ## Religious Practices
 
-The followers of the Raven Queen engage in a variety of religious practices to honor their goddess and ensure the proper transition of souls to the afterlife. These practices reflect the deity's domains of death and winter, emphasizing the natural cycle of life and the importance of accepting mortality.
+The followers of the Raven Queen engage in a variety of religious practices to honor their goddess and ensure the proper transition of [[souls]] to the afterlife. These practices reflect the deity's domains of death and winter, emphasizing the natural cycle of life and the importance of accepting mortality.
 
-1. **Funeral Rites and Last Rites:** Followers of the Raven Queen are meticulous in ensuring proper rites for the deceased. Funerals involve ceremonies where prayers are offered to guide the soul to the afterlife. Last rites include the symbolic placing of a black feather on the body to signify the Raven Queen's presence and acceptance of the departed soul.
+1. **Funeral Rites and Last Rites:** Followers of the Raven Queen are meticulous in ensuring proper rites for the deceased. Funerals involve ceremonies where prayers are offered to guide the [[Souls|soul]] to the afterlife. Last rites include the symbolic placing of a black feather on the body to signify the Raven Queen's presence and acceptance of the departed [[Souls|soul]].
 
 2. **Offerings of Black Feathers and White Masks:** Devotees offer black feathers (symbolizing crows and the Raven Queen's connection to birds) and small, blank white masks (representing the faceless nature of death and transition) at altars or sacred places.
 
@@ -107,9 +107,9 @@ The followers of the Raven Queen engage in a variety of religious practices to h
 
 5. **Prayers for Guidance in the Transition:** Before major life transitions or when faced with death, followers recite prayers seeking the Raven Queen's guidance and blessing. These prayers emphasize acceptance of the natural cycle of life and death.
 
-6. **Harvest of Souls Festival:** During this festival, held at the end of the harvest season, followers celebrate the gathering of souls by the Raven Queen. Offerings of harvested crops are made alongside prayers for a bountiful afterlife for the departed.
+6. **Harvest of [[Souls]] Festival:** During this festival, held at the end of the harvest season, followers celebrate the gathering of [[souls]] by the Raven Queen. Offerings of harvested crops are made alongside prayers for a bountiful afterlife for the departed.
 
-7. **Cleansing Rituals:** Cleansing rituals involve purification by cold water or snow, symbolizing the cleansing of the soul before death and its passage into the Raven Queen's domain.
+7. **Cleansing Rituals:** Cleansing rituals involve purification by cold water or snow, symbolizing the cleansing of the [[Souls|soul]] before death and its passage into the Raven Queen's domain.
   
 8. **Veilreaching:** This extreme ritual is performed by the most devout followers of the Raven Queen. It involves a near-death experience or journey to the brink of death, this rituals can be perfomed in many different ways, from fasting to meditation to bloodletting. The goal is to experience a glimpse of the afterlife and return with insights or messages from the goddess.
 
@@ -139,11 +139,11 @@ The followers of the Raven Queen adhere to a set of cultural norms and tradition
 
 11. **Silent Reflection and Meditation:** Silence and solitude are valued for personal reflection and meditation. People regularly engage in quiet time to connect with their inner selves and honor the dead.
 
-12. **Art and Literature Reflecting Mortality:** Artistic expressions often explore themes of life, death, and the afterlife. Poetry, music, and visual arts frequently depict the journey of the soul and the balance between life and death.
+12. **Art and Literature Reflecting Mortality:** Artistic expressions often explore themes of life, death, and the afterlife. Poetry, music, and visual arts frequently depict the journey of the [[Souls|soul]] and the balance between life and death.
 
 ## Political Structures
 
-The societies that worship the Raven Queen often have unique political structures that reflect their beliefs in death, winter, and the afterlife. These structures are designed to ensure the proper transition of souls, maintain the natural order of life and death, and uphold the goddess's commandments.
+The societies that worship the Raven Queen often have unique political structures that reflect their beliefs in death, winter, and the afterlife. These structures are designed to ensure the proper transition of [[souls]], maintain the natural order of life and death, and uphold the goddess's commandments.
 
 1. **Thanatocracy - Rule by the Death-Priests:** Societies worshiping the Raven Queen often have a ruling class composed of death-priests or clerics who are believed to have a special connection with the goddess. These leaders are responsible for interpreting omens, performing rituals, and ensuring the community’s adherence to the Raven Queen's commandments.
 
@@ -187,7 +187,7 @@ The societies that worship the Raven Queen often have unique political structure
 
 ## Blessings
 
-A follower of the Raven Queen can gain favor with their deity by performing funeral rites, guiding souls to the afterlife, and honoring the natural cycle of life and death. As they embody the principles of death, acceptance of mortality, and reverence for the deceased, the Raven Queen may bestow the following blessings upon them:
+A follower of the Raven Queen can gain favor with their deity by performing funeral rites, guiding [[souls]] to the afterlife, and honoring the natural cycle of life and death. As they embody the principles of death, acceptance of mortality, and reverence for the deceased, the Raven Queen may bestow the following blessings upon them:
 
 *Any spell-like abilities granted by these blessings use the character's spellcasting ability, if the character does not have a spellcasting ability, they can use their highest ability score.*
 
@@ -203,7 +203,7 @@ A follower of the Raven Queen can gain favor with their deity by performing fune
 
 6. **Cloak of Feathers:** The follower can use their reaction to cast *Feather Fall* at will on themselves and *fly* once per long rest without expending a spell slot. This blessing symbolizes the protection of the Raven Queen’s crows.
 
-7. **Soul's Passage:** The follower can cast *Gentle Repose* at will without using a spell slot. This ensures that the dead are preserved properly until they can be given their final rites.
+7. **[[Souls|Soul]]'s Passage:** The follower can cast *Gentle Repose* at will without using a spell slot. This ensures that the dead are preserved properly until they can be given their final rites.
 
 8. **Winter’s Embrace:** The follower can cast *Finger of Death* or *Otiluke's Freezing Sphere* once per long rest without expending a spell slot. These spell is cast at a level equal to the highest level spell slot they can cast. This blessing embodies the chilling power of winter bestowed by the Raven Queen.
 

@@ -23,7 +23,7 @@ aliases:
 ---
 # Kryela, goddess of malice, destruction and chaos: The Undoing (CE)
 
-"Why confine yourself to the expectations of others? To be shackled by their desires is to forsake the essence of your being. No one else can experience life through your eyes, nor comprehend your innermost self. Embrace your uniqueness wholeheartedly. Seize control of your fate and cling to it fiercely, for it belongs to you and you alone. Be untamed, audacious, unapologetically self-centered and egotistical.  If others cannot accept it, let them falter. Take what you want, rip it from their hands if needed be. Be the tempest in their existence, the tumult in their souls. Devour, Kill, consume and destroy, your sovereignty is paramount. You don't need reason, justification or permission, rip the stars to shreds and let the world fall apart behind you." - Kryela's message to her followers
+"Why confine yourself to the expectations of others? To be shackled by their desires is to forsake the essence of your being. No one else can experience life through your eyes, nor comprehend your innermost self. Embrace your uniqueness wholeheartedly. Seize control of your fate and cling to it fiercely, for it belongs to you and you alone. Be untamed, audacious, unapologetically self-centered and egotistical.  If others cannot accept it, let them falter. Take what you want, rip it from their hands if needed be. Be the tempest in their existence, the tumult in their [[souls]]. Devour, Kill, consume and destroy, your sovereignty is paramount. You don't need reason, justification or permission, rip the stars to shreds and let the world fall apart behind you." - Kryela's message to her followers
 
 
 ## Culture names

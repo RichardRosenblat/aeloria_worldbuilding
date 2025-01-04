@@ -14,7 +14,7 @@ Ascended Beings walk among the material world, bound to mortal shells while chan
 
 ## The Fragile Existence
 
-Upon the death of an Ascended Being, a unique dilemma unfolds. Their divine essence attempts to follow their soul, but the absence of fusion with the [[divine spark]] leads to a tragic fate. The spark erodes the soul, rendering it irretrievable by any means, including divine intervention or powerful spells like the wish spell. The essence dissolves, returning the divine power to the original [[True Gods|true god]].
+Upon the death of an Ascended Being, a unique dilemma unfolds. Their divine essence attempts to follow their [[Souls|soul]], but the absence of fusion with the [[divine spark]] leads to a tragic fate. The spark erodes the [[Souls|soul]] into [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|The Undoing]], rendering it irretrievable by any means, including divine intervention or powerful spells like the wish spell. The essence dissolves, returning the divine power to the original [[True Gods|true god]].
 
 ## Kindling [[Divine Spark]]
 

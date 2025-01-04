@@ -51,7 +51,7 @@ The Mistress of Sleep: Sehanine, Goddess of Rest and The Night
 ## Commandments
 
 - *Seek the beauty in the simplest of things, for within the innocent gaze lies the key to understanding the universe's grandeur.*
-- *Forge bonds openly, recognizing that true freedom is woven through interconnected souls. Like the moon guides the tides, let connections enhance your freedom, and freedom enrich your connections.*
+- *Forge bonds openly, recognizing that true freedom is woven through interconnected [[souls]]. Like the moon guides the tides, let connections enhance your freedom, and freedom enrich your connections.*
 - *Embrace each emotion passionately, for within the depths of joy and sorrow lies the canvas of life's most vivid experiences.*
 
 ## Portfolio

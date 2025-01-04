@@ -14,7 +14,7 @@ Going through the region, the players find out that the creatures are being let 
 
 ## The Revelation
 
-As time goes by, the players find out that AM is [[Aurelius Malum]], a powerful devil who controls an underground kingdom of devils. He aims to control and destroy the surface-dwelling society by making humanoids, kings, and more bargain their souls to [[the Nine Hells]] with cunning, threats, war, and blackmailing.
+As time goes by, the players find out that AM is [[Aurelius Malum]], a powerful devil who controls an underground kingdom of devils. He aims to control and destroy the surface-dwelling society by making humanoids, kings, and more bargain their [[souls]] to [[the Nine Hells]] with cunning, threats, war, and blackmailing.
 
 ## The Final Showdown
 

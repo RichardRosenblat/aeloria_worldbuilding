@@ -19,4 +19,4 @@ Those who dare to step through the Luminous Portal embark on otherworldly journe
 
 ## Celestial Aid
 
-Beyond mere exploration, the Luminous Portal offers a means for brave souls to seek the aid of celestial beings dwelling in realms beyond [[Aeloria]]. Whether for knowledge, assistance, or the fulfillment of quests that span the cosmos, the portal becomes a beacon for those with the courage to venture into the unknown.
+Beyond mere exploration, the Luminous Portal offers a means for brave [[souls]] to seek the aid of celestial beings dwelling in realms beyond [[Aeloria]]. Whether for knowledge, assistance, or the fulfillment of quests that span the cosmos, the portal becomes a beacon for those with the courage to venture into the unknown.

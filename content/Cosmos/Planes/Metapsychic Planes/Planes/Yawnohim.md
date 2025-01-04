@@ -81,7 +81,7 @@ The Forbidden Lands of Yawnohim are a hidden plane created by ancient [[True God
 4. **Agam HaTzafon:**
       - **Description:** Large bodies of water surrounded by cliffs and lush greenery, with hidden secrets underwater.
       - **Key Features:** Submerged ruins, aquatic creatures, underwater caves.
-      - **Special Effects**: Whispers from drowned souls echo through the water, warning or misleading characters. Underwater currents can pull them deeper into the depths.
+      - **Special Effects**: Whispers from drowned [[souls]] echo through the water, warning or misleading characters. Underwater currents can pull them deeper into the depths.
       - **Guardian Construct**: A spectral sea serpent that lurks in the depths, guarding the submerged ruins. It attacks intruders with ghostly tendrils that poison and shock victims.
 
 5. **Ya'ar Ha'Kerach:**

@@ -23,7 +23,7 @@ aliases:
 ---
 # Moradin, God of Creation, Forgecraft and Legacy - The Allhammer (LG)
 
-"With skin of iron and steel in our bones, our souls burn like fire and our hearts are as steadfast as mountains. We, the children of the Allhammer, shape the earth, tame the fire, and give form to the formless. Our clan is our family, the forge is our home, and the anvil is our altar. In the name of Moradin, with unshaken resolve, we craft to honor the past, seize the present, and offer gifts to the future." - Argento Skulison, Dwarven Blacksmith and Devotee of Moradin
+"With skin of iron and steel in our bones, our [[souls]] burn like fire and our hearts are as steadfast as mountains. We, the children of the Allhammer, shape the earth, tame the fire, and give form to the formless. Our clan is our family, the forge is our home, and the anvil is our altar. In the name of Moradin, with unshaken resolve, we craft to honor the past, seize the present, and offer gifts to the future." - Argento Skulison, Dwarven Blacksmith and Devotee of Moradin
 
 ## Culture Names
 
