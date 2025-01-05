@@ -476,12 +476,11 @@ Muhammad Sumbul The bravest soldier of all time
 
 
 
-
-
 # Funny encounters to do in the campaign
 Sheep thinking about heavymetal
 delivery guy
 very cool bird!
+"Eu vim fazer um anúncio, Karsus Widogast é um filho da puta do caralho, ele mijou na porra da minha teoria de magia e agora eu tenho que fazer tudo de novo. Isso mesmo, ele pegou a porra do pinto magico dele e mijou na minha teoria toda, e disse que o paradigma das 8 escolas de magia dele é melhor que a minha teoria unificada dos elemento, e eu disse, credo que nojo então estou fazendo um exposed no plano astral, Karsus Widogast você tem um pau pequeno que é do tamanho dessa noz só que muito menor, e adivinha, olha o tamanho do meu pirocao, gran-, isso mesmo bebê, pontas altas, sem pelos, sem magia pra aumentar, olha só parecem duas bolas de um torpedo, ele fodeu com a minha tese então adivinhem, EU VOU FODER A TERRA! isso mesmo, é isto que vc ganha, meu super feitiço de mijo! exceto que eu não vou mijar na terra, eu vou mais longe, EU VOU MIJAR NO PLANO ASTRAL! você gostou disso LULA? eu mijei na lua, faz o L agora, você tem 23 horas antes que os os perdigotos de mijo atinjam a Aeloria, agora saião da porra da minha frente antes que eu mije em vocês também!"
 
 # Homebrew Rules 
 
