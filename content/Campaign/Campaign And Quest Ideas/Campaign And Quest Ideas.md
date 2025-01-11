@@ -13,10 +13,11 @@ This is a collection of campaign ideas that can be used as inspiration for the n
 
 ## List 
 
-| Ideas                           |
-| ------------------------------- |
-| [[Akemi's Servants (Campaign)]] |
-| [[Fight Aurelius Malum]]        |
+| Ideas                              |
+| ---------------------------------- |
+| [[Akemi's Servants (Campaign)]]    |
+| [[Fight Aurelius Malum]]           |
+| [[Shadows of the Harukaze Empire]] |
 
 
 # Quest Ideas
@@ -34,4 +35,5 @@ Here are some ideas for quests that can be used in a campaign. They are not mean
 | [[Timekeeper's dillema (Quest)]]             |
 | [[A Noble Feast (Quest)]]                    |
 | [[Forgotten Whsipers (Quest)]]               |
-| [[Manrain (Quest)]]              |
+| [[Manrain (Quest)]]                          |
+| [[Leave nothing (Quest)]]                    |

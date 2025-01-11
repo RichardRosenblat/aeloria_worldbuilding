@@ -49,6 +49,246 @@ Eldarin -> Eldarin, an elven culture inspired in japanese culture
 Mularir -> Mularir, a tallman culture inspired in greek culture and ancient greece
 Yotunn -> Yotunn, a giant culture inspired in giants from northen european mythology and norse mythology
 
+# Spells to make
+
+## Group 1
+### **Manipulation Spells**
+
+1. **Arcane Override**
+    
+    - **Effect:** Temporarily take control of a magical construct, like a golem, or disrupt a protective ward.
+    - **Mechanics:** The caster makes an Intelligence (Arcana) check against the construct’s Wisdom saving throw or the ward’s spell DC.
+    - **Flavor:** The caster weaves threads of magic into the construct’s core, bending it to their will.
+2. **Sigil Reprogramming**
+    
+    - **Effect:** Alter a magical rune or glyph to change its function (e.g., turning an alarm glyph into a silence glyph).
+    - **Mechanics:** Requires time and concentration (e.g., 1 minute) and an Arcana check.
+3. **Spell Hijack**
+    
+    - **Effect:** Redirect the target of a spell being cast within range.
+    - **Mechanics:** Use a reaction to contest the original caster’s spellcasting ability check.
+
+---
+
+### **Information Gathering Spells**
+
+4. **Mind Extraction**
+    
+    - **Effect:** Pull thoughts, memories, or secrets directly from a creature's mind.
+    - **Mechanics:** The target makes an Intelligence saving throw; failure reveals specific information chosen by the caster.
+    - **Flavor:** Tendrils of shimmering energy extend to the target’s head, extracting glimpses of their thoughts.
+5. **Echo Trace**
+    
+    - **Effect:** Access a magical “network” to retrieve information about the area or objects imbued with residual magic.
+    - **Mechanics:** Cast on a magical item or leyline to gain insights about its creator, history, or function.
+6. **Arcane Network Tapping**
+    
+    - **Effect:** Listen in on magical communication (e.g., between sending stones or telepathic links).
+    - **Mechanics:** Arcana check contested by the sender’s spell save DC.
+
+---
+
+### **Disruption Spells**
+
+7. **Weave Corruption**
+    
+    - **Effect:** Introduce errors into a spell or enchantment, causing it to malfunction or backfire.
+    - **Mechanics:** Target an ongoing spell or magical item; success on an Arcana check or dispel magic roll alters the effect in a random way.
+8. **Mana Scramble**
+    
+    - **Effect:** Temporarily disrupt a target's ability to cast spells or access magical abilities.
+    - **Mechanics:** Target makes a Constitution saving throw; failure renders them unable to cast spells for a short duration.
+9. **Illusion Override**
+    
+    - **Effect:** Overwrite a minor illusion or existing illusory spell with your own.
+    - **Mechanics:** Make an Arcana check contested by the original illusionist’s DC.
+
+---
+
+### **Infiltration Spells**
+
+10. **Phantom Key**
+    
+    - **Effect:** Create a spectral key that unlocks any magically warded door or chest.
+    - **Mechanics:** Success on an Arcana or Thieves’ Tools check to bypass magical locks.
+11. **Spell Echo**
+    
+    - **Effect:** Leave a magical decoy behind, mimicking a spellcaster’s aura to confuse trackers.
+    - **Mechanics:** Arcana check determines how convincing the decoy is.
+12. **Illusory Code**
+    
+    - **Effect:** Conceal yourself or an object within an intricate illusion designed to bypass detection wards.
+    - **Mechanics:** Intelligence (Arcana) check against the ward’s DC.
+
+---
+## Group 2
+
+---
+
+### **Information Gathering (Searching/Downloading Files)**
+
+1. **Arcane Inquiry**
+    
+    - **Level:** 2nd
+    - **Effect:** Magically search a library, archive, or memory bank (e.g., a magical codex or mind of a creature) for specific information.
+    - **Mechanics:** The caster specifies a query and makes an Intelligence (Arcana) check. The spell delivers information based on the success of the roll. Higher rolls yield more precise or deeper insights.
+    - **Flavor:** Runes light up around the caster's hand, glowing brighter as the query is resolved.
+2. **Memory Harvest**
+    
+    - **Level:** 4th
+    - **Effect:** Extract a fragment of knowledge from a creature or magical construct.
+    - **Mechanics:** Target makes an Intelligence saving throw. On failure, the caster gleans a memory or piece of information related to their question.
+    - **Flavor:** Tendrils of light connect the caster to the target as faint whispers reveal their secrets.
+
+---
+
+### **Virus/Backdoor Planting**
+
+3. **Spellbind Trap**
+    
+    - **Level:** 3rd
+    - **Effect:** Embed a "backdoor" enchantment into a magical object or ward, allowing future control or sabotage.
+    - **Mechanics:** The caster makes an Arcana check to subtly alter the object's magical matrix. Later, they can activate the backdoor with a bonus action within range.
+    - **Flavor:** Glyphs representing hidden commands pulse faintly, almost imperceptibly, into the object.
+4. **Curse of Corruption**
+    
+    - **Level:** 4th
+    - **Effect:** Plant a magical “virus” that disrupts a target’s abilities or items over time.
+    - **Mechanics:** The target makes a Constitution saving throw. On failure, a magical effect (e.g., disadvantage on spellcasting rolls or malfunctioning of enchanted items) spreads through them. The curse can spread if they interact with others.
+    - **Flavor:** Dark energy threads into the target, festering beneath their skin or aura.
+
+---
+
+### **Remote Surveillance (Cameras)**
+
+5. **Ethereal Eye**
+    
+    - **Level:** 3rd
+    - **Effect:** Gain access to magical surveillance points, such as scrying mirrors, crystal balls, or enchanted wards, within a certain range.
+    - **Mechanics:** Choose a location or object known to have magical surveillance capabilities. Make an Arcana check to "hijack" the view.
+    - **Flavor:** The caster’s eyes glow faintly as their vision shifts to the surveillance target.
+6. **Ward Tap**
+    
+    - **Level:** 2nd
+    - **Effect:** Temporarily co-opt an alarm or detection ward to act as a magical “camera,” transmitting visual or auditory input.
+    - **Mechanics:** Roll Arcana contested by the ward’s creator’s spell save DC. Success allows temporary access.
+
+---
+
+### **Remote Triggering (Grenades/Traps)**
+
+7. **Rune Detonation**
+    
+    - **Level:** 3rd
+    - **Effect:** Activate a magical trap or stored spell remotely, such as a glyph of warding, explosive rune, or alchemical device.
+    - **Mechanics:** Requires the caster to be within 120 feet and to have seen the target trap. Arcana check determines success.
+    - **Flavor:** The caster whispers an activation phrase, and distant runes flash brightly before detonating.
+8. **Magical Pulse Trigger**
+    
+    - **Level:** 5th
+    - **Effect:** Send a pulse of magical energy to activate multiple magical items or devices in an area simultaneously.
+    - **Mechanics:** Targets within 60 feet make Dexterity saving throws or activate (e.g., enchanted traps, magical grenades).
+
+---
+
+### **Remote Control**
+
+9. **Puppeteer’s Thread**
+    
+    - **Level:** 4th
+    - **Effect:** Take control of a magical construct, like a golem, or enchanted object to command it remotely.
+    - **Mechanics:** Contest the original creator’s spell save DC. On success, the construct obeys commands for the spell’s duration (up to 1 minute).
+    - **Flavor:** Threads of spectral light extend from the caster’s hands, linking them to the construct.
+10. **Glyph Override**
+    
+
+- **Level:** 2nd
+- **Effect:** Hijack control of a glyph or rune-based trap or ward.
+- **Mechanics:** Make an Arcana check contested by the original creator’s DC. Success allows reconfiguration (e.g., disarming or redirecting the trap).
+
+---
+
+## transfering funds
+
+---
+
+### **Spell Name: Arcane Vault Heist**
+
+- **Level:** 5th
+- **School:** Transmutation
+- **Casting Time:** 10 minutes
+- **Range:** 30 feet
+- **Components:** V, S, M (a specially prepared vault or dimensional storage, and a token of immense personal or symbolic value tied to the target, plus powdered emerald worth 500 gp, consumed)
+- **Duration:** Instantaneous
+
+---
+
+### **Description:**
+
+This spell transfers funds or valuables from a target to a secure vault or dimensional storage you have prepared. For the magic to work, you must possess a token tied to the target, representing either their emotional essence or their legal or symbolic connection to the wealth. The stronger the token’s tie, the higher the chance of success.
+
+---
+
+### **Mechanics:**
+
+1. **Requirements for the Token:**  
+    The spell requires a token deeply connected to the target. Examples include:
+    
+    - An item of immense emotional value (e.g., a family heirloom, their wedding ring, or a cherished keepsake).
+    - A document or artifact representing ownership of the wealth (e.g., a deed, bank note, or vault key).
+    - A magical item attuned to the target, particularly one tied to their identity or finances.
+    
+    Without such a token, the spell fails automatically.
+    
+2. **Saving Throw:**
+    
+    - The target makes a Wisdom saving throw against your spell save DC.
+    - The token’s quality provides modifiers to their save:
+        - **Strong Tie** (e.g., heirloom, enchanted vault key): -2 to the save.
+        - **Moderate Tie** (e.g., bank note, signed letter): No modifier.
+        - **Weak Tie** (e.g., a generic item): +2 to the save.
+3. **Funds or Valuables Transferred:**
+    
+    - Roll 10d10. The result equals the total value (in gold coins or equivalent) transferred to your vault.
+    - The amount is capped at the maximum the target owns or has stored in their treasury.
+    - At higher levels: When cast using a spell slot of 7th level or higher, add 2d10 per level.
+4. **Vault Preparation:**
+    
+    - The funds or valuables are deposited into a secure vault, dimensional space, or magical storage (e.g., **Leomund’s Secret Chest** or **Bag of Holding**) you’ve designated before casting.
+    - If no valid storage exists, the funds scatter in a random location within 1 mile, potentially causing complications.
+5. **Risk of Detection:**
+    
+    - If the target succeeds on the save, they are alerted to the attempted theft and may trace it back to you through divination unless you are hidden by anti-divination spells (e.g., **Nondetection** or **Mind Blank**).
+
+---
+
+### **Flavor:**
+
+- As the spell activates, shimmering glyphs representing ownership and wealth flow into the token. The token glows with golden light, unraveling into streams of energy that converge into your prepared vault.
+- The target might feel a pang of loss or unease, as though they’ve been physically touched by the theft.
+- If the token is an emotional artifact, the spell could temporarily awaken memories or feelings tied to it.
+
+---
+
+### **Balance and Narrative Implications:**
+
+1. **Encourages Roleplay and Planning:**
+    
+    - Obtaining a strong token often requires clever thinking, infiltration, or bargaining.
+    - Tokens like heirlooms or vault keys add storytelling opportunities, as players navigate moral dilemmas or confront powerful individuals.
+2. **Risk vs. Reward:**
+    
+    - The need for a specific token and the risk of alerting the target balance the spell’s power.
+    - Failing the save or scattering funds leads to exciting consequences (e.g., rival treasure hunters finding the scattered gold).
+3. **Narrative Twists:**
+    
+    - If the token has magical or emotional significance, its theft might have unintended consequences, such as curses, retribution, or unforeseen magical effects.
+
+---
+
+This version creates rich storytelling opportunities and reinforces the magical "hacking" vibe, making the spell not only a tool but also a plot-driving mechanism.
+
+
 # Seasons 
 
 The inhabitants have a deep connection and respect for the natural cycles of the seasons
