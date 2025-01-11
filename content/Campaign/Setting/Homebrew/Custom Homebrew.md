@@ -37,16 +37,19 @@ Happy adventuring and stay curious!
 
 ## Homebrew Spells
 
-| Spells                  | Level     |
-| ----------------------- | --------- |
-| [[Pan's Ease]]          | 0-Cantrip |
-| [[Housekeeper's Touch]] | 0-Cantrip |
-| [[Cleanse Stain]]       | 0-Cantrip |
-| [[Danger-sense]]        | 2         |
-| [[Web-sling]]           | 3         |
-| [[Merlin's Water Saw]]  | 5         |
-| [[Soft and Wet (Spell)]]        | 6         |
-| [[Weave Body]]          | 7         |
+| Spells                   | Level     |
+| ------------------------ | --------- |
+| [[Pan's Ease]]           | 0-Cantrip |
+| [[Housekeeper's Touch]]  | 0-Cantrip |
+| [[Cleanse Stain]]        | 0-Cantrip |
+| [[Danger-sense]]         | 2         |
+| [[Web-sling]]            | 3         |
+| [[Merlin's Water Saw]]   | 5         |
+| [[Soft and Wet (Spell)]] | 6         |
+| [[Weave Body]]           | 7         |
+| [[Spell Hijack]]         | 4         |
+| [[Sigil Reprogramming]]  | 4         |
+| [[Arcane Override]]      | 5         |
 
 ## Homebrew Feats
 

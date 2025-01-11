@@ -5,6 +5,8 @@ tags:
 ---
 # Weave Form
 
+"Just make a hole in the wall, and we can slip through. It's not that hard, really." - Ygur, the arcane trickster during a heist
+
 *7th-level Transmutation*
 
 **Classes:** Wizard, Sorcerer, Warlock  

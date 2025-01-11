@@ -52,35 +52,20 @@ Yotunn -> Yotunn, a giant culture inspired in giants from northen european mytho
 # Spells to make
 
 ## Group 1
-### **Manipulation Spells**
-
-1. **Arcane Override**
-    
-    - **Effect:** Temporarily take control of a magical construct, like a golem, or disrupt a protective ward.
-    - **Mechanics:** The caster makes an Intelligence (Arcana) check against the construct’s Wisdom saving throw or the ward’s spell DC.
-    - **Flavor:** The caster weaves threads of magic into the construct’s core, bending it to their will.
-2. **Sigil Reprogramming**
-    
-    - **Effect:** Alter a magical rune or glyph to change its function (e.g., turning an alarm glyph into a silence glyph).
-    - **Mechanics:** Requires time and concentration (e.g., 1 minute) and an Arcana check.
-3. **Spell Hijack**
-    
-    - **Effect:** Redirect the target of a spell being cast within range.
-    - **Mechanics:** Use a reaction to contest the original caster’s spellcasting ability check.
-
----
 
 ### **Information Gathering Spells**
 
 4. **Mind Extraction**
     
     - **Effect:** Pull thoughts, memories, or secrets directly from a creature's mind.
+    - **Components:** V, S, M (a silver needle, a drop of mercury, and a small poodle of the blood of the target and caster mixed together)
     - **Mechanics:** The target makes an Intelligence saving throw; failure reveals specific information chosen by the caster.
     - **Flavor:** Tendrils of shimmering energy extend to the target’s head, extracting glimpses of their thoughts.
-5. **Echo Trace**
+5. **Weave Ping**
     
-    - **Effect:** Access a magical “network” to retrieve information about the area or objects imbued with residual magic.
-    - **Mechanics:** Cast on a magical item or leyline to gain insights about its creator, history, or function.
+    - **Effect:** Access the weave connected to a magical item, effect, or creature to locate other magical objects or beings in the vicinity.
+    - **Mechanics:** Arcana check to sense the presence of magical auras within a certain range. Any creatures that have contact or spend a time near the target item will be sensed. 
+    - **Flavor:** The caster’s eyes glow with arcane energy as they see lines of light connecting magical objects and beings. 
 6. **Arcane Network Tapping**
     
     - **Effect:** Listen in on magical communication (e.g., between sending stones or telepathic links).

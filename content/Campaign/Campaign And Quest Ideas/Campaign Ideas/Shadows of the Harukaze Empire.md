@@ -4,7 +4,7 @@ tags:
 ---
 
 **D&D Campaign: Shadows of the Harukaze Empire**  
-**Setting:** The Harukaze Empire is an elven-dominated realm within the high-fantasy world of Aeloria. Drawing inspiration from feudal Japan, it is a land of sakura forests, towering pagodas, and advanced magical and alchemical technologies. Despite its beauty, political intrigue and hidden threats lurk in every corner.  
+**Setting:** The Harukaze Empire is an elven-dominated realm within the high-fantasy world of [[Aeloria]]. Drawing inspiration from feudal Japan, it is a land of sakura forests, towering pagodas, and advanced magical and alchemical technologies. Despite its beauty, political intrigue and hidden threats lurk in every corner.  
 
 The Empire's rulers maintain order through an elaborate bureaucracy, but beneath this veneer lies the **Kage no Hana** (Shadow Flower), a secretive organization of agents loyal to the Emperor. The PCs are elite operatives of this group, tasked with preserving the Empire by rooting out threats from within and without, all while maintaining their double lives as ordinary citizens.  
 
