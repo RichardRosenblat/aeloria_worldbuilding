@@ -50,6 +50,9 @@ Happy adventuring and stay curious!
 | [[Spell Hijack]]         | 4         |
 | [[Sigil Reprogramming]]  | 4         |
 | [[Arcane Override]]      | 5         |
+| [[Arcane Comm Tapping]]  | 4         |
+| [[Weave Ping]]           | 7         |
+| [[Mind Extraction]]      | 7         |
 
 ## Homebrew Feats
 

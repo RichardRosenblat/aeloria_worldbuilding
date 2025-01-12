@@ -53,32 +53,12 @@ Yotunn -> Yotunn, a giant culture inspired in giants from northen european mytho
 
 ## Group 1
 
-### **Information Gathering Spells**
-
-4. **Mind Extraction**
-    
-    - **Effect:** Pull thoughts, memories, or secrets directly from a creature's mind.
-    - **Components:** V, S, M (a silver needle, a drop of mercury, and a small poodle of the blood of the target and caster mixed together)
-    - **Mechanics:** The target makes an Intelligence saving throw; failure reveals specific information chosen by the caster.
-    - **Flavor:** Tendrils of shimmering energy extend to the target’s head, extracting glimpses of their thoughts.
-5. **Weave Ping**
-    
-    - **Effect:** Access the weave connected to a magical item, effect, or creature to locate other magical objects or beings in the vicinity.
-    - **Mechanics:** Arcana check to sense the presence of magical auras within a certain range. Any creatures that have contact or spend a time near the target item will be sensed. 
-    - **Flavor:** The caster’s eyes glow with arcane energy as they see lines of light connecting magical objects and beings. 
-6. **Arcane Network Tapping**
-    
-    - **Effect:** Listen in on magical communication (e.g., between sending stones or telepathic links).
-    - **Mechanics:** Arcana check contested by the sender’s spell save DC.
-
----
-
 ### **Disruption Spells**
 
 7. **Weave Corruption**
     
     - **Effect:** Introduce errors into a spell or enchantment, causing it to malfunction or backfire.
-    - **Mechanics:** Target an ongoing spell or magical item; success on an Arcana check or dispel magic roll alters the effect in a random way.
+    - **Mechanics:** Target an ongoing spell or magical item; if the target is a creature, they make a spellcasting ability save. If the target is an object, the caster makes an Arcana check. If successful, the spell or item malfunctions in a way determined by a random table.
 8. **Mana Scramble**
     
     - **Effect:** Temporarily disrupt a target's ability to cast spells or access magical abilities.
