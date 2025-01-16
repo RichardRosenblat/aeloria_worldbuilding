@@ -7,7 +7,7 @@ tags:
 
 _7th-Level Enchantment_
 
-**Classes:** Wizard, Warlock  
+**Classes:** Wizard, Warlock, Bard
 **Casting Time:** 1 action  
 **Range:** 30 feet  
 **Components:** V, S, M (a silver needle, a drop of mercury, and a small vial containing a mixture of the caster's and target's blood, worth 500 gp)  

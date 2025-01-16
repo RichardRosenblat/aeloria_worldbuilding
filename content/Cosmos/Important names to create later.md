@@ -53,34 +53,6 @@ Yotunn -> Yotunn, a giant culture inspired in giants from northen european mytho
 
 ## Group 1
 
-### **Disruption Spells**
-
-1. **Mana Scramble**
-    
-    - **Effect:** Temporarily disrupt a target's ability to cast spells or access magical abilities.
-    - **Mechanics:** Target makes a Constitution saving throw; failure makes their spells scrambled, any time they cast a spell, they must roll 1d4 if the value is 1 the spell fails, otherwise the spell is substituted by another spell they know.
-2. **Illusion Override**
-    
-    - **Effect:** Overwrite a minor illusion or existing illusory spell with your own.
-    - **Mechanics:** Make an Arcana check contested by the original illusionist’s DC.
-
----
-
-### **Infiltration Spells**
-
-10. **Phantom Key**
-    
-    - **Effect:** Create a spectral key that unlocks any magically warded door or chest.
-    - **Mechanics:** Success on an Arcana or Thieves’ Tools check to bypass magical locks.
-11. **Spell Echo**
-    
-    - **Effect:** Leave a magical decoy behind, mimicking a spellcaster’s aura to confuse trackers.
-    - **Mechanics:** Arcana check determines how convincing the decoy is.
-12. **Illusory Code**
-    
-    - **Effect:** Conceal yourself or an object within an intricate illusion designed to bypass detection wards.
-    - **Mechanics:** Intelligence (Arcana) check against the ward’s DC.
-
 ---
 ## Group 2
 
@@ -88,18 +60,11 @@ Yotunn -> Yotunn, a giant culture inspired in giants from northen european mytho
 
 ### **Information Gathering (Searching/Downloading Files)**
 
-1. **Arcane Inquiry**
-    
-    - **Level:** 2nd
-    - **Effect:** Magically search a library, archive, or memory bank (e.g., a magical codex or mind of a creature) for specific information.
-    - **Mechanics:** The caster specifies a query and makes an Intelligence (Arcana) check. The spell delivers information based on the success of the roll. Higher rolls yield more precise or deeper insights.
-    - **Flavor:** Runes light up around the caster's hand, glowing brighter as the query is resolved.
 2. **Memory Harvest**
     
     - **Level:** 4th
     - **Effect:** Extract a fragment of knowledge from a creature or magical construct.
     - **Mechanics:** Target makes an Intelligence saving throw. On failure, the caster gleans a memory or piece of information related to their question.
-    - **Flavor:** Tendrils of light connect the caster to the target as faint whispers reveal their secrets.
 
 ---
 

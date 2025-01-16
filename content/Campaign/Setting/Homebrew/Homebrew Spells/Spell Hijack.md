@@ -9,7 +9,7 @@ tags:
 
 *4th-Level Abjuration*
 
-**Classes:** Wizard, Sorcerer, Warlock  
+**Classes:** Wizard, Sorcerer, Warlock , Bard
 **Casting Time:** 1 reaction, taken when a creature you can see within 60 feet casts a spell  
 **Range:** 60 feet  
 **Components:** V, S  

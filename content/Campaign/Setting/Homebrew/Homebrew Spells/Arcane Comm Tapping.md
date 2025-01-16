@@ -7,7 +7,7 @@ tags:
 
 _4th-Level Divination_
 
-**Classes:** Wizard, Warlock  
+**Classes:** Wizard, Warlock , Bard, Sorcerer
 **Casting Time:** 1 action  
 **Range:** 120 feet  
 **Components:** V, S, M (a small tuning fork made of silver, worth 250 gp)  

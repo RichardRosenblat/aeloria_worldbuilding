@@ -54,6 +54,11 @@ Happy adventuring and stay curious!
 | [[Weave Ping]]           | 7         |
 | [[Mind Extraction]]      | 7         |
 | [[Weave Malfuction]]     | 7         |
+| [[Mana Scramble]]        | 2         |
+| [[Illusion Override]]    | 1         |
+| [[Magical Decoy]]        | 2         |
+| [[llusory Code]]         | 3         |
+| [[Arcane Inquiry]]       | 2         |
 
 ## Homebrew Feats
 

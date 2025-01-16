@@ -5,6 +5,8 @@ tags:
 ---
 # Weave Malfuction
 
+"I swear this never happens... I mean, it's not supposed to happen!" - _Talindra, the Elven Wizard struggling to control her magic staff._
+
 _7th-Level Transmutation_
 
 **Classes:** Wizard, Warlock  
