@@ -9,7 +9,7 @@ tags:
 
 *7th-level Transmutation*
 
-**Classes:** Wizard, Sorcerer, Warlock  
+**Classes:** Wizard, Sorcerer, Warlock, Druid
 **Casting Time:** 1 minute  
 **Range:** Self  
 **Components:** V, S, M (a piece of string)  

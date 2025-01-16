@@ -55,15 +55,11 @@ Yotunn -> Yotunn, a giant culture inspired in giants from northen european mytho
 
 ### **Disruption Spells**
 
-7. **Weave Corruption**
-    
-    - **Effect:** Introduce errors into a spell or enchantment, causing it to malfunction or backfire.
-    - **Mechanics:** Target an ongoing spell or magical item; if the target is a creature, they make a spellcasting ability save. If the target is an object, the caster makes an Arcana check. If successful, the spell or item malfunctions in a way determined by a random table.
-8. **Mana Scramble**
+1. **Mana Scramble**
     
     - **Effect:** Temporarily disrupt a target's ability to cast spells or access magical abilities.
-    - **Mechanics:** Target makes a Constitution saving throw; failure renders them unable to cast spells for a short duration.
-9. **Illusion Override**
+    - **Mechanics:** Target makes a Constitution saving throw; failure makes their spells scrambled, any time they cast a spell, they must roll 1d4 if the value is 1 the spell fails, otherwise the spell is substituted by another spell they know.
+2. **Illusion Override**
     
     - **Effect:** Overwrite a minor illusion or existing illusory spell with your own.
     - **Mechanics:** Make an Arcana check contested by the original illusionist’s DC.

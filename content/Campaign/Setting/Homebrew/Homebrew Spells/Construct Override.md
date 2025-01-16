@@ -3,7 +3,7 @@ tags:
   - spell
   - setting
 ---
-# Arcane Override
+# Construct Override
 
 *"Come on, let's put all that magic to good use!" - Tasha, the artificer*
 
