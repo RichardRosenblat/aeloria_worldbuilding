@@ -5,6 +5,8 @@ tags:
 ---
 # Weave Ping
 
+"Where are you hiding little pig?" -Thabrys, The Unseen Lich, seaching for interlopers in his domain.
+
 _7rd-Level Divination_
 
 **Classes:** Wizard, Sorcerer, Druid  

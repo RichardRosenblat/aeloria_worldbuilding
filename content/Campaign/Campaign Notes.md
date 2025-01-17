@@ -482,6 +482,8 @@ delivery guy
 very cool bird!
 "Eu vim fazer um anúncio, Karsus Widogast é um filho da puta do caralho, ele mijou na porra da minha teoria de magia e agora eu tenho que fazer tudo de novo. Isso mesmo, ele pegou a porra do pinto magico dele e mijou na minha teoria toda, e disse que o paradigma das 8 escolas de magia dele é melhor que a minha teoria unificada dos elemento, e eu disse, credo que nojo então estou fazendo um exposed no plano astral, Karsus Widogast você tem um pau pequeno que é do tamanho dessa noz só que muito menor, e adivinha, olha o tamanho do meu pirocao, gran-, isso mesmo bebê, pontas altas, sem pelos, sem magia pra aumentar, olha só parecem duas bolas de um torpedo, ele fodeu com a minha tese então adivinhem, EU VOU FODER A TERRA! isso mesmo, é isto que vc ganha, meu super feitiço de mijo! exceto que eu não vou mijar na terra, eu vou mais longe, EU VOU MIJAR NO PLANO ASTRAL! você gostou disso LULA? eu mijei na lua, faz o L agora, você tem 23 horas antes que os os perdigotos de mijo atinjam a Aeloria, agora saião da porra da minha frente antes que eu mije em vocês também!"
 
+
+
 # Homebrew Rules 
 
 ![[Custom Homebrew#Homebrew Rules]]
@@ -554,7 +556,89 @@ Suddenly, you awaken in unfamiliar surroundings—a dimly lit room with the scen
 
 # Random scenes i thought of
 
-### Meeting the [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]]
+## What the hell is happening in the underdark
+
+The safe house carved into the stone of the Underdark was a rare sanctuary. The adventurers had secured it after a harrowing journey through treacherous tunnels and mind-bending caverns. Here, the air was cool but stable, the danger held at bay by reinforced doors and protective wards.  
+
+Yseara, the group's bard, strummed a soft tune on her lyre, the melody weaving a calming spell of its own. Elrik, the fighter, sharpened his blade with practiced precision while Talien, the rogue, carefully counted and polished their haul of gemstones. Zara, the druid, meditated in the corner, the faint glow of bioluminescent fungi casting an otherworldly light over her serene expression. Even Varthis, the sorcerer, whose paranoia rarely allowed for relaxation, had taken to leaning against a wall, eyes closed.  
+
+Then, without warning, Elrik stiffened. "Did anyone else see that?" he muttered, his voice low but alert.  
+
+Yseara lowered her lyre. "See what?"  
+
+"A figure," Elrik said, his eyes narrowing as he pointed to the far hall. "Walking through the corridor just now."  
+
+The group exchanged glances, each one scanning the entrance to the hall. No one had passed through the reinforced doors, and the wards hadn't been triggered.  
+
+Without hesitation, the adventurers gathered their weapons and followed Elrik's lead. The hall seemed empty, but a faint, almost imperceptible sound—soft footsteps, impossibly steady—drew them forward.  
+
+The figure was always just ahead, glimpsed for a moment before it turned another corner. Its movements were deliberate, unhurried, as if it knew exactly where it was leading them.  
+
+"Who—" Talien began, but the words fell flat, swallowed by the oppressive silence that had begun to creep over them.  
+
+They reached the doorway of a bedroom, its heavy wooden door slightly ajar. The room beyond was shrouded in shadow, yet it felt vast, far larger than it should have been.  
+
+As the figure stepped inside, they saw it clearly for the first time. A long cloak of deep blue flowed like liquid, lined with runes that seemed to shift and shimmer as if alive. Its face was obscured, but the very air around it vibrated with a power that made the adventurers' hearts race.  
+
+Then the pressure hit them.  
+
+It was as if the very fabric of reality warped around this being. The air grew thick, oppressive, every breath a laborious effort. Candles flickered and were snuffed out, leaving the room in an unnatural darkness broken only by the faint glow of the runes on the figure’s cloak.  
+
+A deafening silence roared in their ears, muting even their hurried breathing. Zara clutched her chest, her knees buckling, while Varthis’ hands trembled as if holding an unseen weight.  
+
+"Who…?" Yseara gasped, her voice almost inaudible beneath the arcane pressure.  
+
+Then it dawned on them. The sheer enormity of the presence, the unshakable certainty of its mastery over all things arcane—this was not merely a powerful wizard. This was *the* wizard. Merlin.  
+
+The ancient figure who had transcended the boundaries of knowledge and magic, whose name had become legend so ancient it was whispered only in tales of creation. The one who had touched every fragment of the world's mysteries and lived to tell of it.  
+
+The figure paused in the doorway, its unseen gaze turning back to them. For a brief moment, they felt its attention, like an overwhelming weight pressing down on their souls. Then it stepped inside the room and disappeared into the shadows, leaving behind an emptiness that felt as vast as the void.  
+
+The party stood frozen, the echoes of that impossible presence lingering. None dared to speak. None dared to follow. They simply stood, hearts pounding, staring into the room where Merlin had vanished.
+
+---
+
+The city buzzed with its usual chaos. The market streets were alive with the hum of bartering voices, the clink of coins, and the rustle of exotic wares. Stalls lined the cavernous pathways, illuminated by the soft glow of bioluminescent fungi and towering crystals that bathed the sprawling Underdark city in an ethereal light.  
+
+The adventuring party moved carefully through the crowd, their nerves still raw from their escape. The colony of mindflayers they had fled had been unnervingly powerful, their hive-mind coordination far more advanced than anything the group had heard of before. Even now, they exchanged wary glances at every shadow and movement in the crowd.  
+
+"I don't like this," muttered Alrik, the dwarven barbarian, gripping his axe handle tightly. "Feels like the whole Underdark’s gone mad."  
+
+"Keep your voice down," hissed Tynna, the tiefling rogue, her golden eyes scanning the bustling throng for threats.  
+
+Eryndor, the elf scholar, adjusted his satchel filled with ancient tomes and scrolls. He remained quiet, his mind preoccupied with the strange sigils he had seen in their escape—sigils he had recognized but could not fully place.  
+
+The market's chatter ebbed and flowed, blending into the ambient noise of the cavern—until it didn’t.  
+
+A wave of raw, arcane pressure swept through the city without warning. It struck with such force that time itself seemed to momentarily stand still.  
+
+The first sign was the shattering of glass. The delicate jars and baubles on the merchant stalls exploded into fragments, sending shards flying into the air. Candles flickered and extinguished all at once, plunging parts of the market into sudden darkness. Even the massive crystals embedded in the cavern walls and ceiling—ancient, unyielding—cracked under the immense strain, their resonant hum falling into silence.  
+
+Children froze where they stood, their eyes wide with fear. Elders dropped whatever they were holding, the strength in their hands failing them. Vendors stumbled backward, their goods forgotten. Even the hardened adventurers in the city found themselves powerless; their instincts to grab their weapons or defend themselves were buried under the crushing weight of the unseen force.  
+
+Eryndor staggered, clutching at a nearby pillar for support. His mind raced, his thoughts flashing back to the ancient ruins he had once studied. The arcane symbols etched into the walls, the faint hum of power that had lingered there—it was faintly familiar. But this... this was different.  
+
+This was overwhelming.  
+
+“This pressure…” Eryndor whispered, his voice trembling as he struggled to find his breath. “I’ve felt this before, but…” His hands gripped the straps of his satchel tightly as his knees buckled. He felt his mind straining to comprehend what his senses were screaming at him.  
+
+Then it clicked.  
+
+The realization hit him like a thunderbolt, the connection forming in his mind almost against his will. He had read of this power. He had *felt* the faintest echoes of it in the oldest texts, in the most sacred of ruins.  
+
+This was Merlin.  
+
+No, not merely an echo or an artifact left behind by the ancient wizard. This was Merlin's *presence*.  
+
+Eryndor’s breath hitched, his thoughts spiraling. "I just felt Merlin's presence," he thought, his heart pounding like a war drum. "What the hell is happening in the Underdark?"  
+
+The pressure lingered for only a moment longer, but it felt like an eternity. Then, as abruptly as it had come, it began to recede, leaving a void in its wake that was almost as terrifying.  
+
+The city stood in stunned silence, its people too shaken to move, to speak, to think. All eyes turned upward toward the distant cavern ceiling, as if the answer to their unspoken question might be found in the darkness above.  
+
+But Eryndor knew better. The answer was not above them—it was somewhere far deeper, far more dangerous. And whatever it was, it had just begun.
+
+## Meeting the [[Raven Queen, Goddess of Death, Crows and Winter - The Matron of Death (LN)|Raven Queen]]
 As you awaken, you find yourself lying on soft grass. You can't recall how you arrived here, only that the battle against the Archlich Zalphar looms faintly in your memory. The sound of the wind, the grass tickling your skin, and the scent of flowers envelop your senses, providing a serene contrast to the chaos you remember. Opening your eyes, they take a moment to adjust, showing a colorful sky above, painted in shades of orange, pink, and purple by the setting sun. Sitting up, you take in the beautiful meadow around you, with tall grass and vibrant flowers swaying gently in the breeze. A calm lake reflects the sky, surrounded by rolling hills and trees.
 
 Looking down, you notice your garments, your usual comfortable clothes—a simple shirt and pants. In your hand there is the warmth of a small silver locket. Opening it, you see a delicate painting of you and your lost fiance laughing together, a memory of happier times. It's warmth feels like Amanda's hand holding yours, something you've missed dearly since her passing, the feeling comforting you in this unfamiliar place.

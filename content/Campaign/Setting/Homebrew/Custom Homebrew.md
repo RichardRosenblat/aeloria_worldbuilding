@@ -59,6 +59,11 @@ Happy adventuring and stay curious!
 | [[Magical Decoy]]        | 2         |
 | [[llusory Code]]         | 3         |
 | [[Arcane Inquiry]]       | 2         |
+| [[Memory Harvest]]       | 6         |
+| [[Spellbound Mark]]      | 5         |
+| [[Reflected Spying]]     | 4         |
+| [[Rune Detonation]]      | 4         |
+| [[Pulse Trigger]]        | 9         |
 
 ## Homebrew Feats
 

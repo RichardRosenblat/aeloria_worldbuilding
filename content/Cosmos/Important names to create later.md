@@ -51,86 +51,14 @@ Yotunn -> Yotunn, a giant culture inspired in giants from northen european mytho
 
 # Spells to make
 
-## Group 1
-
----
-## Group 2
-
----
-
-### **Information Gathering (Searching/Downloading Files)**
-
-2. **Memory Harvest**
-    
-    - **Level:** 4th
-    - **Effect:** Extract a fragment of knowledge from a creature or magical construct.
-    - **Mechanics:** Target makes an Intelligence saving throw. On failure, the caster gleans a memory or piece of information related to their question.
-
----
-
-### **Virus/Backdoor Planting**
-
-3. **Spellbind Trap**
-    
-    - **Level:** 3rd
-    - **Effect:** Embed a "backdoor" enchantment into a magical object or ward, allowing future control or sabotage.
-    - **Mechanics:** The caster makes an Arcana check to subtly alter the object's magical matrix. Later, they can activate the backdoor with a bonus action within range.
-    - **Flavor:** Glyphs representing hidden commands pulse faintly, almost imperceptibly, into the object.
-4. **Curse of Corruption**
-    
-    - **Level:** 4th
-    - **Effect:** Plant a magical “virus” that disrupts a target’s abilities or items over time.
-    - **Mechanics:** The target makes a Constitution saving throw. On failure, a magical effect (e.g., disadvantage on spellcasting rolls or malfunctioning of enchanted items) spreads through them. The curse can spread if they interact with others.
-    - **Flavor:** Dark energy threads into the target, festering beneath their skin or aura.
-
----
-
-### **Remote Surveillance (Cameras)**
-
-5. **Ethereal Eye**
-    
-    - **Level:** 3rd
-    - **Effect:** Gain access to magical surveillance points, such as scrying mirrors, crystal balls, or enchanted wards, within a certain range.
-    - **Mechanics:** Choose a location or object known to have magical surveillance capabilities. Make an Arcana check to "hijack" the view.
-    - **Flavor:** The caster’s eyes glow faintly as their vision shifts to the surveillance target.
-6. **Ward Tap**
-    
-    - **Level:** 2nd
-    - **Effect:** Temporarily co-opt an alarm or detection ward to act as a magical “camera,” transmitting visual or auditory input.
-    - **Mechanics:** Roll Arcana contested by the ward’s creator’s spell save DC. Success allows temporary access.
-
----
-
 ### **Remote Triggering (Grenades/Traps)**
 
-7. **Rune Detonation**
-    
-    - **Level:** 3rd
-    - **Effect:** Activate a magical trap or stored spell remotely, such as a glyph of warding, explosive rune, or alchemical device.
-    - **Mechanics:** Requires the caster to be within 120 feet and to have seen the target trap. Arcana check determines success.
-    - **Flavor:** The caster whispers an activation phrase, and distant runes flash brightly before detonating.
 8. **Magical Pulse Trigger**
     
-    - **Level:** 5th
     - **Effect:** Send a pulse of magical energy to activate multiple magical items or devices in an area simultaneously.
     - **Mechanics:** Targets within 60 feet make Dexterity saving throws or activate (e.g., enchanted traps, magical grenades).
 
----
 
-### **Remote Control**
-
-9. **Puppeteer’s Thread**
-    
-    - **Level:** 4th
-    - **Effect:** Take control of a magical construct, like a golem, or enchanted object to command it remotely.
-    - **Mechanics:** Contest the original creator’s spell save DC. On success, the construct obeys commands for the spell’s duration (up to 1 minute).
-    - **Flavor:** Threads of spectral light extend from the caster’s hands, linking them to the construct.
-10. **Glyph Override**
-    
-
-- **Level:** 2nd
-- **Effect:** Hijack control of a glyph or rune-based trap or ward.
-- **Mechanics:** Make an Arcana check contested by the original creator’s DC. Success allows reconfiguration (e.g., disarming or redirecting the trap).
 
 ---
 
