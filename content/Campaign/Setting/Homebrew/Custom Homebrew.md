@@ -42,27 +42,27 @@ Happy adventuring and stay curious!
 | [[Pan's Ease]]           | 0-Cantrip |
 | [[Housekeeper's Touch]]  | 0-Cantrip |
 | [[Cleanse Stain]]        | 0-Cantrip |
+| [[Illusion Override]]    | 1         |
 | [[Danger-sense]]         | 2         |
+| [[Mana Scramble]]        | 2         |
+| [[Magical Decoy]]        | 2         |
+| [[Arcane Inquiry]]       | 2         |
 | [[Web-sling]]            | 3         |
-| [[Merlin's Water Saw]]   | 5         |
-| [[Soft and Wet (Spell)]] | 6         |
-| [[Weave Body]]           | 7         |
+| [[llusory Code]]         | 3         |
 | [[Spell Hijack]]         | 4         |
 | [[Sigil Reprogramming]]  | 4         |
-| [[Construct Override]]   | 5         |
 | [[Arcane Comm Tapping]]  | 4         |
+| [[Reflected Spying]]     | 4         |
+| [[Rune Detonation]]      | 4         |
+| [[Merlin's Water Saw]]   | 5         |
+| [[Construct Override]]   | 5         |
+| [[Spellbound Mark]]      | 5         |
+| [[Soft and Wet (Spell)]] | 6         |
+| [[Memory Harvest]]       | 6         |
+| [[Weave Body]]           | 7         |
 | [[Weave Ping]]           | 7         |
 | [[Mind Extraction]]      | 7         |
 | [[Weave Malfuction]]     | 7         |
-| [[Mana Scramble]]        | 2         |
-| [[Illusion Override]]    | 1         |
-| [[Magical Decoy]]        | 2         |
-| [[llusory Code]]         | 3         |
-| [[Arcane Inquiry]]       | 2         |
-| [[Memory Harvest]]       | 6         |
-| [[Spellbound Mark]]      | 5         |
-| [[Reflected Spying]]     | 4         |
-| [[Rune Detonation]]      | 4         |
 | [[Pulse Trigger]]        | 9         |
 
 ## Homebrew Feats

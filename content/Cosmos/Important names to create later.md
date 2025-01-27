@@ -51,16 +51,6 @@ Yotunn -> Yotunn, a giant culture inspired in giants from northen european mytho
 
 # Spells to make
 
-### **Remote Triggering (Grenades/Traps)**
-
-8. **Magical Pulse Trigger**
-    
-    - **Effect:** Send a pulse of magical energy to activate multiple magical items or devices in an area simultaneously.
-    - **Mechanics:** Targets within 60 feet make Dexterity saving throws or activate (e.g., enchanted traps, magical grenades).
-
-
-
----
 
 ## transfering funds
 

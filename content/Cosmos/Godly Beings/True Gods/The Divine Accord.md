@@ -38,7 +38,7 @@ Honoring the eternal dance of creation and destruction, [[True Gods]] refrain fr
 ### 10. Manifestation of Elemental Equilibrium
 Upholding the elemental equilibrium, [[True Gods]] revere and utilize elemental forces responsibly. Excessive interference may lead to affliction, and [[True Gods]] guide mortals in understanding the intricate dance of the elements.
 ### 11. Unity in Diversity
-[[True Gods|Deities]] champion unity in diversity, inspiring mortals to appreciate the richness brought by differences. Unity arises from the harmonious interplay of diverse elements, fostering a collective unity that transcends individual disparities.
+[[True Gods|Deities]] champion unity in diversity, inspiring mortals to appreciate the richness brought by differences. Unity arises from the harmonious interplay of diverse elements, fostering a collective that transcends individual disparities.
 ### 12. Empowered Devotion
 In a reciprocal bond, [[True Gods]] amplify their divine influence and power in response to the genuine worship and unwavering devotion of mortals. As believers dedicate themselves to the divine principles, the gods, in turn, grant heightened powers to those who earnestly seek their guidance. 
 ### 13. Multiplicity of Self

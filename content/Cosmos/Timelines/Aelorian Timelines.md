@@ -23,13 +23,13 @@ As the sands of time continue to shift, the relentless threats that beset those 
 In the ever-evolving symphony of [[Aeloria]]'s history, the melody remains elusive, and only the bravest dare to traverse the shifting sands in search of the untold tales that lie buried in the enigmatic past.
 
 ## A Note from the Writer
-Greetings, intrepid seekers of [[Aeloria]]'s history! 
+Greetings, scholars of [[Aeloria]]'s history! 
 
 As the one creating these notes to you, I must share a bittersweet revelation. 
-Within the pages of the timelines of [[Aeloria]], you may encounter code blocks, I use them to generate captivating timeline images in Obsidian. 
-Unfortunately, Quartz, the software weaving my notes into this website, do not support such visualizations. 
+Within the pages of the timelines of [[Aeloria]], you may encounter code blocks, I use them to generate timeline images in Obsidian. 
+Unfortunately, Quartz, the software transcribing my notes into this website, do not support such visualizations. 
 
-While Quartz may not capture the visual aspect of these timelines, I encourage you to immerse yourself in the tapestry of words and let your imagination paint the pictures that transcend the limitations of digital realms. I promise to keep them as organized as possible so that you may understand it better. 
+While Quartz may not capture the visual aspect of these timelines, I encourage you to immerse yourself in the tapestry of words and let your imagination paint the pictures. I promise to keep them as organized as possible so that you may understand it better. 
 
 May your journey through [[Aeloria]]'s history be as boundless as the realms of your own imagination.
 

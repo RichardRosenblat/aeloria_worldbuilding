@@ -19,7 +19,7 @@ Unraveling the essence of Divine Sparks reveals an extraordinary composition - i
 
 ### Flame-like Core:
 
-At their core, Divine Sparks possess a dynamic nature, akin to immaterial flames. These divine essences can spread, be extinguished, stolen, or rekindled, functioning as fuel sources for the godly entities that wield them. They burn brightly, perpetually guarded by the vigilant protection of their wielders, their luminosity a testament to the enduring power created bt [[Over-Deities|the twin goddesses]].
+At their core, Divine Sparks possess a dynamic nature, akin to immaterial flames. These divine essences can spread, be extinguished, stolen, or rekindled, functioning as fuel sources for the godly entities that wield them. They burn brightly, perpetually guarded by the vigilant protection of their wielders, their luminosity a testament to the enduring power created by [[Over-Deities|the twin goddesses]].
 
 ### Destruction of the Divine Spark
 
@@ -33,7 +33,7 @@ If a god is killed and their divine spark is not absorbed by another entity, i
 
 ### Original Divine Sparks:
 
-A limited number of original Divine Sparks exist, crafted in the cosmic atelier by the [[over-deities]] [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]. These sparks are unique and unparalleled, serving as the primordial source from which all other variations derive.
+A limited number of original Divine Sparks exist, crafted in the [[The Eternal Workshop|cosmic atelier]] by the [[over-deities]] [[Aena, goddess of kindness, creation and order - The Architect (LG)|Aena]] and [[Kryela, goddess of malice, destruction and chaos - The Undoing (CE)|Kryela]]. These sparks are unique and unparalleled, serving as the primordial source from which all other variations derive.
 
 ### Creation of Divine Sparks:
 

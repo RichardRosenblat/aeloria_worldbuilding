@@ -18,7 +18,7 @@ aliases:
 	  data-title='The Founding (FD)'
 	data-type='range' 
 	> 
-	This is the era where Aena and Kryela's domain was created and their fight for it took place.
+	This is the era where Aena and Kryela's domain was created and the fight for it took place.
 </span>
 ```
 
